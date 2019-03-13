@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle autocomplete-eu4",
+        "command": "autocomplete-eu4:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "autocomplete-eu4",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "autocomplete-eu4:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

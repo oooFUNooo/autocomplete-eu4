@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle autocomplete-eu4",
+        "label": "Toggle Autocomplete EU4",
         "command": "autocomplete-eu4:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "autocomplete-eu4",
+          "label": "Autocomplete EU4",
           "submenu": [
             {
               "label": "Toggle",

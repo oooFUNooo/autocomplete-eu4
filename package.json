@@ -2,13 +2,13 @@
   "name": "autocomplete-eu4",
   "main": "./lib/autocomplete-eu4",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Autocomplete Plus provider for Europa Universalis IV",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "autocomplete-eu4:toggle"
   },
-  "repository": "https://github.com/atom/autocomplete-eu4",
+  "repository": "https://github.com/oooFUNooo/autocomplete-eu4",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

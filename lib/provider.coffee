@@ -1,35 +1,51 @@
-COMPLETIONS = require('../completions.json')
+GENERAL = require('../dictionary/general.json')
+EFFECT  = require('../dictionary/effect.json')
 
 module.exports =
   selector: '.source.eu4'
   disableForSelector: '.source.eu4 .comment'
-  keyword_simple : COMPLETIONS.keyword_simple
-  keyword_equal  : COMPLETIONS.keyword_equal
-  keyword_bracket: COMPLETIONS.keyword_bracket
+  keyword_general: GENERAL
+  keyword_effect : EFFECT
   filterSuggestions: true
 
   getSuggestions: ({editor, bufferPosition, scopeDescriptor, prefix}) ->
     completions = []
+    completions = @createSuggestions(prefix, completions, GENERAL, 'EU4 keyword: General')
+    completions = @createSuggestions(prefix, completions, EFFECT , 'EU4 keyword: Effect' )
+    completions
+
+  createSuggestions: (prefix, completions, keywords, description) ->
+
     if prefix
-      for keyword in @keyword_simple  when keyword and firstCharsEqual(keyword, prefix)
+
+      for keyword in keywords.keyword_simple  when keyword and firstCharsEqual(keyword, prefix)
         completion =
           displayText: keyword
           text: keyword
           type: 'keyword'
+          description: description
         completions.push(completion)
 
-      for keyword in @keyword_equal   when keyword and firstCharsEqual(keyword, prefix)
+      for keyword in keywords.keyword_equal   when keyword and firstCharsEqual(keyword, prefix)
         completion =
           displayText: keyword
           text: keyword + ' = '
           type: 'keyword'
+          description: description
         completions.push(completion)
 
-      for keyword in @keyword_bracket when keyword and firstCharsEqual(keyword, prefix)
+      for keyword in keywords.keyword_bracket when keyword and firstCharsEqual(keyword, prefix)
         completion =
-          displayText: keyword
-          snippet: keyword + ' = {$1}'
+          displayText: keyword + ' (single)'
+          snippet: keyword + ' = { $1 }'
           type: 'keyword'
+          description: description
+        completions.push(completion)
+        completion =
+          displayText: keyword + ' (multi)'
+          snippet: keyword + ' = {\n\t$1\n}'
+          type: 'keyword'
+          description: description
         completions.push(completion)
 
     completions

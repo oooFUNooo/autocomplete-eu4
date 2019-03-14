@@ -5,6 +5,7 @@ prefixPattern = /[a-zA-Z_]+$/
 module.exports =
 
   selector: 'source.eu4'
+  keywords: COMPLETIONS.keywords
 
   filterSuggestions: true
 
@@ -17,7 +18,10 @@ module.exports =
     line = editor.getTextInRange([[bufferPosition.row, 0], bufferPosition])
     prefixPattern.exec(line)?[0]
 
-  getCompletions: ({bufferPosition, editor, prefix}) ->
+  getCompletions: ({bufferPosition, editor}) ->
+    prefix = @getPropertyNamePrefix(bufferPosition, editor)
+    return [] unless prefix
+
     completions = []
     if prefix
       for keyword in @keywords when firstCharsEqual(keyword, prefix)
@@ -25,6 +29,8 @@ module.exports =
     completions
 
   buildCompletion: (keyword) ->
-    type: 'keyword'
-    text: keyword
-    description: 'EU4 Keyword'
+    completion =
+      type: 'keyword'
+      text: keyword
+      description: 'EU4 Keyword'
+    completion

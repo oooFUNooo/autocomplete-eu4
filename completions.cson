@@ -1,4 +1,24 @@
-keywords: [
-  'euiv_TEST',
-  'created_by_FUN'
+keyword_simple: [
+  'YES',
+  'NO',
+  'ROOT',
+  'FROM',
+  'PREV',
+  'THIS'
+]
+keyword_equal: [
+  'TEST'
+]
+keyword_bracket: [
+  'NOT',
+  'AND',
+  'OR'
+  'if',
+  'limit',
+  'else',
+  'else_if',
+  'while',
+  'trigger_switch',
+  'random',
+  'random_list',
 ]

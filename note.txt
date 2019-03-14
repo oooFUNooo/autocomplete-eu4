@@ -1,0 +1,29 @@
+Constant:
+
+- Pattern 1 (yes, no, ROOT, ...)
+
+  KEY
+
+Effect, Condition, Modifier:
+
+- Pattern 2
+
+  KEY = VALUE
+
+- Pattern 3 (includes flow control)
+
+  KEY = {
+    KEY2 = VALUE
+    KEY3 = ...
+  }
+
+Scope:
+
+- Pattern 4 (Multiple Subscope)
+
+  all_SCOPE
+  any_SCOPE
+  every_SCOPE
+  random_SCOPE
+
+  some scopes can use this syntax

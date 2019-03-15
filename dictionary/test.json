@@ -1,0 +1,10 @@
+[
+  {
+    "keyword": "adventurer",
+    "description": "Checks adventurer flag of the title (title that gets destroyed whenever the holder gains another title or when the holder dies)."
+  },
+  {
+    "keyword": "artifact",
+    "description": "Checks to see if the scoped artifact is the same as the target artifact."
+  }
+]

@@ -1,17 +1,20 @@
-GENERAL = require('../dictionary/general.json')
-EFFECT  = require('../dictionary/effect.json')
+GENERAL   = require('../dictionary/general.json')
+EFFECT    = require('../dictionary/effect.json')
+CONDITION = require('../dictionary/condition.json')
 
 module.exports =
   selector: '.source.eu4'
   disableForSelector: '.source.eu4 .comment'
-  keyword_general: GENERAL
-  keyword_effect : EFFECT
+  keyword_general  : GENERAL
+  keyword_effect   : EFFECT
+  keyword_condition: CONDITION
   filterSuggestions: true
 
   getSuggestions: ({editor, bufferPosition, scopeDescriptor, prefix}) ->
     completions = []
-    completions = @createSuggestions(prefix, completions, GENERAL, 'EU4 keyword: General')
-    completions = @createSuggestions(prefix, completions, EFFECT , 'EU4 keyword: Effect' )
+    completions = @createSuggestions(prefix, completions, GENERAL  , 'EU4 keyword: General'   )
+    completions = @createSuggestions(prefix, completions, EFFECT   , 'EU4 keyword: Effect'    )
+    completions = @createSuggestions(prefix, completions, CONDITION, 'EU4 keyword: Condition' )
     completions
 
   createSuggestions: (prefix, completions, keywords, description) ->

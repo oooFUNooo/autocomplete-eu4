@@ -43,20 +43,42 @@ module.exports =
         completions.push(completion)
 
       for keyword in keywords.keyword_bracket when keyword and firstCharsEqual(keyword, prefix)
-        completion =
-          displayText: keyword + ' (multi)'
-          snippet: keyword + ' = {\n\t$1\n}'
-          type: 'keyword'
-          description: description
-          descriptionMoreURL: url
-        completions.push(completion)
-        completion =
-          displayText: keyword + ' (single)'
-          snippet: keyword + ' = { $1 }'
-          type: 'keyword'
-          description: description
-          descriptionMoreURL: url
-        completions.push(completion)
+
+        switch atom.config.get('autocomplete-eu4.bracket')
+
+          when 0
+            completion =
+              displayText: keyword + ' (single)'
+              snippet: keyword + ' = { $1 }$2'
+              type: 'keyword'
+              description: description
+              descriptionMoreURL: url
+            completions.push(completion)
+            completion =
+              displayText: keyword + ' (multi)'
+              snippet: keyword + ' = {\n\t$1\n}'
+              type: 'keyword'
+              description: description
+              descriptionMoreURL: url
+            completions.push(completion)
+
+          when 1
+            completion =
+              displayText: keyword
+              snippet: keyword + ' = { $1 }$2'
+              type: 'keyword'
+              description: description
+              descriptionMoreURL: url
+            completions.push(completion)
+
+          when 2
+            completion =
+              displayText: keyword
+              snippet: keyword + ' = {\n\t$1\n}'
+              type: 'keyword'
+              description: description
+              descriptionMoreURL: url
+            completions.push(completion)
 
     completions
 

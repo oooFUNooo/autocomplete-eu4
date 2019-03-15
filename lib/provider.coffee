@@ -39,14 +39,14 @@ module.exports =
 
       for keyword in keywords.keyword_bracket when keyword and firstCharsEqual(keyword, prefix)
         completion =
-          displayText: keyword + ' (single)'
-          snippet: keyword + ' = { $1 }'
+          displayText: keyword + ' (multi)'
+          snippet: keyword + ' = {\n\t$1\n}'
           type: 'keyword'
           description: description
         completions.push(completion)
         completion =
-          displayText: keyword + ' (multi)'
-          snippet: keyword + ' = {\n\t$1\n}'
+          displayText: keyword + ' (single)'
+          snippet: keyword + ' = { $1 }'
           type: 'keyword'
           description: description
         completions.push(completion)

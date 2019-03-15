@@ -2,6 +2,7 @@ GENERAL   = require('../dictionary/general.json')
 EFFECT    = require('../dictionary/effect.json')
 CONDITION = require('../dictionary/condition.json')
 MODIFIER  = require('../dictionary/modifier.json')
+SCOPE     = require('../dictionary/scope.json')
 
 module.exports =
   selector: '.source.eu4'
@@ -10,6 +11,7 @@ module.exports =
   keyword_effect   : EFFECT
   keyword_condition: CONDITION
   keyword_modifier : MODIFIER
+  keyword_scope    : SCOPE
   filterSuggestions: true
 
   getSuggestions: ({editor, bufferPosition, scopeDescriptor, prefix}) ->
@@ -18,6 +20,7 @@ module.exports =
     completions = @createSuggestions(prefix, completions, EFFECT   , 'EU4 keyword: Effect'    )
     completions = @createSuggestions(prefix, completions, CONDITION, 'EU4 keyword: Condition' )
     completions = @createSuggestions(prefix, completions, MODIFIER , 'EU4 keyword: Modifier'  )
+    completions = @createSuggestions(prefix, completions, SCOPE    , 'EU4 keyword: Scope'     )
     completions
 
   createSuggestions: (prefix, completions, keywords, description) ->

@@ -1,3 +1,3 @@
-## 0.0.0 - Pre-Release
+## 0.1.0 - First Release
 * Main service is implemented.
-* Some keywords are registered.
+* Main dictionaries are completed.

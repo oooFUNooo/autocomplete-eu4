@@ -4,6 +4,13 @@ This package autocompletes Europa Universalis IV specific keywords.
 
 You have to install [language-eu4](https://github.com/oooFUNooo/language-eu4) to use it.
 
+## Features
+
+- Powerful dictionary with lots of keywords.
+- Show descriptions derive from Wiki.
+- Show hyperlinks to related Wiki page.
+- Automatic bracket insertion (you can change the behavior in Settings.)
+
 ## Copyrights
 
 Copyright (c) 2019 FUN. Released under the MIT license.

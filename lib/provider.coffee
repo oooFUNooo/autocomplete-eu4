@@ -3,215 +3,134 @@ EFFECT    = require('../dictionary/effect.json')
 CONDITION = require('../dictionary/condition.json')
 MODIFIER  = require('../dictionary/modifier.json')
 SCOPE     = require('../dictionary/scope.json')
+COUNTRY   = require('../dictionary/country.json')
 WIKIURL   = 'https://eu4.paradoxwikis.com/'
 
+
 module.exports =
+
   selector: '.source.eu4'
   disableForSelector: '.source.eu4 .comment'
 
-  getSuggestions: ({editor, bufferPosition, scopeDescriptor, prefix}) ->
-    completions = []
-    entries = []
 
-    completions = @searchText(prefix, completions, GENERAL  , ''         , ''              )
-    completions = @searchText(prefix, completions, EFFECT   , 'effect'   , 'Commands'      )
-    completions = @searchText(prefix, completions, CONDITION, 'condition', 'Conditions'    )
-    completions = @searchText(prefix, completions, MODIFIER , 'modifier' , 'Modifier_list' )
-    completions = @searchText(prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
+  getSuggestions: ({editor, bufferPosition, scopeDescriptor, prefix}) ->
+
+    completions = []
+    completions = @searchText(0, prefix, completions, GENERAL  , ''         , ''              )
+    completions = @searchText(0, prefix, completions, EFFECT   , 'effect'   , 'Commands'      )
+    completions = @searchText(0, prefix, completions, CONDITION, 'condition', 'Conditions'    )
+    completions = @searchText(0, prefix, completions, MODIFIER , 'modifier' , 'Modifier_list' )
+    completions = @searchText(0, prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
+    completions = @searchText(1, prefix, completions, COUNTRY  , 'country'  , 'Countries'     )
 
     completions.sort(@compareCompletions)
 
     if atom.config.get('autocomplete-eu4.includedesc')
 
-      completions = @searchDesc(prefix, completions, GENERAL  , ''         , ''              )
-      completions = @searchDesc(prefix, completions, EFFECT   , 'effect'   , 'Commands'      )
-      completions = @searchDesc(prefix, completions, CONDITION, 'condition', 'Conditions'    )
-      completions = @searchDesc(prefix, completions, MODIFIER , 'modifier' , 'Modifier_list' )
-      completions = @searchDesc(prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
+      completions = @searchText(2, prefix, completions, GENERAL  , ''         , ''              )
+      completions = @searchText(2, prefix, completions, EFFECT   , 'effect'   , 'Commands'      )
+      completions = @searchText(2, prefix, completions, CONDITION, 'condition', 'Conditions'    )
+      completions = @searchText(2, prefix, completions, MODIFIER , 'modifier' , 'Modifier_list' )
+      completions = @searchText(2, prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
 
     completions
 
-  searchText: (prefix, completions, dictionary, label, url) ->
+
+  searchText: (mode, prefix, completions, dictionary, label, url) ->
 
     if prefix
-      regex = new RegExp(prefix, 'i')
+      completions = @searchBlock(mode, 0, prefix, completions, dictionary.simple , label, url)
+      completions = @searchBlock(mode, 1, prefix, completions, dictionary.equal  , label, url)
+      completions = @searchBlock(mode, 2, prefix, completions, dictionary.bracket, label, url)
 
-      for index, entry of dictionary.simple when entry.displayText and regex.test(entry.displayText.replace('_', ''))
-        completion =
-          text: entry.text
-          displayText: entry.displayText
-          type: 'snippet'
-          rightLabel: label
-          iconHTML: '<i class="icon-move-right"></i>'
-          description: entry.description
-          descriptionMoreURL: WIKIURL + url
-          pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
-        completions.push(completion)
+    completions
 
-      for index, entry of dictionary.equal when entry.displayText and regex.test(entry.displayText.replace('_', ''))
-        completion =
-          text: entry.text + ' = '
-          displayText: entry.displayText
-          type: 'snippet'
-          rightLabel: label
-          iconHTML: '<i class="icon-move-right"></i>'
-          description: entry.description
-          descriptionMoreURL: WIKIURL + url
-          pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
-        completions.push(completion)
 
-      for index, entry of dictionary.bracket when entry.displayText and regex.test(entry.displayText.replace('_', ''))
+  searchBlock: (mode, block, prefix, completions, dictionary, label, url) ->
 
-        switch atom.config.get('autocomplete-eu4.bracket')
+    bracket = atom.config.get('autocomplete-eu4.bracket')
+
+    for index, entry of dictionary
+
+      if not entry.displayText or (mode == 2 and not entry.description)
+        continue
+
+      if mode < 2
+        haystack = entry.displayText
+      else
+        haystack = entry.description
+
+      haystack = haystack.toLowerCase().replace('_', '')
+      needle   = prefix  .toLowerCase().replace('_', '')
+      regex    = new RegExp(needle)
+
+      if regex.test(haystack)
+
+        disp  = entry.displayText
+        desc  = entry.description
+        url   = WIKIURL + url
+        right = label
+        pos   = haystack.indexOf(needle)
+
+        switch mode
 
           when 0
-            completion =
-              snippet: entry.text + ' = { $1 }$2'
-              displayText: entry.displayText
-              type: 'snippet'
-              leftLabel: 'single'
-              rightLabel: label
-              iconHTML: '<i class="icon-move-right"></i>'
-              description: entry.description
-              descriptionMoreURL: WIKIURL + url
-              pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
-            completions.push(completion)
-
-            completion =
-              snippet: entry.text + ' = {\n\t$1\n}'
-              displayText: entry.displayText
-              type: 'snippet'
-              leftLabel: 'multi'
-              rightLabel: label
-              iconHTML: '<i class="icon-move-right"></i>'
-              description: entry.description
-              descriptionMoreURL: WIKIURL + url
-              pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
-            completions.push(completion)
+            type = 'snippet'
+            icon = 'icon-move-right'
 
           when 1
-            completion =
-              snippet: entry.text + ' = { $1 }$2'
-              displayText: entry.displayText
-              type: 'snippet'
-              rightLabel: label
-              iconHTML: '<i class="icon-move-right"></i>'
-              description: entry.description
-              descriptionMoreURL: WIKIURL + url
-              pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
-            completions.push(completion)
+            type = 'function'
+            icon = 'icon-location'
 
           when 2
-            completion =
-              snippet: entry.text + ' = {\n\t$1\n}'
-              displayText: entry.displayText
-              type: 'snippet'
-              rightLabel: label
-              iconHTML: '<i class="icon-move-right"></i>'
-              description: entry.description
-              descriptionMoreURL: WIKIURL + url
-              pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
-            completions.push(completion)
+            type = 'class'
+            icon = 'icon-search'
+
+        switch block
+
+          when 0
+            snippet = entry.text
+
+          when 1
+            snippet = entry.text + ' = '
+
+          when 2
+            switch bracket
+
+              when 0
+                snippet = entry.text + ' = { $1 }$2'
+                left = 'single'
+                completions = @createCompletion(mode, block, completions, snippet, disp, type, left, right, icon, desc, url, pos)
+                snippet = entry.text + ' = {\n\t$1\n}'
+                left = 'multi'
+
+              when 1
+                snippet = entry.text + ' = { $1 }$2'
+
+              when 2
+                snippet = entry.text + ' = {\n\t$1\n}'
+
+        completions = @createCompletion(mode, block, completions, snippet, disp, type, left, right, icon, desc, url, pos)
 
     completions
 
-  searchDesc: (prefix, completions, dictionary, label, url) ->
 
-    if prefix
-      regex = new RegExp(prefix, 'i')
+  createCompletion: (mode, block, completions, snippet, disp, type, left, right, icon, desc, url, pos) ->
 
-      for index, entry of dictionary.simple when entry.description and regex.test(entry.description.replace('_', ''))
-
-        repeat = false
-        for index2, entry2 of completions when entry.displayText is entry2.displayText
-          repeat = true
-          break
-
-        if not repeat
-          completion =
-            text: entry.text
-            displayText: entry.displayText
-            type: 'class'
-            rightLabel: label
-            iconHTML: '<i class="icon-search"></i>'
-            description: entry.description
-            descriptionMoreURL: WIKIURL + url
-          completions.push(completion)
-
-      for index, entry of dictionary.equal when entry.description and regex.test(entry.description.replace('_', ''))
-
-        repeat = false
-        for index2, entry2 of completions when entry.displayText is entry2.displayText
-          repeat = true
-          break
-
-        if not repeat
-          completion =
-            text: entry.text + ' = '
-            displayText: entry.displayText
-            type: 'class'
-            rightLabel: label
-            iconHTML: '<i class="icon-search"></i>'
-            description: entry.description
-            descriptionMoreURL: WIKIURL + url
-          completions.push(completion)
-
-      for index, entry of dictionary.bracket when entry.description and regex.test(entry.displayText.replace('_', ''))
-
-        repeat = false
-        for index2, entry2 of completions when entry.displayText is entry2.displayText
-          repeat = true
-          break
-
-        if not repeat
-          switch atom.config.get('autocomplete-eu4.bracket')
-
-            when 0
-              completion =
-                snippet: entry.text + ' = { $1 }$2'
-                displayText: entry.displayText
-                type: 'class'
-                leftLabel: 'single'
-                rightLabel: label
-                iconHTML: '<i class="icon-search"></i>'
-                description: entry.description
-                descriptionMoreURL: WIKIURL + url
-              completions.push(completion)
-
-              completion =
-                snippet: entry.text + ' = {\n\t$1\n}'
-                displayText: entry.displayText
-                type: 'class'
-                leftLabel: 'multi'
-                rightLabel: label
-                iconHTML: '<i class="icon-search"></i>'
-                description: entry.description
-                descriptionMoreURL: WIKIURL + url
-              completions.push(completion)
-
-            when 1
-              completion =
-                snippet: entry.text + ' = { $1 }$2'
-                displayText: entry.displayText
-                type: 'class'
-                rightLabel: label
-                iconHTML: '<i class="icon-search"></i>'
-                description: entry.description
-                descriptionMoreURL: WIKIURL + url
-              completions.push(completion)
-
-            when 2
-              completion =
-                snippet: entry.text + ' = {\n\t$1\n}'
-                displayText: entry.displayText
-                type: 'class'
-                rightLabel: label
-                iconHTML: '<i class="icon-search"></i>'
-                description: entry.description
-                descriptionMoreURL: WIKIURL + url
-              completions.push(completion)
+    completion =
+      snippet: snippet
+      displayText: disp
+      type: type
+      leftLabel: left
+      rightLabel: right
+      iconHTML: '<i class=\"' + icon + '\"></i>'
+      description: desc
+      descriptionMoreURL: url
+      pos: pos
+    completions.push(completion)
 
     completions
+
 
   compareCompletions: (a, b) ->
     comp = a.pos - b.pos

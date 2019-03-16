@@ -1,0 +1,7928 @@
+{
+	"simple": [
+		{
+			"text": "ADA",
+			"displayText": "Adal",
+			"description": ""
+		},
+		{
+			"text": "ADE",
+			"displayText": "Aden",
+			"description": ""
+		},
+		{
+			"text": "AKK",
+			"displayText": "Aq Qoyunlu",
+			"description": ""
+		},
+		{
+			"text": "ALB",
+			"displayText": "Albania",
+			"description": ""
+		},
+		{
+			"text": "ALG",
+			"displayText": "Algiers",
+			"description": ""
+		},
+		{
+			"text": "ALH",
+			"displayText": "Haasa",
+			"description": ""
+		},
+		{
+			"text": "ALS",
+			"displayText": "Alsace",
+			"description": ""
+		},
+		{
+			"text": "AMG",
+			"displayText": "Armagnac",
+			"description": ""
+		},
+		{
+			"text": "ANH",
+			"displayText": "Anhalt",
+			"description": ""
+		},
+		{
+			"text": "ANN",
+			"displayText": "Annam",
+			"description": ""
+		},
+		{
+			"text": "ANS",
+			"displayText": "Ansbach",
+			"description": ""
+		},
+		{
+			"text": "ARA",
+			"displayText": "Aragon",
+			"description": ""
+		},
+		{
+			"text": "ARK",
+			"displayText": "Arakan",
+			"description": ""
+		},
+		{
+			"text": "ARM",
+			"displayText": "Armenia",
+			"description": ""
+		},
+		{
+			"text": "ASH",
+			"displayText": "Ashanti",
+			"description": ""
+		},
+		{
+			"text": "ASS",
+			"displayText": "Assam",
+			"description": ""
+		},
+		{
+			"text": "AST",
+			"displayText": "Astrakhan",
+			"description": ""
+		},
+		{
+			"text": "ATH",
+			"displayText": "Athens",
+			"description": ""
+		},
+		{
+			"text": "ATJ",
+			"displayText": "Aceh",
+			"description": ""
+		},
+		{
+			"text": "AUV",
+			"displayText": "Auvergne",
+			"description": ""
+		},
+		{
+			"text": "AVI",
+			"displayText": "Avignon",
+			"description": ""
+		},
+		{
+			"text": "AYU",
+			"displayText": "Ayutthaya",
+			"description": ""
+		},
+		{
+			"text": "AZT",
+			"displayText": "Aztec",
+			"description": ""
+		},
+		{
+			"text": "BAD",
+			"displayText": "Baden",
+			"description": ""
+		},
+		{
+			"text": "BLI",
+			"displayText": "Bali",
+			"description": ""
+		},
+		{
+			"text": "BAN",
+			"displayText": "Banten",
+			"description": ""
+		},
+		{
+			"text": "BAL",
+			"displayText": "Baluchistan",
+			"description": ""
+		},
+		{
+			"text": "BAV",
+			"displayText": "Bavaria",
+			"description": ""
+		},
+		{
+			"text": "BEI",
+			"displayText": "Brunei",
+			"description": ""
+		},
+		{
+			"text": "BEN",
+			"displayText": "Benin",
+			"description": ""
+		},
+		{
+			"text": "BHU",
+			"displayText": "Bhutan",
+			"description": ""
+		},
+		{
+			"text": "BIJ",
+			"displayText": "Bijapur",
+			"description": ""
+		},
+		{
+			"text": "BND",
+			"displayText": "Bundelkhand",
+			"description": ""
+		},
+		{
+			"text": "BNG",
+			"displayText": "Bengal",
+			"description": ""
+		},
+		{
+			"text": "BOH",
+			"displayText": "Bohemia",
+			"description": ""
+		},
+		{
+			"text": "BOS",
+			"displayText": "Bosnia",
+			"description": ""
+		},
+		{
+			"text": "BOU",
+			"displayText": "Bourbonnais",
+			"description": ""
+		},
+		{
+			"text": "BRA",
+			"displayText": "Brandenburg",
+			"description": ""
+		},
+		{
+			"text": "BRB",
+			"displayText": "Brabant",
+			"description": ""
+		},
+		{
+			"text": "BRE",
+			"displayText": "Bremen",
+			"description": ""
+		},
+		{
+			"text": "BRI",
+			"displayText": "Brittany",
+			"description": ""
+		},
+		{
+			"text": "BRR",
+			"displayText": "Berar",
+			"description": ""
+		},
+		{
+			"text": "BRU",
+			"displayText": "Brunswick",
+			"description": ""
+		},
+		{
+			"text": "BRZ",
+			"displayText": "Brazil",
+			"description": ""
+		},
+		{
+			"text": "BUL",
+			"displayText": "Bulgaria",
+			"description": ""
+		},
+		{
+			"text": "BUR",
+			"displayText": "Burgundy",
+			"description": ""
+		},
+		{
+			"text": "CAN",
+			"displayText": "Canada",
+			"description": ""
+		},
+		{
+			"text": "CAS",
+			"displayText": "Castile",
+			"description": ""
+		},
+		{
+			"text": "CAT",
+			"displayText": "Catalonia",
+			"description": ""
+		},
+		{
+			"text": "CEP",
+			"displayText": "Corfu",
+			"description": ""
+		},
+		{
+			"text": "CHA",
+			"displayText": "Champa",
+			"description": ""
+		},
+		{
+			"text": "CHE",
+			"displayText": "Cherokee",
+			"description": ""
+		},
+		{
+			"text": "CHG",
+			"displayText": "Chagatai",
+			"description": ""
+		},
+		{
+			"text": "CHK",
+			"displayText": "Champasak",
+			"description": ""
+		},
+		{
+			"text": "CHL",
+			"displayText": "Chile",
+			"description": ""
+		},
+		{
+			"text": "CHM",
+			"displayText": "Chimu",
+			"description": ""
+		},
+		{
+			"text": "CHP",
+			"displayText": "Champagne",
+			"description": ""
+		},
+		{
+			"text": "CND",
+			"displayText": "Candar",
+			"description": ""
+		},
+		{
+			"text": "COL",
+			"displayText": "Colombia",
+			"description": ""
+		},
+		{
+			"text": "CNN",
+			"displayText": "Clanricarde",
+			"description": ""
+		},
+		{
+			"text": "COR",
+			"displayText": "Corsica",
+			"description": ""
+		},
+		{
+			"text": "CRE",
+			"displayText": "Creek",
+			"description": ""
+		},
+		{
+			"text": "CRI",
+			"displayText": "Crimea",
+			"description": ""
+		},
+		{
+			"text": "CRN",
+			"displayText": "Cornwall",
+			"description": ""
+		},
+		{
+			"text": "CRO",
+			"displayText": "Croatia",
+			"description": ""
+		},
+		{
+			"text": "CRT",
+			"displayText": "Crete",
+			"description": ""
+		},
+		{
+			"text": "CYP",
+			"displayText": "Cyprus",
+			"description": ""
+		},
+		{
+			"text": "DAI",
+			"displayText": "Dai Viet",
+			"description": ""
+		},
+		{
+			"text": "DAN",
+			"displayText": "Denmark",
+			"description": ""
+		},
+		{
+			"text": "DAU",
+			"displayText": "Dauphine",
+			"description": ""
+		},
+		{
+			"text": "DLH",
+			"displayText": "Delhi",
+			"description": ""
+		},
+		{
+			"text": "DUL",
+			"displayText": "Dulkadir",
+			"description": ""
+		},
+		{
+			"text": "ENG",
+			"displayText": "England",
+			"description": ""
+		},
+		{
+			"text": "ETH",
+			"displayText": "Ethiopia",
+			"description": ""
+		},
+		{
+			"text": "FER",
+			"displayText": "Ferrara",
+			"description": ""
+		},
+		{
+			"text": "FEZ",
+			"displayText": "Fez",
+			"description": ""
+		},
+		{
+			"text": "FIN",
+			"displayText": "Finland",
+			"description": ""
+		},
+		{
+			"text": "FLA",
+			"displayText": "Flanders",
+			"description": ""
+		},
+		{
+			"text": "FOI",
+			"displayText": "Foix",
+			"description": ""
+		},
+		{
+			"text": "FRA",
+			"displayText": "France",
+			"description": ""
+		},
+		{
+			"text": "FRI",
+			"displayText": "Friesland",
+			"description": ""
+		},
+		{
+			"text": "GBR",
+			"displayText": "Great Britain",
+			"description": ""
+		},
+		{
+			"text": "GDW",
+			"displayText": "Garha",
+			"description": ""
+		},
+		{
+			"text": "GEL",
+			"displayText": "Gelre",
+			"description": ""
+		},
+		{
+			"text": "GEN",
+			"displayText": "Genoa",
+			"description": ""
+		},
+		{
+			"text": "GEO",
+			"displayText": "Georgia",
+			"description": ""
+		},
+		{
+			"text": "GER",
+			"displayText": "Germany",
+			"description": ""
+		},
+		{
+			"text": "GOL",
+			"displayText": "Great Horde",
+			"description": ""
+		},
+		{
+			"text": "GOT",
+			"displayText": "Gotland",
+			"description": ""
+		},
+		{
+			"text": "GRA",
+			"displayText": "Granada",
+			"description": ""
+		},
+		{
+			"text": "GRE",
+			"displayText": "Greece",
+			"description": ""
+		},
+		{
+			"text": "GUJ",
+			"displayText": "Gujarat",
+			"description": ""
+		},
+		{
+			"text": "GUY",
+			"displayText": "Gascony",
+			"description": ""
+		},
+		{
+			"text": "HAB",
+			"displayText": "Austria",
+			"description": ""
+		},
+		{
+			"text": "HAI",
+			"displayText": "Hainaut",
+			"description": ""
+		},
+		{
+			"text": "HAM",
+			"displayText": "Hamburg",
+			"description": ""
+		},
+		{
+			"text": "HAN",
+			"displayText": "Hanover",
+			"description": ""
+		},
+		{
+			"text": "HAU",
+			"displayText": "Hausa",
+			"description": ""
+		},
+		{
+			"text": "HED",
+			"displayText": "Hejaz",
+			"description": ""
+		},
+		{
+			"text": "HES",
+			"displayText": "Hesse",
+			"description": ""
+		},
+		{
+			"text": "HOL",
+			"displayText": "Holland",
+			"description": ""
+		},
+		{
+			"text": "HUN",
+			"displayText": "Hungary",
+			"description": ""
+		},
+		{
+			"text": "HUR",
+			"displayText": "Huron",
+			"description": ""
+		},
+		{
+			"text": "INC",
+			"displayText": "Inca",
+			"description": ""
+		},
+		{
+			"text": "IRE",
+			"displayText": "Ireland",
+			"description": ""
+		},
+		{
+			"text": "IRO",
+			"displayText": "Iroquois",
+			"description": ""
+		},
+		{
+			"text": "ITA",
+			"displayText": "Italy",
+			"description": ""
+		},
+		{
+			"text": "JAP",
+			"displayText": "Japan",
+			"description": ""
+		},
+		{
+			"text": "KAR",
+			"displayText": "Karaman",
+			"description": ""
+		},
+		{
+			"text": "KAZ",
+			"displayText": "Kazan",
+			"description": ""
+		},
+		{
+			"text": "KBO",
+			"displayText": "Kanem Bornu",
+			"description": ""
+		},
+		{
+			"text": "KHA",
+			"displayText": "Mongolia",
+			"description": ""
+		},
+		{
+			"text": "KHD",
+			"displayText": "Khandesh",
+			"description": ""
+		},
+		{
+			"text": "KHI",
+			"displayText": "Khiva",
+			"description": ""
+		},
+		{
+			"text": "KHM",
+			"displayText": "Khmer",
+			"description": ""
+		},
+		{
+			"text": "KLE",
+			"displayText": "Cleves",
+			"description": ""
+		},
+		{
+			"text": "KNI",
+			"displayText": "The Knights",
+			"description": ""
+		},
+		{
+			"text": "KOK",
+			"displayText": "Ferghana",
+			"description": ""
+		},
+		{
+			"text": "KOL",
+			"displayText": "Cologne",
+			"description": ""
+		},
+		{
+			"text": "KON",
+			"displayText": "Kongo",
+			"description": ""
+		},
+		{
+			"text": "KOR",
+			"displayText": "Korea",
+			"description": ""
+		},
+		{
+			"text": "KRK",
+			"displayText": "Carnatic",
+			"description": ""
+		},
+		{
+			"text": "KSH",
+			"displayText": "Kashmir",
+			"description": ""
+		},
+		{
+			"text": "KUR",
+			"displayText": "Kurland",
+			"description": ""
+		},
+		{
+			"text": "KZH",
+			"displayText": "Kazakh",
+			"description": ""
+		},
+		{
+			"text": "LAN",
+			"displayText": "Florence",
+			"description": ""
+		},
+		{
+			"text": "LAP",
+			"displayText": "La Plata",
+			"description": ""
+		},
+		{
+			"text": "LEI",
+			"displayText": "Leinster",
+			"description": ""
+		},
+		{
+			"text": "LIE",
+			"displayText": "Liege",
+			"description": ""
+		},
+		{
+			"text": "LIT",
+			"displayText": "Lithuania",
+			"description": ""
+		},
+		{
+			"text": "LNA",
+			"displayText": "Lan Na",
+			"description": ""
+		},
+		{
+			"text": "LOA",
+			"displayText": "Loango",
+			"description": ""
+		},
+		{
+			"text": "LOR",
+			"displayText": "Lorraine",
+			"description": ""
+		},
+		{
+			"text": "LOU",
+			"displayText": "Louisiana",
+			"description": ""
+		},
+		{
+			"text": "LUA",
+			"displayText": "Luang Prabang",
+			"description": ""
+		},
+		{
+			"text": "LUN",
+			"displayText": "Luneburg",
+			"description": ""
+		},
+		{
+			"text": "LUX",
+			"displayText": "Luxembourg",
+			"description": ""
+		},
+		{
+			"text": "LXA",
+			"displayText": "Lan Xang",
+			"description": ""
+		},
+		{
+			"text": "MAD",
+			"displayText": "Madurai",
+			"description": ""
+		},
+		{
+			"text": "MAG",
+			"displayText": "Magdeburg",
+			"description": ""
+		},
+		{
+			"text": "MAI",
+			"displayText": "Mainz",
+			"description": ""
+		},
+		{
+			"text": "MAL",
+			"displayText": "Mali",
+			"description": ""
+		},
+		{
+			"text": "MAM",
+			"displayText": "Mamluks",
+			"description": ""
+		},
+		{
+			"text": "MAN",
+			"displayText": "Mantua",
+			"description": ""
+		},
+		{
+			"text": "MAY",
+			"displayText": "Maya",
+			"description": ""
+		},
+		{
+			"text": "MAZ",
+			"displayText": "Mazovia",
+			"description": ""
+		},
+		{
+			"text": "MCH",
+			"displayText": "Manchu",
+			"description": ""
+		},
+		{
+			"text": "MEX",
+			"displayText": "Mexico",
+			"description": ""
+		},
+		{
+			"text": "MKL",
+			"displayText": "Mecklenburg",
+			"description": ""
+		},
+		{
+			"text": "MKS",
+			"displayText": "Makassar",
+			"description": ""
+		},
+		{
+			"text": "MLC",
+			"displayText": "Malacca",
+			"description": ""
+		},
+		{
+			"text": "MLO",
+			"displayText": "Milan",
+			"description": ""
+		},
+		{
+			"text": "MLW",
+			"displayText": "Malwa",
+			"description": ""
+		},
+		{
+			"text": "MNG",
+			"displayText": "Ming",
+			"description": ""
+		},
+		{
+			"text": "MNS",
+			"displayText": "Thomond",
+			"description": ""
+		},
+		{
+			"text": "MOD",
+			"displayText": "Modena",
+			"description": ""
+		},
+		{
+			"text": "MOE",
+			"displayText": "Morea",
+			"description": ""
+		},
+		{
+			"text": "MOL",
+			"displayText": "Moldavia",
+			"description": ""
+		},
+		{
+			"text": "MON",
+			"displayText": "Montenegro",
+			"description": ""
+		},
+		{
+			"text": "MOR",
+			"displayText": "Morocco",
+			"description": ""
+		},
+		{
+			"text": "MOS",
+			"displayText": "Muscovy",
+			"description": ""
+		},
+		{
+			"text": "MTR",
+			"displayText": "Mataram",
+			"description": ""
+		},
+		{
+			"text": "MUG",
+			"displayText": "Mughals",
+			"description": ""
+		},
+		{
+			"text": "MUN",
+			"displayText": "Munster",
+			"description": ""
+		},
+		{
+			"text": "MYS",
+			"displayText": "Mysore",
+			"description": ""
+		},
+		{
+			"text": "NAJ",
+			"displayText": "Najd",
+			"description": ""
+		},
+		{
+			"text": "NAV",
+			"displayText": "Navarra",
+			"description": ""
+		},
+		{
+			"text": "NAX",
+			"displayText": "Naxos",
+			"description": ""
+		},
+		{
+			"text": "NED",
+			"displayText": "Netherlands",
+			"description": ""
+		},
+		{
+			"text": "NEV",
+			"displayText": "Nevers",
+			"description": ""
+		},
+		{
+			"text": "NOG",
+			"displayText": "Nogai",
+			"description": ""
+		},
+		{
+			"text": "NOL",
+			"displayText": "Northumberland",
+			"description": ""
+		},
+		{
+			"text": "NOR",
+			"displayText": "Norway",
+			"description": ""
+		},
+		{
+			"text": "NOV",
+			"displayText": "Novgorod",
+			"description": ""
+		},
+		{
+			"text": "NPL",
+			"displayText": "Nepal",
+			"description": ""
+		},
+		{
+			"text": "NRM",
+			"displayText": "Normandy",
+			"description": ""
+		},
+		{
+			"text": "NUB",
+			"displayText": "Funj",
+			"description": ""
+		},
+		{
+			"text": "ODH",
+			"displayText": "Oudh",
+			"description": ""
+		},
+		{
+			"text": "OIR",
+			"displayText": "Oirat",
+			"description": ""
+		},
+		{
+			"text": "OLD",
+			"displayText": "Oldenburg",
+			"description": ""
+		},
+		{
+			"text": "OMA",
+			"displayText": "Oman",
+			"description": ""
+		},
+		{
+			"text": "ORI",
+			"displayText": "Orissa",
+			"description": ""
+		},
+		{
+			"text": "ORL",
+			"displayText": "Orleans",
+			"description": ""
+		},
+		{
+			"text": "OYO",
+			"displayText": "Oyo",
+			"description": ""
+		},
+		{
+			"text": "PAL",
+			"displayText": "The Palatinate",
+			"description": ""
+		},
+		{
+			"text": "PAP",
+			"displayText": "The Papal State",
+			"description": ""
+		},
+		{
+			"text": "PAR",
+			"displayText": "Parma",
+			"description": ""
+		},
+		{
+			"text": "PAT",
+			"displayText": "Pattani",
+			"description": ""
+		},
+		{
+			"text": "PEG",
+			"displayText": "Pegu",
+			"description": ""
+		},
+		{
+			"text": "PER",
+			"displayText": "Persia",
+			"description": ""
+		},
+		{
+			"text": "PEU",
+			"displayText": "Peru",
+			"description": ""
+		},
+		{
+			"text": "PIC",
+			"displayText": "Picardy",
+			"description": ""
+		},
+		{
+			"text": "PIS",
+			"displayText": "Pisa",
+			"description": ""
+		},
+		{
+			"text": "POL",
+			"displayText": "Poland",
+			"description": ""
+		},
+		{
+			"text": "POM",
+			"displayText": "Pomerania",
+			"description": ""
+		},
+		{
+			"text": "POR",
+			"displayText": "Portugal",
+			"description": ""
+		},
+		{
+			"text": "PRO",
+			"displayText": "Provence",
+			"description": ""
+		},
+		{
+			"text": "PRU",
+			"displayText": "Prussia",
+			"description": ""
+		},
+		{
+			"text": "PSK",
+			"displayText": "Pskov",
+			"description": ""
+		},
+		{
+			"text": "PUN",
+			"displayText": "Punjab",
+			"description": ""
+		},
+		{
+			"text": "QAR",
+			"displayText": "Qara Qoyunlu",
+			"description": ""
+		},
+		{
+			"text": "QAS",
+			"displayText": "Qasim",
+			"description": ""
+		},
+		{
+			"text": "QUE",
+			"displayText": "Quebec",
+			"description": ""
+		},
+		{
+			"text": "RAG",
+			"displayText": "Ragusa",
+			"description": ""
+		},
+		{
+			"text": "REB",
+			"displayText": "Rebels",
+			"description": ""
+		},
+		{
+			"text": "RIG",
+			"displayText": "Riga",
+			"description": ""
+		},
+		{
+			"text": "RUS",
+			"displayText": "Russia",
+			"description": ""
+		},
+		{
+			"text": "RYA",
+			"displayText": "Ryazan",
+			"description": ""
+		},
+		{
+			"text": "RYU",
+			"displayText": "Ryukyu",
+			"description": ""
+		},
+		{
+			"text": "SAR",
+			"displayText": "Sardinia",
+			"description": ""
+		},
+		{
+			"text": "SAV",
+			"displayText": "Savoy",
+			"description": ""
+		},
+		{
+			"text": "SAX",
+			"displayText": "Saxony",
+			"description": ""
+		},
+		{
+			"text": "SCO",
+			"displayText": "Scotland",
+			"description": ""
+		},
+		{
+			"text": "SER",
+			"displayText": "Serbia",
+			"description": ""
+		},
+		{
+			"text": "SHA",
+			"displayText": "Shawnee",
+			"description": ""
+		},
+		{
+			"text": "SHL",
+			"displayText": "Holstein",
+			"description": ""
+		},
+		{
+			"text": "SHR",
+			"displayText": "Sharjah",
+			"description": ""
+		},
+		{
+			"text": "SHY",
+			"displayText": "Uzbek",
+			"description": ""
+		},
+		{
+			"text": "SIB",
+			"displayText": "Sibir",
+			"description": ""
+		},
+		{
+			"text": "SIC",
+			"displayText": "Sicily",
+			"description": ""
+		},
+		{
+			"text": "SIE",
+			"displayText": "Siena",
+			"description": ""
+		},
+		{
+			"text": "SIL",
+			"displayText": "Silesia",
+			"description": ""
+		},
+		{
+			"text": "SLZ",
+			"displayText": "Salzburg",
+			"description": ""
+		},
+		{
+			"text": "SND",
+			"displayText": "Sindh",
+			"description": ""
+		},
+		{
+			"text": "SOF",
+			"displayText": "Segu",
+			"description": ""
+		},
+		{
+			"text": "SON",
+			"displayText": "Songhai",
+			"description": ""
+		},
+		{
+			"text": "SPA",
+			"displayText": "Spain",
+			"description": ""
+		},
+		{
+			"text": "SST",
+			"displayText": "Shan",
+			"description": ""
+		},
+		{
+			"text": "STY",
+			"displayText": "Styria",
+			"description": ""
+		},
+		{
+			"text": "SUL",
+			"displayText": "Sulu",
+			"description": ""
+		},
+		{
+			"text": "SWE",
+			"displayText": "Sweden",
+			"description": ""
+		},
+		{
+			"text": "SWI",
+			"displayText": "Switzerland",
+			"description": ""
+		},
+		{
+			"text": "TAU",
+			"displayText": "Taungu",
+			"description": ""
+		},
+		{
+			"text": "TEU",
+			"displayText": "Teutonic Order",
+			"description": ""
+		},
+		{
+			"text": "THU",
+			"displayText": "Thuringia",
+			"description": ""
+		},
+		{
+			"text": "TIB",
+			"displayText": "Tibet",
+			"description": ""
+		},
+		{
+			"text": "TIM",
+			"displayText": "Timurids",
+			"description": ""
+		},
+		{
+			"text": "TIR",
+			"displayText": "Tirol",
+			"description": ""
+		},
+		{
+			"text": "TOK",
+			"displayText": "Tonkin",
+			"description": ""
+		},
+		{
+			"text": "TOU",
+			"displayText": "Toulouse",
+			"description": ""
+		},
+		{
+			"text": "TRA",
+			"displayText": "Transylvania",
+			"description": ""
+		},
+		{
+			"text": "TRE",
+			"displayText": "Trebizond",
+			"description": ""
+		},
+		{
+			"text": "TRI",
+			"displayText": "Trier",
+			"description": ""
+		},
+		{
+			"text": "TRP",
+			"displayText": "Tripoli",
+			"description": ""
+		},
+		{
+			"text": "TUN",
+			"displayText": "Tunis",
+			"description": ""
+		},
+		{
+			"text": "TUR",
+			"displayText": "Ottomans",
+			"description": ""
+		},
+		{
+			"text": "TUS",
+			"displayText": "Tuscany",
+			"description": ""
+		},
+		{
+			"text": "TVE",
+			"displayText": "Tver",
+			"description": ""
+		},
+		{
+			"text": "TYR",
+			"displayText": "Tyrone",
+			"description": ""
+		},
+		{
+			"text": "UKR",
+			"displayText": "Ruthenia",
+			"description": ""
+		},
+		{
+			"text": "URB",
+			"displayText": "Urbino",
+			"description": ""
+		},
+		{
+			"text": "USA",
+			"displayText": "United States",
+			"description": ""
+		},
+		{
+			"text": "UTR",
+			"displayText": "Utrecht",
+			"description": ""
+		},
+		{
+			"text": "WAL",
+			"displayText": "Wallachia",
+			"description": ""
+		},
+		{
+			"text": "WBG",
+			"displayText": "Wurzburg",
+			"description": ""
+		},
+		{
+			"text": "VEN",
+			"displayText": "Venice",
+			"description": ""
+		},
+		{
+			"text": "VIE",
+			"displayText": "Vientiane",
+			"description": ""
+		},
+		{
+			"text": "VIJ",
+			"displayText": "Vijayanagar",
+			"description": ""
+		},
+		{
+			"text": "WLS",
+			"displayText": "Wales",
+			"description": ""
+		},
+		{
+			"text": "WUR",
+			"displayText": "Wurttemberg",
+			"description": ""
+		},
+		{
+			"text": "YAR",
+			"displayText": "Yaroslavl",
+			"description": ""
+		},
+		{
+			"text": "YOR",
+			"displayText": "Andhra",
+			"description": ""
+		},
+		{
+			"text": "ZAP",
+			"displayText": "Zapotec",
+			"description": ""
+		},
+		{
+			"text": "ZAZ",
+			"displayText": "Zaporozhie",
+			"description": ""
+		},
+		{
+			"text": "ZIM",
+			"displayText": "Mutapa",
+			"description": ""
+		},
+		{
+			"text": "NAT",
+			"displayText": "Natives",
+			"description": ""
+		},
+		{
+			"text": "PIR",
+			"displayText": "Pirates",
+			"description": ""
+		},
+		{
+			"text": "AMA",
+			"displayText": "Amago",
+			"description": ""
+		},
+		{
+			"text": "ASA",
+			"displayText": "Asakura",
+			"description": ""
+		},
+		{
+			"text": "CSK",
+			"displayText": "Chosokabe",
+			"description": ""
+		},
+		{
+			"text": "DTE",
+			"displayText": "Date",
+			"description": ""
+		},
+		{
+			"text": "HJO",
+			"displayText": "Hojo",
+			"description": ""
+		},
+		{
+			"text": "HSK",
+			"displayText": "Hosokawa",
+			"description": ""
+		},
+		{
+			"text": "HTK",
+			"displayText": "Hatakeyama",
+			"description": ""
+		},
+		{
+			"text": "IKE",
+			"displayText": "Ikeda",
+			"description": ""
+		},
+		{
+			"text": "IMG",
+			"displayText": "Imagawa",
+			"description": ""
+		},
+		{
+			"text": "MAE",
+			"displayText": "Maeda",
+			"description": ""
+		},
+		{
+			"text": "MRI",
+			"displayText": "Mori",
+			"description": ""
+		},
+		{
+			"text": "ODA",
+			"displayText": "Oda",
+			"description": ""
+		},
+		{
+			"text": "OTM",
+			"displayText": "Otomo",
+			"description": ""
+		},
+		{
+			"text": "OUC",
+			"displayText": "Ouchi",
+			"description": ""
+		},
+		{
+			"text": "SBA",
+			"displayText": "Shiba",
+			"description": ""
+		},
+		{
+			"text": "SMZ",
+			"displayText": "Shimazu",
+			"description": ""
+		},
+		{
+			"text": "TKD",
+			"displayText": "Takeda",
+			"description": ""
+		},
+		{
+			"text": "TKG",
+			"displayText": "Tokugawa",
+			"description": ""
+		},
+		{
+			"text": "UES",
+			"displayText": "Uesugi",
+			"description": ""
+		},
+		{
+			"text": "YMN",
+			"displayText": "Yamana",
+			"description": ""
+		},
+		{
+			"text": "JNP",
+			"displayText": "Jaunpur",
+			"description": ""
+		},
+		{
+			"text": "MAW",
+			"displayText": "Marwar",
+			"description": ""
+		},
+		{
+			"text": "MER",
+			"displayText": "Mewar",
+			"description": ""
+		},
+		{
+			"text": "MUL",
+			"displayText": "Multan",
+			"description": ""
+		},
+		{
+			"text": "JAN",
+			"displayText": "Jangladesh",
+			"description": ""
+		},
+		{
+			"text": "GRJ",
+			"displayText": "Garjat",
+			"description": ""
+		},
+		{
+			"text": "GWA",
+			"displayText": "Gwalior",
+			"description": ""
+		},
+		{
+			"text": "DHU",
+			"displayText": "Dhundhar",
+			"description": ""
+		},
+		{
+			"text": "KLN",
+			"displayText": "Keladi",
+			"description": ""
+		},
+		{
+			"text": "MAB",
+			"displayText": "Calicut",
+			"description": ""
+		},
+		{
+			"text": "MEW",
+			"displayText": "Mewat",
+			"description": ""
+		},
+		{
+			"text": "BST",
+			"displayText": "Bastar",
+			"description": ""
+		},
+		{
+			"text": "JSL",
+			"displayText": "Jaisalmer",
+			"description": ""
+		},
+		{
+			"text": "KAC",
+			"displayText": "Kachar",
+			"description": ""
+		},
+		{
+			"text": "KMT",
+			"displayText": "Koch",
+			"description": ""
+		},
+		{
+			"text": "KGR",
+			"displayText": "Kangra",
+			"description": ""
+		},
+		{
+			"text": "KAT",
+			"displayText": "Kutch",
+			"description": ""
+		},
+		{
+			"text": "KOC",
+			"displayText": "Kochin",
+			"description": ""
+		},
+		{
+			"text": "AHM",
+			"displayText": "Ahmednagar",
+			"description": ""
+		},
+		{
+			"text": "BAH",
+			"displayText": "Bahmanis",
+			"description": ""
+		},
+		{
+			"text": "NAG",
+			"displayText": "Nagpur",
+			"description": ""
+		},
+		{
+			"text": "BDA",
+			"displayText": "Baroda",
+			"description": ""
+		},
+		{
+			"text": "GOC",
+			"displayText": "Golkonda",
+			"description": ""
+		},
+		{
+			"text": "MAR",
+			"displayText": "Marathas",
+			"description": ""
+		},
+		{
+			"text": "VND",
+			"displayText": "Venad",
+			"description": ""
+		},
+		{
+			"text": "DEC",
+			"displayText": "Deccan",
+			"description": ""
+		},
+		{
+			"text": "CZH",
+			"displayText": "Zhou",
+			"description": ""
+		},
+		{
+			"text": "CSH",
+			"displayText": "Shun",
+			"description": ""
+		},
+		{
+			"text": "CXI",
+			"displayText": "Xi",
+			"description": ""
+		},
+		{
+			"text": "JOL",
+			"displayText": "Jolof",
+			"description": ""
+		},
+		{
+			"text": "PLC",
+			"displayText": "Commonwealth",
+			"description": ""
+		},
+		{
+			"text": "PRM",
+			"displayText": "Perm",
+			"description": ""
+		},
+		{
+			"text": "CEY",
+			"displayText": "Kotte",
+			"description": ""
+		},
+		{
+			"text": "AFG",
+			"displayText": "Afghanistan",
+			"description": ""
+		},
+		{
+			"text": "QNG",
+			"displayText": "Qing",
+			"description": ""
+		},
+		{
+			"text": "ABE",
+			"displayText": "Abenaki",
+			"description": ""
+		},
+		{
+			"text": "APA",
+			"displayText": "Apache",
+			"description": ""
+		},
+		{
+			"text": "ASI",
+			"displayText": "Assiniboine",
+			"description": ""
+		},
+		{
+			"text": "BLA",
+			"displayText": "Blackfoot",
+			"description": ""
+		},
+		{
+			"text": "CAD",
+			"displayText": "Caddo",
+			"description": ""
+		},
+		{
+			"text": "CHI",
+			"displayText": "Chickasaw",
+			"description": ""
+		},
+		{
+			"text": "CHO",
+			"displayText": "Choctaw",
+			"description": ""
+		},
+		{
+			"text": "CHY",
+			"displayText": "Cheyenne",
+			"description": ""
+		},
+		{
+			"text": "COM",
+			"displayText": "Comanche",
+			"description": ""
+		},
+		{
+			"text": "FOX",
+			"displayText": "Fox",
+			"description": ""
+		},
+		{
+			"text": "ILL",
+			"displayText": "Illiniwek",
+			"description": ""
+		},
+		{
+			"text": "LEN",
+			"displayText": "Lenape",
+			"description": ""
+		},
+		{
+			"text": "MIK",
+			"displayText": "Mikmaq",
+			"description": ""
+		},
+		{
+			"text": "MMI",
+			"displayText": "Miami",
+			"description": ""
+		},
+		{
+			"text": "MAH",
+			"displayText": "Mahican",
+			"description": ""
+		},
+		{
+			"text": "NAH",
+			"displayText": "Navajo",
+			"description": ""
+		},
+		{
+			"text": "OJI",
+			"displayText": "Ojibwe",
+			"description": ""
+		},
+		{
+			"text": "OSA",
+			"displayText": "Osage",
+			"description": ""
+		},
+		{
+			"text": "OTT",
+			"displayText": "Ottawa",
+			"description": ""
+		},
+		{
+			"text": "PAW",
+			"displayText": "Pawnee",
+			"description": ""
+		},
+		{
+			"text": "PEQ",
+			"displayText": "Pequot",
+			"description": ""
+		},
+		{
+			"text": "PIM",
+			"displayText": "Pima",
+			"description": ""
+		},
+		{
+			"text": "POT",
+			"displayText": "Potawatomi",
+			"description": ""
+		},
+		{
+			"text": "POW",
+			"displayText": "Powhatan",
+			"description": ""
+		},
+		{
+			"text": "PUE",
+			"displayText": "Pueblo",
+			"description": ""
+		},
+		{
+			"text": "SIO",
+			"displayText": "Sioux",
+			"description": ""
+		},
+		{
+			"text": "SHO",
+			"displayText": "Shoshone",
+			"description": ""
+		},
+		{
+			"text": "SUS",
+			"displayText": "Susquehannock",
+			"description": ""
+		},
+		{
+			"text": "WCR",
+			"displayText": "Cree",
+			"description": ""
+		},
+		{
+			"text": "ZAN",
+			"displayText": "Kilwa",
+			"description": ""
+		},
+		{
+			"text": "AJU",
+			"displayText": "Ajuuraan",
+			"description": ""
+		},
+		{
+			"text": "MBA",
+			"displayText": "Mombasa",
+			"description": ""
+		},
+		{
+			"text": "MDI",
+			"displayText": "Mogadishu",
+			"description": ""
+		},
+		{
+			"text": "MLI",
+			"displayText": "Malindi",
+			"description": ""
+		},
+		{
+			"text": "SFA",
+			"displayText": "Sofala",
+			"description": ""
+		},
+		{
+			"text": "EGY",
+			"displayText": "Egypt",
+			"description": ""
+		},
+		{
+			"text": "BUK",
+			"displayText": "Bukhara",
+			"description": ""
+		},
+		{
+			"text": "BGA",
+			"displayText": "Baglana",
+			"description": ""
+		},
+		{
+			"text": "BGL",
+			"displayText": "Baghelkhand",
+			"description": ""
+		},
+		{
+			"text": "CHD",
+			"displayText": "Chanda",
+			"description": ""
+		},
+		{
+			"text": "CMP",
+			"displayText": "Rewa Kantha",
+			"description": ""
+		},
+		{
+			"text": "GHR",
+			"displayText": "Garhwal",
+			"description": ""
+		},
+		{
+			"text": "HAD",
+			"displayText": "Hadoti",
+			"description": ""
+		},
+		{
+			"text": "JAJ",
+			"displayText": "Habsan",
+			"description": ""
+		},
+		{
+			"text": "JFN",
+			"displayText": "Jaffna",
+			"description": ""
+		},
+		{
+			"text": "LDK",
+			"displayText": "Ladakh",
+			"description": ""
+		},
+		{
+			"text": "MLB",
+			"displayText": "Manipur",
+			"description": ""
+		},
+		{
+			"text": "NGA",
+			"displayText": "Nagaur",
+			"description": ""
+		},
+		{
+			"text": "NGP",
+			"displayText": "Jharkhand",
+			"description": ""
+		},
+		{
+			"text": "PTA",
+			"displayText": "Patiala",
+			"description": ""
+		},
+		{
+			"text": "RMP",
+			"displayText": "Rohilkhand",
+			"description": ""
+		},
+		{
+			"text": "SDY",
+			"displayText": "Sadiya",
+			"description": ""
+		},
+		{
+			"text": "TPR",
+			"displayText": "Tripura",
+			"description": ""
+		},
+		{
+			"text": "TRT",
+			"displayText": "Tirhut",
+			"description": ""
+		},
+		{
+			"text": "CIR",
+			"displayText": "Circassia",
+			"description": ""
+		},
+		{
+			"text": "GAZ",
+			"displayText": "Gazikumukh",
+			"description": ""
+		},
+		{
+			"text": "IME",
+			"displayText": "Imereti",
+			"description": ""
+		},
+		{
+			"text": "TAB",
+			"displayText": "Mazandaran",
+			"description": ""
+		},
+		{
+			"text": "MYR",
+			"displayText": "Yeren",
+			"description": ""
+		},
+		{
+			"text": "MHX",
+			"displayText": "Haixi",
+			"description": ""
+		},
+		{
+			"text": "KRC",
+			"displayText": "Korchin",
+			"description": ""
+		},
+		{
+			"text": "KLK",
+			"displayText": "Khalkha",
+			"description": ""
+		},
+		{
+			"text": "DGL",
+			"displayText": "Maldives",
+			"description": ""
+		},
+		{
+			"text": "HMI",
+			"displayText": "Kara Del",
+			"description": ""
+		},
+		{
+			"text": "ZUN",
+			"displayText": "Zunghar",
+			"description": ""
+		},
+		{
+			"text": "KAS",
+			"displayText": "Yarkand",
+			"description": ""
+		},
+		{
+			"text": "KSD",
+			"displayText": "Khoshuud",
+			"description": ""
+		},
+		{
+			"text": "SYG",
+			"displayText": "Sarig Yogir",
+			"description": ""
+		},
+		{
+			"text": "UTS",
+			"displayText": "Tsang",
+			"description": ""
+		},
+		{
+			"text": "KAM",
+			"displayText": "Kham",
+			"description": ""
+		},
+		{
+			"text": "GUG",
+			"displayText": "Guge",
+			"description": ""
+		},
+		{
+			"text": "TMB",
+			"displayText": "Timbuktu",
+			"description": ""
+		},
+		{
+			"text": "AIR",
+			"displayText": "Air",
+			"description": ""
+		},
+		{
+			"text": "MSI",
+			"displayText": "Mossi",
+			"description": ""
+		},
+		{
+			"text": "KTS",
+			"displayText": "Katsina",
+			"description": ""
+		},
+		{
+			"text": "KAN",
+			"displayText": "Kano",
+			"description": ""
+		},
+		{
+			"text": "FUL",
+			"displayText": "Fulo",
+			"description": ""
+		},
+		{
+			"text": "BON",
+			"displayText": "Bonoman",
+			"description": ""
+		},
+		{
+			"text": "DAH",
+			"displayText": "Dahomey",
+			"description": ""
+		},
+		{
+			"text": "DGB",
+			"displayText": "Dagbon",
+			"description": ""
+		},
+		{
+			"text": "JNN",
+			"displayText": "Jenne",
+			"description": ""
+		},
+		{
+			"text": "KBU",
+			"displayText": "Kaabu",
+			"description": ""
+		},
+		{
+			"text": "KNG",
+			"displayText": "Kong",
+			"description": ""
+		},
+		{
+			"text": "NUP",
+			"displayText": "Nupe",
+			"description": ""
+		},
+		{
+			"text": "YAO",
+			"displayText": "Yao",
+			"description": ""
+		},
+		{
+			"text": "YAT",
+			"displayText": "Yatenga",
+			"description": ""
+		},
+		{
+			"text": "ZAF",
+			"displayText": "Macina",
+			"description": ""
+		},
+		{
+			"text": "ZZZ",
+			"displayText": "Zazzau",
+			"description": ""
+		},
+		{
+			"text": "ARD",
+			"displayText": "Ardalan",
+			"description": ""
+		},
+		{
+			"text": "BHT",
+			"displayText": "Soran",
+			"description": ""
+		},
+		{
+			"text": "ERE",
+			"displayText": "Eretna",
+			"description": ""
+		},
+		{
+			"text": "LEB",
+			"displayText": "Lebanon",
+			"description": ""
+		},
+		{
+			"text": "MAK",
+			"displayText": "Makuria",
+			"description": ""
+		},
+		{
+			"text": "SHM",
+			"displayText": "Shammar",
+			"description": ""
+		},
+		{
+			"text": "ARB",
+			"displayText": "Arabia",
+			"description": ""
+		},
+		{
+			"text": "GRM",
+			"displayText": "Germiyan",
+			"description": ""
+		},
+		{
+			"text": "MPH",
+			"displayText": "Muan Phuang",
+			"description": ""
+		},
+		{
+			"text": "LIG",
+			"displayText": "Ligor",
+			"description": ""
+		},
+		{
+			"text": "JOH",
+			"displayText": "Johor",
+			"description": ""
+		},
+		{
+			"text": "KED",
+			"displayText": "Kedah",
+			"description": ""
+		},
+		{
+			"text": "PRK",
+			"displayText": "Perak",
+			"description": ""
+		},
+		{
+			"text": "HSE",
+			"displayText": "Hsenwi",
+			"description": ""
+		},
+		{
+			"text": "MYA",
+			"displayText": "Mong Yang",
+			"description": ""
+		},
+		{
+			"text": "AVA",
+			"displayText": "Ava",
+			"description": ""
+		},
+		{
+			"text": "FEO",
+			"displayText": "Theodoro",
+			"description": ""
+		},
+		{
+			"text": "VOL",
+			"displayText": "Galicia-Volhynia",
+			"description": ""
+		},
+		{
+			"text": "KIE",
+			"displayText": "Kiev",
+			"description": ""
+		},
+		{
+			"text": "CHR",
+			"displayText": "Chernigov",
+			"description": ""
+		},
+		{
+			"text": "CHU",
+			"displayText": "Chukchi",
+			"description": ""
+		},
+		{
+			"text": "HOD",
+			"displayText": "Khodynt",
+			"description": ""
+		},
+		{
+			"text": "CHV",
+			"displayText": "Chavchuveny",
+			"description": ""
+		},
+		{
+			"text": "KMC",
+			"displayText": "Kamchadals",
+			"description": ""
+		},
+		{
+			"text": "BRT",
+			"displayText": "Buryatia",
+			"description": ""
+		},
+		{
+			"text": "BSH",
+			"displayText": "Bashkiria",
+			"description": ""
+		},
+		{
+			"text": "TLC",
+			"displayText": "Tlemcen",
+			"description": ""
+		},
+		{
+			"text": "MZB",
+			"displayText": "Mzab",
+			"description": ""
+		},
+		{
+			"text": "TGT",
+			"displayText": "Touggourt",
+			"description": ""
+		},
+		{
+			"text": "GHD",
+			"displayText": "Djerid",
+			"description": ""
+		},
+		{
+			"text": "FZA",
+			"displayText": "Fezzan",
+			"description": ""
+		},
+		{
+			"text": "KBA",
+			"displayText": "Kabylia",
+			"description": ""
+		},
+		{
+			"text": "SOS",
+			"displayText": "Sus",
+			"description": ""
+		},
+		{
+			"text": "TFL",
+			"displayText": "Tafilalt",
+			"description": ""
+		},
+		{
+			"text": "ARP",
+			"displayText": "Arapaho",
+			"description": ""
+		},
+		{
+			"text": "CNK",
+			"displayText": "Chinook",
+			"description": ""
+		},
+		{
+			"text": "COC",
+			"displayText": "Cocomes",
+			"description": ""
+		},
+		{
+			"text": "XIU",
+			"displayText": "Xiu",
+			"description": ""
+		},
+		{
+			"text": "HDA",
+			"displayText": "Haida",
+			"description": ""
+		},
+		{
+			"text": "ITZ",
+			"displayText": "Itza",
+			"description": ""
+		},
+		{
+			"text": "KIC",
+			"displayText": "Kiche",
+			"description": ""
+		},
+		{
+			"text": "KIO",
+			"displayText": "Kiowa",
+			"description": ""
+		},
+		{
+			"text": "MIX",
+			"displayText": "Mixtec",
+			"description": ""
+		},
+		{
+			"text": "SAL",
+			"displayText": "Salish",
+			"description": ""
+		},
+		{
+			"text": "TAR",
+			"displayText": "Tarascan",
+			"description": ""
+		},
+		{
+			"text": "TLA",
+			"displayText": "Tlapanec",
+			"description": ""
+		},
+		{
+			"text": "TLX",
+			"displayText": "Tlaxcala",
+			"description": ""
+		},
+		{
+			"text": "TOT",
+			"displayText": "Totonac",
+			"description": ""
+		},
+		{
+			"text": "WIC",
+			"displayText": "Wichita",
+			"description": ""
+		},
+		{
+			"text": "CLM",
+			"displayText": "Colima",
+			"description": ""
+		},
+		{
+			"text": "BLM",
+			"displayText": "Blambangan",
+			"description": ""
+		},
+		{
+			"text": "CRB",
+			"displayText": "Cirebon",
+			"description": ""
+		},
+		{
+			"text": "DMK",
+			"displayText": "Demak",
+			"description": ""
+		},
+		{
+			"text": "PGR",
+			"displayText": "Pagarruyung",
+			"description": ""
+		},
+		{
+			"text": "PLB",
+			"displayText": "Palembang",
+			"description": ""
+		},
+		{
+			"text": "PSA",
+			"displayText": "Pasai",
+			"description": ""
+		},
+		{
+			"text": "SAK",
+			"displayText": "Siak",
+			"description": ""
+		},
+		{
+			"text": "SUN",
+			"displayText": "Sunda",
+			"description": ""
+		},
+		{
+			"text": "MJZ",
+			"displayText": "Jianzhou",
+			"description": ""
+		},
+		{
+			"text": "SRV",
+			"displayText": "Shirvan",
+			"description": ""
+		},
+		{
+			"text": "MIN",
+			"displayText": "Min",
+			"description": ""
+		},
+		{
+			"text": "YUE",
+			"displayText": "Yue",
+			"description": ""
+		},
+		{
+			"text": "SHU",
+			"displayText": "Shu",
+			"description": ""
+		},
+		{
+			"text": "NNG",
+			"displayText": "Ning",
+			"description": ""
+		},
+		{
+			"text": "CHC",
+			"displayText": "Chu",
+			"description": ""
+		},
+		{
+			"text": "TNG",
+			"displayText": "Tang",
+			"description": ""
+		},
+		{
+			"text": "QIC",
+			"displayText": "Qi",
+			"description": ""
+		},
+		{
+			"text": "YAN",
+			"displayText": "Yan",
+			"description": ""
+		},
+		{
+			"text": "JIN",
+			"displayText": "Jin",
+			"description": ""
+		},
+		{
+			"text": "LNG",
+			"displayText": "Liang",
+			"description": ""
+		},
+		{
+			"text": "HUA",
+			"displayText": "Huai",
+			"description": ""
+		},
+		{
+			"text": "CGS",
+			"displayText": "Changsheng",
+			"description": ""
+		},
+		{
+			"text": "CAB",
+			"displayText": "Carib",
+			"description": ""
+		},
+		{
+			"text": "LON",
+			"displayText": "Leon",
+			"description": ""
+		},
+		{
+			"text": "ICM",
+			"displayText": "Ichma",
+			"description": ""
+		},
+		{
+			"text": "NUM",
+			"displayText": "Nuremberg",
+			"description": ""
+		},
+		{
+			"text": "AUS",
+			"displayText": "Australia",
+			"description": ""
+		},
+		{
+			"text": "BTI",
+			"displayText": "Semien",
+			"description": ""
+		},
+		{
+			"text": "MTH",
+			"displayText": "Meath",
+			"description": ""
+		},
+		{
+			"text": "ADU",
+			"displayText": "Andalusia",
+			"description": ""
+		},
+		{
+			"text": "MEM",
+			"displayText": "Memmingen",
+			"description": ""
+		},
+		{
+			"text": "VER",
+			"displayText": "Verden",
+			"description": ""
+		},
+		{
+			"text": "NSA",
+			"displayText": "Nassau",
+			"description": ""
+		},
+		{
+			"text": "RVA",
+			"displayText": "Ravensburg",
+			"description": ""
+		},
+		{
+			"text": "MFA",
+			"displayText": "Montferrat",
+			"description": ""
+		},
+		{
+			"text": "LUC",
+			"displayText": "Lucca",
+			"description": ""
+		},
+		{
+			"text": "LVA",
+			"displayText": "Livonia",
+			"description": ""
+		},
+		{
+			"text": "EST",
+			"displayText": "Estonia",
+			"description": ""
+		},
+		{
+			"text": "SMI",
+			"displayText": "Sapmi",
+			"description": ""
+		},
+		{
+			"text": "ORM",
+			"displayText": "Hormuz",
+			"description": ""
+		},
+		{
+			"text": "KRL",
+			"displayText": "Karelia",
+			"description": ""
+		},
+		{
+			"text": "JAI",
+			"displayText": "Malta",
+			"description": ""
+		},
+		{
+			"text": "KUB",
+			"displayText": "Kuba",
+			"description": ""
+		},
+		{
+			"text": "KLD",
+			"displayText": "Kalundwe",
+			"description": ""
+		},
+		{
+			"text": "YAK",
+			"displayText": "Yaka",
+			"description": ""
+		},
+		{
+			"text": "KZB",
+			"displayText": "Kazembe",
+			"description": ""
+		},
+		{
+			"text": "KIK",
+			"displayText": "Kikondja",
+			"description": ""
+		},
+		{
+			"text": "CKW",
+			"displayText": "Chokwe",
+			"description": ""
+		},
+		{
+			"text": "LND",
+			"displayText": "Lunda",
+			"description": ""
+		},
+		{
+			"text": "LUB",
+			"displayText": "Luba",
+			"description": ""
+		},
+		{
+			"text": "KSJ",
+			"displayText": "Kasanje",
+			"description": ""
+		},
+		{
+			"text": "SYO",
+			"displayText": "Soyo",
+			"description": ""
+		},
+		{
+			"text": "TYO",
+			"displayText": "Tyo",
+			"description": ""
+		},
+		{
+			"text": "BSG",
+			"displayText": "Busoga",
+			"description": ""
+		},
+		{
+			"text": "BNY",
+			"displayText": "Bunyoro",
+			"description": ""
+		},
+		{
+			"text": "KRW",
+			"displayText": "Karagwe",
+			"description": ""
+		},
+		{
+			"text": "BUG",
+			"displayText": "Buganda",
+			"description": ""
+		},
+		{
+			"text": "RWA",
+			"displayText": "Rwanda",
+			"description": ""
+		},
+		{
+			"text": "NKO",
+			"displayText": "Nkore",
+			"description": ""
+		},
+		{
+			"text": "BUU",
+			"displayText": "Burundi",
+			"description": ""
+		},
+		{
+			"text": "UBH",
+			"displayText": "Buha",
+			"description": ""
+		},
+		{
+			"text": "MRA",
+			"displayText": "Maravi",
+			"description": ""
+		},
+		{
+			"text": "LDU",
+			"displayText": "Lundu",
+			"description": ""
+		},
+		{
+			"text": "TBK",
+			"displayText": "Tumbuka",
+			"description": ""
+		},
+		{
+			"text": "MKU",
+			"displayText": "Makua",
+			"description": ""
+		},
+		{
+			"text": "RZW",
+			"displayText": "Butua",
+			"description": ""
+		},
+		{
+			"text": "MIR",
+			"displayText": "Imerina",
+			"description": ""
+		},
+		{
+			"text": "ANT",
+			"displayText": "Antemoro",
+			"description": ""
+		},
+		{
+			"text": "SKA",
+			"displayText": "Sakalava",
+			"description": ""
+		},
+		{
+			"text": "MFY",
+			"displayText": "Mahafaly",
+			"description": ""
+		},
+		{
+			"text": "BTS",
+			"displayText": "Betsimisaraka",
+			"description": ""
+		},
+		{
+			"text": "ULS",
+			"displayText": "Ulster",
+			"description": ""
+		},
+		{
+			"text": "DMS",
+			"displayText": "Desmond",
+			"description": ""
+		},
+		{
+			"text": "ORD",
+			"displayText": "Ormond",
+			"description": ""
+		},
+		{
+			"text": "KID",
+			"displayText": "Kildare",
+			"description": ""
+		},
+		{
+			"text": "MCM",
+			"displayText": "Munster",
+			"description": ""
+		},
+		{
+			"text": "FLY",
+			"displayText": "Offaly",
+			"description": ""
+		},
+		{
+			"text": "TRY",
+			"displayText": "Tyrconnell",
+			"description": ""
+		},
+		{
+			"text": "SLN",
+			"displayText": "Sligo",
+			"description": ""
+		},
+		{
+			"text": "OKA",
+			"displayText": "Odoyev",
+			"description": ""
+		},
+		{
+			"text": "ICE",
+			"displayText": "Iceland",
+			"description": ""
+		},
+		{
+			"text": "SLO",
+			"displayText": "Nitra",
+			"description": ""
+		},
+		{
+			"text": "HSC",
+			"displayText": "Gaeldom",
+			"description": ""
+		},
+		{
+			"text": "ROM",
+			"displayText": "Roman Empire",
+			"description": ""
+		},
+		{
+			"text": "DTT",
+			"displayText": "Dithmarschen",
+			"description": ""
+		},
+		{
+			"text": "GLH",
+			"displayText": "Golden Horde",
+			"description": ""
+		},
+		{
+			"text": "BEJ",
+			"displayText": "Beja",
+			"description": ""
+		},
+		{
+			"text": "JIM",
+			"displayText": "Jimma",
+			"description": ""
+		},
+		{
+			"text": "WLY",
+			"displayText": "Welayta",
+			"description": ""
+		},
+		{
+			"text": "DAM",
+			"displayText": "Damot",
+			"description": ""
+		},
+		{
+			"text": "HDY",
+			"displayText": "Hadiya",
+			"description": ""
+		},
+		{
+			"text": "SOA",
+			"displayText": "Shewa",
+			"description": ""
+		},
+		{
+			"text": "JJI",
+			"displayText": "Janjiro",
+			"description": ""
+		},
+		{
+			"text": "ENA",
+			"displayText": "Ennarea",
+			"description": ""
+		},
+		{
+			"text": "ABB",
+			"displayText": "Dongola",
+			"description": ""
+		},
+		{
+			"text": "AKM",
+			"displayText": "Akamatsu",
+			"description": ""
+		},
+		{
+			"text": "AKT",
+			"displayText": "Ando",
+			"description": ""
+		},
+		{
+			"text": "CBA",
+			"displayText": "Chiba",
+			"description": ""
+		},
+		{
+			"text": "ISK",
+			"displayText": "Isshiki",
+			"description": ""
+		},
+		{
+			"text": "ITO",
+			"displayText": "Ito",
+			"description": ""
+		},
+		{
+			"text": "KKC",
+			"displayText": "Kikuchi",
+			"description": ""
+		},
+		{
+			"text": "KNO",
+			"displayText": "Kono",
+			"description": ""
+		},
+		{
+			"text": "OGS",
+			"displayText": "Ogasawara",
+			"description": ""
+		},
+		{
+			"text": "SHN",
+			"displayText": "Shoni",
+			"description": ""
+		},
+		{
+			"text": "STK",
+			"displayText": "Satake",
+			"description": ""
+		},
+		{
+			"text": "TKI",
+			"displayText": "Toki",
+			"description": ""
+		},
+		{
+			"text": "UTN",
+			"displayText": "Utsunomiya",
+			"description": ""
+		},
+		{
+			"text": "TTI",
+			"displayText": "Tsutsui",
+			"description": ""
+		},
+		{
+			"text": "ASK",
+			"displayText": "Ashikaga",
+			"description": ""
+		},
+		{
+			"text": "MVA",
+			"displayText": "Moravia",
+			"description": ""
+		},
+		{
+			"text": "YUA",
+			"displayText": "Yuan",
+			"description": ""
+		},
+		{
+			"text": "BLO",
+			"displayText": "Beloozero",
+			"description": ""
+		},
+		{
+			"text": "RSO",
+			"displayText": "Rostov",
+			"description": ""
+		},
+		{
+			"text": "MHR",
+			"displayText": "Mahra",
+			"description": ""
+		},
+		{
+			"text": "HDR",
+			"displayText": "Hadramut",
+			"description": ""
+		},
+		{
+			"text": "MDA",
+			"displayText": "Medina",
+			"description": ""
+		},
+		{
+			"text": "ANZ",
+			"displayText": "Anizah",
+			"description": ""
+		},
+		{
+			"text": "FAD",
+			"displayText": "Fadl",
+			"description": ""
+		},
+		{
+			"text": "YAS",
+			"displayText": "Yas",
+			"description": ""
+		},
+		{
+			"text": "RAS",
+			"displayText": "Rassids",
+			"description": ""
+		},
+		{
+			"text": "YEM",
+			"displayText": "Yemen",
+			"description": ""
+		},
+		{
+			"text": "DAW",
+			"displayText": "Dawasir",
+			"description": ""
+		},
+		{
+			"text": "MFL",
+			"displayText": "Mikhlaf",
+			"description": ""
+		},
+		{
+			"text": "NJR",
+			"displayText": "Najran",
+			"description": ""
+		},
+		{
+			"text": "HSN",
+			"displayText": "Hisn Kayfa",
+			"description": ""
+		},
+		{
+			"text": "BTL",
+			"displayText": "Bitlis",
+			"description": ""
+		},
+		{
+			"text": "AVR",
+			"displayText": "Avaria",
+			"description": ""
+		},
+		{
+			"text": "MLK",
+			"displayText": "Kharabakh",
+			"description": ""
+		},
+		{
+			"text": "SME",
+			"displayText": "Samtskhe",
+			"description": ""
+		},
+		{
+			"text": "ARL",
+			"displayText": "Ardabil",
+			"description": ""
+		},
+		{
+			"text": "MSY",
+			"displayText": "Mushasha",
+			"description": ""
+		},
+		{
+			"text": "RUM",
+			"displayText": "Rum",
+			"description": ""
+		},
+		{
+			"text": "KRY",
+			"displayText": "Gilan",
+			"description": ""
+		},
+		{
+			"text": "LRI",
+			"displayText": "Luristan",
+			"description": ""
+		},
+		{
+			"text": "SIS",
+			"displayText": "Sistan",
+			"description": ""
+		},
+		{
+			"text": "BPI",
+			"displayText": "Biapas",
+			"description": ""
+		},
+		{
+			"text": "FRS",
+			"displayText": "Fars",
+			"description": ""
+		},
+		{
+			"text": "KRM",
+			"displayText": "Kerman",
+			"description": ""
+		},
+		{
+			"text": "YZD",
+			"displayText": "Yazd",
+			"description": ""
+		},
+		{
+			"text": "ISF",
+			"displayText": "Isfahan",
+			"description": ""
+		},
+		{
+			"text": "TBR",
+			"displayText": "Tabriz",
+			"description": ""
+		},
+		{
+			"text": "BSR",
+			"displayText": "Basra",
+			"description": ""
+		},
+		{
+			"text": "MGR",
+			"displayText": "Maregheh",
+			"description": ""
+		},
+		{
+			"text": "QOM",
+			"displayText": "Ajam",
+			"description": ""
+		},
+		{
+			"text": "TRS",
+			"displayText": "Transoxiana",
+			"description": ""
+		},
+		{
+			"text": "MAS",
+			"displayText": "Madyas",
+			"description": ""
+		},
+		{
+			"text": "PGS",
+			"displayText": "Pangasinan",
+			"description": ""
+		},
+		{
+			"text": "TDO",
+			"displayText": "Tondo",
+			"description": ""
+		},
+		{
+			"text": "MNA",
+			"displayText": "Maynila",
+			"description": ""
+		},
+		{
+			"text": "CEB",
+			"displayText": "Cebu",
+			"description": ""
+		},
+		{
+			"text": "BTU",
+			"displayText": "Butuan",
+			"description": ""
+		},
+		{
+			"text": "KTB",
+			"displayText": "Kitabatake",
+			"description": ""
+		},
+		{
+			"text": "KOI",
+			"displayText": "Mann",
+			"description": ""
+		},
+		{
+			"text": "LOI",
+			"displayText": "The Isles",
+			"description": ""
+		},
+		{
+			"text": "MMA",
+			"displayText": "Mong Mao",
+			"description": ""
+		},
+		{
+			"text": "MKA",
+			"displayText": "Mong Kawng",
+			"description": ""
+		},
+		{
+			"text": "MPA",
+			"displayText": "Mong Pai",
+			"description": ""
+		},
+		{
+			"text": "KAL",
+			"displayText": "Kale",
+			"description": ""
+		},
+		{
+			"text": "HSI",
+			"displayText": "Hsipaw",
+			"description": ""
+		},
+		{
+			"text": "BPR",
+			"displayText": "Prome",
+			"description": ""
+		},
+		{
+			"text": "MNI",
+			"displayText": "Mong Nai",
+			"description": ""
+		},
+		{
+			"text": "MBL",
+			"displayText": "Bishnupur",
+			"description": ""
+		},
+		{
+			"text": "SKK",
+			"displayText": "Sikkim",
+			"description": ""
+		},
+		{
+			"text": "IDR",
+			"displayText": "Idar",
+			"description": ""
+		},
+		{
+			"text": "NVR",
+			"displayText": "Navanagar",
+			"description": ""
+		},
+		{
+			"text": "JLV",
+			"displayText": "Jhalavad",
+			"description": ""
+		},
+		{
+			"text": "PTL",
+			"displayText": "Palitana",
+			"description": ""
+		},
+		{
+			"text": "RJK",
+			"displayText": "Rajkot",
+			"description": ""
+		},
+		{
+			"text": "JGD",
+			"displayText": "Junagarh",
+			"description": ""
+		},
+		{
+			"text": "PRB",
+			"displayText": "Porbandar",
+			"description": ""
+		},
+		{
+			"text": "PAN",
+			"displayText": "Kalinjar",
+			"description": ""
+		},
+		{
+			"text": "KLP",
+			"displayText": "Kalpi",
+			"description": ""
+		},
+		{
+			"text": "SBP",
+			"displayText": "Sambalpur",
+			"description": ""
+		},
+		{
+			"text": "PTT",
+			"displayText": "Patna",
+			"description": ""
+		},
+		{
+			"text": "JPR",
+			"displayText": "Jeypore",
+			"description": ""
+		},
+		{
+			"text": "PRD",
+			"displayText": "Parlakhimidi",
+			"description": ""
+		},
+		{
+			"text": "KJH",
+			"displayText": "Keonhjar",
+			"description": ""
+		},
+		{
+			"text": "KLH",
+			"displayText": "Kalahandi",
+			"description": ""
+		},
+		{
+			"text": "RTT",
+			"displayText": "Ratanpur",
+			"description": ""
+		},
+		{
+			"text": "SRG",
+			"displayText": "Surguja",
+			"description": ""
+		},
+		{
+			"text": "TLG",
+			"displayText": "Telingana",
+			"description": ""
+		},
+		{
+			"text": "KLT",
+			"displayText": "Kolathunad",
+			"description": ""
+		},
+		{
+			"text": "DNG",
+			"displayText": "Dang",
+			"description": ""
+		},
+		{
+			"text": "DTI",
+			"displayText": "Doti",
+			"description": ""
+		},
+		{
+			"text": "GRK",
+			"displayText": "Gorkha",
+			"description": ""
+		},
+		{
+			"text": "JML",
+			"displayText": "Jumla",
+			"description": ""
+		},
+		{
+			"text": "LWA",
+			"displayText": "Limbuwan",
+			"description": ""
+		},
+		{
+			"text": "MKP",
+			"displayText": "Makwanpur",
+			"description": ""
+		},
+		{
+			"text": "SRM",
+			"displayText": "Sirmur",
+			"description": ""
+		},
+		{
+			"text": "KTU",
+			"displayText": "Kathmandu",
+			"description": ""
+		},
+		{
+			"text": "KMN",
+			"displayText": "Kumaon",
+			"description": ""
+		},
+		{
+			"text": "KND",
+			"displayText": "Kandy",
+			"description": ""
+		},
+		{
+			"text": "GNG",
+			"displayText": "Gingee",
+			"description": ""
+		},
+		{
+			"text": "TNJ",
+			"displayText": "Tanjore",
+			"description": ""
+		},
+		{
+			"text": "PHA",
+			"displayText": "U",
+			"description": ""
+		},
+		{
+			"text": "RJP",
+			"displayText": "Rajputana",
+			"description": ""
+		},
+		{
+			"text": "SRH",
+			"displayText": "Sirhind",
+			"description": ""
+		},
+		{
+			"text": "ILK",
+			"displayText": "Ilkhanate",
+			"description": ""
+		},
+		{
+			"text": "KLM",
+			"displayText": "Kalmyk",
+			"description": ""
+		},
+		{
+			"text": "MGE",
+			"displayText": "Mongol Empire",
+			"description": ""
+		},
+		{
+			"text": "VAL",
+			"displayText": "Valencia",
+			"description": ""
+		},
+		{
+			"text": "ASU",
+			"displayText": "Asturias",
+			"description": ""
+		},
+		{
+			"text": "SLE",
+			"displayText": "Sale",
+			"description": ""
+		},
+		{
+			"text": "TET",
+			"displayText": "Tetouan",
+			"description": ""
+		},
+		{
+			"text": "MJO",
+			"displayText": "Majorca",
+			"description": ""
+		},
+		{
+			"text": "MAT",
+			"displayText": "Matlatzinca",
+			"description": ""
+		},
+		{
+			"text": "COI",
+			"displayText": "Coixtlahuaca",
+			"description": ""
+		},
+		{
+			"text": "TEO",
+			"displayText": "Teotitlan",
+			"description": ""
+		},
+		{
+			"text": "XAL",
+			"displayText": "Xalisco",
+			"description": ""
+		},
+		{
+			"text": "GAM",
+			"displayText": "Guamar",
+			"description": ""
+		},
+		{
+			"text": "HST",
+			"displayText": "Huastec",
+			"description": ""
+		},
+		{
+			"text": "CCM",
+			"displayText": "Chichimeca",
+			"description": ""
+		},
+		{
+			"text": "OTO",
+			"displayText": "Otomi",
+			"description": ""
+		},
+		{
+			"text": "YOK",
+			"displayText": "Yokotan",
+			"description": ""
+		},
+		{
+			"text": "LAC",
+			"displayText": "Tzotzil",
+			"description": ""
+		},
+		{
+			"text": "KAQ",
+			"displayText": "Kaqchikel",
+			"description": ""
+		},
+		{
+			"text": "CTM",
+			"displayText": "Chactemal",
+			"description": ""
+		},
+		{
+			"text": "KER",
+			"displayText": "Keres",
+			"description": ""
+		},
+		{
+			"text": "ZNI",
+			"displayText": "Zuni",
+			"description": ""
+		},
+		{
+			"text": "MSC",
+			"displayText": "Mescalero",
+			"description": ""
+		},
+		{
+			"text": "LIP",
+			"displayText": "Lipan",
+			"description": ""
+		},
+		{
+			"text": "CHT",
+			"displayText": "Chorti",
+			"description": ""
+		},
+		{
+			"text": "MIS",
+			"displayText": "Miskito",
+			"description": ""
+		},
+		{
+			"text": "TAI",
+			"displayText": "Tairona",
+			"description": ""
+		},
+		{
+			"text": "CNP",
+			"displayText": "Can Pech",
+			"description": ""
+		},
+		{
+			"text": "TON",
+			"displayText": "Tonala",
+			"description": ""
+		},
+		{
+			"text": "YAQ",
+			"displayText": "Yaqui",
+			"description": ""
+		},
+		{
+			"text": "YKT",
+			"displayText": "Yokuts",
+			"description": ""
+		},
+		{
+			"text": "CAL",
+			"displayText": "California",
+			"description": ""
+		},
+		{
+			"text": "TEX",
+			"displayText": "Texas",
+			"description": ""
+		},
+		{
+			"text": "NSS",
+			"displayText": "New Providence",
+			"description": ""
+		},
+		{
+			"text": "PRY",
+			"displayText": "Port Royal",
+			"description": ""
+		},
+		{
+			"text": "LIB",
+			"displayText": "Libertatia",
+			"description": ""
+		},
+		{
+			"text": "TOR",
+			"displayText": "Tortuga",
+			"description": ""
+		},
+		{
+			"text": "MRK",
+			"displayText": "Marrakesh",
+			"description": ""
+		},
+		{
+			"text": "MRE",
+			"displayText": "Marehan",
+			"description": ""
+		},
+		{
+			"text": "MJE",
+			"displayText": "Majeerteen",
+			"description": ""
+		},
+		{
+			"text": "WAR",
+			"displayText": "Warsangali",
+			"description": ""
+		},
+		{
+			"text": "HOB",
+			"displayText": "Hobyo",
+			"description": ""
+		},
+		{
+			"text": "GLE",
+			"displayText": "Geledi",
+			"description": ""
+		},
+		{
+			"text": "KAF",
+			"displayText": "Kaffa",
+			"description": ""
+		},
+		{
+			"text": "MED",
+			"displayText": "Medri Bahri",
+			"description": ""
+		},
+		{
+			"text": "HAR",
+			"displayText": "Harar",
+			"description": ""
+		},
+		{
+			"text": "AFA",
+			"displayText": "Aussa",
+			"description": ""
+		},
+		{
+			"text": "ALO",
+			"displayText": "Alodia",
+			"description": ""
+		},
+		{
+			"text": "PTE",
+			"displayText": "Pate",
+			"description": ""
+		},
+		{
+			"text": "DAR",
+			"displayText": "Darfur",
+			"description": ""
+		},
+		{
+			"text": "CSU",
+			"displayText": "Cusco",
+			"description": ""
+		},
+		{
+			"text": "CCQ",
+			"displayText": "Calchaqui",
+			"description": ""
+		},
+		{
+			"text": "MPC",
+			"displayText": "Mapuche",
+			"description": ""
+		},
+		{
+			"text": "MCA",
+			"displayText": "Muisca",
+			"description": ""
+		},
+		{
+			"text": "QTO",
+			"displayText": "Quito",
+			"description": ""
+		},
+		{
+			"text": "CJA",
+			"displayText": "Cajamarca",
+			"description": ""
+		},
+		{
+			"text": "HJA",
+			"displayText": "Huyla",
+			"description": ""
+		},
+		{
+			"text": "PTG",
+			"displayText": "Potiguara",
+			"description": ""
+		},
+		{
+			"text": "TPQ",
+			"displayText": "Tupiniquim",
+			"description": ""
+		},
+		{
+			"text": "TUA",
+			"displayText": "Tapuia",
+			"description": ""
+		},
+		{
+			"text": "GUA",
+			"displayText": "Guarani",
+			"description": ""
+		},
+		{
+			"text": "CUA",
+			"displayText": "Charrua",
+			"description": ""
+		},
+		{
+			"text": "WKA",
+			"displayText": "Wanka",
+			"description": ""
+		},
+		{
+			"text": "CYA",
+			"displayText": "Chachapoya",
+			"description": ""
+		},
+		{
+			"text": "CLA",
+			"displayText": "Colla",
+			"description": ""
+		},
+		{
+			"text": "CRA",
+			"displayText": "Charca",
+			"description": ""
+		},
+		{
+			"text": "PCJ",
+			"displayText": "Pacajes",
+			"description": ""
+		},
+		{
+			"text": "TPA",
+			"displayText": "Tupinamba",
+			"description": ""
+		},
+		{
+			"text": "ARW",
+			"displayText": "Arawak",
+			"description": ""
+		},
+		{
+			"text": "TID",
+			"displayText": "Tidore",
+			"description": ""
+		},
+		{
+			"text": "TER",
+			"displayText": "Ternate",
+			"description": ""
+		},
+		{
+			"text": "MGD",
+			"displayText": "Maguindanao",
+			"description": ""
+		},
+		{
+			"text": "LUW",
+			"displayText": "Luwu",
+			"description": ""
+		},
+		{
+			"text": "LNO",
+			"displayText": "Lanao",
+			"description": ""
+		},
+		{
+			"text": "LFA",
+			"displayText": "Lanfang",
+			"description": ""
+		},
+		{
+			"text": "BNJ",
+			"displayText": "Banjar",
+			"description": ""
+		},
+		{
+			"text": "KUT",
+			"displayText": "Kutai",
+			"description": ""
+		},
+		{
+			"text": "BTN",
+			"displayText": "Buton",
+			"description": ""
+		},
+		{
+			"text": "CMI",
+			"displayText": "Miao",
+			"description": ""
+		},
+		{
+			"text": "CYI",
+			"displayText": "Yi",
+			"description": ""
+		},
+		{
+			"text": "CDL",
+			"displayText": "Dali",
+			"description": ""
+		},
+		{
+			"text": "CHH",
+			"displayText": "Chahar",
+			"description": ""
+		},
+		{
+			"text": "NDO",
+			"displayText": "Ndongo",
+			"description": ""
+		},
+		{
+			"text": "ANU",
+			"displayText": "Ainu",
+			"description": ""
+		},
+		{
+			"text": "EFR",
+			"displayText": "East Frisia",
+			"description": ""
+		},
+		{
+			"text": "SYN",
+			"displayText": "Synthetics",
+			"description": ""
+		},
+		{
+			"text": "BAR",
+			"displayText": "Bar",
+			"description": ""
+		},
+		{
+			"text": "HSA",
+			"displayText": "Lubeck",
+			"description": ""
+		},
+		{
+			"text": "SMO",
+			"displayText": "Smolensk",
+			"description": ""
+		},
+		{
+			"text": "NZH",
+			"displayText": "Nizhny Novgorod",
+			"description": ""
+		},
+		{
+			"text": "LAU",
+			"displayText": "Saxe-Lauenburg",
+			"description": ""
+		},
+		{
+			"text": "AAC",
+			"displayText": "Aachen",
+			"description": ""
+		},
+		{
+			"text": "ALE",
+			"displayText": "Alencon",
+			"description": ""
+		},
+		{
+			"text": "AUG",
+			"displayText": "Augsburg",
+			"description": ""
+		},
+		{
+			"text": "ULM",
+			"displayText": "Ulm",
+			"description": ""
+		},
+		{
+			"text": "MSA",
+			"displayText": "Malaya",
+			"description": ""
+		},
+		{
+			"text": "HIN",
+			"displayText": "Hindustan",
+			"description": ""
+		},
+		{
+			"text": "BHA",
+			"displayText": "Bharat",
+			"description": ""
+		},
+		{
+			"text": "CAM",
+			"displayText": "United Central America",
+			"description": ""
+		},
+		{
+			"text": "DNZ",
+			"displayText": "Danzig",
+			"description": ""
+		},
+		{
+			"text": "ETR",
+			"displayText": "Etruria",
+			"description": ""
+		},
+		{
+			"text": "FRN",
+			"displayText": "Frankfurt",
+			"description": ""
+		},
+		{
+			"text": "HAT",
+			"displayText": "Haiti",
+			"description": ""
+		},
+		{
+			"text": "IRQ",
+			"displayText": "Iraq",
+			"description": ""
+		},
+		{
+			"text": "KHO",
+			"displayText": "Khorasan",
+			"description": ""
+		},
+		{
+			"text": "KRA",
+			"displayText": "Krakow",
+			"description": ""
+		},
+		{
+			"text": "LIV",
+			"displayText": "Livonian Order",
+			"description": ""
+		},
+		{
+			"text": "NAP",
+			"displayText": "Naples",
+			"description": ""
+		},
+		{
+			"text": "PRG",
+			"displayText": "Paraguay",
+			"description": ""
+		},
+		{
+			"text": "QIN",
+			"displayText": "Qin",
+			"description": ""
+		},
+		{
+			"text": "RFR",
+			"displayText": "Nanbu",
+			"description": ""
+		},
+		{
+			"text": "SOK",
+			"displayText": "Sokoto",
+			"description": ""
+		},
+		{
+			"text": "SPI",
+			"displayText": "Sardinia-Piedmont",
+			"description": ""
+		},
+		{
+			"text": "SYR",
+			"displayText": "Syria",
+			"description": ""
+		},
+		{
+			"text": "VNZ",
+			"displayText": "Venezuela",
+			"description": ""
+		},
+		{
+			"text": "WES",
+			"displayText": "Westphalia",
+			"description": ""
+		},
+		{
+			"text": "WUU",
+			"displayText": "Wu",
+			"description": ""
+		},
+		{
+			"text": "RMN",
+			"displayText": "Romania",
+			"description": ""
+		},
+		{
+			"text": "AYD",
+			"displayText": "Aydin",
+			"description": ""
+		},
+		{
+			"text": "AQU",
+			"displayText": "Aquileia",
+			"description": ""
+		},
+		{
+			"text": "BYZ",
+			"displayText": "Byzantium",
+			"description": ""
+		},
+		{
+			"text": "MAJ",
+			"displayText": "Majapahit",
+			"description": ""
+		},
+		{
+			"text": "MEI",
+			"displayText": "Meissen",
+			"description": ""
+		},
+		{
+			"text": "SUK",
+			"displayText": "Sukhothai",
+			"description": ""
+		},
+		{
+			"text": "GAL",
+			"displayText": "Galicia",
+			"description": ""
+		},
+		{
+			"text": "PLT",
+			"displayText": "Polotsk",
+			"description": ""
+		},
+		{
+			"text": "SCA",
+			"displayText": "Scandinavia",
+			"description": ""
+		},
+		{
+			"text": "ACH",
+			"displayText": "Achaea",
+			"description": ""
+		},
+		{
+			"text": "KOJ",
+			"displayText": "Jerusalem",
+			"description": ""
+		},
+		{
+			"text": "BER",
+			"displayText": "Berry",
+			"description": ""
+		},
+		{
+			"text": "HLR",
+			"displayText": "Holy Roman Empire",
+			"description": ""
+		},
+		{
+			"text": "SRU",
+			"displayText": "Saruhan",
+			"description": ""
+		},
+		{
+			"text": "MEN",
+			"displayText": "Mentese",
+			"description": ""
+		},
+		{
+			"text": "RAM",
+			"displayText": "Ramazan",
+			"description": ""
+		},
+		{
+			"text": "EPI",
+			"displayText": "Epirus",
+			"description": ""
+		}
+	],
+	"equal": [
+	],
+	"bracket": [
+		{
+			"text": "ADA",
+			"displayText": "Adal (clause)",
+			"description": ""
+		},
+		{
+			"text": "ADE",
+			"displayText": "Aden (clause)",
+			"description": ""
+		},
+		{
+			"text": "AKK",
+			"displayText": "Aq Qoyunlu (clause)",
+			"description": ""
+		},
+		{
+			"text": "ALB",
+			"displayText": "Albania (clause)",
+			"description": ""
+		},
+		{
+			"text": "ALG",
+			"displayText": "Algiers (clause)",
+			"description": ""
+		},
+		{
+			"text": "ALH",
+			"displayText": "Haasa (clause)",
+			"description": ""
+		},
+		{
+			"text": "ALS",
+			"displayText": "Alsace (clause)",
+			"description": ""
+		},
+		{
+			"text": "AMG",
+			"displayText": "Armagnac (clause)",
+			"description": ""
+		},
+		{
+			"text": "ANH",
+			"displayText": "Anhalt (clause)",
+			"description": ""
+		},
+		{
+			"text": "ANN",
+			"displayText": "Annam (clause)",
+			"description": ""
+		},
+		{
+			"text": "ANS",
+			"displayText": "Ansbach (clause)",
+			"description": ""
+		},
+		{
+			"text": "ARA",
+			"displayText": "Aragon (clause)",
+			"description": ""
+		},
+		{
+			"text": "ARK",
+			"displayText": "Arakan (clause)",
+			"description": ""
+		},
+		{
+			"text": "ARM",
+			"displayText": "Armenia (clause)",
+			"description": ""
+		},
+		{
+			"text": "ASH",
+			"displayText": "Ashanti (clause)",
+			"description": ""
+		},
+		{
+			"text": "ASS",
+			"displayText": "Assam (clause)",
+			"description": ""
+		},
+		{
+			"text": "AST",
+			"displayText": "Astrakhan (clause)",
+			"description": ""
+		},
+		{
+			"text": "ATH",
+			"displayText": "Athens (clause)",
+			"description": ""
+		},
+		{
+			"text": "ATJ",
+			"displayText": "Aceh (clause)",
+			"description": ""
+		},
+		{
+			"text": "AUV",
+			"displayText": "Auvergne (clause)",
+			"description": ""
+		},
+		{
+			"text": "AVI",
+			"displayText": "Avignon (clause)",
+			"description": ""
+		},
+		{
+			"text": "AYU",
+			"displayText": "Ayutthaya (clause)",
+			"description": ""
+		},
+		{
+			"text": "AZT",
+			"displayText": "Aztec (clause)",
+			"description": ""
+		},
+		{
+			"text": "BAD",
+			"displayText": "Baden (clause)",
+			"description": ""
+		},
+		{
+			"text": "BLI",
+			"displayText": "Bali (clause)",
+			"description": ""
+		},
+		{
+			"text": "BAN",
+			"displayText": "Banten (clause)",
+			"description": ""
+		},
+		{
+			"text": "BAL",
+			"displayText": "Baluchistan (clause)",
+			"description": ""
+		},
+		{
+			"text": "BAV",
+			"displayText": "Bavaria (clause)",
+			"description": ""
+		},
+		{
+			"text": "BEI",
+			"displayText": "Brunei (clause)",
+			"description": ""
+		},
+		{
+			"text": "BEN",
+			"displayText": "Benin (clause)",
+			"description": ""
+		},
+		{
+			"text": "BHU",
+			"displayText": "Bhutan (clause)",
+			"description": ""
+		},
+		{
+			"text": "BIJ",
+			"displayText": "Bijapur (clause)",
+			"description": ""
+		},
+		{
+			"text": "BND",
+			"displayText": "Bundelkhand (clause)",
+			"description": ""
+		},
+		{
+			"text": "BNG",
+			"displayText": "Bengal (clause)",
+			"description": ""
+		},
+		{
+			"text": "BOH",
+			"displayText": "Bohemia (clause)",
+			"description": ""
+		},
+		{
+			"text": "BOS",
+			"displayText": "Bosnia (clause)",
+			"description": ""
+		},
+		{
+			"text": "BOU",
+			"displayText": "Bourbonnais (clause)",
+			"description": ""
+		},
+		{
+			"text": "BRA",
+			"displayText": "Brandenburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "BRB",
+			"displayText": "Brabant (clause)",
+			"description": ""
+		},
+		{
+			"text": "BRE",
+			"displayText": "Bremen (clause)",
+			"description": ""
+		},
+		{
+			"text": "BRI",
+			"displayText": "Brittany (clause)",
+			"description": ""
+		},
+		{
+			"text": "BRR",
+			"displayText": "Berar (clause)",
+			"description": ""
+		},
+		{
+			"text": "BRU",
+			"displayText": "Brunswick (clause)",
+			"description": ""
+		},
+		{
+			"text": "BRZ",
+			"displayText": "Brazil (clause)",
+			"description": ""
+		},
+		{
+			"text": "BUL",
+			"displayText": "Bulgaria (clause)",
+			"description": ""
+		},
+		{
+			"text": "BUR",
+			"displayText": "Burgundy (clause)",
+			"description": ""
+		},
+		{
+			"text": "CAN",
+			"displayText": "Canada (clause)",
+			"description": ""
+		},
+		{
+			"text": "CAS",
+			"displayText": "Castile (clause)",
+			"description": ""
+		},
+		{
+			"text": "CAT",
+			"displayText": "Catalonia (clause)",
+			"description": ""
+		},
+		{
+			"text": "CEP",
+			"displayText": "Corfu (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHA",
+			"displayText": "Champa (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHE",
+			"displayText": "Cherokee (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHG",
+			"displayText": "Chagatai (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHK",
+			"displayText": "Champasak (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHL",
+			"displayText": "Chile (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHM",
+			"displayText": "Chimu (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHP",
+			"displayText": "Champagne (clause)",
+			"description": ""
+		},
+		{
+			"text": "CND",
+			"displayText": "Candar (clause)",
+			"description": ""
+		},
+		{
+			"text": "COL",
+			"displayText": "Colombia (clause)",
+			"description": ""
+		},
+		{
+			"text": "CNN",
+			"displayText": "Clanricarde (clause)",
+			"description": ""
+		},
+		{
+			"text": "COR",
+			"displayText": "Corsica (clause)",
+			"description": ""
+		},
+		{
+			"text": "CRE",
+			"displayText": "Creek (clause)",
+			"description": ""
+		},
+		{
+			"text": "CRI",
+			"displayText": "Crimea (clause)",
+			"description": ""
+		},
+		{
+			"text": "CRN",
+			"displayText": "Cornwall (clause)",
+			"description": ""
+		},
+		{
+			"text": "CRO",
+			"displayText": "Croatia (clause)",
+			"description": ""
+		},
+		{
+			"text": "CRT",
+			"displayText": "Crete (clause)",
+			"description": ""
+		},
+		{
+			"text": "CYP",
+			"displayText": "Cyprus (clause)",
+			"description": ""
+		},
+		{
+			"text": "DAI",
+			"displayText": "Dai Viet (clause)",
+			"description": ""
+		},
+		{
+			"text": "DAN",
+			"displayText": "Denmark (clause)",
+			"description": ""
+		},
+		{
+			"text": "DAU",
+			"displayText": "Dauphine (clause)",
+			"description": ""
+		},
+		{
+			"text": "DLH",
+			"displayText": "Delhi (clause)",
+			"description": ""
+		},
+		{
+			"text": "DUL",
+			"displayText": "Dulkadir (clause)",
+			"description": ""
+		},
+		{
+			"text": "ENG",
+			"displayText": "England (clause)",
+			"description": ""
+		},
+		{
+			"text": "ETH",
+			"displayText": "Ethiopia (clause)",
+			"description": ""
+		},
+		{
+			"text": "FER",
+			"displayText": "Ferrara (clause)",
+			"description": ""
+		},
+		{
+			"text": "FEZ",
+			"displayText": "Fez (clause)",
+			"description": ""
+		},
+		{
+			"text": "FIN",
+			"displayText": "Finland (clause)",
+			"description": ""
+		},
+		{
+			"text": "FLA",
+			"displayText": "Flanders (clause)",
+			"description": ""
+		},
+		{
+			"text": "FOI",
+			"displayText": "Foix (clause)",
+			"description": ""
+		},
+		{
+			"text": "FRA",
+			"displayText": "France (clause)",
+			"description": ""
+		},
+		{
+			"text": "FRI",
+			"displayText": "Friesland (clause)",
+			"description": ""
+		},
+		{
+			"text": "GBR",
+			"displayText": "Great Britain (clause)",
+			"description": ""
+		},
+		{
+			"text": "GDW",
+			"displayText": "Garha (clause)",
+			"description": ""
+		},
+		{
+			"text": "GEL",
+			"displayText": "Gelre (clause)",
+			"description": ""
+		},
+		{
+			"text": "GEN",
+			"displayText": "Genoa (clause)",
+			"description": ""
+		},
+		{
+			"text": "GEO",
+			"displayText": "Georgia (clause)",
+			"description": ""
+		},
+		{
+			"text": "GER",
+			"displayText": "Germany (clause)",
+			"description": ""
+		},
+		{
+			"text": "GOL",
+			"displayText": "Great Horde (clause)",
+			"description": ""
+		},
+		{
+			"text": "GOT",
+			"displayText": "Gotland (clause)",
+			"description": ""
+		},
+		{
+			"text": "GRA",
+			"displayText": "Granada (clause)",
+			"description": ""
+		},
+		{
+			"text": "GRE",
+			"displayText": "Greece (clause)",
+			"description": ""
+		},
+		{
+			"text": "GUJ",
+			"displayText": "Gujarat (clause)",
+			"description": ""
+		},
+		{
+			"text": "GUY",
+			"displayText": "Gascony (clause)",
+			"description": ""
+		},
+		{
+			"text": "HAB",
+			"displayText": "Austria (clause)",
+			"description": ""
+		},
+		{
+			"text": "HAI",
+			"displayText": "Hainaut (clause)",
+			"description": ""
+		},
+		{
+			"text": "HAM",
+			"displayText": "Hamburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "HAN",
+			"displayText": "Hanover (clause)",
+			"description": ""
+		},
+		{
+			"text": "HAU",
+			"displayText": "Hausa (clause)",
+			"description": ""
+		},
+		{
+			"text": "HED",
+			"displayText": "Hejaz (clause)",
+			"description": ""
+		},
+		{
+			"text": "HES",
+			"displayText": "Hesse (clause)",
+			"description": ""
+		},
+		{
+			"text": "HOL",
+			"displayText": "Holland (clause)",
+			"description": ""
+		},
+		{
+			"text": "HUN",
+			"displayText": "Hungary (clause)",
+			"description": ""
+		},
+		{
+			"text": "HUR",
+			"displayText": "Huron (clause)",
+			"description": ""
+		},
+		{
+			"text": "INC",
+			"displayText": "Inca (clause)",
+			"description": ""
+		},
+		{
+			"text": "IRE",
+			"displayText": "Ireland (clause)",
+			"description": ""
+		},
+		{
+			"text": "IRO",
+			"displayText": "Iroquois (clause)",
+			"description": ""
+		},
+		{
+			"text": "ITA",
+			"displayText": "Italy (clause)",
+			"description": ""
+		},
+		{
+			"text": "JAP",
+			"displayText": "Japan (clause)",
+			"description": ""
+		},
+		{
+			"text": "KAR",
+			"displayText": "Karaman (clause)",
+			"description": ""
+		},
+		{
+			"text": "KAZ",
+			"displayText": "Kazan (clause)",
+			"description": ""
+		},
+		{
+			"text": "KBO",
+			"displayText": "Kanem Bornu (clause)",
+			"description": ""
+		},
+		{
+			"text": "KHA",
+			"displayText": "Mongolia (clause)",
+			"description": ""
+		},
+		{
+			"text": "KHD",
+			"displayText": "Khandesh (clause)",
+			"description": ""
+		},
+		{
+			"text": "KHI",
+			"displayText": "Khiva (clause)",
+			"description": ""
+		},
+		{
+			"text": "KHM",
+			"displayText": "Khmer (clause)",
+			"description": ""
+		},
+		{
+			"text": "KLE",
+			"displayText": "Cleves (clause)",
+			"description": ""
+		},
+		{
+			"text": "KNI",
+			"displayText": "The Knights (clause)",
+			"description": ""
+		},
+		{
+			"text": "KOK",
+			"displayText": "Ferghana (clause)",
+			"description": ""
+		},
+		{
+			"text": "KOL",
+			"displayText": "Cologne (clause)",
+			"description": ""
+		},
+		{
+			"text": "KON",
+			"displayText": "Kongo (clause)",
+			"description": ""
+		},
+		{
+			"text": "KOR",
+			"displayText": "Korea (clause)",
+			"description": ""
+		},
+		{
+			"text": "KRK",
+			"displayText": "Carnatic (clause)",
+			"description": ""
+		},
+		{
+			"text": "KSH",
+			"displayText": "Kashmir (clause)",
+			"description": ""
+		},
+		{
+			"text": "KUR",
+			"displayText": "Kurland (clause)",
+			"description": ""
+		},
+		{
+			"text": "KZH",
+			"displayText": "Kazakh (clause)",
+			"description": ""
+		},
+		{
+			"text": "LAN",
+			"displayText": "Florence (clause)",
+			"description": ""
+		},
+		{
+			"text": "LAP",
+			"displayText": "La Plata (clause)",
+			"description": ""
+		},
+		{
+			"text": "LEI",
+			"displayText": "Leinster (clause)",
+			"description": ""
+		},
+		{
+			"text": "LIE",
+			"displayText": "Liege (clause)",
+			"description": ""
+		},
+		{
+			"text": "LIT",
+			"displayText": "Lithuania (clause)",
+			"description": ""
+		},
+		{
+			"text": "LNA",
+			"displayText": "Lan Na (clause)",
+			"description": ""
+		},
+		{
+			"text": "LOA",
+			"displayText": "Loango (clause)",
+			"description": ""
+		},
+		{
+			"text": "LOR",
+			"displayText": "Lorraine (clause)",
+			"description": ""
+		},
+		{
+			"text": "LOU",
+			"displayText": "Louisiana (clause)",
+			"description": ""
+		},
+		{
+			"text": "LUA",
+			"displayText": "Luang Prabang (clause)",
+			"description": ""
+		},
+		{
+			"text": "LUN",
+			"displayText": "Luneburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "LUX",
+			"displayText": "Luxembourg (clause)",
+			"description": ""
+		},
+		{
+			"text": "LXA",
+			"displayText": "Lan Xang (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAD",
+			"displayText": "Madurai (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAG",
+			"displayText": "Magdeburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAI",
+			"displayText": "Mainz (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAL",
+			"displayText": "Mali (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAM",
+			"displayText": "Mamluks (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAN",
+			"displayText": "Mantua (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAY",
+			"displayText": "Maya (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAZ",
+			"displayText": "Mazovia (clause)",
+			"description": ""
+		},
+		{
+			"text": "MCH",
+			"displayText": "Manchu (clause)",
+			"description": ""
+		},
+		{
+			"text": "MEX",
+			"displayText": "Mexico (clause)",
+			"description": ""
+		},
+		{
+			"text": "MKL",
+			"displayText": "Mecklenburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "MKS",
+			"displayText": "Makassar (clause)",
+			"description": ""
+		},
+		{
+			"text": "MLC",
+			"displayText": "Malacca (clause)",
+			"description": ""
+		},
+		{
+			"text": "MLO",
+			"displayText": "Milan (clause)",
+			"description": ""
+		},
+		{
+			"text": "MLW",
+			"displayText": "Malwa (clause)",
+			"description": ""
+		},
+		{
+			"text": "MNG",
+			"displayText": "Ming (clause)",
+			"description": ""
+		},
+		{
+			"text": "MNS",
+			"displayText": "Thomond (clause)",
+			"description": ""
+		},
+		{
+			"text": "MOD",
+			"displayText": "Modena (clause)",
+			"description": ""
+		},
+		{
+			"text": "MOE",
+			"displayText": "Morea (clause)",
+			"description": ""
+		},
+		{
+			"text": "MOL",
+			"displayText": "Moldavia (clause)",
+			"description": ""
+		},
+		{
+			"text": "MON",
+			"displayText": "Montenegro (clause)",
+			"description": ""
+		},
+		{
+			"text": "MOR",
+			"displayText": "Morocco (clause)",
+			"description": ""
+		},
+		{
+			"text": "MOS",
+			"displayText": "Muscovy (clause)",
+			"description": ""
+		},
+		{
+			"text": "MTR",
+			"displayText": "Mataram (clause)",
+			"description": ""
+		},
+		{
+			"text": "MUG",
+			"displayText": "Mughals (clause)",
+			"description": ""
+		},
+		{
+			"text": "MUN",
+			"displayText": "Munster (clause)",
+			"description": ""
+		},
+		{
+			"text": "MYS",
+			"displayText": "Mysore (clause)",
+			"description": ""
+		},
+		{
+			"text": "NAJ",
+			"displayText": "Najd (clause)",
+			"description": ""
+		},
+		{
+			"text": "NAV",
+			"displayText": "Navarra (clause)",
+			"description": ""
+		},
+		{
+			"text": "NAX",
+			"displayText": "Naxos (clause)",
+			"description": ""
+		},
+		{
+			"text": "NED",
+			"displayText": "Netherlands (clause)",
+			"description": ""
+		},
+		{
+			"text": "NEV",
+			"displayText": "Nevers (clause)",
+			"description": ""
+		},
+		{
+			"text": "NOG",
+			"displayText": "Nogai (clause)",
+			"description": ""
+		},
+		{
+			"text": "NOL",
+			"displayText": "Northumberland (clause)",
+			"description": ""
+		},
+		{
+			"text": "NOR",
+			"displayText": "Norway (clause)",
+			"description": ""
+		},
+		{
+			"text": "NOV",
+			"displayText": "Novgorod (clause)",
+			"description": ""
+		},
+		{
+			"text": "NPL",
+			"displayText": "Nepal (clause)",
+			"description": ""
+		},
+		{
+			"text": "NRM",
+			"displayText": "Normandy (clause)",
+			"description": ""
+		},
+		{
+			"text": "NUB",
+			"displayText": "Funj (clause)",
+			"description": ""
+		},
+		{
+			"text": "ODH",
+			"displayText": "Oudh (clause)",
+			"description": ""
+		},
+		{
+			"text": "OIR",
+			"displayText": "Oirat (clause)",
+			"description": ""
+		},
+		{
+			"text": "OLD",
+			"displayText": "Oldenburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "OMA",
+			"displayText": "Oman (clause)",
+			"description": ""
+		},
+		{
+			"text": "ORI",
+			"displayText": "Orissa (clause)",
+			"description": ""
+		},
+		{
+			"text": "ORL",
+			"displayText": "Orleans (clause)",
+			"description": ""
+		},
+		{
+			"text": "OYO",
+			"displayText": "Oyo (clause)",
+			"description": ""
+		},
+		{
+			"text": "PAL",
+			"displayText": "The Palatinate (clause)",
+			"description": ""
+		},
+		{
+			"text": "PAP",
+			"displayText": "The Papal State (clause)",
+			"description": ""
+		},
+		{
+			"text": "PAR",
+			"displayText": "Parma (clause)",
+			"description": ""
+		},
+		{
+			"text": "PAT",
+			"displayText": "Pattani (clause)",
+			"description": ""
+		},
+		{
+			"text": "PEG",
+			"displayText": "Pegu (clause)",
+			"description": ""
+		},
+		{
+			"text": "PER",
+			"displayText": "Persia (clause)",
+			"description": ""
+		},
+		{
+			"text": "PEU",
+			"displayText": "Peru (clause)",
+			"description": ""
+		},
+		{
+			"text": "PIC",
+			"displayText": "Picardy (clause)",
+			"description": ""
+		},
+		{
+			"text": "PIS",
+			"displayText": "Pisa (clause)",
+			"description": ""
+		},
+		{
+			"text": "POL",
+			"displayText": "Poland (clause)",
+			"description": ""
+		},
+		{
+			"text": "POM",
+			"displayText": "Pomerania (clause)",
+			"description": ""
+		},
+		{
+			"text": "POR",
+			"displayText": "Portugal (clause)",
+			"description": ""
+		},
+		{
+			"text": "PRO",
+			"displayText": "Provence (clause)",
+			"description": ""
+		},
+		{
+			"text": "PRU",
+			"displayText": "Prussia (clause)",
+			"description": ""
+		},
+		{
+			"text": "PSK",
+			"displayText": "Pskov (clause)",
+			"description": ""
+		},
+		{
+			"text": "PUN",
+			"displayText": "Punjab (clause)",
+			"description": ""
+		},
+		{
+			"text": "QAR",
+			"displayText": "Qara Qoyunlu (clause)",
+			"description": ""
+		},
+		{
+			"text": "QAS",
+			"displayText": "Qasim (clause)",
+			"description": ""
+		},
+		{
+			"text": "QUE",
+			"displayText": "Quebec (clause)",
+			"description": ""
+		},
+		{
+			"text": "RAG",
+			"displayText": "Ragusa (clause)",
+			"description": ""
+		},
+		{
+			"text": "REB",
+			"displayText": "Rebels (clause)",
+			"description": ""
+		},
+		{
+			"text": "RIG",
+			"displayText": "Riga (clause)",
+			"description": ""
+		},
+		{
+			"text": "RUS",
+			"displayText": "Russia (clause)",
+			"description": ""
+		},
+		{
+			"text": "RYA",
+			"displayText": "Ryazan (clause)",
+			"description": ""
+		},
+		{
+			"text": "RYU",
+			"displayText": "Ryukyu (clause)",
+			"description": ""
+		},
+		{
+			"text": "SAR",
+			"displayText": "Sardinia (clause)",
+			"description": ""
+		},
+		{
+			"text": "SAV",
+			"displayText": "Savoy (clause)",
+			"description": ""
+		},
+		{
+			"text": "SAX",
+			"displayText": "Saxony (clause)",
+			"description": ""
+		},
+		{
+			"text": "SCO",
+			"displayText": "Scotland (clause)",
+			"description": ""
+		},
+		{
+			"text": "SER",
+			"displayText": "Serbia (clause)",
+			"description": ""
+		},
+		{
+			"text": "SHA",
+			"displayText": "Shawnee (clause)",
+			"description": ""
+		},
+		{
+			"text": "SHL",
+			"displayText": "Holstein (clause)",
+			"description": ""
+		},
+		{
+			"text": "SHR",
+			"displayText": "Sharjah (clause)",
+			"description": ""
+		},
+		{
+			"text": "SHY",
+			"displayText": "Uzbek (clause)",
+			"description": ""
+		},
+		{
+			"text": "SIB",
+			"displayText": "Sibir (clause)",
+			"description": ""
+		},
+		{
+			"text": "SIC",
+			"displayText": "Sicily (clause)",
+			"description": ""
+		},
+		{
+			"text": "SIE",
+			"displayText": "Siena (clause)",
+			"description": ""
+		},
+		{
+			"text": "SIL",
+			"displayText": "Silesia (clause)",
+			"description": ""
+		},
+		{
+			"text": "SLZ",
+			"displayText": "Salzburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "SND",
+			"displayText": "Sindh (clause)",
+			"description": ""
+		},
+		{
+			"text": "SOF",
+			"displayText": "Segu (clause)",
+			"description": ""
+		},
+		{
+			"text": "SON",
+			"displayText": "Songhai (clause)",
+			"description": ""
+		},
+		{
+			"text": "SPA",
+			"displayText": "Spain (clause)",
+			"description": ""
+		},
+		{
+			"text": "SST",
+			"displayText": "Shan (clause)",
+			"description": ""
+		},
+		{
+			"text": "STY",
+			"displayText": "Styria (clause)",
+			"description": ""
+		},
+		{
+			"text": "SUL",
+			"displayText": "Sulu (clause)",
+			"description": ""
+		},
+		{
+			"text": "SWE",
+			"displayText": "Sweden (clause)",
+			"description": ""
+		},
+		{
+			"text": "SWI",
+			"displayText": "Switzerland (clause)",
+			"description": ""
+		},
+		{
+			"text": "TAU",
+			"displayText": "Taungu (clause)",
+			"description": ""
+		},
+		{
+			"text": "TEU",
+			"displayText": "Teutonic Order (clause)",
+			"description": ""
+		},
+		{
+			"text": "THU",
+			"displayText": "Thuringia (clause)",
+			"description": ""
+		},
+		{
+			"text": "TIB",
+			"displayText": "Tibet (clause)",
+			"description": ""
+		},
+		{
+			"text": "TIM",
+			"displayText": "Timurids (clause)",
+			"description": ""
+		},
+		{
+			"text": "TIR",
+			"displayText": "Tirol (clause)",
+			"description": ""
+		},
+		{
+			"text": "TOK",
+			"displayText": "Tonkin (clause)",
+			"description": ""
+		},
+		{
+			"text": "TOU",
+			"displayText": "Toulouse (clause)",
+			"description": ""
+		},
+		{
+			"text": "TRA",
+			"displayText": "Transylvania (clause)",
+			"description": ""
+		},
+		{
+			"text": "TRE",
+			"displayText": "Trebizond (clause)",
+			"description": ""
+		},
+		{
+			"text": "TRI",
+			"displayText": "Trier (clause)",
+			"description": ""
+		},
+		{
+			"text": "TRP",
+			"displayText": "Tripoli (clause)",
+			"description": ""
+		},
+		{
+			"text": "TUN",
+			"displayText": "Tunis (clause)",
+			"description": ""
+		},
+		{
+			"text": "TUR",
+			"displayText": "Ottomans (clause)",
+			"description": ""
+		},
+		{
+			"text": "TUS",
+			"displayText": "Tuscany (clause)",
+			"description": ""
+		},
+		{
+			"text": "TVE",
+			"displayText": "Tver (clause)",
+			"description": ""
+		},
+		{
+			"text": "TYR",
+			"displayText": "Tyrone (clause)",
+			"description": ""
+		},
+		{
+			"text": "UKR",
+			"displayText": "Ruthenia (clause)",
+			"description": ""
+		},
+		{
+			"text": "URB",
+			"displayText": "Urbino (clause)",
+			"description": ""
+		},
+		{
+			"text": "USA",
+			"displayText": "United States (clause)",
+			"description": ""
+		},
+		{
+			"text": "UTR",
+			"displayText": "Utrecht (clause)",
+			"description": ""
+		},
+		{
+			"text": "WAL",
+			"displayText": "Wallachia (clause)",
+			"description": ""
+		},
+		{
+			"text": "WBG",
+			"displayText": "Wurzburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "VEN",
+			"displayText": "Venice (clause)",
+			"description": ""
+		},
+		{
+			"text": "VIE",
+			"displayText": "Vientiane (clause)",
+			"description": ""
+		},
+		{
+			"text": "VIJ",
+			"displayText": "Vijayanagar (clause)",
+			"description": ""
+		},
+		{
+			"text": "WLS",
+			"displayText": "Wales (clause)",
+			"description": ""
+		},
+		{
+			"text": "WUR",
+			"displayText": "Wurttemberg (clause)",
+			"description": ""
+		},
+		{
+			"text": "YAR",
+			"displayText": "Yaroslavl (clause)",
+			"description": ""
+		},
+		{
+			"text": "YOR",
+			"displayText": "Andhra (clause)",
+			"description": ""
+		},
+		{
+			"text": "ZAP",
+			"displayText": "Zapotec (clause)",
+			"description": ""
+		},
+		{
+			"text": "ZAZ",
+			"displayText": "Zaporozhie (clause)",
+			"description": ""
+		},
+		{
+			"text": "ZIM",
+			"displayText": "Mutapa (clause)",
+			"description": ""
+		},
+		{
+			"text": "NAT",
+			"displayText": "Natives (clause)",
+			"description": ""
+		},
+		{
+			"text": "PIR",
+			"displayText": "Pirates (clause)",
+			"description": ""
+		},
+		{
+			"text": "AMA",
+			"displayText": "Amago (clause)",
+			"description": ""
+		},
+		{
+			"text": "ASA",
+			"displayText": "Asakura (clause)",
+			"description": ""
+		},
+		{
+			"text": "CSK",
+			"displayText": "Chosokabe (clause)",
+			"description": ""
+		},
+		{
+			"text": "DTE",
+			"displayText": "Date (clause)",
+			"description": ""
+		},
+		{
+			"text": "HJO",
+			"displayText": "Hojo (clause)",
+			"description": ""
+		},
+		{
+			"text": "HSK",
+			"displayText": "Hosokawa (clause)",
+			"description": ""
+		},
+		{
+			"text": "HTK",
+			"displayText": "Hatakeyama (clause)",
+			"description": ""
+		},
+		{
+			"text": "IKE",
+			"displayText": "Ikeda (clause)",
+			"description": ""
+		},
+		{
+			"text": "IMG",
+			"displayText": "Imagawa (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAE",
+			"displayText": "Maeda (clause)",
+			"description": ""
+		},
+		{
+			"text": "MRI",
+			"displayText": "Mori (clause)",
+			"description": ""
+		},
+		{
+			"text": "ODA",
+			"displayText": "Oda (clause)",
+			"description": ""
+		},
+		{
+			"text": "OTM",
+			"displayText": "Otomo (clause)",
+			"description": ""
+		},
+		{
+			"text": "OUC",
+			"displayText": "Ouchi (clause)",
+			"description": ""
+		},
+		{
+			"text": "SBA",
+			"displayText": "Shiba (clause)",
+			"description": ""
+		},
+		{
+			"text": "SMZ",
+			"displayText": "Shimazu (clause)",
+			"description": ""
+		},
+		{
+			"text": "TKD",
+			"displayText": "Takeda (clause)",
+			"description": ""
+		},
+		{
+			"text": "TKG",
+			"displayText": "Tokugawa (clause)",
+			"description": ""
+		},
+		{
+			"text": "UES",
+			"displayText": "Uesugi (clause)",
+			"description": ""
+		},
+		{
+			"text": "YMN",
+			"displayText": "Yamana (clause)",
+			"description": ""
+		},
+		{
+			"text": "JNP",
+			"displayText": "Jaunpur (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAW",
+			"displayText": "Marwar (clause)",
+			"description": ""
+		},
+		{
+			"text": "MER",
+			"displayText": "Mewar (clause)",
+			"description": ""
+		},
+		{
+			"text": "MUL",
+			"displayText": "Multan (clause)",
+			"description": ""
+		},
+		{
+			"text": "JAN",
+			"displayText": "Jangladesh (clause)",
+			"description": ""
+		},
+		{
+			"text": "GRJ",
+			"displayText": "Garjat (clause)",
+			"description": ""
+		},
+		{
+			"text": "GWA",
+			"displayText": "Gwalior (clause)",
+			"description": ""
+		},
+		{
+			"text": "DHU",
+			"displayText": "Dhundhar (clause)",
+			"description": ""
+		},
+		{
+			"text": "KLN",
+			"displayText": "Keladi (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAB",
+			"displayText": "Calicut (clause)",
+			"description": ""
+		},
+		{
+			"text": "MEW",
+			"displayText": "Mewat (clause)",
+			"description": ""
+		},
+		{
+			"text": "BST",
+			"displayText": "Bastar (clause)",
+			"description": ""
+		},
+		{
+			"text": "JSL",
+			"displayText": "Jaisalmer (clause)",
+			"description": ""
+		},
+		{
+			"text": "KAC",
+			"displayText": "Kachar (clause)",
+			"description": ""
+		},
+		{
+			"text": "KMT",
+			"displayText": "Koch (clause)",
+			"description": ""
+		},
+		{
+			"text": "KGR",
+			"displayText": "Kangra (clause)",
+			"description": ""
+		},
+		{
+			"text": "KAT",
+			"displayText": "Kutch (clause)",
+			"description": ""
+		},
+		{
+			"text": "KOC",
+			"displayText": "Kochin (clause)",
+			"description": ""
+		},
+		{
+			"text": "AHM",
+			"displayText": "Ahmednagar (clause)",
+			"description": ""
+		},
+		{
+			"text": "BAH",
+			"displayText": "Bahmanis (clause)",
+			"description": ""
+		},
+		{
+			"text": "NAG",
+			"displayText": "Nagpur (clause)",
+			"description": ""
+		},
+		{
+			"text": "BDA",
+			"displayText": "Baroda (clause)",
+			"description": ""
+		},
+		{
+			"text": "GOC",
+			"displayText": "Golkonda (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAR",
+			"displayText": "Marathas (clause)",
+			"description": ""
+		},
+		{
+			"text": "VND",
+			"displayText": "Venad (clause)",
+			"description": ""
+		},
+		{
+			"text": "DEC",
+			"displayText": "Deccan (clause)",
+			"description": ""
+		},
+		{
+			"text": "CZH",
+			"displayText": "Zhou (clause)",
+			"description": ""
+		},
+		{
+			"text": "CSH",
+			"displayText": "Shun (clause)",
+			"description": ""
+		},
+		{
+			"text": "CXI",
+			"displayText": "Xi (clause)",
+			"description": ""
+		},
+		{
+			"text": "JOL",
+			"displayText": "Jolof (clause)",
+			"description": ""
+		},
+		{
+			"text": "PLC",
+			"displayText": "Commonwealth (clause)",
+			"description": ""
+		},
+		{
+			"text": "PRM",
+			"displayText": "Perm (clause)",
+			"description": ""
+		},
+		{
+			"text": "CEY",
+			"displayText": "Kotte (clause)",
+			"description": ""
+		},
+		{
+			"text": "AFG",
+			"displayText": "Afghanistan (clause)",
+			"description": ""
+		},
+		{
+			"text": "QNG",
+			"displayText": "Qing (clause)",
+			"description": ""
+		},
+		{
+			"text": "ABE",
+			"displayText": "Abenaki (clause)",
+			"description": ""
+		},
+		{
+			"text": "APA",
+			"displayText": "Apache (clause)",
+			"description": ""
+		},
+		{
+			"text": "ASI",
+			"displayText": "Assiniboine (clause)",
+			"description": ""
+		},
+		{
+			"text": "BLA",
+			"displayText": "Blackfoot (clause)",
+			"description": ""
+		},
+		{
+			"text": "CAD",
+			"displayText": "Caddo (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHI",
+			"displayText": "Chickasaw (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHO",
+			"displayText": "Choctaw (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHY",
+			"displayText": "Cheyenne (clause)",
+			"description": ""
+		},
+		{
+			"text": "COM",
+			"displayText": "Comanche (clause)",
+			"description": ""
+		},
+		{
+			"text": "FOX",
+			"displayText": "Fox (clause)",
+			"description": ""
+		},
+		{
+			"text": "ILL",
+			"displayText": "Illiniwek (clause)",
+			"description": ""
+		},
+		{
+			"text": "LEN",
+			"displayText": "Lenape (clause)",
+			"description": ""
+		},
+		{
+			"text": "MIK",
+			"displayText": "Mikmaq (clause)",
+			"description": ""
+		},
+		{
+			"text": "MMI",
+			"displayText": "Miami (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAH",
+			"displayText": "Mahican (clause)",
+			"description": ""
+		},
+		{
+			"text": "NAH",
+			"displayText": "Navajo (clause)",
+			"description": ""
+		},
+		{
+			"text": "OJI",
+			"displayText": "Ojibwe (clause)",
+			"description": ""
+		},
+		{
+			"text": "OSA",
+			"displayText": "Osage (clause)",
+			"description": ""
+		},
+		{
+			"text": "OTT",
+			"displayText": "Ottawa (clause)",
+			"description": ""
+		},
+		{
+			"text": "PAW",
+			"displayText": "Pawnee (clause)",
+			"description": ""
+		},
+		{
+			"text": "PEQ",
+			"displayText": "Pequot (clause)",
+			"description": ""
+		},
+		{
+			"text": "PIM",
+			"displayText": "Pima (clause)",
+			"description": ""
+		},
+		{
+			"text": "POT",
+			"displayText": "Potawatomi (clause)",
+			"description": ""
+		},
+		{
+			"text": "POW",
+			"displayText": "Powhatan (clause)",
+			"description": ""
+		},
+		{
+			"text": "PUE",
+			"displayText": "Pueblo (clause)",
+			"description": ""
+		},
+		{
+			"text": "SIO",
+			"displayText": "Sioux (clause)",
+			"description": ""
+		},
+		{
+			"text": "SHO",
+			"displayText": "Shoshone (clause)",
+			"description": ""
+		},
+		{
+			"text": "SUS",
+			"displayText": "Susquehannock (clause)",
+			"description": ""
+		},
+		{
+			"text": "WCR",
+			"displayText": "Cree (clause)",
+			"description": ""
+		},
+		{
+			"text": "ZAN",
+			"displayText": "Kilwa (clause)",
+			"description": ""
+		},
+		{
+			"text": "AJU",
+			"displayText": "Ajuuraan (clause)",
+			"description": ""
+		},
+		{
+			"text": "MBA",
+			"displayText": "Mombasa (clause)",
+			"description": ""
+		},
+		{
+			"text": "MDI",
+			"displayText": "Mogadishu (clause)",
+			"description": ""
+		},
+		{
+			"text": "MLI",
+			"displayText": "Malindi (clause)",
+			"description": ""
+		},
+		{
+			"text": "SFA",
+			"displayText": "Sofala (clause)",
+			"description": ""
+		},
+		{
+			"text": "EGY",
+			"displayText": "Egypt (clause)",
+			"description": ""
+		},
+		{
+			"text": "BUK",
+			"displayText": "Bukhara (clause)",
+			"description": ""
+		},
+		{
+			"text": "BGA",
+			"displayText": "Baglana (clause)",
+			"description": ""
+		},
+		{
+			"text": "BGL",
+			"displayText": "Baghelkhand (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHD",
+			"displayText": "Chanda (clause)",
+			"description": ""
+		},
+		{
+			"text": "CMP",
+			"displayText": "Rewa Kantha (clause)",
+			"description": ""
+		},
+		{
+			"text": "GHR",
+			"displayText": "Garhwal (clause)",
+			"description": ""
+		},
+		{
+			"text": "HAD",
+			"displayText": "Hadoti (clause)",
+			"description": ""
+		},
+		{
+			"text": "JAJ",
+			"displayText": "Habsan (clause)",
+			"description": ""
+		},
+		{
+			"text": "JFN",
+			"displayText": "Jaffna (clause)",
+			"description": ""
+		},
+		{
+			"text": "LDK",
+			"displayText": "Ladakh (clause)",
+			"description": ""
+		},
+		{
+			"text": "MLB",
+			"displayText": "Manipur (clause)",
+			"description": ""
+		},
+		{
+			"text": "NGA",
+			"displayText": "Nagaur (clause)",
+			"description": ""
+		},
+		{
+			"text": "NGP",
+			"displayText": "Jharkhand (clause)",
+			"description": ""
+		},
+		{
+			"text": "PTA",
+			"displayText": "Patiala (clause)",
+			"description": ""
+		},
+		{
+			"text": "RMP",
+			"displayText": "Rohilkhand (clause)",
+			"description": ""
+		},
+		{
+			"text": "SDY",
+			"displayText": "Sadiya (clause)",
+			"description": ""
+		},
+		{
+			"text": "TPR",
+			"displayText": "Tripura (clause)",
+			"description": ""
+		},
+		{
+			"text": "TRT",
+			"displayText": "Tirhut (clause)",
+			"description": ""
+		},
+		{
+			"text": "CIR",
+			"displayText": "Circassia (clause)",
+			"description": ""
+		},
+		{
+			"text": "GAZ",
+			"displayText": "Gazikumukh (clause)",
+			"description": ""
+		},
+		{
+			"text": "IME",
+			"displayText": "Imereti (clause)",
+			"description": ""
+		},
+		{
+			"text": "TAB",
+			"displayText": "Mazandaran (clause)",
+			"description": ""
+		},
+		{
+			"text": "MYR",
+			"displayText": "Yeren (clause)",
+			"description": ""
+		},
+		{
+			"text": "MHX",
+			"displayText": "Haixi (clause)",
+			"description": ""
+		},
+		{
+			"text": "KRC",
+			"displayText": "Korchin (clause)",
+			"description": ""
+		},
+		{
+			"text": "KLK",
+			"displayText": "Khalkha (clause)",
+			"description": ""
+		},
+		{
+			"text": "DGL",
+			"displayText": "Maldives (clause)",
+			"description": ""
+		},
+		{
+			"text": "HMI",
+			"displayText": "Kara Del (clause)",
+			"description": ""
+		},
+		{
+			"text": "ZUN",
+			"displayText": "Zunghar (clause)",
+			"description": ""
+		},
+		{
+			"text": "KAS",
+			"displayText": "Yarkand (clause)",
+			"description": ""
+		},
+		{
+			"text": "KSD",
+			"displayText": "Khoshuud (clause)",
+			"description": ""
+		},
+		{
+			"text": "SYG",
+			"displayText": "Sarig Yogir (clause)",
+			"description": ""
+		},
+		{
+			"text": "UTS",
+			"displayText": "Tsang (clause)",
+			"description": ""
+		},
+		{
+			"text": "KAM",
+			"displayText": "Kham (clause)",
+			"description": ""
+		},
+		{
+			"text": "GUG",
+			"displayText": "Guge (clause)",
+			"description": ""
+		},
+		{
+			"text": "TMB",
+			"displayText": "Timbuktu (clause)",
+			"description": ""
+		},
+		{
+			"text": "AIR",
+			"displayText": "Air (clause)",
+			"description": ""
+		},
+		{
+			"text": "MSI",
+			"displayText": "Mossi (clause)",
+			"description": ""
+		},
+		{
+			"text": "KTS",
+			"displayText": "Katsina (clause)",
+			"description": ""
+		},
+		{
+			"text": "KAN",
+			"displayText": "Kano (clause)",
+			"description": ""
+		},
+		{
+			"text": "FUL",
+			"displayText": "Fulo (clause)",
+			"description": ""
+		},
+		{
+			"text": "BON",
+			"displayText": "Bonoman (clause)",
+			"description": ""
+		},
+		{
+			"text": "DAH",
+			"displayText": "Dahomey (clause)",
+			"description": ""
+		},
+		{
+			"text": "DGB",
+			"displayText": "Dagbon (clause)",
+			"description": ""
+		},
+		{
+			"text": "JNN",
+			"displayText": "Jenne (clause)",
+			"description": ""
+		},
+		{
+			"text": "KBU",
+			"displayText": "Kaabu (clause)",
+			"description": ""
+		},
+		{
+			"text": "KNG",
+			"displayText": "Kong (clause)",
+			"description": ""
+		},
+		{
+			"text": "NUP",
+			"displayText": "Nupe (clause)",
+			"description": ""
+		},
+		{
+			"text": "YAO",
+			"displayText": "Yao (clause)",
+			"description": ""
+		},
+		{
+			"text": "YAT",
+			"displayText": "Yatenga (clause)",
+			"description": ""
+		},
+		{
+			"text": "ZAF",
+			"displayText": "Macina (clause)",
+			"description": ""
+		},
+		{
+			"text": "ZZZ",
+			"displayText": "Zazzau (clause)",
+			"description": ""
+		},
+		{
+			"text": "ARD",
+			"displayText": "Ardalan (clause)",
+			"description": ""
+		},
+		{
+			"text": "BHT",
+			"displayText": "Soran (clause)",
+			"description": ""
+		},
+		{
+			"text": "ERE",
+			"displayText": "Eretna (clause)",
+			"description": ""
+		},
+		{
+			"text": "LEB",
+			"displayText": "Lebanon (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAK",
+			"displayText": "Makuria (clause)",
+			"description": ""
+		},
+		{
+			"text": "SHM",
+			"displayText": "Shammar (clause)",
+			"description": ""
+		},
+		{
+			"text": "ARB",
+			"displayText": "Arabia (clause)",
+			"description": ""
+		},
+		{
+			"text": "GRM",
+			"displayText": "Germiyan (clause)",
+			"description": ""
+		},
+		{
+			"text": "MPH",
+			"displayText": "Muan Phuang (clause)",
+			"description": ""
+		},
+		{
+			"text": "LIG",
+			"displayText": "Ligor (clause)",
+			"description": ""
+		},
+		{
+			"text": "JOH",
+			"displayText": "Johor (clause)",
+			"description": ""
+		},
+		{
+			"text": "KED",
+			"displayText": "Kedah (clause)",
+			"description": ""
+		},
+		{
+			"text": "PRK",
+			"displayText": "Perak (clause)",
+			"description": ""
+		},
+		{
+			"text": "HSE",
+			"displayText": "Hsenwi (clause)",
+			"description": ""
+		},
+		{
+			"text": "MYA",
+			"displayText": "Mong Yang (clause)",
+			"description": ""
+		},
+		{
+			"text": "AVA",
+			"displayText": "Ava (clause)",
+			"description": ""
+		},
+		{
+			"text": "FEO",
+			"displayText": "Theodoro (clause)",
+			"description": ""
+		},
+		{
+			"text": "VOL",
+			"displayText": "Galicia-Volhynia (clause)",
+			"description": ""
+		},
+		{
+			"text": "KIE",
+			"displayText": "Kiev (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHR",
+			"displayText": "Chernigov (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHU",
+			"displayText": "Chukchi (clause)",
+			"description": ""
+		},
+		{
+			"text": "HOD",
+			"displayText": "Khodynt (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHV",
+			"displayText": "Chavchuveny (clause)",
+			"description": ""
+		},
+		{
+			"text": "KMC",
+			"displayText": "Kamchadals (clause)",
+			"description": ""
+		},
+		{
+			"text": "BRT",
+			"displayText": "Buryatia (clause)",
+			"description": ""
+		},
+		{
+			"text": "BSH",
+			"displayText": "Bashkiria (clause)",
+			"description": ""
+		},
+		{
+			"text": "TLC",
+			"displayText": "Tlemcen (clause)",
+			"description": ""
+		},
+		{
+			"text": "MZB",
+			"displayText": "Mzab (clause)",
+			"description": ""
+		},
+		{
+			"text": "TGT",
+			"displayText": "Touggourt (clause)",
+			"description": ""
+		},
+		{
+			"text": "GHD",
+			"displayText": "Djerid (clause)",
+			"description": ""
+		},
+		{
+			"text": "FZA",
+			"displayText": "Fezzan (clause)",
+			"description": ""
+		},
+		{
+			"text": "KBA",
+			"displayText": "Kabylia (clause)",
+			"description": ""
+		},
+		{
+			"text": "SOS",
+			"displayText": "Sus (clause)",
+			"description": ""
+		},
+		{
+			"text": "TFL",
+			"displayText": "Tafilalt (clause)",
+			"description": ""
+		},
+		{
+			"text": "ARP",
+			"displayText": "Arapaho (clause)",
+			"description": ""
+		},
+		{
+			"text": "CNK",
+			"displayText": "Chinook (clause)",
+			"description": ""
+		},
+		{
+			"text": "COC",
+			"displayText": "Cocomes (clause)",
+			"description": ""
+		},
+		{
+			"text": "XIU",
+			"displayText": "Xiu (clause)",
+			"description": ""
+		},
+		{
+			"text": "HDA",
+			"displayText": "Haida (clause)",
+			"description": ""
+		},
+		{
+			"text": "ITZ",
+			"displayText": "Itza (clause)",
+			"description": ""
+		},
+		{
+			"text": "KIC",
+			"displayText": "Kiche (clause)",
+			"description": ""
+		},
+		{
+			"text": "KIO",
+			"displayText": "Kiowa (clause)",
+			"description": ""
+		},
+		{
+			"text": "MIX",
+			"displayText": "Mixtec (clause)",
+			"description": ""
+		},
+		{
+			"text": "SAL",
+			"displayText": "Salish (clause)",
+			"description": ""
+		},
+		{
+			"text": "TAR",
+			"displayText": "Tarascan (clause)",
+			"description": ""
+		},
+		{
+			"text": "TLA",
+			"displayText": "Tlapanec (clause)",
+			"description": ""
+		},
+		{
+			"text": "TLX",
+			"displayText": "Tlaxcala (clause)",
+			"description": ""
+		},
+		{
+			"text": "TOT",
+			"displayText": "Totonac (clause)",
+			"description": ""
+		},
+		{
+			"text": "WIC",
+			"displayText": "Wichita (clause)",
+			"description": ""
+		},
+		{
+			"text": "CLM",
+			"displayText": "Colima (clause)",
+			"description": ""
+		},
+		{
+			"text": "BLM",
+			"displayText": "Blambangan (clause)",
+			"description": ""
+		},
+		{
+			"text": "CRB",
+			"displayText": "Cirebon (clause)",
+			"description": ""
+		},
+		{
+			"text": "DMK",
+			"displayText": "Demak (clause)",
+			"description": ""
+		},
+		{
+			"text": "PGR",
+			"displayText": "Pagarruyung (clause)",
+			"description": ""
+		},
+		{
+			"text": "PLB",
+			"displayText": "Palembang (clause)",
+			"description": ""
+		},
+		{
+			"text": "PSA",
+			"displayText": "Pasai (clause)",
+			"description": ""
+		},
+		{
+			"text": "SAK",
+			"displayText": "Siak (clause)",
+			"description": ""
+		},
+		{
+			"text": "SUN",
+			"displayText": "Sunda (clause)",
+			"description": ""
+		},
+		{
+			"text": "MJZ",
+			"displayText": "Jianzhou (clause)",
+			"description": ""
+		},
+		{
+			"text": "SRV",
+			"displayText": "Shirvan (clause)",
+			"description": ""
+		},
+		{
+			"text": "MIN",
+			"displayText": "Min (clause)",
+			"description": ""
+		},
+		{
+			"text": "YUE",
+			"displayText": "Yue (clause)",
+			"description": ""
+		},
+		{
+			"text": "SHU",
+			"displayText": "Shu (clause)",
+			"description": ""
+		},
+		{
+			"text": "NNG",
+			"displayText": "Ning (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHC",
+			"displayText": "Chu (clause)",
+			"description": ""
+		},
+		{
+			"text": "TNG",
+			"displayText": "Tang (clause)",
+			"description": ""
+		},
+		{
+			"text": "QIC",
+			"displayText": "Qi (clause)",
+			"description": ""
+		},
+		{
+			"text": "YAN",
+			"displayText": "Yan (clause)",
+			"description": ""
+		},
+		{
+			"text": "JIN",
+			"displayText": "Jin (clause)",
+			"description": ""
+		},
+		{
+			"text": "LNG",
+			"displayText": "Liang (clause)",
+			"description": ""
+		},
+		{
+			"text": "HUA",
+			"displayText": "Huai (clause)",
+			"description": ""
+		},
+		{
+			"text": "CGS",
+			"displayText": "Changsheng (clause)",
+			"description": ""
+		},
+		{
+			"text": "CAB",
+			"displayText": "Carib (clause)",
+			"description": ""
+		},
+		{
+			"text": "LON",
+			"displayText": "Leon (clause)",
+			"description": ""
+		},
+		{
+			"text": "ICM",
+			"displayText": "Ichma (clause)",
+			"description": ""
+		},
+		{
+			"text": "NUM",
+			"displayText": "Nuremberg (clause)",
+			"description": ""
+		},
+		{
+			"text": "AUS",
+			"displayText": "Australia (clause)",
+			"description": ""
+		},
+		{
+			"text": "BTI",
+			"displayText": "Semien (clause)",
+			"description": ""
+		},
+		{
+			"text": "MTH",
+			"displayText": "Meath (clause)",
+			"description": ""
+		},
+		{
+			"text": "ADU",
+			"displayText": "Andalusia (clause)",
+			"description": ""
+		},
+		{
+			"text": "MEM",
+			"displayText": "Memmingen (clause)",
+			"description": ""
+		},
+		{
+			"text": "VER",
+			"displayText": "Verden (clause)",
+			"description": ""
+		},
+		{
+			"text": "NSA",
+			"displayText": "Nassau (clause)",
+			"description": ""
+		},
+		{
+			"text": "RVA",
+			"displayText": "Ravensburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "MFA",
+			"displayText": "Montferrat (clause)",
+			"description": ""
+		},
+		{
+			"text": "LUC",
+			"displayText": "Lucca (clause)",
+			"description": ""
+		},
+		{
+			"text": "LVA",
+			"displayText": "Livonia (clause)",
+			"description": ""
+		},
+		{
+			"text": "EST",
+			"displayText": "Estonia (clause)",
+			"description": ""
+		},
+		{
+			"text": "SMI",
+			"displayText": "Sapmi (clause)",
+			"description": ""
+		},
+		{
+			"text": "ORM",
+			"displayText": "Hormuz (clause)",
+			"description": ""
+		},
+		{
+			"text": "KRL",
+			"displayText": "Karelia (clause)",
+			"description": ""
+		},
+		{
+			"text": "JAI",
+			"displayText": "Malta (clause)",
+			"description": ""
+		},
+		{
+			"text": "KUB",
+			"displayText": "Kuba (clause)",
+			"description": ""
+		},
+		{
+			"text": "KLD",
+			"displayText": "Kalundwe (clause)",
+			"description": ""
+		},
+		{
+			"text": "YAK",
+			"displayText": "Yaka (clause)",
+			"description": ""
+		},
+		{
+			"text": "KZB",
+			"displayText": "Kazembe (clause)",
+			"description": ""
+		},
+		{
+			"text": "KIK",
+			"displayText": "Kikondja (clause)",
+			"description": ""
+		},
+		{
+			"text": "CKW",
+			"displayText": "Chokwe (clause)",
+			"description": ""
+		},
+		{
+			"text": "LND",
+			"displayText": "Lunda (clause)",
+			"description": ""
+		},
+		{
+			"text": "LUB",
+			"displayText": "Luba (clause)",
+			"description": ""
+		},
+		{
+			"text": "KSJ",
+			"displayText": "Kasanje (clause)",
+			"description": ""
+		},
+		{
+			"text": "SYO",
+			"displayText": "Soyo (clause)",
+			"description": ""
+		},
+		{
+			"text": "TYO",
+			"displayText": "Tyo (clause)",
+			"description": ""
+		},
+		{
+			"text": "BSG",
+			"displayText": "Busoga (clause)",
+			"description": ""
+		},
+		{
+			"text": "BNY",
+			"displayText": "Bunyoro (clause)",
+			"description": ""
+		},
+		{
+			"text": "KRW",
+			"displayText": "Karagwe (clause)",
+			"description": ""
+		},
+		{
+			"text": "BUG",
+			"displayText": "Buganda (clause)",
+			"description": ""
+		},
+		{
+			"text": "RWA",
+			"displayText": "Rwanda (clause)",
+			"description": ""
+		},
+		{
+			"text": "NKO",
+			"displayText": "Nkore (clause)",
+			"description": ""
+		},
+		{
+			"text": "BUU",
+			"displayText": "Burundi (clause)",
+			"description": ""
+		},
+		{
+			"text": "UBH",
+			"displayText": "Buha (clause)",
+			"description": ""
+		},
+		{
+			"text": "MRA",
+			"displayText": "Maravi (clause)",
+			"description": ""
+		},
+		{
+			"text": "LDU",
+			"displayText": "Lundu (clause)",
+			"description": ""
+		},
+		{
+			"text": "TBK",
+			"displayText": "Tumbuka (clause)",
+			"description": ""
+		},
+		{
+			"text": "MKU",
+			"displayText": "Makua (clause)",
+			"description": ""
+		},
+		{
+			"text": "RZW",
+			"displayText": "Butua (clause)",
+			"description": ""
+		},
+		{
+			"text": "MIR",
+			"displayText": "Imerina (clause)",
+			"description": ""
+		},
+		{
+			"text": "ANT",
+			"displayText": "Antemoro (clause)",
+			"description": ""
+		},
+		{
+			"text": "SKA",
+			"displayText": "Sakalava (clause)",
+			"description": ""
+		},
+		{
+			"text": "MFY",
+			"displayText": "Mahafaly (clause)",
+			"description": ""
+		},
+		{
+			"text": "BTS",
+			"displayText": "Betsimisaraka (clause)",
+			"description": ""
+		},
+		{
+			"text": "ULS",
+			"displayText": "Ulster (clause)",
+			"description": ""
+		},
+		{
+			"text": "DMS",
+			"displayText": "Desmond (clause)",
+			"description": ""
+		},
+		{
+			"text": "ORD",
+			"displayText": "Ormond (clause)",
+			"description": ""
+		},
+		{
+			"text": "KID",
+			"displayText": "Kildare (clause)",
+			"description": ""
+		},
+		{
+			"text": "MCM",
+			"displayText": "Munster (clause)",
+			"description": ""
+		},
+		{
+			"text": "FLY",
+			"displayText": "Offaly (clause)",
+			"description": ""
+		},
+		{
+			"text": "TRY",
+			"displayText": "Tyrconnell (clause)",
+			"description": ""
+		},
+		{
+			"text": "SLN",
+			"displayText": "Sligo (clause)",
+			"description": ""
+		},
+		{
+			"text": "OKA",
+			"displayText": "Odoyev (clause)",
+			"description": ""
+		},
+		{
+			"text": "ICE",
+			"displayText": "Iceland (clause)",
+			"description": ""
+		},
+		{
+			"text": "SLO",
+			"displayText": "Nitra (clause)",
+			"description": ""
+		},
+		{
+			"text": "HSC",
+			"displayText": "Gaeldom (clause)",
+			"description": ""
+		},
+		{
+			"text": "ROM",
+			"displayText": "Roman Empire (clause)",
+			"description": ""
+		},
+		{
+			"text": "DTT",
+			"displayText": "Dithmarschen (clause)",
+			"description": ""
+		},
+		{
+			"text": "GLH",
+			"displayText": "Golden Horde (clause)",
+			"description": ""
+		},
+		{
+			"text": "BEJ",
+			"displayText": "Beja (clause)",
+			"description": ""
+		},
+		{
+			"text": "JIM",
+			"displayText": "Jimma (clause)",
+			"description": ""
+		},
+		{
+			"text": "WLY",
+			"displayText": "Welayta (clause)",
+			"description": ""
+		},
+		{
+			"text": "DAM",
+			"displayText": "Damot (clause)",
+			"description": ""
+		},
+		{
+			"text": "HDY",
+			"displayText": "Hadiya (clause)",
+			"description": ""
+		},
+		{
+			"text": "SOA",
+			"displayText": "Shewa (clause)",
+			"description": ""
+		},
+		{
+			"text": "JJI",
+			"displayText": "Janjiro (clause)",
+			"description": ""
+		},
+		{
+			"text": "ENA",
+			"displayText": "Ennarea (clause)",
+			"description": ""
+		},
+		{
+			"text": "ABB",
+			"displayText": "Dongola (clause)",
+			"description": ""
+		},
+		{
+			"text": "AKM",
+			"displayText": "Akamatsu (clause)",
+			"description": ""
+		},
+		{
+			"text": "AKT",
+			"displayText": "Ando (clause)",
+			"description": ""
+		},
+		{
+			"text": "CBA",
+			"displayText": "Chiba (clause)",
+			"description": ""
+		},
+		{
+			"text": "ISK",
+			"displayText": "Isshiki (clause)",
+			"description": ""
+		},
+		{
+			"text": "ITO",
+			"displayText": "Ito (clause)",
+			"description": ""
+		},
+		{
+			"text": "KKC",
+			"displayText": "Kikuchi (clause)",
+			"description": ""
+		},
+		{
+			"text": "KNO",
+			"displayText": "Kono (clause)",
+			"description": ""
+		},
+		{
+			"text": "OGS",
+			"displayText": "Ogasawara (clause)",
+			"description": ""
+		},
+		{
+			"text": "SHN",
+			"displayText": "Shoni (clause)",
+			"description": ""
+		},
+		{
+			"text": "STK",
+			"displayText": "Satake (clause)",
+			"description": ""
+		},
+		{
+			"text": "TKI",
+			"displayText": "Toki (clause)",
+			"description": ""
+		},
+		{
+			"text": "UTN",
+			"displayText": "Utsunomiya (clause)",
+			"description": ""
+		},
+		{
+			"text": "TTI",
+			"displayText": "Tsutsui (clause)",
+			"description": ""
+		},
+		{
+			"text": "ASK",
+			"displayText": "Ashikaga (clause)",
+			"description": ""
+		},
+		{
+			"text": "MVA",
+			"displayText": "Moravia (clause)",
+			"description": ""
+		},
+		{
+			"text": "YUA",
+			"displayText": "Yuan (clause)",
+			"description": ""
+		},
+		{
+			"text": "BLO",
+			"displayText": "Beloozero (clause)",
+			"description": ""
+		},
+		{
+			"text": "RSO",
+			"displayText": "Rostov (clause)",
+			"description": ""
+		},
+		{
+			"text": "MHR",
+			"displayText": "Mahra (clause)",
+			"description": ""
+		},
+		{
+			"text": "HDR",
+			"displayText": "Hadramut (clause)",
+			"description": ""
+		},
+		{
+			"text": "MDA",
+			"displayText": "Medina (clause)",
+			"description": ""
+		},
+		{
+			"text": "ANZ",
+			"displayText": "Anizah (clause)",
+			"description": ""
+		},
+		{
+			"text": "FAD",
+			"displayText": "Fadl (clause)",
+			"description": ""
+		},
+		{
+			"text": "YAS",
+			"displayText": "Yas (clause)",
+			"description": ""
+		},
+		{
+			"text": "RAS",
+			"displayText": "Rassids (clause)",
+			"description": ""
+		},
+		{
+			"text": "YEM",
+			"displayText": "Yemen (clause)",
+			"description": ""
+		},
+		{
+			"text": "DAW",
+			"displayText": "Dawasir (clause)",
+			"description": ""
+		},
+		{
+			"text": "MFL",
+			"displayText": "Mikhlaf (clause)",
+			"description": ""
+		},
+		{
+			"text": "NJR",
+			"displayText": "Najran (clause)",
+			"description": ""
+		},
+		{
+			"text": "HSN",
+			"displayText": "Hisn Kayfa (clause)",
+			"description": ""
+		},
+		{
+			"text": "BTL",
+			"displayText": "Bitlis (clause)",
+			"description": ""
+		},
+		{
+			"text": "AVR",
+			"displayText": "Avaria (clause)",
+			"description": ""
+		},
+		{
+			"text": "MLK",
+			"displayText": "Kharabakh (clause)",
+			"description": ""
+		},
+		{
+			"text": "SME",
+			"displayText": "Samtskhe (clause)",
+			"description": ""
+		},
+		{
+			"text": "ARL",
+			"displayText": "Ardabil (clause)",
+			"description": ""
+		},
+		{
+			"text": "MSY",
+			"displayText": "Mushasha (clause)",
+			"description": ""
+		},
+		{
+			"text": "RUM",
+			"displayText": "Rum (clause)",
+			"description": ""
+		},
+		{
+			"text": "KRY",
+			"displayText": "Gilan (clause)",
+			"description": ""
+		},
+		{
+			"text": "LRI",
+			"displayText": "Luristan (clause)",
+			"description": ""
+		},
+		{
+			"text": "SIS",
+			"displayText": "Sistan (clause)",
+			"description": ""
+		},
+		{
+			"text": "BPI",
+			"displayText": "Biapas (clause)",
+			"description": ""
+		},
+		{
+			"text": "FRS",
+			"displayText": "Fars (clause)",
+			"description": ""
+		},
+		{
+			"text": "KRM",
+			"displayText": "Kerman (clause)",
+			"description": ""
+		},
+		{
+			"text": "YZD",
+			"displayText": "Yazd (clause)",
+			"description": ""
+		},
+		{
+			"text": "ISF",
+			"displayText": "Isfahan (clause)",
+			"description": ""
+		},
+		{
+			"text": "TBR",
+			"displayText": "Tabriz (clause)",
+			"description": ""
+		},
+		{
+			"text": "BSR",
+			"displayText": "Basra (clause)",
+			"description": ""
+		},
+		{
+			"text": "MGR",
+			"displayText": "Maregheh (clause)",
+			"description": ""
+		},
+		{
+			"text": "QOM",
+			"displayText": "Ajam (clause)",
+			"description": ""
+		},
+		{
+			"text": "TRS",
+			"displayText": "Transoxiana (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAS",
+			"displayText": "Madyas (clause)",
+			"description": ""
+		},
+		{
+			"text": "PGS",
+			"displayText": "Pangasinan (clause)",
+			"description": ""
+		},
+		{
+			"text": "TDO",
+			"displayText": "Tondo (clause)",
+			"description": ""
+		},
+		{
+			"text": "MNA",
+			"displayText": "Maynila (clause)",
+			"description": ""
+		},
+		{
+			"text": "CEB",
+			"displayText": "Cebu (clause)",
+			"description": ""
+		},
+		{
+			"text": "BTU",
+			"displayText": "Butuan (clause)",
+			"description": ""
+		},
+		{
+			"text": "KTB",
+			"displayText": "Kitabatake (clause)",
+			"description": ""
+		},
+		{
+			"text": "KOI",
+			"displayText": "Mann (clause)",
+			"description": ""
+		},
+		{
+			"text": "LOI",
+			"displayText": "The Isles (clause)",
+			"description": ""
+		},
+		{
+			"text": "MMA",
+			"displayText": "Mong Mao (clause)",
+			"description": ""
+		},
+		{
+			"text": "MKA",
+			"displayText": "Mong Kawng (clause)",
+			"description": ""
+		},
+		{
+			"text": "MPA",
+			"displayText": "Mong Pai (clause)",
+			"description": ""
+		},
+		{
+			"text": "KAL",
+			"displayText": "Kale (clause)",
+			"description": ""
+		},
+		{
+			"text": "HSI",
+			"displayText": "Hsipaw (clause)",
+			"description": ""
+		},
+		{
+			"text": "BPR",
+			"displayText": "Prome (clause)",
+			"description": ""
+		},
+		{
+			"text": "MNI",
+			"displayText": "Mong Nai (clause)",
+			"description": ""
+		},
+		{
+			"text": "MBL",
+			"displayText": "Bishnupur (clause)",
+			"description": ""
+		},
+		{
+			"text": "SKK",
+			"displayText": "Sikkim (clause)",
+			"description": ""
+		},
+		{
+			"text": "IDR",
+			"displayText": "Idar (clause)",
+			"description": ""
+		},
+		{
+			"text": "NVR",
+			"displayText": "Navanagar (clause)",
+			"description": ""
+		},
+		{
+			"text": "JLV",
+			"displayText": "Jhalavad (clause)",
+			"description": ""
+		},
+		{
+			"text": "PTL",
+			"displayText": "Palitana (clause)",
+			"description": ""
+		},
+		{
+			"text": "RJK",
+			"displayText": "Rajkot (clause)",
+			"description": ""
+		},
+		{
+			"text": "JGD",
+			"displayText": "Junagarh (clause)",
+			"description": ""
+		},
+		{
+			"text": "PRB",
+			"displayText": "Porbandar (clause)",
+			"description": ""
+		},
+		{
+			"text": "PAN",
+			"displayText": "Kalinjar (clause)",
+			"description": ""
+		},
+		{
+			"text": "KLP",
+			"displayText": "Kalpi (clause)",
+			"description": ""
+		},
+		{
+			"text": "SBP",
+			"displayText": "Sambalpur (clause)",
+			"description": ""
+		},
+		{
+			"text": "PTT",
+			"displayText": "Patna (clause)",
+			"description": ""
+		},
+		{
+			"text": "JPR",
+			"displayText": "Jeypore (clause)",
+			"description": ""
+		},
+		{
+			"text": "PRD",
+			"displayText": "Parlakhimidi (clause)",
+			"description": ""
+		},
+		{
+			"text": "KJH",
+			"displayText": "Keonhjar (clause)",
+			"description": ""
+		},
+		{
+			"text": "KLH",
+			"displayText": "Kalahandi (clause)",
+			"description": ""
+		},
+		{
+			"text": "RTT",
+			"displayText": "Ratanpur (clause)",
+			"description": ""
+		},
+		{
+			"text": "SRG",
+			"displayText": "Surguja (clause)",
+			"description": ""
+		},
+		{
+			"text": "TLG",
+			"displayText": "Telingana (clause)",
+			"description": ""
+		},
+		{
+			"text": "KLT",
+			"displayText": "Kolathunad (clause)",
+			"description": ""
+		},
+		{
+			"text": "DNG",
+			"displayText": "Dang (clause)",
+			"description": ""
+		},
+		{
+			"text": "DTI",
+			"displayText": "Doti (clause)",
+			"description": ""
+		},
+		{
+			"text": "GRK",
+			"displayText": "Gorkha (clause)",
+			"description": ""
+		},
+		{
+			"text": "JML",
+			"displayText": "Jumla (clause)",
+			"description": ""
+		},
+		{
+			"text": "LWA",
+			"displayText": "Limbuwan (clause)",
+			"description": ""
+		},
+		{
+			"text": "MKP",
+			"displayText": "Makwanpur (clause)",
+			"description": ""
+		},
+		{
+			"text": "SRM",
+			"displayText": "Sirmur (clause)",
+			"description": ""
+		},
+		{
+			"text": "KTU",
+			"displayText": "Kathmandu (clause)",
+			"description": ""
+		},
+		{
+			"text": "KMN",
+			"displayText": "Kumaon (clause)",
+			"description": ""
+		},
+		{
+			"text": "KND",
+			"displayText": "Kandy (clause)",
+			"description": ""
+		},
+		{
+			"text": "GNG",
+			"displayText": "Gingee (clause)",
+			"description": ""
+		},
+		{
+			"text": "TNJ",
+			"displayText": "Tanjore (clause)",
+			"description": ""
+		},
+		{
+			"text": "PHA",
+			"displayText": "U (clause)",
+			"description": ""
+		},
+		{
+			"text": "RJP",
+			"displayText": "Rajputana (clause)",
+			"description": ""
+		},
+		{
+			"text": "SRH",
+			"displayText": "Sirhind (clause)",
+			"description": ""
+		},
+		{
+			"text": "ILK",
+			"displayText": "Ilkhanate (clause)",
+			"description": ""
+		},
+		{
+			"text": "KLM",
+			"displayText": "Kalmyk (clause)",
+			"description": ""
+		},
+		{
+			"text": "MGE",
+			"displayText": "Mongol Empire (clause)",
+			"description": ""
+		},
+		{
+			"text": "VAL",
+			"displayText": "Valencia (clause)",
+			"description": ""
+		},
+		{
+			"text": "ASU",
+			"displayText": "Asturias (clause)",
+			"description": ""
+		},
+		{
+			"text": "SLE",
+			"displayText": "Sale (clause)",
+			"description": ""
+		},
+		{
+			"text": "TET",
+			"displayText": "Tetouan (clause)",
+			"description": ""
+		},
+		{
+			"text": "MJO",
+			"displayText": "Majorca (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAT",
+			"displayText": "Matlatzinca (clause)",
+			"description": ""
+		},
+		{
+			"text": "COI",
+			"displayText": "Coixtlahuaca (clause)",
+			"description": ""
+		},
+		{
+			"text": "TEO",
+			"displayText": "Teotitlan (clause)",
+			"description": ""
+		},
+		{
+			"text": "XAL",
+			"displayText": "Xalisco (clause)",
+			"description": ""
+		},
+		{
+			"text": "GAM",
+			"displayText": "Guamar (clause)",
+			"description": ""
+		},
+		{
+			"text": "HST",
+			"displayText": "Huastec (clause)",
+			"description": ""
+		},
+		{
+			"text": "CCM",
+			"displayText": "Chichimeca (clause)",
+			"description": ""
+		},
+		{
+			"text": "OTO",
+			"displayText": "Otomi (clause)",
+			"description": ""
+		},
+		{
+			"text": "YOK",
+			"displayText": "Yokotan (clause)",
+			"description": ""
+		},
+		{
+			"text": "LAC",
+			"displayText": "Tzotzil (clause)",
+			"description": ""
+		},
+		{
+			"text": "KAQ",
+			"displayText": "Kaqchikel (clause)",
+			"description": ""
+		},
+		{
+			"text": "CTM",
+			"displayText": "Chactemal (clause)",
+			"description": ""
+		},
+		{
+			"text": "KER",
+			"displayText": "Keres (clause)",
+			"description": ""
+		},
+		{
+			"text": "ZNI",
+			"displayText": "Zuni (clause)",
+			"description": ""
+		},
+		{
+			"text": "MSC",
+			"displayText": "Mescalero (clause)",
+			"description": ""
+		},
+		{
+			"text": "LIP",
+			"displayText": "Lipan (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHT",
+			"displayText": "Chorti (clause)",
+			"description": ""
+		},
+		{
+			"text": "MIS",
+			"displayText": "Miskito (clause)",
+			"description": ""
+		},
+		{
+			"text": "TAI",
+			"displayText": "Tairona (clause)",
+			"description": ""
+		},
+		{
+			"text": "CNP",
+			"displayText": "Can Pech (clause)",
+			"description": ""
+		},
+		{
+			"text": "TON",
+			"displayText": "Tonala (clause)",
+			"description": ""
+		},
+		{
+			"text": "YAQ",
+			"displayText": "Yaqui (clause)",
+			"description": ""
+		},
+		{
+			"text": "YKT",
+			"displayText": "Yokuts (clause)",
+			"description": ""
+		},
+		{
+			"text": "CAL",
+			"displayText": "California (clause)",
+			"description": ""
+		},
+		{
+			"text": "TEX",
+			"displayText": "Texas (clause)",
+			"description": ""
+		},
+		{
+			"text": "NSS",
+			"displayText": "New Providence (clause)",
+			"description": ""
+		},
+		{
+			"text": "PRY",
+			"displayText": "Port Royal (clause)",
+			"description": ""
+		},
+		{
+			"text": "LIB",
+			"displayText": "Libertatia (clause)",
+			"description": ""
+		},
+		{
+			"text": "TOR",
+			"displayText": "Tortuga (clause)",
+			"description": ""
+		},
+		{
+			"text": "MRK",
+			"displayText": "Marrakesh (clause)",
+			"description": ""
+		},
+		{
+			"text": "MRE",
+			"displayText": "Marehan (clause)",
+			"description": ""
+		},
+		{
+			"text": "MJE",
+			"displayText": "Majeerteen (clause)",
+			"description": ""
+		},
+		{
+			"text": "WAR",
+			"displayText": "Warsangali (clause)",
+			"description": ""
+		},
+		{
+			"text": "HOB",
+			"displayText": "Hobyo (clause)",
+			"description": ""
+		},
+		{
+			"text": "GLE",
+			"displayText": "Geledi (clause)",
+			"description": ""
+		},
+		{
+			"text": "KAF",
+			"displayText": "Kaffa (clause)",
+			"description": ""
+		},
+		{
+			"text": "MED",
+			"displayText": "Medri Bahri (clause)",
+			"description": ""
+		},
+		{
+			"text": "HAR",
+			"displayText": "Harar (clause)",
+			"description": ""
+		},
+		{
+			"text": "AFA",
+			"displayText": "Aussa (clause)",
+			"description": ""
+		},
+		{
+			"text": "ALO",
+			"displayText": "Alodia (clause)",
+			"description": ""
+		},
+		{
+			"text": "PTE",
+			"displayText": "Pate (clause)",
+			"description": ""
+		},
+		{
+			"text": "DAR",
+			"displayText": "Darfur (clause)",
+			"description": ""
+		},
+		{
+			"text": "CSU",
+			"displayText": "Cusco (clause)",
+			"description": ""
+		},
+		{
+			"text": "CCQ",
+			"displayText": "Calchaqui (clause)",
+			"description": ""
+		},
+		{
+			"text": "MPC",
+			"displayText": "Mapuche (clause)",
+			"description": ""
+		},
+		{
+			"text": "MCA",
+			"displayText": "Muisca (clause)",
+			"description": ""
+		},
+		{
+			"text": "QTO",
+			"displayText": "Quito (clause)",
+			"description": ""
+		},
+		{
+			"text": "CJA",
+			"displayText": "Cajamarca (clause)",
+			"description": ""
+		},
+		{
+			"text": "HJA",
+			"displayText": "Huyla (clause)",
+			"description": ""
+		},
+		{
+			"text": "PTG",
+			"displayText": "Potiguara (clause)",
+			"description": ""
+		},
+		{
+			"text": "TPQ",
+			"displayText": "Tupiniquim (clause)",
+			"description": ""
+		},
+		{
+			"text": "TUA",
+			"displayText": "Tapuia (clause)",
+			"description": ""
+		},
+		{
+			"text": "GUA",
+			"displayText": "Guarani (clause)",
+			"description": ""
+		},
+		{
+			"text": "CUA",
+			"displayText": "Charrua (clause)",
+			"description": ""
+		},
+		{
+			"text": "WKA",
+			"displayText": "Wanka (clause)",
+			"description": ""
+		},
+		{
+			"text": "CYA",
+			"displayText": "Chachapoya (clause)",
+			"description": ""
+		},
+		{
+			"text": "CLA",
+			"displayText": "Colla (clause)",
+			"description": ""
+		},
+		{
+			"text": "CRA",
+			"displayText": "Charca (clause)",
+			"description": ""
+		},
+		{
+			"text": "PCJ",
+			"displayText": "Pacajes (clause)",
+			"description": ""
+		},
+		{
+			"text": "TPA",
+			"displayText": "Tupinamba (clause)",
+			"description": ""
+		},
+		{
+			"text": "ARW",
+			"displayText": "Arawak (clause)",
+			"description": ""
+		},
+		{
+			"text": "TID",
+			"displayText": "Tidore (clause)",
+			"description": ""
+		},
+		{
+			"text": "TER",
+			"displayText": "Ternate (clause)",
+			"description": ""
+		},
+		{
+			"text": "MGD",
+			"displayText": "Maguindanao (clause)",
+			"description": ""
+		},
+		{
+			"text": "LUW",
+			"displayText": "Luwu (clause)",
+			"description": ""
+		},
+		{
+			"text": "LNO",
+			"displayText": "Lanao (clause)",
+			"description": ""
+		},
+		{
+			"text": "LFA",
+			"displayText": "Lanfang (clause)",
+			"description": ""
+		},
+		{
+			"text": "BNJ",
+			"displayText": "Banjar (clause)",
+			"description": ""
+		},
+		{
+			"text": "KUT",
+			"displayText": "Kutai (clause)",
+			"description": ""
+		},
+		{
+			"text": "BTN",
+			"displayText": "Buton (clause)",
+			"description": ""
+		},
+		{
+			"text": "CMI",
+			"displayText": "Miao (clause)",
+			"description": ""
+		},
+		{
+			"text": "CYI",
+			"displayText": "Yi (clause)",
+			"description": ""
+		},
+		{
+			"text": "CDL",
+			"displayText": "Dali (clause)",
+			"description": ""
+		},
+		{
+			"text": "CHH",
+			"displayText": "Chahar (clause)",
+			"description": ""
+		},
+		{
+			"text": "NDO",
+			"displayText": "Ndongo (clause)",
+			"description": ""
+		},
+		{
+			"text": "ANU",
+			"displayText": "Ainu (clause)",
+			"description": ""
+		},
+		{
+			"text": "EFR",
+			"displayText": "East Frisia (clause)",
+			"description": ""
+		},
+		{
+			"text": "SYN",
+			"displayText": "Synthetics (clause)",
+			"description": ""
+		},
+		{
+			"text": "BAR",
+			"displayText": "Bar (clause)",
+			"description": ""
+		},
+		{
+			"text": "HSA",
+			"displayText": "Lubeck (clause)",
+			"description": ""
+		},
+		{
+			"text": "SMO",
+			"displayText": "Smolensk (clause)",
+			"description": ""
+		},
+		{
+			"text": "NZH",
+			"displayText": "Nizhny Novgorod (clause)",
+			"description": ""
+		},
+		{
+			"text": "LAU",
+			"displayText": "Saxe-Lauenburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "AAC",
+			"displayText": "Aachen (clause)",
+			"description": ""
+		},
+		{
+			"text": "ALE",
+			"displayText": "Alencon (clause)",
+			"description": ""
+		},
+		{
+			"text": "AUG",
+			"displayText": "Augsburg (clause)",
+			"description": ""
+		},
+		{
+			"text": "ULM",
+			"displayText": "Ulm (clause)",
+			"description": ""
+		},
+		{
+			"text": "MSA",
+			"displayText": "Malaya (clause)",
+			"description": ""
+		},
+		{
+			"text": "HIN",
+			"displayText": "Hindustan (clause)",
+			"description": ""
+		},
+		{
+			"text": "BHA",
+			"displayText": "Bharat (clause)",
+			"description": ""
+		},
+		{
+			"text": "CAM",
+			"displayText": "United Central America (clause)",
+			"description": ""
+		},
+		{
+			"text": "DNZ",
+			"displayText": "Danzig (clause)",
+			"description": ""
+		},
+		{
+			"text": "ETR",
+			"displayText": "Etruria (clause)",
+			"description": ""
+		},
+		{
+			"text": "FRN",
+			"displayText": "Frankfurt (clause)",
+			"description": ""
+		},
+		{
+			"text": "HAT",
+			"displayText": "Haiti (clause)",
+			"description": ""
+		},
+		{
+			"text": "IRQ",
+			"displayText": "Iraq (clause)",
+			"description": ""
+		},
+		{
+			"text": "KHO",
+			"displayText": "Khorasan (clause)",
+			"description": ""
+		},
+		{
+			"text": "KRA",
+			"displayText": "Krakow (clause)",
+			"description": ""
+		},
+		{
+			"text": "LIV",
+			"displayText": "Livonian Order (clause)",
+			"description": ""
+		},
+		{
+			"text": "NAP",
+			"displayText": "Naples (clause)",
+			"description": ""
+		},
+		{
+			"text": "PRG",
+			"displayText": "Paraguay (clause)",
+			"description": ""
+		},
+		{
+			"text": "QIN",
+			"displayText": "Qin (clause)",
+			"description": ""
+		},
+		{
+			"text": "RFR",
+			"displayText": "Nanbu (clause)",
+			"description": ""
+		},
+		{
+			"text": "SOK",
+			"displayText": "Sokoto (clause)",
+			"description": ""
+		},
+		{
+			"text": "SPI",
+			"displayText": "Sardinia-Piedmont (clause)",
+			"description": ""
+		},
+		{
+			"text": "SYR",
+			"displayText": "Syria (clause)",
+			"description": ""
+		},
+		{
+			"text": "VNZ",
+			"displayText": "Venezuela (clause)",
+			"description": ""
+		},
+		{
+			"text": "WES",
+			"displayText": "Westphalia (clause)",
+			"description": ""
+		},
+		{
+			"text": "WUU",
+			"displayText": "Wu (clause)",
+			"description": ""
+		},
+		{
+			"text": "RMN",
+			"displayText": "Romania (clause)",
+			"description": ""
+		},
+		{
+			"text": "AYD",
+			"displayText": "Aydin (clause)",
+			"description": ""
+		},
+		{
+			"text": "AQU",
+			"displayText": "Aquileia (clause)",
+			"description": ""
+		},
+		{
+			"text": "BYZ",
+			"displayText": "Byzantium (clause)",
+			"description": ""
+		},
+		{
+			"text": "MAJ",
+			"displayText": "Majapahit (clause)",
+			"description": ""
+		},
+		{
+			"text": "MEI",
+			"displayText": "Meissen (clause)",
+			"description": ""
+		},
+		{
+			"text": "SUK",
+			"displayText": "Sukhothai (clause)",
+			"description": ""
+		},
+		{
+			"text": "GAL",
+			"displayText": "Galicia (clause)",
+			"description": ""
+		},
+		{
+			"text": "PLT",
+			"displayText": "Polotsk (clause)",
+			"description": ""
+		},
+		{
+			"text": "SCA",
+			"displayText": "Scandinavia (clause)",
+			"description": ""
+		},
+		{
+			"text": "ACH",
+			"displayText": "Achaea (clause)",
+			"description": ""
+		},
+		{
+			"text": "KOJ",
+			"displayText": "Jerusalem (clause)",
+			"description": ""
+		},
+		{
+			"text": "BER",
+			"displayText": "Berry (clause)",
+			"description": ""
+		},
+		{
+			"text": "HLR",
+			"displayText": "Holy Roman Empire (clause)",
+			"description": ""
+		},
+		{
+			"text": "SRU",
+			"displayText": "Saruhan (clause)",
+			"description": ""
+		},
+		{
+			"text": "MEN",
+			"displayText": "Mentese (clause)",
+			"description": ""
+		},
+		{
+			"text": "RAM",
+			"displayText": "Ramazan (clause)",
+			"description": ""
+		},
+		{
+			"text": "EPI",
+			"displayText": "Epirus (clause)",
+			"description": ""
+		}
+	]
+}

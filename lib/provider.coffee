@@ -36,7 +36,7 @@ module.exports =
     if prefix
       regex = new RegExp(prefix, 'i')
 
-      for index, entry of dictionary.simple when entry.displayText and regex.test(entry.displayText)
+      for index, entry of dictionary.simple when entry.displayText and regex.test(entry.displayText.replace('_', ''))
         completion =
           text: entry.text
           displayText: entry.displayText
@@ -45,10 +45,10 @@ module.exports =
           iconHTML: '<i class="icon-move-right"></i>'
           description: entry.description
           descriptionMoreURL: WIKIURL + url
-          pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
+          pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
         completions.push(completion)
 
-      for index, entry of dictionary.equal when entry.displayText and regex.test(entry.displayText)
+      for index, entry of dictionary.equal when entry.displayText and regex.test(entry.displayText.replace('_', ''))
         completion =
           text: entry.text + ' = '
           displayText: entry.displayText
@@ -57,10 +57,10 @@ module.exports =
           iconHTML: '<i class="icon-move-right"></i>'
           description: entry.description
           descriptionMoreURL: WIKIURL + url
-          pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
+          pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
         completions.push(completion)
 
-      for index, entry of dictionary.bracket when entry.displayText and regex.test(entry.displayText)
+      for index, entry of dictionary.bracket when entry.displayText and regex.test(entry.displayText.replace('_', ''))
 
         switch atom.config.get('autocomplete-eu4.bracket')
 
@@ -74,7 +74,7 @@ module.exports =
               iconHTML: '<i class="icon-move-right"></i>'
               description: entry.description
               descriptionMoreURL: WIKIURL + url
-              pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
+              pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
             completions.push(completion)
 
             completion =
@@ -86,7 +86,7 @@ module.exports =
               iconHTML: '<i class="icon-move-right"></i>'
               description: entry.description
               descriptionMoreURL: WIKIURL + url
-              pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
+              pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
             completions.push(completion)
 
           when 1
@@ -98,7 +98,7 @@ module.exports =
               iconHTML: '<i class="icon-move-right"></i>'
               description: entry.description
               descriptionMoreURL: WIKIURL + url
-              pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
+              pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
             completions.push(completion)
 
           when 2
@@ -110,7 +110,7 @@ module.exports =
               iconHTML: '<i class="icon-move-right"></i>'
               description: entry.description
               descriptionMoreURL: WIKIURL + url
-              pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
+              pos: entry.displayText.toLowerCase().replace('_', '').indexOf(prefix.toLowerCase().replace('_', ''))
             completions.push(completion)
 
     completions
@@ -120,7 +120,7 @@ module.exports =
     if prefix
       regex = new RegExp(prefix, 'i')
 
-      for index, entry of dictionary.simple when entry.description and regex.test(entry.description)
+      for index, entry of dictionary.simple when entry.description and regex.test(entry.description.replace('_', ''))
 
         repeat = false
         for index2, entry2 of completions when entry.displayText is entry2.displayText
@@ -136,10 +136,9 @@ module.exports =
             iconHTML: '<i class="icon-search"></i>'
             description: entry.description
             descriptionMoreURL: WIKIURL + url
-            pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
           completions.push(completion)
 
-      for index, entry of dictionary.equal when entry.description and regex.test(entry.description)
+      for index, entry of dictionary.equal when entry.description and regex.test(entry.description.replace('_', ''))
 
         repeat = false
         for index2, entry2 of completions when entry.displayText is entry2.displayText
@@ -155,10 +154,9 @@ module.exports =
             iconHTML: '<i class="icon-search"></i>'
             description: entry.description
             descriptionMoreURL: WIKIURL + url
-            pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
           completions.push(completion)
 
-      for index, entry of dictionary.bracket when entry.description and regex.test(entry.displayText)
+      for index, entry of dictionary.bracket when entry.description and regex.test(entry.displayText.replace('_', ''))
 
         repeat = false
         for index2, entry2 of completions when entry.displayText is entry2.displayText
@@ -178,7 +176,6 @@ module.exports =
                 iconHTML: '<i class="icon-search"></i>'
                 description: entry.description
                 descriptionMoreURL: WIKIURL + url
-                pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
               completions.push(completion)
 
               completion =
@@ -190,7 +187,6 @@ module.exports =
                 iconHTML: '<i class="icon-search"></i>'
                 description: entry.description
                 descriptionMoreURL: WIKIURL + url
-                pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
               completions.push(completion)
 
             when 1
@@ -202,7 +198,6 @@ module.exports =
                 iconHTML: '<i class="icon-search"></i>'
                 description: entry.description
                 descriptionMoreURL: WIKIURL + url
-                pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
               completions.push(completion)
 
             when 2
@@ -214,10 +209,24 @@ module.exports =
                 iconHTML: '<i class="icon-search"></i>'
                 description: entry.description
                 descriptionMoreURL: WIKIURL + url
-                pos: entry.displayText.toLowerCase().indexOf(prefix.toLowerCase())
               completions.push(completion)
 
     completions
 
   compareCompletions: (a, b) ->
-    a.pos - b.pos
+    comp = a.pos - b.pos
+    if comp == 0
+      labela = a.rightLabel
+      labelb = b.rightLabel
+      if ( labela > labelb )
+        comp =  1
+      else if ( labela < labelb )
+        comp = -1
+      else
+        texta = a.displayText
+        textb = b.displayText
+        if ( texta > textb )
+          comp =  1
+        else if ( texta < textb )
+          comp = -1
+    comp

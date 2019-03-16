@@ -8,7 +8,6 @@ WIKIURL   = 'https://eu4.paradoxwikis.com/'
 module.exports =
   selector: '.source.eu4'
   disableForSelector: '.source.eu4 .comment'
-#  filterSuggestions: true
 
   getSuggestions: ({editor, bufferPosition, scopeDescriptor, prefix}) ->
     completions = []
@@ -22,11 +21,13 @@ module.exports =
 
     completions.sort(@compareCompletions)
 
-    completions = @searchDesc(prefix, completions, GENERAL  , ''         , ''              )
-    completions = @searchDesc(prefix, completions, EFFECT   , 'effect'   , 'Commands'      )
-    completions = @searchDesc(prefix, completions, CONDITION, 'condition', 'Conditions'    )
-    completions = @searchDesc(prefix, completions, MODIFIER , 'modifier' , 'Modifier_list' )
-    completions = @searchDesc(prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
+    if atom.config.get('autocomplete-eu4.includedesc')
+
+      completions = @searchDesc(prefix, completions, GENERAL  , ''         , ''              )
+      completions = @searchDesc(prefix, completions, EFFECT   , 'effect'   , 'Commands'      )
+      completions = @searchDesc(prefix, completions, CONDITION, 'condition', 'Conditions'    )
+      completions = @searchDesc(prefix, completions, MODIFIER , 'modifier' , 'Modifier_list' )
+      completions = @searchDesc(prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
 
     completions
 

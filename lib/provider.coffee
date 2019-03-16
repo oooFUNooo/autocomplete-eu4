@@ -3,7 +3,7 @@ EFFECT    = require('../dictionary/effect.json')
 CONDITION = require('../dictionary/condition.json')
 MODIFIER  = require('../dictionary/modifier.json')
 SCOPE     = require('../dictionary/scope.json')
-TEST      = require('../dictionary/test.json')
+WIKIURL   = 'https://eu4.paradoxwikis.com/'
 
 module.exports =
   selector: '.source.eu4'
@@ -12,72 +12,86 @@ module.exports =
 
   getSuggestions: ({editor, bufferPosition, scopeDescriptor, prefix}) ->
     completions = []
-    completions = @createSuggestions(prefix, completions, GENERAL  , 'EU4 keyword: General'  , '' )
-    completions = @createSuggestions(prefix, completions, EFFECT   , 'EU4 keyword: Effect'   , 'https://eu4.paradoxwikis.com/Commands' )
-    completions = @createSuggestions(prefix, completions, CONDITION, 'EU4 keyword: Condition', 'https://eu4.paradoxwikis.com/Conditions' )
-    completions = @createSuggestions(prefix, completions, MODIFIER , 'EU4 keyword: Modifier' , 'https://eu4.paradoxwikis.com/Modifier_list' )
-    completions = @createSuggestions(prefix, completions, SCOPE    , 'EU4 keyword: Scope'    , 'https://eu4.paradoxwikis.com/Scopes' )
-    completions = @createSuggestionsFromDictionary(prefix, completions, TEST)
+    completions = @createSuggestions(prefix, completions, GENERAL  , ''         , ''              )
+    completions = @createSuggestions(prefix, completions, EFFECT   , 'effect'   , 'Commands'      )
+    completions = @createSuggestions(prefix, completions, CONDITION, 'condition', 'Conditions'    )
+    completions = @createSuggestions(prefix, completions, MODIFIER , 'modifier' , 'Modifier_list' )
+    completions = @createSuggestions(prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
     completions
 
-  createSuggestions: (prefix, completions, keywords, description, url) ->
+  createSuggestions: (prefix, completions, dictionary, label, url) ->
 
     if prefix
 
-      for keyword in keywords.keyword_simple  when keyword and firstCharsEqual(keyword, prefix)
+      for index, entry of dictionary.simple when entry.displayText and firstCharsEqual(entry.displayText, prefix)
         completion =
-          displayText: keyword
-          text: keyword
-          type: 'keyword'
-          description: description
-          descriptionMoreURL: url
+          text: entry.text
+          displayText: entry.displayText
+          type: 'snippet'
+          rightLabel: label
+          iconHTML: '<i class="icon-move-right"></i>'
+          description: entry.description
+          descriptionMoreURL: WIKIURL + url
         completions.push(completion)
 
-      for keyword in keywords.keyword_equal   when keyword and firstCharsEqual(keyword, prefix)
+      for index, entry of dictionary.equal when entry.displayText and firstCharsEqual(entry.displayText, prefix)
         completion =
-          displayText: keyword
-          text: keyword + ' = '
-          type: 'keyword'
-          description: description
-          descriptionMoreURL: url
+          text: entry.text + ' = '
+          displayText: entry.displayText
+          type: 'snippet'
+          rightLabel: label
+          iconHTML: '<i class="icon-move-right"></i>'
+          description: entry.description
+          descriptionMoreURL: WIKIURL + url
         completions.push(completion)
 
-      for keyword in keywords.keyword_bracket when keyword and firstCharsEqual(keyword, prefix)
+      for index, entry of dictionary.bracket when entry.displayText and firstCharsEqual(entry.displayText, prefix)
 
         switch atom.config.get('autocomplete-eu4.bracket')
 
           when 0
             completion =
-              displayText: keyword + ' (single)'
-              snippet: keyword + ' = { $1 }$2'
-              type: 'keyword'
-              description: description
-              descriptionMoreURL: url
+              snippet: entry.text + ' = { $1 }$2'
+              displayText: entry.displayText
+              type: 'snippet'
+              leftLabel: 'single'
+              rightLabel: label
+              iconHTML: '<i class="icon-move-right"></i>'
+              description: entry.description
+              descriptionMoreURL: WIKIURL + url
             completions.push(completion)
+
             completion =
-              displayText: keyword + ' (multi)'
-              snippet: keyword + ' = {\n\t$1\n}'
-              type: 'keyword'
-              description: description
-              descriptionMoreURL: url
+              snippet: entry.text + ' = {\n\t$1\n}'
+              displayText: entry.displayText
+              type: 'snippet'
+              leftLabel: 'multi'
+              rightLabel: label
+              iconHTML: '<i class="icon-move-right"></i>'
+              description: entry.description
+              descriptionMoreURL: WIKIURL + url
             completions.push(completion)
 
           when 1
             completion =
-              displayText: keyword
-              snippet: keyword + ' = { $1 }$2'
-              type: 'keyword'
-              description: description
-              descriptionMoreURL: url
+              snippet: entry.text + ' = { $1 }$2'
+              displayText: entry.displayText
+              type: 'snippet'
+              rightLabel: label
+              iconHTML: '<i class="icon-move-right"></i>'
+              description: entry.description
+              descriptionMoreURL: WIKIURL + url
             completions.push(completion)
 
           when 2
             completion =
-              displayText: keyword
-              snippet: keyword + ' = {\n\t$1\n}'
-              type: 'keyword'
-              description: description
-              descriptionMoreURL: url
+              snippet: entry.text + ' = {\n\t$1\n}'
+              displayText: entry.displayText
+              type: 'snippet'
+              rightLabel: label
+              iconHTML: '<i class="icon-move-right"></i>'
+              description: entry.description
+              descriptionMoreURL: WIKIURL + url
             completions.push(completion)
 
     completions

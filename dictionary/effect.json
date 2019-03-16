@@ -1,336 +1,1648 @@
 {
-  "keyword_simple": [
-  ],
-  "keyword_equal": [
-    "set_global_flag",
-    "clr_global_flag",
-    "custom_tooltip",
-    "log",
-    "save_event_target_as",
-    "save_global_event_target_as",
-    "clear_global_event_target",
-    "clear_global_event_targets",
-    "show_ambient_object",
-    "hide_ambient_object",
-    "remove_country_modifier",
-    "set_country_flag",
-    "clr_country_flag",
-    "change_tag",
-    "switch_tag",
-    "change_graphical_culture",
-    "add_adm_power",
-    "add_dip_power",
-    "add_mil_power",
-    "clear_saved_name",
-    "add_years_of_income",
-    "add_treasury",
-    "add_inflation",
-    "add_mercantilism",
-    "add_tariff_value",
-    "loan_size",
-    "add_absolutism",
-    "add_government_reform",
-    "add_legitimacy",
-    "add_republican_tradition",
-    "add_scaled_republican_tradition",
-    "add_devotion",
-    "add_horde_unity",
-    "add_meritocracy",
-    "set_meritocracy",
-    "add_militarised_society",
-    "add_tribal_allegiance",
-    "change_statists_vs_orangists",
-    "change_government",
-    "set_legacy_government",
-    "dissolve_parliament",
-    "reinstate_parliament",
-    "add_accepted_culture",
-    "change_primary_culture",
-    "remove_accepted_culture",
-    "change_religion",
-    "enable_religion",
-    "force_converted",
-    "add_authority",
-    "add_doom",
-    "remove_religious_reforms",
-    "add_fervor",
-    "add_karma",
-    "set_karma",
-    "add_church_power",
-    "add_church_aspect",
-    "remove_church_aspect",
-    "add_papal_influence",
-    "add_reform_desire",
-    "excommunicate",
-    "set_papacy_active",
-    "add_piety",
-    "add_patriarch_authority",
-    "change_personal_deity",
-    "add_harmony",
-    "add_harmonized_religion",
-    "add_harmonization_progress",
-    "unlock_cult",
-    "add_isolationism",
-    "set_isolationism",
-    "add_idea",
-    "add_idea_group",
-    "add_active_policy",
-    "change_technology_group",
-    "remove_idea",
-    "remove_idea_group",
-    "set_primitive",
-    "swap_free_idea_group",
-    "add_next_institution_embracement",
-    "add_adm_tech",
-    "add_dip_tech",
-    "add_mil_tech",
-    "add_prestige",
-    "add_corruption",
-    "add_splendor",
-    "create_advisor",
-    "kill_advisor",
-    "remove_advisor",
-    "remove_advisor_by_category",
-    "add_stability",
-    "add_war_exhaustion",
-    "add_liberty_desire",
-    "disband_rebels",
-    "collapse_nation",
-    "end_disaster",
-    "add_army_tradition",
-    "add_navy_tradition",
-    "add_army_professionalism",
-    "add_manpower",
-    "add_sailors",
-    "add_yearly_manpower",
-    "add_yearly_sailors",
-    "create_admiral",
-    "create_explorer",
-    "create_conquistador",
-    "create_general",
-    "change_unit_type",
-    "artillery",
-    "cavalry",
-    "infantry",
-    "mercenary_infantry",
-    "mercenary_cavalry",
-    "heavy_ship",
-    "light_ship",
-    "galley",
-    "transport",
-    "add_historical_friend",
-    "add_historical_rival",
-    "remove_historical_friend",
-    "remove_historical_rival",
-    "create_alliance",
-    "create_guarantee",
-    "create_marriage",
-    "create_union",
-    "create_vassal",
-    "create_march",
-    "vassalize",
-    "break_marriage",
-    "break_union",
-    "inherit",
-    "release",
-    "release_all_subjects",
-    "grant_independence",
-    "declare_war",
-    "add_truce_with",
-    "white_peace",
-    "form_coalition_against",
-    "remove_fow",
-    "create_independent_estate",
-    "create_independent_estate_from_religion",
-    "add_faction",
-    "remove_faction",
-    "change_adm",
-    "change_dip",
-    "change_mil",
-    "add_ruler_personality",
-    "remove_ruler_personality",
-    "set_ruler_flag",
-    "clr_ruler_flag",
-    "set_dynasty",
-    "set_ruler_culture",
-    "set_ruler_religion",
-    "exile_ruler_as",
-    "set_ruler",
-    "kill_ruler",
-    "convert_female_ruler_to_general",
-    "convert_ruler_to_general",
-    "add_queen_personality",
-    "remove_queen_personality",
-    "set_consort_flag",
-    "clr_consort_flag",
-    "set_consort_culture",
-    "set_consort_religion",
-    "change_consort_regent_to_ruler",
-    "remove_consort",
-    "change_heir_adm",
-    "change_heir_dip",
-    "change_heir_mil",
-    "add_heir_personality",
-    "remove_heir_personality",
-    "set_heir_flag",
-    "clr_heir_flag",
-    "add_heir_claim",
-    "add_heir_support",
-    "set_heir_culture",
-    "set_heir_religion",
-    "exile_heir_as",
-    "set_heir",
-    "kill_heir",
-    "remove_heir",
-    "convert_female_heir_to_general",
-    "convert_heir_to_general",
-    "add_imperial_influence",
-    "add_scaled_imperial_influence",
-    "elector",
-    "revoke_reform",
-    "set_in_empire",
-    "hre_inheritable",
-    "imperial_ban_allowed",
-    "internal_hre_cb",
-    "set_allow_female_emperor",
-    "dismantle_hre",
-    "enable_hre_leagues",
-    "set_hre_religion",
-    "set_hre_heretic_religion",
-    "set_hre_religion_locked",
-    "set_hre_religion_treaty",
-    "join_league",
-    "leave_league",
-    "dismantle_empire_of_china",
-    "set_emperor_of_china",
-    "add_mandate",
-    "set_mandate",
-    "set_revolution_target",
-    "add_province_triggered_modifier",
-    "remove_province_modifier",
-    "set_province_flag",
-    "clr_province_flag",
-    "change_province_name",
-    "rename_capital",
-    "add_base_tax",
-    "add_base_production",
-    "add_base_manpower",
-    "add_prosperity",
-    "add_devastation",
-    "add_local_autonomy",
-    "set_local_autonomy",
-    "change_trade_goods",
-    "add_scaled_local_adm_power",
-    "add_scaled_local_mil_power",
-    "cancel_construction",
-    "add_great_project",
-    "add_construction_progress",
-    "add_building",
-    "remove_building",
-    "create_advisor",
-    "set_seat_in_parliament",
-    "back_current_issue",
-    "change_culture",
-    "add_culture_construction",
-    "change_religion",
-    "change_to_secondary_religion",
-    "send_missionary",
-    "add_cardinal",
-    "remove_cardinal",
-    "add_reform_center",
-    "remove_reform_center",
-    "set_estate",
-    "remove_estate",
-    "set_in_empire",
-    "add_nationalism",
-    "add_unrest",
-    "create_native",
-    "create_pirate",
-    "create_revolt",
-    "create_colony",
-    "add_colonysize",
-    "multiply_colonysize",
-    "add_siberian_construction",
-    "change_native_ferocity",
-    "change_native_hostileness",
-    "change_native_size",
-    "add_claim",
-    "add_core",
-    "add_core_construction",
-    "add_permanent_claim",
-    "add_territorial_core",
-    "cede_province",
-    "change_controller",
-    "remove_claim",
-    "remove_core",
-    "remove_territorial_core",
-    "streltsy_infantry",
-    "cossack_cavalry",
-    "kill_leader",
-    "change_siege",
-    "recall_merchant",
-    "add_trade_node_income",
-    "center_of_trade ",
-    "add_center_of_trade_level "
-  ],
-  "keyword_bracket": [
-    "country_event",
-    "add_country_modifier",
-    "set_saved_name",
-    "change_price",
-    "add_government_power",
-    "set_government_and_rank",
-    "set_school_opinion",
-    "add_incident_variable_value",
-    "set_incident_variable_value",
-    "define_advisor",
-    "add_disaster_modifier",
-    "add_disaster_progress",
-    "kill_leader",
-    "define_admiral",
-    "define_explorer",
-    "define_conquistador",
-    "define_general",
-    "add_trust",
-    "add_opinion",
-    "reverse_add_opinion",
-    "remove_opinion",
-    "reverse_remove_opinion",
-    "create_subject",
-    "declare_war_with_cb",
-    "add_casus_belli",
-    "reverse_add_casus_belli",
-    "remove_casus_belli",
-    "reverse_remove_casus_belli",
-    "add_spy_network_from",
-    "add_spy_network_in",
-    "add_estate_influence_modifier",
-    "add_estate_loyalty",
-    "add_estate_loyalty_modifier",
-    "add_faction_influence",
-    "add_ruler_modifier",
-    "define_ruler_to_general",
-    "define_leader_to_ruler",
-    "define_ruler",
-    "define_consort",
-    "define_heir_to_general",
-    "define_heir",
-    "set_ai_personality",
-    "set_ai_attitude",
-    "province_event",
-    "add_province_modifier",
-    "add_permanent_province_modifier",
-    "extend_province_modifier",
-    "add_building_construction",
-    "add_institution_embracement",
-    "spawn_rebels",
-    "discover_country",
-    "undiscover_country",
-    "kill_units",
-    "add_unit_construction",
-    "build_to_forcelimit",
-    "remove_loot",
-    "add_trade_modifier",
-    "remove_trade_modifier"
-  ]
+	"simple": [
+	],
+	"equal": [
+		{
+			"text": "set_global_flag",
+			"displayText": "set_global_flag",
+			"description": "Defines a global flag."
+		},
+		{
+			"text": "clr_global_flag",
+			"displayText": "clr_global_flag",
+			"description": "Clears a defined global flag."
+		},
+		{
+			"text": "custom_tooltip",
+			"displayText": "custom_tooltip",
+			"description": "Displays a localized key in the effect tooltip."
+		},
+		{
+			"text": "log",
+			"displayText": "log",
+			"description": "Displays a string in the game.log when executed."
+		},
+		{
+			"text": "save_event_target_as",
+			"displayText": "save_event_target_as",
+			"description": "Saves the current scope as a key. Is cleared once execution ends (i.e. end of event)."
+		},
+		{
+			"text": "save_global_event_target_as",
+			"displayText": "save_global_event_target_as",
+			"description": "Saves the current scope as a key. Persists after execution until cleared via effect."
+		},
+		{
+			"text": "clear_global_event_target",
+			"displayText": "clear_global_event_target",
+			"description": "Clears a specific global event target."
+		},
+		{
+			"text": "clear_global_event_targets",
+			"displayText": "clear_global_event_targets",
+			"description": "Clears all global event targets."
+		},
+		{
+			"text": "show_ambient_object",
+			"displayText": "show_ambient_object",
+			"description": "Displays a hidden ambient object from the map/ambient_objects.txt file."
+		},
+		{
+			"text": "hide_ambient_object",
+			"displayText": "hide_ambient_object",
+			"description": "Hides a visible ambient object from the map/ambient_objects.txt file."
+		},
+		{
+			"text": "remove_country_modifier",
+			"displayText": "remove_country_modifier",
+			"description": "Removes an already assigned country modifier from the current scope."
+		},
+		{
+			"text": "set_country_flag",
+			"displayText": "set_country_flag",
+			"description": "Defines a country flag for the current scope."
+		},
+		{
+			"text": "clr_country_flag",
+			"displayText": "clr_country_flag",
+			"description": "Clears a defined country flag for the current scope."
+		},
+		{
+			"text": "change_tag",
+			"displayText": "change_tag",
+			"description": "Changes current scope to  tag."
+		},
+		{
+			"text": "switch_tag",
+			"displayText": "switch_tag",
+			"description": "Switches the player view to  tag. Original country becomes controlled by AI."
+		},
+		{
+			"text": "change_graphical_culture",
+			"displayText": "change_graphical_culture",
+			"description": "Changes the current scope's graphical culture. Graphical culture determines the unit models, advisor portraits, etc that a country uses."
+		},
+		{
+			"text": "add_adm_power",
+			"displayText": "add_adm_power",
+			"description": "Adds Administrative power to the current scope."
+		},
+		{
+			"text": "add_dip_power",
+			"displayText": "add_dip_power",
+			"description": "Adds Diplomatic power to the current scope."
+		},
+		{
+			"text": "add_mil_power",
+			"displayText": "add_mil_power",
+			"description": "Adds Military power to the current scope."
+		},
+		{
+			"text": "clear_saved_name",
+			"displayText": "clear_saved_name",
+			"description": "Clears a saved name key."
+		},
+		{
+			"text": "add_years_of_income",
+			"displayText": "add_years_of_income",
+			"description": "Adds ducats equal to the years of income defined."
+		},
+		{
+			"text": "add_treasury",
+			"displayText": "add_treasury",
+			"description": "Adds ducats to the current scope."
+		},
+		{
+			"text": "add_inflation",
+			"displayText": "add_inflation",
+			"description": "Adds inflation to the current scope."
+		},
+		{
+			"text": "add_mercantilism",
+			"displayText": "add_mercantilism",
+			"description": "Adds mercantilism to the current scope."
+		},
+		{
+			"text": "add_tariff_value",
+			"displayText": "add_tariff_value",
+			"description": "Adds tariff value to the current scope."
+		},
+		{
+			"text": "loan_size",
+			"displayText": "loan_size",
+			"description": "Changes the loan size of the current scope."
+		},
+		{
+			"text": "add_absolutism",
+			"displayText": "add_absolutism",
+			"description": "Adds absolutism to the current scope."
+		},
+		{
+			"text": "add_government_reform",
+			"displayText": "add_government_reform",
+			"description": "If Dharma is active, enacts a government reform, replacing any existing reform at the same tier. If Dharma is not active, changes to the legacy government type that this reform has listed as its legacy_equivalent."
+		},
+		{
+			"text": "add_legitimacy",
+			"displayText": "add_legitimacy",
+			"description": "Adds legitimacy to the current scope."
+		},
+		{
+			"text": "add_republican_tradition",
+			"displayText": "add_republican_tradition",
+			"description": "Adds republican tradition to the current scope."
+		},
+		{
+			"text": "add_scaled_republican_tradition",
+			"displayText": "add_scaled_republican_tradition",
+			"description": "Adds republican tradition to the current scope."
+		},
+		{
+			"text": "add_devotion",
+			"displayText": "add_devotion",
+			"description": "Adds devotion to the current scope."
+		},
+		{
+			"text": "add_horde_unity",
+			"displayText": "add_horde_unity",
+			"description": "Adds horde unity to the current scope."
+		},
+		{
+			"text": "add_meritocracy",
+			"displayText": "add_meritocracy",
+			"description": "Adds meritocracy to the current scope."
+		},
+		{
+			"text": "set_meritocracy",
+			"displayText": "set_meritocracy",
+			"description": "Sets the current meritocracy for the current scope."
+		},
+		{
+			"text": "add_militarised_society",
+			"displayText": "add_militarised_society",
+			"description": "Adds militarisation to the current scope."
+		},
+		{
+			"text": "add_tribal_allegiance",
+			"displayText": "add_tribal_allegiance",
+			"description": "Adds tribal allegiance to the current scope."
+		},
+		{
+			"text": "change_statists_vs_orangists",
+			"displayText": "change_statists_vs_orangists",
+			"description": "Changes the Organist-Statist balance."
+		},
+		{
+			"text": "change_government",
+			"displayText": "change_government",
+			"description": "Changes the government of the current scope."
+		},
+		{
+			"text": "set_legacy_government",
+			"displayText": "set_legacy_government",
+			"description": "Switches to the given government type."
+		},
+		{
+			"text": "dissolve_parliament",
+			"displayText": "dissolve_parliament",
+			"description": "Disables the Parliament mechanic."
+		},
+		{
+			"text": "reinstate_parliament",
+			"displayText": "reinstate_parliament",
+			"description": "Re-enables the Parliament mechanic after dissolve_parliament."
+		},
+		{
+			"text": "add_accepted_culture",
+			"displayText": "add_accepted_culture",
+			"description": "Adds a new accepted culture to the current scope."
+		},
+		{
+			"text": "change_primary_culture",
+			"displayText": "change_primary_culture",
+			"description": "Changes the primary culture of the current scope."
+		},
+		{
+			"text": "remove_accepted_culture",
+			"displayText": "remove_accepted_culture",
+			"description": "Removes an accepted culture from the current scope."
+		},
+		{
+			"text": "change_religion",
+			"displayText": "change_religion",
+			"description": "Changes the religion of the current province scope."
+		},
+		{
+			"text": "enable_religion",
+			"displayText": "enable_religion",
+			"description": "Enables an religion that has been restricted with the date parameter."
+		},
+		{
+			"text": "force_converted",
+			"displayText": "force_converted",
+			"description": "Sets whether the current scope has been force converted."
+		},
+		{
+			"text": "add_authority",
+			"displayText": "add_authority",
+			"description": "Adds authority to the current scope. Used in Religious Reforms that use authority."
+		},
+		{
+			"text": "add_doom",
+			"displayText": "add_doom",
+			"description": "Adds doom to the current scope. Used in Religious Reforms that use doom."
+		},
+		{
+			"text": "remove_religious_reforms",
+			"displayText": "remove_religious_reforms",
+			"description": "Removes taken religious reforms from the current scope."
+		},
+		{
+			"text": "add_fervor",
+			"displayText": "add_fervor",
+			"description": "Adds Fervor to the current scope."
+		},
+		{
+			"text": "add_karma",
+			"displayText": "add_karma",
+			"description": "Adds Karma to the current scope."
+		},
+		{
+			"text": "set_karma",
+			"displayText": "set_karma",
+			"description": "Sets the Karma value for the current scope."
+		},
+		{
+			"text": "add_church_power",
+			"displayText": "add_church_power",
+			"description": "Adds Church Power to the current scope."
+		},
+		{
+			"text": "add_church_aspect",
+			"displayText": "add_church_aspect",
+			"description": "Adds the defined aspect to the current scope."
+		},
+		{
+			"text": "remove_church_aspect",
+			"displayText": "remove_church_aspect",
+			"description": "Removes the defined aspect from the current scope."
+		},
+		{
+			"text": "add_papal_influence",
+			"displayText": "add_papal_influence",
+			"description": "Adds Papal Influence to the current scope."
+		},
+		{
+			"text": "add_reform_desire",
+			"displayText": "add_reform_desire",
+			"description": "Adds Reform Desire."
+		},
+		{
+			"text": "excommunicate",
+			"displayText": "excommunicate",
+			"description": "Excommunicates the defined scope. If already excommunicated, removes excommunication."
+		},
+		{
+			"text": "set_papacy_active",
+			"displayText": "set_papacy_active",
+			"description": "Enables or disables the Papacy mechanic."
+		},
+		{
+			"text": "add_piety",
+			"displayText": "add_piety",
+			"description": "Adds Piety to the current scope."
+		},
+		{
+			"text": "add_patriarch_authority",
+			"displayText": "add_patriarch_authority",
+			"description": "Adds Patriarch Authority to the current scope."
+		},
+		{
+			"text": "change_personal_deity",
+			"displayText": "change_personal_deity",
+			"description": "Changes the current personal deity for the current scope."
+		},
+		{
+			"text": "add_harmony",
+			"displayText": "add_harmony",
+			"description": "Adds Harmony to the current scope."
+		},
+		{
+			"text": "add_harmonized_religion",
+			"displayText": "add_harmonized_religion",
+			"description": "Adds a religion to the list of Harmonized religions for the current scope."
+		},
+		{
+			"text": "add_harmonization_progress",
+			"displayText": "add_harmonization_progress",
+			"description": "Adds Harmonization Progress for the current harmonization target to the current scope."
+		},
+		{
+			"text": "unlock_cult",
+			"displayText": "unlock_cult",
+			"description": "Adds the defined cult to the current scope."
+		},
+		{
+			"text": "add_isolationism",
+			"displayText": "add_isolationism",
+			"description": "Adds Isolationism to the current scope."
+		},
+		{
+			"text": "set_isolationism",
+			"displayText": "set_isolationism",
+			"description": "Sets Isolationism for the current scope."
+		},
+		{
+			"text": "add_idea",
+			"displayText": "add_idea",
+			"description": "Adds an idea for the current scope."
+		},
+		{
+			"text": "add_idea_group",
+			"displayText": "add_idea_group",
+			"description": "Adds an ideagroup for the current scope."
+		},
+		{
+			"text": "add_active_policy",
+			"displayText": "add_active_policy",
+			"description": "Adds a policy for the current scope."
+		},
+		{
+			"text": "change_technology_group",
+			"displayText": "change_technology_group",
+			"description": "Changes the technology group of the current scope."
+		},
+		{
+			"text": "remove_idea",
+			"displayText": "remove_idea",
+			"description": "Removes an idea for the current scope."
+		},
+		{
+			"text": "remove_idea_group",
+			"displayText": "remove_idea_group",
+			"description": "Removes an ideagroup for the current scope."
+		},
+		{
+			"text": "set_primitive",
+			"displayText": "set_primitive",
+			"description": "Toggles Primitive status for the current scope."
+		},
+		{
+			"text": "swap_free_idea_group",
+			"displayText": "swap_free_idea_group",
+			"description": "Re-evaluates the current scope's national idea set assignment, if they match a different set, they will switch to it."
+		},
+		{
+			"text": "add_next_institution_embracement",
+			"displayText": "add_next_institution_embracement",
+			"description": "Adds embracement for the current progressing institution within the current scope."
+		},
+		{
+			"text": "add_adm_tech",
+			"displayText": "add_adm_tech",
+			"description": "Adds ADM technologies to the current scope."
+		},
+		{
+			"text": "add_dip_tech",
+			"displayText": "add_dip_tech",
+			"description": "Adds DIP technologies to the current scope."
+		},
+		{
+			"text": "add_mil_tech",
+			"displayText": "add_mil_tech",
+			"description": "Adds MIL technologies to the current scope."
+		},
+		{
+			"text": "add_prestige",
+			"displayText": "add_prestige",
+			"description": "Adds prestige to the current scope."
+		},
+		{
+			"text": "add_corruption",
+			"displayText": "add_corruption",
+			"description": "Adds corruption to the current scope."
+		},
+		{
+			"text": "add_splendor",
+			"displayText": "add_splendor",
+			"description": "Adds splendor to the current scope."
+		},
+		{
+			"text": "create_advisor",
+			"displayText": "create_advisor",
+			"description": "Adds the defined advisor for the owner of the current province scope."
+		},
+		{
+			"text": "kill_advisor",
+			"displayText": "kill_advisor",
+			"description": "Kills a hired advisor for the current scope."
+		},
+		{
+			"text": "remove_advisor",
+			"displayText": "remove_advisor",
+			"description": "Removes a hired advisor for the current scope."
+		},
+		{
+			"text": "remove_advisor_by_category",
+			"displayText": "remove_advisor_by_category",
+			"description": "Removes a hired advisor of a monarch power type for the current scope."
+		},
+		{
+			"text": "add_stability",
+			"displayText": "add_stability",
+			"description": "Adds stability to the current scope."
+		},
+		{
+			"text": "add_war_exhaustion",
+			"displayText": "add_war_exhaustion",
+			"description": "Adds war exhaustion to the current scope."
+		},
+		{
+			"text": "add_liberty_desire",
+			"displayText": "add_liberty_desire",
+			"description": "Adds liberty desire to the current scope."
+		},
+		{
+			"text": "disband_rebels",
+			"displayText": "disband_rebels",
+			"description": "Disbands all active rebels of the specified type in the provinces of the current scope."
+		},
+		{
+			"text": "collapse_nation",
+			"displayText": "collapse_nation",
+			"description": "Causes owned cores of the current scope to be released as nations and for them to take a percentage of the current scope's owned provinces."
+		},
+		{
+			"text": "end_disaster",
+			"displayText": "end_disaster",
+			"description": "Immediately ends an active disaster for the current scope."
+		},
+		{
+			"text": "add_army_tradition",
+			"displayText": "add_army_tradition",
+			"description": "Adds Army Tradition to the current scope."
+		},
+		{
+			"text": "add_navy_tradition",
+			"displayText": "add_navy_tradition",
+			"description": "Adds Navy Tradition to the current scope."
+		},
+		{
+			"text": "add_army_professionalism",
+			"displayText": "add_army_professionalism",
+			"description": "Adds Army Professionalism to the current scope."
+		},
+		{
+			"text": "add_manpower",
+			"displayText": "add_manpower",
+			"description": "Adds manpower to the current scope."
+		},
+		{
+			"text": "add_sailors",
+			"displayText": "add_sailors",
+			"description": "Adds sailors to the current scope."
+		},
+		{
+			"text": "add_yearly_manpower",
+			"displayText": "add_yearly_manpower",
+			"description": "Adds manpower to the current scope, as a percentage of total yearly manpower."
+		},
+		{
+			"text": "add_yearly_sailors",
+			"displayText": "add_yearly_sailors",
+			"description": "Adds sailors to the current scope, as a percentage of total yearly sailors."
+		},
+		{
+			"text": "create_admiral",
+			"displayText": "create_admiral",
+			"description": "Generates an new admiral for the current scope."
+		},
+		{
+			"text": "create_explorer",
+			"displayText": "create_explorer",
+			"description": "Generates an new explorer for the current scope."
+		},
+		{
+			"text": "create_conquistador",
+			"displayText": "create_conquistador",
+			"description": "Generates an new conquistador for the current scope."
+		},
+		{
+			"text": "create_general",
+			"displayText": "create_general",
+			"description": "Generates an new general for the current scope."
+		},
+		{
+			"text": "change_unit_type",
+			"displayText": "change_unit_type",
+			"description": "Change the unit type for the current scope."
+		},
+		{
+			"text": "artillery",
+			"displayText": "artillery",
+			"description": "Spawns an artillery unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "cavalry",
+			"displayText": "cavalry",
+			"description": "Spawns an cavalry unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "infantry",
+			"displayText": "infantry",
+			"description": "Spawns an infantry unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "mercenary_infantry",
+			"displayText": "mercenary_infantry",
+			"description": "Spawns an mercenary infantry unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "mercenary_cavalry",
+			"displayText": "mercenary_cavalry",
+			"description": "Spawns an mercenary cavalry unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "heavy_ship",
+			"displayText": "heavy_ship",
+			"description": "Spawns an heavy ship unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "light_ship",
+			"displayText": "light_ship",
+			"description": "Spawns an light ship unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "galley",
+			"displayText": "galley",
+			"description": "Spawns an galley ship unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "transport",
+			"displayText": "transport",
+			"description": "Spawns an transport ship unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "add_historical_friend",
+			"displayText": "add_historical_friend",
+			"description": "Makes the defined scope a historical friend of the current scope."
+		},
+		{
+			"text": "add_historical_rival",
+			"displayText": "add_historical_rival",
+			"description": "Makes the defined scope a historical rival of the current scope."
+		},
+		{
+			"text": "remove_historical_friend",
+			"displayText": "remove_historical_friend",
+			"description": "Removes the historical friendship between the defined scope and the current scope."
+		},
+		{
+			"text": "remove_historical_rival",
+			"displayText": "remove_historical_rival",
+			"description": "Removes the historical rivalry between the defined scope and the current scope."
+		},
+		{
+			"text": "create_alliance",
+			"displayText": "create_alliance",
+			"description": "Creates an alliance between the current scope and the defined scope."
+		},
+		{
+			"text": "create_guarantee",
+			"displayText": "create_guarantee",
+			"description": "Creates an guarantee over the defined scope for the current scope."
+		},
+		{
+			"text": "create_marriage",
+			"displayText": "create_marriage",
+			"description": "Creates a royal marriage between the current scope and the defined scope."
+		},
+		{
+			"text": "create_union",
+			"displayText": "create_union",
+			"description": "Makes the defined scope a junior partner in a personal union with the current scope."
+		},
+		{
+			"text": "create_vassal",
+			"displayText": "create_vassal",
+			"description": "Makes the defined scope a vassal subject of the current scope."
+		},
+		{
+			"text": "create_march",
+			"displayText": "create_march",
+			"description": "Makes the defined scope a march subject of the current scope."
+		},
+		{
+			"text": "vassalize",
+			"displayText": "vassalize",
+			"description": "Makes the defined scope a vassal subject of the current scope."
+		},
+		{
+			"text": "break_marriage",
+			"displayText": "break_marriage",
+			"description": "Breaks the current scope's royal marriage with the defined scope."
+		},
+		{
+			"text": "break_union",
+			"displayText": "break_union",
+			"description": "Breaks the current scope's union with the defined scope."
+		},
+		{
+			"text": "inherit",
+			"displayText": "inherit",
+			"description": "The current scope inherits all of the defined scope's provinces."
+		},
+		{
+			"text": "release",
+			"displayText": "release",
+			"description": "The current scope releases all provinces with the defined scope's cores."
+		},
+		{
+			"text": "release_all_subjects",
+			"displayText": "release_all_subjects",
+			"description": "The current scope releases all possible subjects from cores."
+		},
+		{
+			"text": "grant_independence",
+			"displayText": "grant_independence",
+			"description": "The current scope is granted independence from their overlord."
+		},
+		{
+			"text": "declare_war",
+			"displayText": "declare_war",
+			"description": "Creates a no casus belli war against the defined scope for the current scope."
+		},
+		{
+			"text": "add_truce_with",
+			"displayText": "add_truce_with",
+			"description": "Creates a truce between the defined scope and the current scope."
+		},
+		{
+			"text": "white_peace",
+			"displayText": "white_peace",
+			"description": "Forces the defined scope into a white peace truce with the current scope."
+		},
+		{
+			"text": "form_coalition_against",
+			"displayText": "form_coalition_against",
+			"description": "The current scope creates or joins a coalition against the defined scope."
+		},
+		{
+			"text": "remove_fow",
+			"displayText": "remove_fow",
+			"description": "Removes the fog of war in the current scope for the previous scope."
+		},
+		{
+			"text": "create_independent_estate",
+			"displayText": "create_independent_estate",
+			"description": "Creates an independent nation from provinces owned by the specified estate within the current scope's owned provinces."
+		},
+		{
+			"text": "create_independent_estate_from_religion",
+			"displayText": "create_independent_estate_from_religion",
+			"description": "Creates an independent nation from provinces owned by the specified estate within the current scope's owned provinces."
+		},
+		{
+			"text": "add_faction",
+			"displayText": "add_faction",
+			"description": "Adds a faction to the current scope."
+		},
+		{
+			"text": "remove_faction",
+			"displayText": "remove_faction",
+			"description": "Removes a faction from the current scope."
+		},
+		{
+			"text": "change_adm",
+			"displayText": "change_adm",
+			"description": "Adds ADM skill to the current ruler."
+		},
+		{
+			"text": "change_dip",
+			"displayText": "change_dip",
+			"description": "Adds DIP skill to the current ruler."
+		},
+		{
+			"text": "change_mil",
+			"displayText": "change_mil",
+			"description": "Adds MIL skill to the current ruler."
+		},
+		{
+			"text": "add_ruler_personality",
+			"displayText": "add_ruler_personality",
+			"description": "Adds the defined personality to the current ruler."
+		},
+		{
+			"text": "remove_ruler_personality",
+			"displayText": "remove_ruler_personality",
+			"description": "Removes the defined personality from the current ruler."
+		},
+		{
+			"text": "set_ruler_flag",
+			"displayText": "set_ruler_flag",
+			"description": "Defines a ruler flag for the current scope's ruler."
+		},
+		{
+			"text": "clr_ruler_flag",
+			"displayText": "clr_ruler_flag",
+			"description": "Clears a ruler flag for the current scope's ruler."
+		},
+		{
+			"text": "set_dynasty",
+			"displayText": "set_dynasty",
+			"description": "Sets the dynasty of the current scope's ruler."
+		},
+		{
+			"text": "set_ruler_culture",
+			"displayText": "set_ruler_culture",
+			"description": "Changes the ruler culture of the current scope."
+		},
+		{
+			"text": "set_ruler_religion",
+			"displayText": "set_ruler_religion",
+			"description": "Changes the ruler religion of the current scope."
+		},
+		{
+			"text": "exile_ruler_as",
+			"displayText": "exile_ruler_as",
+			"description": "Removes the current ruler of the current scope, saving them to the unique string."
+		},
+		{
+			"text": "set_ruler",
+			"displayText": "set_ruler",
+			"description": "Makes the exiled ruler the ruler of the current scope."
+		},
+		{
+			"text": "kill_ruler",
+			"displayText": "kill_ruler",
+			"description": "Kills the ruler of the current scope."
+		},
+		{
+			"text": "convert_female_ruler_to_general",
+			"displayText": "convert_female_ruler_to_general",
+			"description": "Converts a female ruler into a general."
+		},
+		{
+			"text": "convert_ruler_to_general",
+			"displayText": "convert_ruler_to_general",
+			"description": "Converts a male ruler into a general."
+		},
+		{
+			"text": "add_queen_personality",
+			"displayText": "add_queen_personality",
+			"description": "Adds the defined personality to the current consort."
+		},
+		{
+			"text": "remove_queen_personality",
+			"displayText": "remove_queen_personality",
+			"description": "Removes the defined personality from the current consort."
+		},
+		{
+			"text": "set_consort_flag",
+			"displayText": "set_consort_flag",
+			"description": "Defines a consort flag for the current scope's consort."
+		},
+		{
+			"text": "clr_consort_flag",
+			"displayText": "clr_consort_flag",
+			"description": "Clears a consort flag for the current scope's consort."
+		},
+		{
+			"text": "set_consort_culture",
+			"displayText": "set_consort_culture",
+			"description": "Changes the consort culture for the current scope."
+		},
+		{
+			"text": "set_consort_religion",
+			"displayText": "set_consort_religion",
+			"description": "Changes the consort religion for the current scope."
+		},
+		{
+			"text": "change_consort_regent_to_ruler",
+			"displayText": "change_consort_regent_to_ruler",
+			"description": "Makes a consort regent into the current ruler for the current scope."
+		},
+		{
+			"text": "remove_consort",
+			"displayText": "remove_consort",
+			"description": "Removes the current consort for the current scope."
+		},
+		{
+			"text": "change_heir_adm",
+			"displayText": "change_heir_adm",
+			"description": "Adds ADM skill to the current heir."
+		},
+		{
+			"text": "change_heir_dip",
+			"displayText": "change_heir_dip",
+			"description": "Adds DIP skill to the current heir."
+		},
+		{
+			"text": "change_heir_mil",
+			"displayText": "change_heir_mil",
+			"description": "Adds MIL skill to the current heir."
+		},
+		{
+			"text": "add_heir_personality",
+			"displayText": "add_heir_personality",
+			"description": "Adds the defined personality to the current heir."
+		},
+		{
+			"text": "remove_heir_personality",
+			"displayText": "remove_heir_personality",
+			"description": "Removes the defined personality from the current heir."
+		},
+		{
+			"text": "set_heir_flag",
+			"displayText": "set_heir_flag",
+			"description": "Defines a heir flag for the current scope's heir."
+		},
+		{
+			"text": "clr_heir_flag",
+			"displayText": "clr_heir_flag",
+			"description": "Clears a heir flag for the current scope's heir."
+		},
+		{
+			"text": "add_heir_claim",
+			"displayText": "add_heir_claim",
+			"description": "Adds to the current scope's heir claim."
+		},
+		{
+			"text": "add_heir_support",
+			"displayText": "add_heir_support",
+			"description": "Adds to the local heir's support in an Elective Monarchy."
+		},
+		{
+			"text": "set_heir_culture",
+			"displayText": "set_heir_culture",
+			"description": "Changes the heir culture of the current scope."
+		},
+		{
+			"text": "set_heir_religion",
+			"displayText": "set_heir_religion",
+			"description": "Changes the heir religion of the current scope."
+		},
+		{
+			"text": "exile_heir_as",
+			"displayText": "exile_heir_as",
+			"description": "Removes the current heir of the current scope, saving them to the unique string."
+		},
+		{
+			"text": "set_heir",
+			"displayText": "set_heir",
+			"description": "Makes the exiled heir the ruler of the current scope."
+		},
+		{
+			"text": "kill_heir",
+			"displayText": "kill_heir",
+			"description": "Kills the heir of the current scope."
+		},
+		{
+			"text": "remove_heir",
+			"displayText": "remove_heir",
+			"description": "Removes the heir of the current scope."
+		},
+		{
+			"text": "convert_female_heir_to_general",
+			"displayText": "convert_female_heir_to_general",
+			"description": "Converts a female heir into a general."
+		},
+		{
+			"text": "convert_heir_to_general",
+			"displayText": "convert_heir_to_general",
+			"description": "Converts a male heir into a general."
+		},
+		{
+			"text": "add_imperial_influence",
+			"displayText": "add_imperial_influence",
+			"description": "Adds Imperial Influence for the current scope."
+		},
+		{
+			"text": "add_scaled_imperial_influence",
+			"displayText": "add_scaled_imperial_influence",
+			"description": "Adds Imperial Influence for the current scope, scaled by the current Imperial Authority value."
+		},
+		{
+			"text": "elector",
+			"displayText": "elector",
+			"description": "Makes the defined scope an elector of the Holy Roman Empire."
+		},
+		{
+			"text": "revoke_reform",
+			"displayText": "revoke_reform",
+			"description": "Removes an Imperial Reform."
+		},
+		{
+			"text": "set_in_empire",
+			"displayText": "set_in_empire",
+			"description": "Places the current province scope in the Holy Roman Empire."
+		},
+		{
+			"text": "hre_inheritable",
+			"displayText": "hre_inheritable",
+			"description": "Makes the seat of the Emperor inheritable."
+		},
+		{
+			"text": "imperial_ban_allowed",
+			"displayText": "imperial_ban_allowed",
+			"description": "Enables the Imperial Ban casus belli."
+		},
+		{
+			"text": "internal_hre_cb",
+			"displayText": "internal_hre_cb",
+			"description": "Disables casus belli creation for HRE members against one another."
+		},
+		{
+			"text": "set_allow_female_emperor",
+			"displayText": "set_allow_female_emperor",
+			"description": "Enables female rulers to become emperor."
+		},
+		{
+			"text": "dismantle_hre",
+			"displayText": "dismantle_hre",
+			"description": "Disbands the HRE and removes all members from it."
+		},
+		{
+			"text": "enable_hre_leagues",
+			"displayText": "enable_hre_leagues",
+			"description": "Enables the Religious Leagues."
+		},
+		{
+			"text": "set_hre_religion",
+			"displayText": "set_hre_religion",
+			"description": "Makes the defined religion the official religion of the HRE."
+		},
+		{
+			"text": "set_hre_heretic_religion",
+			"displayText": "set_hre_heretic_religion",
+			"description": "Makes the defined religion the heretic religion of the HRE."
+		},
+		{
+			"text": "set_hre_religion_locked",
+			"displayText": "set_hre_religion_locked",
+			"description": "Locks the official and heretic religion assignments, ending the Religious Leagues."
+		},
+		{
+			"text": "set_hre_religion_treaty",
+			"displayText": "set_hre_religion_treaty",
+			"description": "Ends the Religious Leagues with no set religions."
+		},
+		{
+			"text": "join_league",
+			"displayText": "join_league",
+			"description": "Makes the current scope join the League that the defined scope belongs to."
+		},
+		{
+			"text": "leave_league",
+			"displayText": "leave_league",
+			"description": "Makes the current scope leave the League that the defined scope belongs to."
+		},
+		{
+			"text": "dismantle_empire_of_china",
+			"displayText": "dismantle_empire_of_china",
+			"description": "Removes the Empire of China and the Mandate system."
+		},
+		{
+			"text": "set_emperor_of_china",
+			"displayText": "set_emperor_of_china",
+			"description": "Sets the current Emperor of China."
+		},
+		{
+			"text": "add_mandate",
+			"displayText": "add_mandate",
+			"description": "Adds mandate to the current scope."
+		},
+		{
+			"text": "set_mandate",
+			"displayText": "set_mandate",
+			"description": "Sets the mandate value for the current scope."
+		},
+		{
+			"text": "set_revolution_target",
+			"displayText": "set_revolution_target",
+			"description": "Makes the defined scope the new revolutionary target."
+		},
+		{
+			"text": "add_province_triggered_modifier",
+			"displayText": "add_province_triggered_modifier",
+			"description": "Adds a province triggered modifier to the current province scope."
+		},
+		{
+			"text": "remove_province_modifier",
+			"displayText": "remove_province_modifier",
+			"description": "Removes an already assigned province modifier from the current province scope."
+		},
+		{
+			"text": "set_province_flag",
+			"displayText": "set_province_flag",
+			"description": "Defines a province flag for the current province scope."
+		},
+		{
+			"text": "clr_province_flag",
+			"displayText": "clr_province_flag",
+			"description": "Clears a defined province flag for the current province scope."
+		},
+		{
+			"text": "change_province_name",
+			"displayText": "change_province_name",
+			"description": "Changes the province name of the current province scope to the defined name."
+		},
+		{
+			"text": "rename_capital",
+			"displayText": "rename_capital",
+			"description": "Changes the capital name of the current province scope to the defined name."
+		},
+		{
+			"text": "add_base_tax",
+			"displayText": "add_base_tax",
+			"description": "Adds base tax to the current province scope."
+		},
+		{
+			"text": "add_base_production",
+			"displayText": "add_base_production",
+			"description": "Adds base production to the current province scope."
+		},
+		{
+			"text": "add_base_manpower",
+			"displayText": "add_base_manpower",
+			"description": "Adds base manpower to the current province scope."
+		},
+		{
+			"text": "add_prosperity",
+			"displayText": "add_prosperity",
+			"description": "Adds prosperity to the current province scope."
+		},
+		{
+			"text": "add_devastation",
+			"displayText": "add_devastation",
+			"description": "Adds devastation to the current province scope."
+		},
+		{
+			"text": "add_local_autonomy",
+			"displayText": "add_local_autonomy",
+			"description": "Adds local autonomy to the current province scope."
+		},
+		{
+			"text": "set_local_autonomy",
+			"displayText": "set_local_autonomy",
+			"description": "Sets local autonomy for the current province scope."
+		},
+		{
+			"text": "change_trade_goods",
+			"displayText": "change_trade_goods",
+			"description": "Sets the trade good for the current province scope."
+		},
+		{
+			"text": "add_scaled_local_adm_power",
+			"displayText": "add_scaled_local_adm_power",
+			"description": "Adds Administrative power to the owner of the current province scope, scaling with the base tax."
+		},
+		{
+			"text": "add_scaled_local_mil_power",
+			"displayText": "add_scaled_local_mil_power",
+			"description": "Adds Military power to the owner of the current province scope, scaling with the base manpower."
+		},
+		{
+			"text": "cancel_construction",
+			"displayText": "cancel_construction",
+			"description": "Cancels any construction ongoing in the current province scope."
+		},
+		{
+			"text": "add_great_project",
+			"displayText": "add_great_project",
+			"description": "Starts construction of a great project in the current province scope."
+		},
+		{
+			"text": "add_construction_progress",
+			"displayText": "add_construction_progress",
+			"description": "Changes the construction progress of a great project in the current province scope."
+		},
+		{
+			"text": "add_building",
+			"displayText": "add_building",
+			"description": "Adds the defined building to the current province scope."
+		},
+		{
+			"text": "remove_building",
+			"displayText": "remove_building",
+			"description": "Removes the defined building to the current province scope."
+		},
+		{
+			"text": "create_advisor",
+			"displayText": "create_advisor",
+			"description": "Adds the defined advisor for the owner of the current province scope."
+		},
+		{
+			"text": "set_seat_in_parliament",
+			"displayText": "set_seat_in_parliament",
+			"description": "Adds the current province scope to Parliament."
+		},
+		{
+			"text": "back_current_issue",
+			"displayText": "back_current_issue",
+			"description": "Backs or blocks the current issue in Parliament, if the current province scope has a seat."
+		},
+		{
+			"text": "change_culture",
+			"displayText": "change_culture",
+			"description": "Changes the culture of the current province scope."
+		},
+		{
+			"text": "add_culture_construction",
+			"displayText": "add_culture_construction",
+			"description": "Starts culture conversion in the current province scope, for the current owner."
+		},
+		{
+			"text": "change_religion",
+			"displayText": "change_religion",
+			"description": "Changes the religion of the current province scope."
+		},
+		{
+			"text": "change_to_secondary_religion",
+			"displayText": "change_to_secondary_religion",
+			"description": "Changes the religion in the current province scope to the syncretic religion of its owner."
+		},
+		{
+			"text": "send_missionary",
+			"displayText": "send_missionary",
+			"description": "Starts religious conversion in the current province scope, for the current owner."
+		},
+		{
+			"text": "add_cardinal",
+			"displayText": "add_cardinal",
+			"description": "Adds a Cardinal to the current province scope, for the current owner."
+		},
+		{
+			"text": "remove_cardinal",
+			"displayText": "remove_cardinal",
+			"description": "Removes a Cardinal in the current province scope."
+		},
+		{
+			"text": "add_reform_center",
+			"displayText": "add_reform_center",
+			"description": "Adds a Center of Reformation for the defined religion in the current province scope."
+		},
+		{
+			"text": "remove_reform_center",
+			"displayText": "remove_reform_center",
+			"description": "Removes the Center of Reformation for the defined religion in the current province scope."
+		},
+		{
+			"text": "set_estate",
+			"displayText": "set_estate",
+			"description": "Adds an estate to the current province scope."
+		},
+		{
+			"text": "remove_estate",
+			"displayText": "remove_estate",
+			"description": "Removes an estate in the current province scope."
+		},
+		{
+			"text": "set_in_empire",
+			"displayText": "set_in_empire",
+			"description": "Places the current province scope in the Holy Roman Empire."
+		},
+		{
+			"text": "add_nationalism",
+			"displayText": "add_nationalism",
+			"description": "Adds Nationalism to the current province scope."
+		},
+		{
+			"text": "add_unrest",
+			"displayText": "add_unrest",
+			"description": "Adds Local Unrest to the current province scope."
+		},
+		{
+			"text": "create_native",
+			"displayText": "create_native",
+			"description": "Spawns natives in the current province scope."
+		},
+		{
+			"text": "create_pirate",
+			"displayText": "create_pirate",
+			"description": "Spawns pirates in the current province scope."
+		},
+		{
+			"text": "create_revolt",
+			"displayText": "create_revolt",
+			"description": "Spawns the most likely rebel type in the current province scope."
+		},
+		{
+			"text": "create_colony",
+			"displayText": "create_colony",
+			"description": "Starts a colony belonging to the owner of the ROOT province scope."
+		},
+		{
+			"text": "add_colonysize",
+			"displayText": "add_colonysize",
+			"description": "Adds settlers to the current province scope if a colony."
+		},
+		{
+			"text": "multiply_colonysize",
+			"displayText": "multiply_colonysize",
+			"description": "Multiplies the settler count in the current province scope if a colony."
+		},
+		{
+			"text": "add_siberian_construction",
+			"displayText": "add_siberian_construction",
+			"description": "Starts a siberian colony in the current province scope."
+		},
+		{
+			"text": "change_native_ferocity",
+			"displayText": "change_native_ferocity",
+			"description": "Adds to the Native Ferocity within an uncolonized province."
+		},
+		{
+			"text": "change_native_hostileness",
+			"displayText": "change_native_hostileness",
+			"description": "Adds to the Native Hostileness within an uncolonized province."
+		},
+		{
+			"text": "change_native_size",
+			"displayText": "change_native_size",
+			"description": "Adds to the amount of natives within an uncolonized province."
+		},
+		{
+			"text": "add_claim",
+			"displayText": "add_claim",
+			"description": "The defined scope gains a claim on the current province scope."
+		},
+		{
+			"text": "add_core",
+			"displayText": "add_core",
+			"description": "The defined scope gains a core on the current province scope."
+		},
+		{
+			"text": "add_core_construction",
+			"displayText": "add_core_construction",
+			"description": "Starts core construction in the current province scope, for the current owner."
+		},
+		{
+			"text": "add_permanent_claim",
+			"displayText": "add_permanent_claim",
+			"description": "The defined scope gains a permanent claim on the current province scope."
+		},
+		{
+			"text": "add_territorial_core",
+			"displayText": "add_territorial_core",
+			"description": "The defined scope gains a territorial core on the current province scope."
+		},
+		{
+			"text": "cede_province",
+			"displayText": "cede_province",
+			"description": "The defined scope gains ownership of the current province scope."
+		},
+		{
+			"text": "change_controller",
+			"displayText": "change_controller",
+			"description": "The defined scope gains control over the current province scope."
+		},
+		{
+			"text": "remove_claim",
+			"displayText": "remove_claim",
+			"description": "The defined scope loses their claim on the current province scope."
+		},
+		{
+			"text": "remove_core",
+			"displayText": "remove_core",
+			"description": "The defined scope loses their core on the current province scope."
+		},
+		{
+			"text": "remove_territorial_core",
+			"displayText": "remove_territorial_core",
+			"description": "The defined scope loses their territorial core on the current province scope."
+		},
+		{
+			"text": "streltsy_infantry",
+			"displayText": "streltsy_infantry",
+			"description": "Spawns an streltsy infantry unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "cossack_cavalry",
+			"displayText": "cossack_cavalry",
+			"description": "Spawns an cossack cavalry unit in the current province scope for the defined country scope."
+		},
+		{
+			"text": "kill_leader",
+			"displayText": "kill_leader",
+			"description": "Kills a leader in the current province scope if they match the type used."
+		},
+		{
+			"text": "change_siege",
+			"displayText": "change_siege",
+			"description": "Changes the siege progress in the current province scope."
+		},
+		{
+			"text": "recall_merchant",
+			"displayText": "recall_merchant",
+			"description": "Recalls a placed merchant in the current tradenode province scope."
+		},
+		{
+			"text": "add_trade_node_income",
+			"displayText": "add_trade_node_income",
+			"description": "Adds income to the current tradenode province scope."
+		},
+		{
+			"text": "center_of_trade",
+			"displayText": "center_of_trade",
+			"description": "Creates a center of trade in the province. Only works if there is no existing center of trade."
+		},
+		{
+			"text": "add_center_of_trade_level",
+			"displayText": "add_center_of_trade_level",
+			"description": "Increases the level of a center of trade in the province."
+		}
+	],
+	"bracket": [
+		{
+			"text": "country_event",
+			"displayText": "country_event",
+			"description": "Fire a country event for the current country scope."
+		},
+		{
+			"text": "add_country_modifier",
+			"displayText": "add_country_modifier",
+			"description": "Adds an event modifier to the current scope as a country modifier."
+		},
+		{
+			"text": "set_saved_name",
+			"displayText": "set_saved_name",
+			"description": "Saves a name to an unique key for usage in other effects."
+		},
+		{
+			"text": "change_price",
+			"displayText": "change_price",
+			"description": "Changes the price of a trade good globally."
+		},
+		{
+			"text": "add_government_power",
+			"displayText": "add_government_power",
+			"description": "Changes the pool size of one of the power pools within a government mechanic."
+		},
+		{
+			"text": "set_government_and_rank",
+			"displayText": "set_government_and_rank",
+			"description": "Changes the current scope's government and rank at the same time."
+		},
+		{
+			"text": "set_school_opinion",
+			"displayText": "set_school_opinion",
+			"description": "Changes the current scope's school opinion towards the defined scope's school."
+		},
+		{
+			"text": "add_incident_variable_value",
+			"displayText": "add_incident_variable_value",
+			"description": "Changes the value of an Incident for the current scope."
+		},
+		{
+			"text": "set_incident_variable_value",
+			"displayText": "set_incident_variable_value",
+			"description": "Sets the value of an Incident for the current scope."
+		},
+		{
+			"text": "define_advisor",
+			"displayText": "define_advisor",
+			"description": "Adds the defined advisor to the current scope."
+		},
+		{
+			"text": "add_disaster_modifier",
+			"displayText": "add_disaster_modifier",
+			"description": "Applies an event modifier to the current scope that is removed when the disaster is over, or the duration runs out."
+		},
+		{
+			"text": "add_disaster_progress",
+			"displayText": "add_disaster_progress",
+			"description": "Adds progress towards an already declared (conditions for disaster are met since at least a month) disaster"
+		},
+		{
+			"text": "kill_leader",
+			"displayText": "kill_leader",
+			"description": "Kills a leader in the current province scope if they match the type used."
+		},
+		{
+			"text": "define_admiral",
+			"displayText": "define_admiral",
+			"description": "Creates an admiral with the defined attributes for the current scope."
+		},
+		{
+			"text": "define_explorer",
+			"displayText": "define_explorer",
+			"description": "Creates an explorer with the defined attributes for the current scope."
+		},
+		{
+			"text": "define_conquistador",
+			"displayText": "define_conquistador",
+			"description": "Creates a conquistador with the defined attributes for the current scope."
+		},
+		{
+			"text": "define_general",
+			"displayText": "define_general",
+			"description": "Creates a general with the defined attributes for the current scope."
+		},
+		{
+			"text": "add_trust",
+			"displayText": "add_trust",
+			"description": "Adds trust with the defined scope for the current scope."
+		},
+		{
+			"text": "add_opinion",
+			"displayText": "add_opinion",
+			"description": "Adds an opinion modifier for the current scope held against the defined scope."
+		},
+		{
+			"text": "reverse_add_opinion",
+			"displayText": "reverse_add_opinion",
+			"description": "Adds an opinion modifier for the defined scope held against the current scope."
+		},
+		{
+			"text": "remove_opinion",
+			"displayText": "remove_opinion",
+			"description": "Removes an opinion modifier for the current scope held against the defined scope."
+		},
+		{
+			"text": "reverse_remove_opinion",
+			"displayText": "reverse_remove_opinion",
+			"description": "Removes an opinion modifier for the defined scope held against the current scope."
+		},
+		{
+			"text": "create_subject",
+			"displayText": "create_subject",
+			"description": "Makes the defined scope into the defined subject type under the current scope."
+		},
+		{
+			"text": "declare_war_with_cb",
+			"displayText": "declare_war_with_cb",
+			"description": "Declares war for the current scope against the defined scope, using the defined casus belli."
+		},
+		{
+			"text": "add_casus_belli",
+			"displayText": "add_casus_belli",
+			"description": "Adds a casus belli for the current scope against the defined scope."
+		},
+		{
+			"text": "reverse_add_casus_belli",
+			"displayText": "reverse_add_casus_belli",
+			"description": "Adds a casus belli against the current scope for the defined scope."
+		},
+		{
+			"text": "remove_casus_belli",
+			"displayText": "remove_casus_belli",
+			"description": "Removes a casus belli held against the defined scope for the current scope."
+		},
+		{
+			"text": "reverse_remove_casus_belli",
+			"displayText": "reverse_remove_casus_belli",
+			"description": "Removes a casus belli held by the defined scope against the current scope."
+		},
+		{
+			"text": "add_spy_network_from",
+			"displayText": "add_spy_network_from",
+			"description": "Adds spy network in the current scope for the defined scope."
+		},
+		{
+			"text": "add_spy_network_in",
+			"displayText": "add_spy_network_in",
+			"description": "Adds spy network for the current scope in the defined scope."
+		},
+		{
+			"text": "add_estate_influence_modifier",
+			"displayText": "add_estate_influence_modifier",
+			"description": "Adds an influence modifier for the defined estate used by the current scope."
+		},
+		{
+			"text": "add_estate_loyalty",
+			"displayText": "add_estate_loyalty",
+			"description": "Adds loyalty for the defined estate used by the current scope."
+		},
+		{
+			"text": "add_estate_loyalty_modifier",
+			"displayText": "add_estate_loyalty_modifier",
+			"description": "Adds an loyalty modifier for the defined estate used by the current scope."
+		},
+		{
+			"text": "add_faction_influence",
+			"displayText": "add_faction_influence",
+			"description": "Adds influence for the defined faction."
+		},
+		{
+			"text": "add_ruler_modifier",
+			"displayText": "add_ruler_modifier",
+			"description": "Adds an event modifier to the current scope as a ruler modifier."
+		},
+		{
+			"text": "define_ruler_to_general",
+			"displayText": "define_ruler_to_general",
+			"description": "Creates a general from the ruler for the current scope."
+		},
+		{
+			"text": "define_leader_to_ruler",
+			"displayText": "define_leader_to_ruler",
+			"description": "Creates a ruler from a leader for the current scope."
+		},
+		{
+			"text": "define_ruler",
+			"displayText": "define_ruler",
+			"description": "Creates the defined ruler for the current scope."
+		},
+		{
+			"text": "define_consort",
+			"displayText": "define_consort",
+			"description": "Creates the defined consort for the current scope."
+		},
+		{
+			"text": "define_heir_to_general",
+			"displayText": "define_heir_to_general",
+			"description": "Creates a general from the heir of the current scope."
+		},
+		{
+			"text": "define_heir",
+			"displayText": "define_heir",
+			"description": "Creates the defined heir for the current scope."
+		},
+		{
+			"text": "set_ai_personality",
+			"displayText": "set_ai_personality",
+			"description": "Makes the current scope (if AI) the defined personality."
+		},
+		{
+			"text": "set_ai_attitude",
+			"displayText": "set_ai_attitude",
+			"description": "Makes the current scope (if AI) have the defined attitude against the defined scope."
+		},
+		{
+			"text": "province_event",
+			"displayText": "province_event",
+			"description": "Fire a province event for the current province scope. Appears for the owner of the province scope."
+		},
+		{
+			"text": "add_province_modifier",
+			"displayText": "add_province_modifier",
+			"description": "Adds an event modifier to the current province scope as a province modifier."
+		},
+		{
+			"text": "add_permanent_province_modifier",
+			"displayText": "add_permanent_province_modifier",
+			"description": "Adds an event modifier to the current province scope as a province modifier."
+		},
+		{
+			"text": "extend_province_modifier",
+			"displayText": "extend_province_modifier",
+			"description": "Extends the duration of an existing province modifier held by the current province scope."
+		},
+		{
+			"text": "add_building_construction",
+			"displayText": "add_building_construction",
+			"description": "Starts building construction in the current province scope."
+		},
+		{
+			"text": "add_institution_embracement",
+			"displayText": "add_institution_embracement",
+			"description": "Adds institution embracement progress for the defined institution in the current province scope."
+		},
+		{
+			"text": "spawn_rebels",
+			"displayText": "spawn_rebels",
+			"description": "Spawns the defined rebels in the current province scope."
+		},
+		{
+			"text": "discover_country",
+			"displayText": "discover_country",
+			"description": "The defined scope gains vision over the current province scope."
+		},
+		{
+			"text": "undiscover_country",
+			"displayText": "undiscover_country",
+			"description": "The defined scope loses vision over the current province scope."
+		},
+		{
+			"text": "kill_units",
+			"displayText": "kill_units",
+			"description": "Kills units following the defined parameters in the current province scope."
+		},
+		{
+			"text": "add_unit_construction",
+			"displayText": "add_unit_construction",
+			"description": "Constructs the defined units in the current province scope."
+		},
+		{
+			"text": "build_to_forcelimit",
+			"displayText": "build_to_forcelimit",
+			"description": "Builds the defined units as a percentage of the owner's forcelimit in the current province scope."
+		},
+		{
+			"text": "remove_loot",
+			"displayText": "remove_loot",
+			"description": "Removes loot from the current province scope and grants it to the defined country scope."
+		},
+		{
+			"text": "add_trade_modifier",
+			"displayText": "add_trade_modifier",
+			"description": "Adds a trade modifier for the defined country scope in the current tradenode province scope."
+		},
+		{
+			"text": "remove_trade_modifier",
+			"displayText": "remove_trade_modifier",
+			"description": "Removes a trade modifier for the defined country scope in the current tradenode province scope."
+		}
+	]
 }

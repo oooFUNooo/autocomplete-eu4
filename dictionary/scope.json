@@ -1,127 +1,603 @@
 {
-  "keyword_simple": [
-  ],
-  "keyword_equal": [
-  ],
-  "keyword_bracket": [
-    "emperor",
-    "revolution_target",
-    "crusade_target",
-    "colonial_parent",
-    "overlord",
-    "capital_scope",
-    "owner",
-    "controller",
-    "sea_zone",
-    "area",
-    "region",
-    "most_province_trade_power",
-    "strongest_trade_power",
-    "every_ally",
-    "every_coalition_member",
-    "every_country",
-    "every_elector",
-    "every_enemy_country",
-    "every_known_country",
-    "every_local_enemy",
-    "every_neighbor_country",
-    "every_rival_country",
-    "every_subject_country",
-    "random_ally",
-    "random_coalition_member",
-    "random_country",
-    "random_elector",
-    "random_enemy_country",
-    "random_known_country",
-    "random_local_enemy",
-    "random_neighbor_country",
-    "random_rival_country",
-    "random_subject_country",
-    "every_core_province",
-    "every_heretic_province",
-    "every_owned_province",
-    "every_province",
-    "random_core_province",
-    "random_heretic_province",
-    "random_owned_area",
-    "random_owned_province",
-    "every_trade_node",
-    "random_active_trade_node",
-    "random_trade_node",
-    "every_empty_neighbor_province",
-    "every_neighbor_province",
-    "every_province_in_state",
-    "random_empty_neighbor_province",
-    "random_neighbor_province",
-    "random_province_in_state",
-    "random_province",
-    "every_core_country",
-    "random_core_country",
-    "every_empty_neighbor_province",
-    "every_privateering_country",
-    "random_privateering_country",
-    "every_trade_node_member_country",
-    "random_trade_node_member_country",
-    "every_trade_node_member_province",
-    "random_trade_node_member_province",
-    "unit_owner",
-    "every_target_province",
-    "random_target_province",
-    "any_army",
-    "all_ally",
-    "all_coalition_member",
-    "all_country",
-    "all_elector",
-    "all_enemy_country",
-    "all_known_country",
-    "all_local_enemy",
-    "all_neighbor_country",
-    "all_rival_country",
-    "all_subject_country",
-    "all_core_province",
-    "all_heretic_province",
-    "all_owned_province",
-    "all_province",
-    "all_state_province",
-    "all_states",
-    "all_active_trade_node",
-    "all_trade_node",
-    "any_ally",
-    "any_coalition_member",
-    "any_country",
-    "any_elector",
-    "any_enemy_country",
-    "any_known_country",
-    "any_local_enemy",
-    "any_neighbor_country",
-    "any_rival_country",
-    "any_subject_country",
-    "any_core_province",
-    "any_heretic_province",
-    "any_owned_province",
-    "any_province",
-    "any_state",
-    "any_active_trade_node",
-    "any_trade_node",
-    "home_trade_node",
-    "all_empty_neighbor_province",
-    "all_province_in_state",
-    "all_neighbor_province",
-    "all_empty_neighbor_province",
-    "any_empty_neighbor_province",
-    "any_province",
-    "any_province_in_state",
-    "any_friendly_coast_border_province",
-    "any_neighbor_province",
-    "all_core_country",
-    "any_core_country",
-    "all_privateering_country",
-    "all_trade_node_member_country",
-    "any_privateering_country",
-    "any_trade_node_member_country",
-    "all_trade_node_member_province",
-    "any_trade_node_member_province",
-    "all_target_province",
-    "any_target_province"
-  ]
+	"simple": [
+	],
+	"equal": [
+	],
+	"bracket": [
+		{
+			"text": "emperor",
+			"displayText": "emperor",
+			"description": "Refers to the country (if it exists) that is currently the Holy Roman Emperor."
+		},
+		{
+			"text": "revolution_target",
+			"displayText": "revolution_target",
+			"description": "Refers to the country (if it exists) that is the current revolution target."
+		},
+		{
+			"text": "crusade_target",
+			"displayText": "crusade_target",
+			"description": "Refers to the country (if it exists) that is the current crusade target."
+		},
+		{
+			"text": "colonial_parent",
+			"displayText": "colonial_parent",
+			"description": "Refers to the country (if it exists) that is the colonial parent of the current country scope."
+		},
+		{
+			"text": "overlord",
+			"displayText": "overlord",
+			"description": "Refers to the country (if it exists) that is the overlord of the current country scope."
+		},
+		{
+			"text": "capital_scope",
+			"displayText": "capital_scope",
+			"description": "Refers to the capital province of the current country scope."
+		},
+		{
+			"text": "owner",
+			"displayText": "owner",
+			"description": "Refers to the country that owns the current province scope."
+		},
+		{
+			"text": "controller",
+			"displayText": "controller",
+			"description": "Refers to the country that controls the current province scope."
+		},
+		{
+			"text": "sea_zone",
+			"displayText": "sea_zone",
+			"description": "Refers to the sea province on which the current land province scope has a port."
+		},
+		{
+			"text": "area",
+			"displayText": "area",
+			"description": "Refers to the area that the current province scope is in."
+		},
+		{
+			"text": "region",
+			"displayText": "region",
+			"description": "Refers to the region that the current province scope is in."
+		},
+		{
+			"text": "most_province_trade_power",
+			"displayText": "most_province_trade_power",
+			"description": "The country in the trade node that generates the most trade power from provinces."
+		},
+		{
+			"text": "strongest_trade_power",
+			"displayText": "strongest_trade_power",
+			"description": "The country with the most trade power in the node."
+		},
+		{
+			"text": "every_ally",
+			"displayText": "every_ally",
+			"description": "Scopes to all valid countries that meet the triggers in the limit."
+		},
+		{
+			"text": "every_coalition_member",
+			"displayText": "every_coalition_member",
+			"description": "Scopes to all members of the coalition against the current scope (if any)."
+		},
+		{
+			"text": "every_country",
+			"displayText": "every_country",
+			"description": "Scopes to all countries in the world. Avoid this if you can use something more specific."
+		},
+		{
+			"text": "every_elector",
+			"displayText": "every_elector",
+			"description": "Scopes to all electors of the HRE."
+		},
+		{
+			"text": "every_enemy_country",
+			"displayText": "every_enemy_country",
+			"description": "Scopes to all valid countries that meet the triggers in the limit."
+		},
+		{
+			"text": "every_known_country",
+			"displayText": "every_known_country",
+			"description": "Scopes to all countries that have been discovered by the current scope."
+		},
+		{
+			"text": "every_local_enemy",
+			"displayText": "every_local_enemy",
+			"description": "Scopes to all valid countries that meet the triggers in the limit."
+		},
+		{
+			"text": "every_neighbor_country",
+			"displayText": "every_neighbor_country",
+			"description": "Scopes to all countries that share a border (or sea zone?) with the current scope."
+		},
+		{
+			"text": "every_rival_country",
+			"displayText": "every_rival_country",
+			"description": "Scopes to all valid countries that meet the triggers in the limit."
+		},
+		{
+			"text": "every_subject_country",
+			"displayText": "every_subject_country",
+			"description": "Scopes to all subject nations under the current scope."
+		},
+		{
+			"text": "random_ally",
+			"displayText": "random_ally",
+			"description": "Scopes to one valid country that meet the triggers in the limit."
+		},
+		{
+			"text": "random_coalition_member",
+			"displayText": "random_coalition_member",
+			"description": "Scopes to one random member of the coalition against the current scope."
+		},
+		{
+			"text": "random_country",
+			"displayText": "random_country",
+			"description": "Scopes to one random country among all countries in the world. Avoid this if you can use something more specific."
+		},
+		{
+			"text": "random_elector",
+			"displayText": "random_elector",
+			"description": "Scopes to one random elector of the HRE."
+		},
+		{
+			"text": "random_enemy_country",
+			"displayText": "random_enemy_country",
+			"description": "Scopes to one valid country that meet the triggers in the limit."
+		},
+		{
+			"text": "random_known_country",
+			"displayText": "random_known_country",
+			"description": "Scopes to one random country that has been discovered by the current scope."
+		},
+		{
+			"text": "random_local_enemy",
+			"displayText": "random_local_enemy",
+			"description": "Scopes to one valid country that meet the triggers in the limit."
+		},
+		{
+			"text": "random_neighbor_country",
+			"displayText": "random_neighbor_country",
+			"description": "Scopes to one random country that shares a border (or sea zone?) with the current scope."
+		},
+		{
+			"text": "random_rival_country",
+			"displayText": "random_rival_country",
+			"description": "Scopes to one valid country that meet the triggers in the limit."
+		},
+		{
+			"text": "random_subject_country",
+			"displayText": "random_subject_country",
+			"description": "Scopes to one random subject country under the current scope."
+		},
+		{
+			"text": "every_core_province",
+			"displayText": "every_core_province",
+			"description": "Scopes to all provinces that this country has a core on, whether owned or not."
+		},
+		{
+			"text": "every_heretic_province",
+			"displayText": "every_heretic_province",
+			"description": "Scopes to all provinces whose religion is heretic to the current scope."
+		},
+		{
+			"text": "every_owned_province",
+			"displayText": "every_owned_province",
+			"description": "Scopes to all provinces the current scope owns."
+		},
+		{
+			"text": "every_province",
+			"displayText": "every_province",
+			"description": "Scopes to all provinces in the world. Note: executing effects on every province without a limit will cause slowdown in game. Use something more specific if you can."
+		},
+		{
+			"text": "random_core_province",
+			"displayText": "random_core_province",
+			"description": "Scopes to one random province that the current scope has a core on, whether owned or not."
+		},
+		{
+			"text": "random_heretic_province",
+			"displayText": "random_heretic_province",
+			"description": "Scopes to one random province whose religion is heretic to the current scope."
+		},
+		{
+			"text": "random_owned_area",
+			"displayText": "random_owned_area",
+			"description": "Scopes to one valid area that meet the triggers in the limit.You can use type = all to scope to all valid areas."
+		},
+		{
+			"text": "random_owned_province",
+			"displayText": "random_owned_province",
+			"description": "Scopes to one random province the current scope owns."
+		},
+		{
+			"text": "every_trade_node",
+			"displayText": "every_trade_node",
+			"description": "Scopes to all trade nodes."
+		},
+		{
+			"text": "random_active_trade_node",
+			"displayText": "random_active_trade_node",
+			"description": "Scopes to one valid tradenode (province) that meet the triggers in the limit.Active means the current scope is interacting with the trade node in some way."
+		},
+		{
+			"text": "random_trade_node",
+			"displayText": "random_trade_node",
+			"description": "Scopes to one random trade node."
+		},
+		{
+			"text": "every_empty_neighbor_province",
+			"displayText": "every_empty_neighbor_province",
+			"description": "Scopes to all provinces sharing a border (or sea zone?) with the current scope that are colonizable and uncolonized."
+		},
+		{
+			"text": "every_neighbor_province",
+			"displayText": "every_neighbor_province",
+			"description": "Scopes to all provinces sharing a border (or sea zone?) with the current scope.Does not include empty provinces."
+		},
+		{
+			"text": "every_province_in_state",
+			"displayText": "every_province_in_state",
+			"description": "Scopes to all provinces in the same state (area?)."
+		},
+		{
+			"text": "random_empty_neighbor_province",
+			"displayText": "random_empty_neighbor_province",
+			"description": "Scopes to one random province sharing a border (or sea zone?) with the current scope that is colonizable and uncolonized."
+		},
+		{
+			"text": "random_neighbor_province",
+			"displayText": "random_neighbor_province",
+			"description": "Scopes to one random province sharing a border(or sea zone?) with the current scope.Does not include empty provinces."
+		},
+		{
+			"text": "random_province_in_state",
+			"displayText": "random_province_in_state",
+			"description": "Scopes to one random province in the same state as the current scope."
+		},
+		{
+			"text": "random_province",
+			"displayText": "random_province",
+			"description": "Scopes to one random province among all provinces in the world."
+		},
+		{
+			"text": "every_core_country",
+			"displayText": "every_core_country",
+			"description": "Scopes to all countries that have a core on the current scope, whether existing or not."
+		},
+		{
+			"text": "random_core_country",
+			"displayText": "random_core_country",
+			"description": "Scopes to one random country that has a core on the current scope, whether existing or not."
+		},
+		{
+			"text": "every_empty_neighbor_province",
+			"displayText": "every_empty_neighbor_province",
+			"description": "Scopes to all provinces sharing a border (or sea zone?) with the current scope that are colonizable and uncolonized."
+		},
+		{
+			"text": "every_privateering_country",
+			"displayText": "every_privateering_country",
+			"description": "Scopes to all countries that are sending privateers to the current scope."
+		},
+		{
+			"text": "random_privateering_country",
+			"displayText": "random_privateering_country",
+			"description": "Scopes to one random country that is sending privateers to the current scope."
+		},
+		{
+			"text": "every_trade_node_member_country",
+			"displayText": "every_trade_node_member_country",
+			"description": "Scopes to all countries that own a province in the current scope."
+		},
+		{
+			"text": "random_trade_node_member_country",
+			"displayText": "random_trade_node_member_country",
+			"description": "Scopes to one random country that owns a province in the current scope."
+		},
+		{
+			"text": "every_trade_node_member_province",
+			"displayText": "every_trade_node_member_province",
+			"description": "Scopes to all provinces in the current trade node."
+		},
+		{
+			"text": "random_trade_node_member_province",
+			"displayText": "random_trade_node_member_province",
+			"description": "Scopes to one random province in the current trade node."
+		},
+		{
+			"text": "unit_owner",
+			"displayText": "unit_owner",
+			"description": "Returns the unit's owner country scope.Usable from on_battle_won_unit and on_battle_lost_unit on actions."
+		},
+		{
+			"text": "every_target_province",
+			"displayText": "every_target_province",
+			"description": "Scopes to all provinces among those specified as targets in the mission."
+		},
+		{
+			"text": "random_target_province",
+			"displayText": "random_target_province",
+			"description": "Scopes to one random province among those specified as targets in the mission."
+		},
+		{
+			"text": "any_army",
+			"displayText": "any_army",
+			"description": "Scopes to all armies currently fielded by the current scope."
+		},
+		{
+			"text": "all_ally",
+			"displayText": "all_ally",
+			"description": "Scopes to all valid countries that meet the triggers."
+		},
+		{
+			"text": "all_coalition_member",
+			"displayText": "all_coalition_member",
+			"description": "Scopes to all members of the coalition against the current scope (if any)."
+		},
+		{
+			"text": "all_country",
+			"displayText": "all_country",
+			"description": "Scopes to all countries in the world. Avoid this if you can use something more specific."
+		},
+		{
+			"text": "all_elector",
+			"displayText": "all_elector",
+			"description": "Scopes to all electors of the HRE"
+		},
+		{
+			"text": "all_enemy_country",
+			"displayText": "all_enemy_country",
+			"description": "Scopes to all valid countries that meet the triggers."
+		},
+		{
+			"text": "all_known_country",
+			"displayText": "all_known_country",
+			"description": "Scopes to all countries that have been discovered by the current scope."
+		},
+		{
+			"text": "all_local_enemy",
+			"displayText": "all_local_enemy",
+			"description": "Scopes to all valid countries that meet the triggers."
+		},
+		{
+			"text": "all_neighbor_country",
+			"displayText": "all_neighbor_country",
+			"description": "Scopes to all countries that own a province that shares a border (or sea zone?) with a province owned by the current scope."
+		},
+		{
+			"text": "all_rival_country",
+			"displayText": "all_rival_country",
+			"description": "Scopes to all valid countries that meet the triggers."
+		},
+		{
+			"text": "all_subject_country",
+			"displayText": "all_subject_country",
+			"description": "Scopes to all subject countries under the current scope."
+		},
+		{
+			"text": "all_core_province",
+			"displayText": "all_core_province",
+			"description": "Scopes to all provinces that the current scope has a core on, whether owned or not."
+		},
+		{
+			"text": "all_heretic_province",
+			"displayText": "all_heretic_province",
+			"description": "Scopes to all provinces whose religion is heretic to the current scope."
+		},
+		{
+			"text": "all_owned_province",
+			"displayText": "all_owned_province",
+			"description": "Scopes to all provinces owned by the current scope."
+		},
+		{
+			"text": "all_province",
+			"displayText": "all_province",
+			"description": "Scopes to all provinces in the world. Avoid this if you can use something more specific."
+		},
+		{
+			"text": "all_state_province",
+			"displayText": "all_state_province",
+			"description": "Scopes to all provinces in states of the current scope."
+		},
+		{
+			"text": "all_states",
+			"displayText": "all_states",
+			"description": "Scopes to all states of the current scope."
+		},
+		{
+			"text": "all_active_trade_node",
+			"displayText": "all_active_trade_node",
+			"description": "Scopes to all active trade nodes."
+		},
+		{
+			"text": "all_trade_node",
+			"displayText": "all_trade_node",
+			"description": "Scopes to all trade nodes."
+		},
+		{
+			"text": "any_ally",
+			"displayText": "any_ally",
+			"description": "Scopes to one valid country that meet the triggers."
+		},
+		{
+			"text": "any_coalition_member",
+			"displayText": "any_coalition_member",
+			"description": "Scopes to one member of the coalition against the current scope."
+		},
+		{
+			"text": "any_country",
+			"displayText": "any_country",
+			"description": "Scopes to one country among all countries in the world. Avoid this if you can use something more specific."
+		},
+		{
+			"text": "any_elector",
+			"displayText": "any_elector",
+			"description": "Scopes to one elector of the HRE."
+		},
+		{
+			"text": "any_enemy_country",
+			"displayText": "any_enemy_country",
+			"description": "Scopes to one valid country that meet the triggers."
+		},
+		{
+			"text": "any_known_country",
+			"displayText": "any_known_country",
+			"description": "Scopes to one country that has been discovered by the current scope."
+		},
+		{
+			"text": "any_local_enemy",
+			"displayText": "any_local_enemy",
+			"description": "Scopes to one valid country that meet the triggers."
+		},
+		{
+			"text": "any_neighbor_country",
+			"displayText": "any_neighbor_country",
+			"description": "Scopes to one country sharing a border (or sea zone?) with the current scope."
+		},
+		{
+			"text": "any_rival_country",
+			"displayText": "any_rival_country",
+			"description": "Scopes to one valid country that meet the triggers."
+		},
+		{
+			"text": "any_subject_country",
+			"displayText": "any_subject_country",
+			"description": "Scopes to one subject country under the current scope."
+		},
+		{
+			"text": "any_core_province",
+			"displayText": "any_core_province",
+			"description": "Scopes to one province that the current scope has a core on, whether owned or not."
+		},
+		{
+			"text": "any_heretic_province",
+			"displayText": "any_heretic_province",
+			"description": "Scopes to one province whose religion is heretic to the current scope."
+		},
+		{
+			"text": "any_owned_province",
+			"displayText": "any_owned_province",
+			"description": "Scopes to one province owned by the current scope."
+		},
+		{
+			"text": "any_province",
+			"displayText": "any_province",
+			"description": "Scopes to one province among all provinces in the world. Avoid this if you can use something more specific."
+		},
+		{
+			"text": "any_state",
+			"displayText": "any_state",
+			"description": "Scopes to one state of the current country."
+		},
+		{
+			"text": "any_active_trade_node",
+			"displayText": "any_active_trade_node",
+			"description": "Scopes to one valid tradenode (province) that meet the triggers.Note: will return true if a merchant is placed, even without explicit triggers."
+		},
+		{
+			"text": "any_trade_node",
+			"displayText": "any_trade_node",
+			"description": "Scopes to one trade node among all trade nodes in the world."
+		},
+		{
+			"text": "home_trade_node",
+			"displayText": "home_trade_node",
+			"description": "Scopes to the trade node containing the current scope's main trade port."
+		},
+		{
+			"text": "all_empty_neighbor_province",
+			"displayText": "all_empty_neighbor_province",
+			"description": "Scopes to all provinces sharing a border (or sea zone?) with the current scope that are colonizable and uncolonized."
+		},
+		{
+			"text": "all_province_in_state",
+			"displayText": "all_province_in_state",
+			"description": "Scopes to all provinces in the same state as the current scope."
+		},
+		{
+			"text": "all_neighbor_province",
+			"displayText": "all_neighbor_province",
+			"description": "Scopes to all provinces sharing a border (or sea zone?) with the current scope."
+		},
+		{
+			"text": "all_empty_neighbor_province",
+			"displayText": "all_empty_neighbor_province",
+			"description": "Scopes to all provinces sharing a border (or sea zone?) with the current scope that are colonizable and uncolonized."
+		},
+		{
+			"text": "any_empty_neighbor_province",
+			"displayText": "any_empty_neighbor_province",
+			"description": "Scopes to one province sharing a border (or sea zone?) with the current scope that is colonizable and uncolonized."
+		},
+		{
+			"text": "any_province",
+			"displayText": "any_province",
+			"description": "Scopes to one province among all provinces in the world. Avoid this if you can use something more specific."
+		},
+		{
+			"text": "any_province_in_state",
+			"displayText": "any_province_in_state",
+			"description": "Scopes to one province in the same state as the current scope."
+		},
+		{
+			"text": "any_friendly_coast_border_province",
+			"displayText": "any_friendly_coast_border_province",
+			"description": "Scopes to one province that shares a border with the current scope that is friendly to the current scope (meaning its owner is the same or has positive relations)."
+		},
+		{
+			"text": "any_neighbor_province",
+			"displayText": "any_neighbor_province",
+			"description": "Scopes to one province that shares a border (or sea zone?) with the current scope."
+		},
+		{
+			"text": "all_core_country",
+			"displayText": "all_core_country",
+			"description": "Scopes to all countries that have a core on the current scope, whether existing or not."
+		},
+		{
+			"text": "any_core_country",
+			"displayText": "any_core_country",
+			"description": "Scopes to all countries that have a core on the current scope, whether existing or not."
+		},
+		{
+			"text": "all_privateering_country",
+			"displayText": "all_privateering_country",
+			"description": "Scopes to all countries that are sending privateers to the current scope."
+		},
+		{
+			"text": "all_trade_node_member_country",
+			"displayText": "all_trade_node_member_country",
+			"description": "Scopes to all countries that own a province in the current trade node."
+		},
+		{
+			"text": "any_privateering_country",
+			"displayText": "any_privateering_country",
+			"description": "Scopes to one country that is sending privateers to the current scope."
+		},
+		{
+			"text": "any_trade_node_member_country",
+			"displayText": "any_trade_node_member_country",
+			"description": "Scopes to one country that owns a province in the current trade node."
+		},
+		{
+			"text": "all_trade_node_member_province",
+			"displayText": "all_trade_node_member_province",
+			"description": "Scopes to all provinces in the current trade node."
+		},
+		{
+			"text": "any_trade_node_member_province",
+			"displayText": "any_trade_node_member_province",
+			"description": "Scopes to one province in the current trade node."
+		},
+		{
+			"text": "all_target_province",
+			"displayText": "all_target_province",
+			"description": "Scopes to all provinces specified as a target in the mission."
+		},
+		{
+			"text": "any_target_province",
+			"displayText": "any_target_province",
+			"description": ""
+		}
+	]
 }

@@ -1,102 +1,478 @@
 {
-  "keyword_simple": [
-    "yes",
-    "no",
-    "ROOT",
-    "FROM",
-    "PREV",
-    "THIS"
-  ],
-  "keyword_equal": [
-    "id",
-    "key",
-    "value",
-    "type",
-    "scope",
-    "name",
-    "desc",
-    "hidden",
-    "modifier",
-    "flag",
-    "days",
-    "months",
-    "duration",
-    "size",
-    "amount",
-    "who",
-    "which",
-    "mutual",
-    "friend",
-    "random",
-    "tooltip",
-    "on_trigger",
-    "chance",
-    "rank",
-    "skill",
-    "adm",
-    "dip",
-    "mil",
-    "age",
-    "culture",
-    "religion",
-    "home_culture",
-    "home_religion",
-    "claim",
-    "female",
-    "male",
-    "dynasty",
-    "country_of_origin",
-    "no_consort_with_heir",
-    "personality",
-    "attitude",
-    "fixed",
-    "locked",
-    "hide_skills",
-    "leader",
-    "shock",
-    "fire",
-    "manuever",
-    "siege",
-    "discount",
-    "opinion",
-    "disaster",
-    "incident",
-    "target",
-    "casus_belli",
-    "subject",
-    "subject_type",
-    "government",
-    "government_mechanic",
-    "policy",
-    "estate",
-    "influence",
-    "loyalty",
-    "power",
-    "territory",
-    "faction",
-    "influence",
-    "trade_goods",
-    "node",
-    "share",
-    "building",
-    "speed",
-    "cost",
-    "distance",
-    "attacker_leader",
-    "group",
-    "school"
-  ],
-  "keyword_bracket": [
-    "NOT",
-    "AND",
-    "OR",
-    "if",
-    "limit",
-    "else_if",
-    "else",
-    "while",
-    "hidden_effect",
-    "trigger_switch",
-    "random_list"
-  ]
+	"simple": [
+		{
+			"text": "yes",
+			"displayText": "yes",
+			"description": ""
+		},
+		{
+			"text": "no",
+			"displayText": "no",
+			"description": ""
+		},
+		{
+			"text": "ROOT",
+			"displayText": "ROOT",
+			"description": ""
+		},
+		{
+			"text": "FROM",
+			"displayText": "FROM",
+			"description": ""
+		},
+		{
+			"text": "PREV",
+			"displayText": "PREV",
+			"description": ""
+		},
+		{
+			"text": "THIS",
+			"displayText": "THIS",
+			"description": ""
+		}
+	],
+	"equal": [
+		{
+			"text": "id",
+			"displayText": "id",
+			"description": ""
+		},
+		{
+			"text": "key",
+			"displayText": "key",
+			"description": ""
+		},
+		{
+			"text": "value",
+			"displayText": "value",
+			"description": ""
+		},
+		{
+			"text": "type",
+			"displayText": "type",
+			"description": ""
+		},
+		{
+			"text": "scope",
+			"displayText": "scope",
+			"description": ""
+		},
+		{
+			"text": "name",
+			"displayText": "name",
+			"description": ""
+		},
+		{
+			"text": "desc",
+			"displayText": "desc",
+			"description": ""
+		},
+		{
+			"text": "hidden",
+			"displayText": "hidden",
+			"description": ""
+		},
+		{
+			"text": "modifier",
+			"displayText": "modifier",
+			"description": ""
+		},
+		{
+			"text": "flag",
+			"displayText": "flag",
+			"description": ""
+		},
+		{
+			"text": "days",
+			"displayText": "days",
+			"description": ""
+		},
+		{
+			"text": "months",
+			"displayText": "months",
+			"description": ""
+		},
+		{
+			"text": "duration",
+			"displayText": "duration",
+			"description": ""
+		},
+		{
+			"text": "size",
+			"displayText": "size",
+			"description": ""
+		},
+		{
+			"text": "amount",
+			"displayText": "amount",
+			"description": ""
+		},
+		{
+			"text": "who",
+			"displayText": "who",
+			"description": ""
+		},
+		{
+			"text": "which",
+			"displayText": "which",
+			"description": ""
+		},
+		{
+			"text": "mutual",
+			"displayText": "mutual",
+			"description": ""
+		},
+		{
+			"text": "friend",
+			"displayText": "friend",
+			"description": ""
+		},
+		{
+			"text": "random",
+			"displayText": "random",
+			"description": ""
+		},
+		{
+			"text": "tooltip",
+			"displayText": "tooltip",
+			"description": ""
+		},
+		{
+			"text": "on_trigger",
+			"displayText": "on_trigger",
+			"description": ""
+		},
+		{
+			"text": "chance",
+			"displayText": "chance",
+			"description": ""
+		},
+		{
+			"text": "rank",
+			"displayText": "rank",
+			"description": ""
+		},
+		{
+			"text": "skill",
+			"displayText": "skill",
+			"description": ""
+		},
+		{
+			"text": "adm",
+			"displayText": "adm",
+			"description": ""
+		},
+		{
+			"text": "dip",
+			"displayText": "dip",
+			"description": ""
+		},
+		{
+			"text": "mil",
+			"displayText": "mil",
+			"description": ""
+		},
+		{
+			"text": "age",
+			"displayText": "age",
+			"description": ""
+		},
+		{
+			"text": "culture",
+			"displayText": "culture",
+			"description": ""
+		},
+		{
+			"text": "religion",
+			"displayText": "religion",
+			"description": ""
+		},
+		{
+			"text": "home_culture",
+			"displayText": "home_culture",
+			"description": ""
+		},
+		{
+			"text": "home_religion",
+			"displayText": "home_religion",
+			"description": ""
+		},
+		{
+			"text": "claim",
+			"displayText": "claim",
+			"description": ""
+		},
+		{
+			"text": "female",
+			"displayText": "female",
+			"description": ""
+		},
+		{
+			"text": "male",
+			"displayText": "male",
+			"description": ""
+		},
+		{
+			"text": "dynasty",
+			"displayText": "dynasty",
+			"description": ""
+		},
+		{
+			"text": "country_of_origin",
+			"displayText": "country_of_origin",
+			"description": ""
+		},
+		{
+			"text": "no_consort_with_heir",
+			"displayText": "no_consort_with_heir",
+			"description": ""
+		},
+		{
+			"text": "personality",
+			"displayText": "personality",
+			"description": ""
+		},
+		{
+			"text": "attitude",
+			"displayText": "attitude",
+			"description": ""
+		},
+		{
+			"text": "fixed",
+			"displayText": "fixed",
+			"description": ""
+		},
+		{
+			"text": "locked",
+			"displayText": "locked",
+			"description": ""
+		},
+		{
+			"text": "hide_skills",
+			"displayText": "hide_skills",
+			"description": ""
+		},
+		{
+			"text": "leader",
+			"displayText": "leader",
+			"description": ""
+		},
+		{
+			"text": "shock",
+			"displayText": "shock",
+			"description": ""
+		},
+		{
+			"text": "fire",
+			"displayText": "fire",
+			"description": ""
+		},
+		{
+			"text": "manuever",
+			"displayText": "manuever",
+			"description": ""
+		},
+		{
+			"text": "siege",
+			"displayText": "siege",
+			"description": ""
+		},
+		{
+			"text": "discount",
+			"displayText": "discount",
+			"description": ""
+		},
+		{
+			"text": "opinion",
+			"displayText": "opinion",
+			"description": ""
+		},
+		{
+			"text": "disaster",
+			"displayText": "disaster",
+			"description": ""
+		},
+		{
+			"text": "incident",
+			"displayText": "incident",
+			"description": ""
+		},
+		{
+			"text": "target",
+			"displayText": "target",
+			"description": ""
+		},
+		{
+			"text": "casus_belli",
+			"displayText": "casus_belli",
+			"description": ""
+		},
+		{
+			"text": "subject",
+			"displayText": "subject",
+			"description": ""
+		},
+		{
+			"text": "subject_type",
+			"displayText": "subject_type",
+			"description": ""
+		},
+		{
+			"text": "government",
+			"displayText": "government",
+			"description": ""
+		},
+		{
+			"text": "government_mechanic",
+			"displayText": "government_mechanic",
+			"description": ""
+		},
+		{
+			"text": "policy",
+			"displayText": "policy",
+			"description": ""
+		},
+		{
+			"text": "estate",
+			"displayText": "estate",
+			"description": ""
+		},
+		{
+			"text": "influence",
+			"displayText": "influence",
+			"description": ""
+		},
+		{
+			"text": "loyalty",
+			"displayText": "loyalty",
+			"description": ""
+		},
+		{
+			"text": "power",
+			"displayText": "power",
+			"description": ""
+		},
+		{
+			"text": "territory",
+			"displayText": "territory",
+			"description": ""
+		},
+		{
+			"text": "faction",
+			"displayText": "faction",
+			"description": ""
+		},
+		{
+			"text": "influence",
+			"displayText": "influence",
+			"description": ""
+		},
+		{
+			"text": "trade_goods",
+			"displayText": "trade_goods",
+			"description": ""
+		},
+		{
+			"text": "node",
+			"displayText": "node",
+			"description": ""
+		},
+		{
+			"text": "share",
+			"displayText": "share",
+			"description": ""
+		},
+		{
+			"text": "building",
+			"displayText": "building",
+			"description": ""
+		},
+		{
+			"text": "speed",
+			"displayText": "speed",
+			"description": ""
+		},
+		{
+			"text": "cost",
+			"displayText": "cost",
+			"description": ""
+		},
+		{
+			"text": "distance",
+			"displayText": "distance",
+			"description": ""
+		},
+		{
+			"text": "attacker_leader",
+			"displayText": "attacker_leader",
+			"description": ""
+		},
+		{
+			"text": "group",
+			"displayText": "group",
+			"description": ""
+		},
+		{
+			"text": "school",
+			"displayText": "school",
+			"description": ""
+		}
+	],
+	"bracket": [
+		{
+			"text": "NOT",
+			"displayText": "NOT",
+			"description": ""
+		},
+		{
+			"text": "AND",
+			"displayText": "AND",
+			"description": ""
+		},
+		{
+			"text": "OR",
+			"displayText": "OR",
+			"description": ""
+		},
+		{
+			"text": "if",
+			"displayText": "if",
+			"description": ""
+		},
+		{
+			"text": "limit",
+			"displayText": "limit",
+			"description": ""
+		},
+		{
+			"text": "else_if",
+			"displayText": "else_if",
+			"description": ""
+		},
+		{
+			"text": "else",
+			"displayText": "else",
+			"description": ""
+		},
+		{
+			"text": "while",
+			"displayText": "while",
+			"description": ""
+		},
+		{
+			"text": "hidden_effect",
+			"displayText": "hidden_effect",
+			"description": ""
+		},
+		{
+			"text": "trigger_switch",
+			"displayText": "trigger_switch",
+			"description": ""
+		},
+		{
+			"text": "random_list",
+			"displayText": "random_list",
+			"description": ""
+		}
+	]
 }

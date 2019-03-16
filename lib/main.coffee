@@ -3,6 +3,7 @@ provider = require './provider'
 module.exports =
 
   config:
+
     bracket:
       title: 'Bracket insertion mode'
       description: 'Specify a way to insert brackets when a clause follows input.'

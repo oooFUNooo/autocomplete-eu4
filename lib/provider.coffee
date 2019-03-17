@@ -7,6 +7,18 @@ COUNTRY   = require('../dictionary/country.json')
 WIKIURL   = 'https://eu4.paradoxwikis.com/'
 
 
+# mode
+# 0...keywords
+# 1...locations
+# 2...descriptions
+# 3...descriptions (locations)
+#
+# block
+# 0...simple
+# 1...followed an equal
+# 2...followed branckets
+
+
 module.exports =
 
   selector: '.source.eu4'
@@ -23,8 +35,6 @@ module.exports =
     completions = @searchText(0, prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
     completions = @searchText(1, prefix, completions, COUNTRY  , 'country'  , 'Countries'     )
 
-    completions.sort(@compareCompletions)
-
     if atom.config.get('autocomplete-eu4.includedesc')
 
       completions = @searchText(2, prefix, completions, GENERAL  , ''         , ''              )
@@ -32,6 +42,9 @@ module.exports =
       completions = @searchText(2, prefix, completions, CONDITION, 'condition', 'Conditions'    )
       completions = @searchText(2, prefix, completions, MODIFIER , 'modifier' , 'Modifier_list' )
       completions = @searchText(2, prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
+      completions = @searchText(3, prefix, completions, COUNTRY  , 'country'  , 'Countries'     )
+
+    completions.sort(@compareCompletions)
 
     completions
 
@@ -39,9 +52,12 @@ module.exports =
   searchText: (mode, prefix, completions, dictionary, label, url) ->
 
     if prefix
-      completions = @searchBlock(mode, 0, prefix, completions, dictionary.simple , label, url)
-      completions = @searchBlock(mode, 1, prefix, completions, dictionary.equal  , label, url)
-      completions = @searchBlock(mode, 2, prefix, completions, dictionary.bracket, label, url)
+      completions   = @searchBlock(mode, 0, prefix, completions, dictionary.simple , label, url)
+      completions   = @searchBlock(mode, 1, prefix, completions, dictionary.equal  , label, url)
+      if mode == 1 or mode == 3
+        completions = @searchBlock(mode, 2, prefix, completions, dictionary.simple , label, url)
+      else
+        completions = @searchBlock(mode, 2, prefix, completions, dictionary.bracket, label, url)
 
     completions
 
@@ -49,10 +65,12 @@ module.exports =
   searchBlock: (mode, block, prefix, completions, dictionary, label, url) ->
 
     bracket = atom.config.get('autocomplete-eu4.bracket')
+    needle  = prefix.toLowerCase().replace('_', '').replace(' ', '')
+    regex   = new RegExp(needle)
 
     for index, entry of dictionary
 
-      if not entry.displayText or (mode == 2 and not entry.description)
+      if (not entry.displayText) or (mode >= 2 and not entry.description)
         continue
 
       if mode < 2
@@ -60,11 +78,17 @@ module.exports =
       else
         haystack = entry.description
 
-      haystack = haystack.toLowerCase().replace('_', '')
-      needle   = prefix  .toLowerCase().replace('_', '')
-      regex    = new RegExp(needle)
+      haystack = haystack.toLowerCase().replace('_', '').replace(' ', '')
 
       if regex.test(haystack)
+
+        repeat = false
+        if mode >= 2
+          for index2, entry2 of completions when (entry.displayText is entry2.displayText) and (block == entry2.block)
+            repeat = true
+            break
+        if repeat
+          continue
 
         disp  = entry.displayText
         desc  = entry.description
@@ -84,6 +108,10 @@ module.exports =
 
           when 2
             type = 'class'
+            icon = 'icon-search'
+
+          when 3
+            type = 'function'
             icon = 'icon-search'
 
         switch block
@@ -106,9 +134,13 @@ module.exports =
 
               when 1
                 snippet = entry.text + ' = { $1 }$2'
+                if mode == 3
+                  left = 'clause'
 
               when 2
                 snippet = entry.text + ' = {\n\t$1\n}'
+                if mode == 3
+                  left = 'clause'
 
         completions = @createCompletion(mode, block, completions, snippet, disp, type, left, right, icon, desc, url, pos)
 
@@ -126,6 +158,8 @@ module.exports =
       iconHTML: '<i class=\"' + icon + '\"></i>'
       description: desc
       descriptionMoreURL: url
+      mode: mode
+      block: block
       pos: pos
     completions.push(completion)
 
@@ -133,19 +167,29 @@ module.exports =
 
 
   compareCompletions: (a, b) ->
-    comp = a.pos - b.pos
+    comp = a.mode - b.mode
+    if comp == 0 and a.mode < 2
+      comp = a.pos - b.pos
     if comp == 0
-      labela = a.rightLabel
-      labelb = b.rightLabel
-      if ( labela > labelb )
+      texta = a.displayText
+      textb = b.displayText
+      if ( texta > textb )
         comp =  1
-      else if ( labela < labelb )
+      else if ( texta < textb )
         comp = -1
       else
-        texta = a.displayText
-        textb = b.displayText
-        if ( texta > textb )
+        if not a.leftLabel
+          labela = ''
+        else
+          labela = a.leftLabel
+        if not b.leftLabel
+          labelb = ''
+        else
+          labelb = b.leftLabel
+        if ( labela > labelb )
           comp =  1
-        else if ( texta < textb )
+        else if ( labela < labelb )
           comp = -1
+        else
+          comp = 0
     comp

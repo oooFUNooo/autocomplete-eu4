@@ -3,7926 +3,3966 @@
 		{
 			"text": "ADA",
 			"displayText": "Adal",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "ADE",
 			"displayText": "Aden",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "AKK",
 			"displayText": "Aq Qoyunlu",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "ALB",
 			"displayText": "Albania",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "ALG",
 			"displayText": "Algiers",
-			"description": ""
+			"description": "Maghreb, Formable / Releasable"
 		},
 		{
 			"text": "ALH",
 			"displayText": "Haasa",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "ALS",
 			"displayText": "Alsace",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "AMG",
 			"displayText": "Armagnac",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "ANH",
 			"displayText": "Anhalt",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "ANN",
 			"displayText": "Annam",
-			"description": ""
+			"description": "Indochina, Releasable"
 		},
 		{
 			"text": "ANS",
 			"displayText": "Ansbach",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "ARA",
 			"displayText": "Aragon",
-			"description": ""
+			"description": "Iberia"
 		},
 		{
 			"text": "ARK",
 			"displayText": "Arakan",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "ARM",
 			"displayText": "Armenia",
-			"description": ""
+			"description": "Caucasia, Formable / Releasable"
 		},
 		{
 			"text": "ASH",
 			"displayText": "Ashanti",
-			"description": ""
+			"description": "West Africa, Revolter (more likely by an event)"
 		},
 		{
 			"text": "ASS",
 			"displayText": "Assam",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "AST",
 			"displayText": "Astrakhan",
-			"description": ""
+			"description": "Russia, Releasable"
 		},
 		{
 			"text": "ATH",
 			"displayText": "Athens",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "ATJ",
 			"displayText": "Aceh",
-			"description": ""
+			"description": "East Indies, Revolter"
 		},
 		{
 			"text": "AUV",
 			"displayText": "Auvergne",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "AVI",
 			"displayText": "Avignon",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "AYU",
 			"displayText": "Ayutthaya",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "AZT",
 			"displayText": "Aztec",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "BAD",
 			"displayText": "Baden",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "BLI",
 			"displayText": "Bali",
-			"description": ""
+			"description": "East Indies, Releasable"
 		},
 		{
 			"text": "BAN",
 			"displayText": "Banten",
-			"description": ""
+			"description": "East Indies, Revolter"
 		},
 		{
 			"text": "BAL",
 			"displayText": "Baluchistan",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "BAV",
 			"displayText": "Bavaria",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "BEI",
 			"displayText": "Brunei",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "BEN",
 			"displayText": "Benin",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "BHU",
 			"displayText": "Bhutan",
-			"description": ""
+			"description": "Tibet, Releasable"
 		},
 		{
 			"text": "BIJ",
 			"displayText": "Bijapur",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "BND",
 			"displayText": "Bundelkhand",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "BNG",
 			"displayText": "Bengal",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "BOH",
 			"displayText": "Bohemia",
-			"description": ""
+			"description": "Eastern Europe"
 		},
 		{
 			"text": "BOS",
 			"displayText": "Bosnia",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "BOU",
 			"displayText": "Bourbonnais",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "BRA",
 			"displayText": "Brandenburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "BRB",
 			"displayText": "Brabant",
-			"description": ""
+			"description": "Low Countries"
 		},
 		{
 			"text": "BRE",
 			"displayText": "Bremen",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "BRI",
 			"displayText": "Brittany",
-			"description": ""
+			"description": "France"
 		},
 		{
 			"text": "BRR",
 			"displayText": "Berar",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "BRU",
 			"displayText": "Brunswick",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "BRZ",
 			"displayText": "Brazil",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "BUL",
 			"displayText": "Bulgaria",
-			"description": ""
+			"description": "Balkans, Releasable"
 		},
 		{
 			"text": "BUR",
 			"displayText": "Burgundy",
-			"description": ""
+			"description": "France"
 		},
 		{
 			"text": "CAN",
 			"displayText": "Canada",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "CAS",
 			"displayText": "Castile",
-			"description": ""
+			"description": "Iberia"
 		},
 		{
 			"text": "CAT",
 			"displayText": "Catalonia",
-			"description": ""
+			"description": "Iberia, Releasable"
 		},
 		{
 			"text": "CEP",
 			"displayText": "Corfu",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "CHA",
 			"displayText": "Champa",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "CHE",
 			"displayText": "Cherokee",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "CHG",
 			"displayText": "Chagatai",
-			"description": ""
+			"description": "Mongolia"
 		},
 		{
 			"text": "CHK",
 			"displayText": "Champasak",
-			"description": ""
+			"description": "Indochina, Revolter"
 		},
 		{
 			"text": "CHL",
 			"displayText": "Chile",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "CHM",
 			"displayText": "Chimu",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "CHP",
 			"displayText": "Champagne",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "CND",
 			"displayText": "Candar",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "COL",
 			"displayText": "Colombia",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "CNN",
 			"displayText": "Clanricarde",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "COR",
 			"displayText": "Corsica",
-			"description": ""
+			"description": "Italy, Releasable"
 		},
 		{
 			"text": "CRE",
 			"displayText": "Creek",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "CRI",
 			"displayText": "Crimea",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "CRN",
 			"displayText": "Cornwall",
-			"description": ""
+			"description": "British Isles, Releasable"
 		},
 		{
 			"text": "CRO",
 			"displayText": "Croatia",
-			"description": ""
+			"description": "Balkans, Formable / Releasable"
 		},
 		{
 			"text": "CRT",
 			"displayText": "Crete",
-			"description": ""
+			"description": "Balkans, Releasable"
 		},
 		{
 			"text": "CYP",
 			"displayText": "Cyprus",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "DAI",
 			"displayText": "Dai Viet",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "DAN",
 			"displayText": "Denmark",
-			"description": ""
+			"description": "Scandinavia"
 		},
 		{
 			"text": "DAU",
 			"displayText": "Dauphine",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "DLH",
 			"displayText": "Delhi",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "DUL",
 			"displayText": "Dulkadir",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "ENG",
 			"displayText": "England",
-			"description": ""
+			"description": "British Isles, Formable (exists in 1444)"
 		},
 		{
 			"text": "ETH",
 			"displayText": "Ethiopia",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "FER",
 			"displayText": "Ferrara",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "FEZ",
 			"displayText": "Fez",
-			"description": ""
+			"description": "Maghreb, Releasable"
 		},
 		{
 			"text": "FIN",
 			"displayText": "Finland",
-			"description": ""
+			"description": "Scandinavia, Releasable"
 		},
 		{
 			"text": "FLA",
 			"displayText": "Flanders",
-			"description": ""
+			"description": "Low Countries"
 		},
 		{
 			"text": "FOI",
 			"displayText": "Foix",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "FRA",
 			"displayText": "France",
-			"description": ""
+			"description": "France, Formable (exists in 1444)"
 		},
 		{
 			"text": "FRI",
 			"displayText": "Friesland",
-			"description": ""
+			"description": "Low Countries"
 		},
 		{
 			"text": "GBR",
 			"displayText": "Great Britain",
-			"description": ""
+			"description": "British Isles, Formable"
 		},
 		{
 			"text": "GDW",
 			"displayText": "Garha",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "GEL",
 			"displayText": "Gelre",
-			"description": ""
+			"description": "Low Countries"
 		},
 		{
 			"text": "GEN",
 			"displayText": "Genoa",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "GEO",
 			"displayText": "Georgia",
-			"description": ""
+			"description": "Caucasia, Formable (exists in 1444)"
 		},
 		{
 			"text": "GER",
 			"displayText": "Germany",
-			"description": ""
+			"description": "Germany, Formable"
 		},
 		{
 			"text": "GOL",
 			"displayText": "Great Horde",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "GOT",
 			"displayText": "Gotland",
-			"description": ""
+			"description": "Scandinavia, Releasable"
 		},
 		{
 			"text": "GRA",
 			"displayText": "Granada",
-			"description": ""
+			"description": "Iberia"
 		},
 		{
 			"text": "GRE",
 			"displayText": "Greece",
-			"description": ""
+			"description": "Balkans, Formable"
 		},
 		{
 			"text": "GUJ",
 			"displayText": "Gujarat",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "GUY",
 			"displayText": "Gascony",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "HAB",
 			"displayText": "Austria",
-			"description": ""
+			"description": "Germany, Formable (exists in 1444)"
 		},
 		{
 			"text": "HAI",
 			"displayText": "Hainaut",
-			"description": ""
+			"description": "Low Countries, Releasable"
 		},
 		{
 			"text": "HAM",
 			"displayText": "Hamburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "HAN",
 			"displayText": "Hanover",
-			"description": ""
+			"description": "Germany, Formable"
 		},
 		{
 			"text": "HAU",
 			"displayText": "Hausa",
-			"description": ""
+			"description": "West Africa, Releasable"
 		},
 		{
 			"text": "HED",
 			"displayText": "Hejaz",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "HES",
 			"displayText": "Hesse",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "HOL",
 			"displayText": "Holland",
-			"description": ""
+			"description": "Low Countries"
 		},
 		{
 			"text": "HUN",
 			"displayText": "Hungary",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "HUR",
 			"displayText": "Huron",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "INC",
 			"displayText": "Inca",
-			"description": ""
+			"description": "South America, Formable"
 		},
 		{
 			"text": "IRE",
 			"displayText": "Ireland",
-			"description": ""
+			"description": "British Isles, Formable"
 		},
 		{
 			"text": "IRO",
 			"displayText": "Iroquois",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "ITA",
 			"displayText": "Italy",
-			"description": ""
+			"description": "Italy, Formable"
 		},
 		{
 			"text": "JAP",
 			"displayText": "Japan",
-			"description": ""
+			"description": "Far East, Formable"
 		},
 		{
 			"text": "KAR",
 			"displayText": "Karaman",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "KAZ",
 			"displayText": "Kazan",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "KBO",
 			"displayText": "Kanem Bornu",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "KHA",
 			"displayText": "Mongolia",
-			"description": ""
+			"description": "Mongolia"
 		},
 		{
 			"text": "KHD",
 			"displayText": "Khandesh",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KHI",
 			"displayText": "Khiva",
-			"description": ""
+			"description": "Central Asia, Releasable"
 		},
 		{
 			"text": "KHM",
 			"displayText": "Khmer",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "KLE",
 			"displayText": "Cleves",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "KNI",
 			"displayText": "The Knights",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "KOK",
 			"displayText": "Ferghana",
-			"description": ""
+			"description": "Central Asia, Releasable"
 		},
 		{
 			"text": "KOL",
 			"displayText": "Cologne",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "KON",
 			"displayText": "Kongo",
-			"description": ""
+			"description": "Kongo"
 		},
 		{
 			"text": "KOR",
 			"displayText": "Korea",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "KRK",
 			"displayText": "Carnatic",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "KSH",
 			"displayText": "Kashmir",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KUR",
 			"displayText": "Kurland",
-			"description": ""
+			"description": "Eastern Europe, Formable"
 		},
 		{
 			"text": "KZH",
 			"displayText": "Kazakh",
-			"description": ""
+			"description": "Central Asia, Releasable"
 		},
 		{
 			"text": "LAN",
 			"displayText": "Florence",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "LAP",
 			"displayText": "La Plata",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "LEI",
 			"displayText": "Leinster",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "LIE",
 			"displayText": "Liege",
-			"description": ""
+			"description": "Low Countries"
 		},
 		{
 			"text": "LIT",
 			"displayText": "Lithuania",
-			"description": ""
+			"description": "Eastern Europe"
 		},
 		{
 			"text": "LNA",
 			"displayText": "Lan Na",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "LOA",
 			"displayText": "Loango",
-			"description": ""
+			"description": "Kongo"
 		},
 		{
 			"text": "LOR",
 			"displayText": "Lorraine",
-			"description": ""
+			"description": "France"
 		},
 		{
 			"text": "LOU",
 			"displayText": "Louisiana",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "LUA",
 			"displayText": "Luang Prabang",
-			"description": ""
+			"description": "Indochina, Releasable"
 		},
 		{
 			"text": "LUN",
 			"displayText": "Luneburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "LUX",
 			"displayText": "Luxembourg",
-			"description": ""
+			"description": "Low Countries, Releasable"
 		},
 		{
 			"text": "LXA",
 			"displayText": "Lan Xang",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "MAD",
 			"displayText": "Madurai",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "MAG",
 			"displayText": "Magdeburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "MAI",
 			"displayText": "Mainz",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "MAL",
 			"displayText": "Mali",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "MAM",
 			"displayText": "Mamluks",
-			"description": ""
+			"description": "Middle East"
 		},
 		{
 			"text": "MAN",
 			"displayText": "Mantua",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "MAY",
 			"displayText": "Maya",
-			"description": ""
+			"description": "Central America, Formable"
 		},
 		{
 			"text": "MAZ",
 			"displayText": "Mazovia",
-			"description": ""
+			"description": "Eastern Europe"
 		},
 		{
 			"text": "MCH",
 			"displayText": "Manchu",
-			"description": ""
+			"description": "Manchuria, Formable"
 		},
 		{
 			"text": "MEX",
 			"displayText": "Mexico",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "MKL",
 			"displayText": "Mecklenburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "MKS",
 			"displayText": "Makassar",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "MLC",
 			"displayText": "Malacca",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "MLO",
 			"displayText": "Milan",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "MLW",
 			"displayText": "Malwa",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "MNG",
 			"displayText": "Ming",
-			"description": ""
+			"description": "China"
 		},
 		{
 			"text": "MNS",
 			"displayText": "Thomond",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "MOD",
 			"displayText": "Modena",
-			"description": ""
+			"description": "Italy, Releasable"
 		},
 		{
 			"text": "MOE",
 			"displayText": "Morea",
-			"description": ""
+			"description": "Balkans, Releasable"
 		},
 		{
 			"text": "MOL",
 			"displayText": "Moldavia",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "MON",
 			"displayText": "Montenegro",
-			"description": ""
+			"description": "Balkans, Releasable"
 		},
 		{
 			"text": "MOR",
 			"displayText": "Morocco",
-			"description": ""
+			"description": "Maghreb, Formable (exists in 1444)"
 		},
 		{
 			"text": "MOS",
 			"displayText": "Muscovy",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "MTR",
 			"displayText": "Mataram",
-			"description": ""
+			"description": "East Indies, Revolter"
 		},
 		{
 			"text": "MUG",
 			"displayText": "Mughals",
-			"description": ""
+			"description": "India, Formable"
 		},
 		{
 			"text": "MUN",
 			"displayText": "Munster",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "MYS",
 			"displayText": "Mysore",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "NAJ",
 			"displayText": "Najd",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "NAV",
 			"displayText": "Navarra",
-			"description": ""
+			"description": "Iberia"
 		},
 		{
 			"text": "NAX",
 			"displayText": "Naxos",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "NED",
 			"displayText": "Netherlands",
-			"description": ""
+			"description": "Low Countries, Formable"
 		},
 		{
 			"text": "NEV",
 			"displayText": "Nevers",
-			"description": ""
+			"description": "France"
 		},
 		{
 			"text": "NOG",
 			"displayText": "Nogai",
-			"description": ""
+			"description": "Central Asia"
 		},
 		{
 			"text": "NOL",
 			"displayText": "Northumberland",
-			"description": ""
+			"description": "British Isles, Releasable"
 		},
 		{
 			"text": "NOR",
 			"displayText": "Norway",
-			"description": ""
+			"description": "Scandinavia"
 		},
 		{
 			"text": "NOV",
 			"displayText": "Novgorod",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "NPL",
 			"displayText": "Nepal",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "NRM",
 			"displayText": "Normandy",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "NUB",
 			"displayText": "Funj",
-			"description": ""
+			"description": "West Africa, Revolter (more likely by an event)"
 		},
 		{
 			"text": "ODH",
 			"displayText": "Oudh",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "OIR",
 			"displayText": "Oirat",
-			"description": ""
+			"description": "Mongolia"
 		},
 		{
 			"text": "OLD",
 			"displayText": "Oldenburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "OMA",
 			"displayText": "Oman",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "ORI",
 			"displayText": "Orissa",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "ORL",
 			"displayText": "Orleans",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "OYO",
 			"displayText": "Oyo",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "PAL",
 			"displayText": "The Palatinate",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "PAP",
 			"displayText": "The Papal State",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "PAR",
 			"displayText": "Parma",
-			"description": ""
+			"description": "Italy, Releasable"
 		},
 		{
 			"text": "PAT",
 			"displayText": "Pattani",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "PEG",
 			"displayText": "Pegu",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "PER",
 			"displayText": "Persia",
-			"description": ""
+			"description": "Persia, Formable"
 		},
 		{
 			"text": "PEU",
 			"displayText": "Peru",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "PIC",
 			"displayText": "Picardy",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "PIS",
 			"displayText": "Pisa",
-			"description": ""
+			"description": "Italy, Releasable"
 		},
 		{
 			"text": "POL",
 			"displayText": "Poland",
-			"description": ""
+			"description": "Eastern Europe, Formable (exists in 1444)"
 		},
 		{
 			"text": "POM",
 			"displayText": "Pomerania",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "POR",
 			"displayText": "Portugal",
-			"description": ""
+			"description": "Iberia"
 		},
 		{
 			"text": "PRO",
 			"displayText": "Provence",
-			"description": ""
+			"description": "France"
 		},
 		{
 			"text": "PRU",
 			"displayText": "Prussia",
-			"description": ""
+			"description": "Eastern Europe, Formable"
 		},
 		{
 			"text": "PSK",
 			"displayText": "Pskov",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "PUN",
 			"displayText": "Punjab",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "QAR",
 			"displayText": "Qara Qoyunlu",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "QAS",
 			"displayText": "Qasim",
-			"description": ""
+			"description": "Russia, Releasable"
 		},
 		{
 			"text": "QUE",
 			"displayText": "Quebec",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "RAG",
 			"displayText": "Ragusa",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "REB",
 			"displayText": "Rebels",
-			"description": ""
+			"description": "–, Special game tag"
 		},
 		{
 			"text": "RIG",
 			"displayText": "Riga",
-			"description": ""
+			"description": "Eastern Europe"
 		},
 		{
 			"text": "RUS",
 			"displayText": "Russia",
-			"description": ""
+			"description": "Russia, Formable"
 		},
 		{
 			"text": "RYA",
 			"displayText": "Ryazan",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "RYU",
 			"displayText": "Ryukyu",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "SAR",
 			"displayText": "Sardinia",
-			"description": ""
+			"description": "Italy, Releasable"
 		},
 		{
 			"text": "SAV",
 			"displayText": "Savoy",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "SAX",
 			"displayText": "Saxony",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "SCO",
 			"displayText": "Scotland",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "SER",
 			"displayText": "Serbia",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "SHA",
 			"displayText": "Shawnee",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "SHL",
 			"displayText": "Holstein",
-			"description": ""
+			"description": "Scandinavia"
 		},
 		{
 			"text": "SHR",
 			"displayText": "Sharjah",
-			"description": ""
+			"description": "Arabia, Releasable"
 		},
 		{
 			"text": "SHY",
 			"displayText": "Uzbek",
-			"description": ""
+			"description": "Central Asia"
 		},
 		{
 			"text": "SIB",
 			"displayText": "Sibir",
-			"description": ""
+			"description": "Russia, Releasable"
 		},
 		{
 			"text": "SIC",
 			"displayText": "Sicily",
-			"description": ""
+			"description": "Italy, Releasable"
 		},
 		{
 			"text": "SIE",
 			"displayText": "Siena",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "SIL",
 			"displayText": "Silesia",
-			"description": ""
+			"description": "Eastern Europe"
 		},
 		{
 			"text": "SLZ",
 			"displayText": "Salzburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "SND",
 			"displayText": "Sindh",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "SOF",
 			"displayText": "Segu",
-			"description": ""
+			"description": "West Africa, Revolter"
 		},
 		{
 			"text": "SON",
 			"displayText": "Songhai",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "SPA",
 			"displayText": "Spain",
-			"description": ""
+			"description": "Iberia, Formable"
 		},
 		{
 			"text": "SST",
 			"displayText": "Shan",
-			"description": ""
+			"description": "Indochina, Formable"
 		},
 		{
 			"text": "STY",
 			"displayText": "Styria",
-			"description": ""
+			"description": "Germany, Releasable"
 		},
 		{
 			"text": "SUL",
 			"displayText": "Sulu",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "SWE",
 			"displayText": "Sweden",
-			"description": ""
+			"description": "Scandinavia"
 		},
 		{
 			"text": "SWI",
 			"displayText": "Switzerland",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "TAU",
 			"displayText": "Taungu",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "TEU",
 			"displayText": "Teutonic Order",
-			"description": ""
+			"description": "Eastern Europe"
 		},
 		{
 			"text": "THU",
 			"displayText": "Thuringia",
-			"description": ""
+			"description": "Germany, Releasable"
 		},
 		{
 			"text": "TIB",
 			"displayText": "Tibet",
-			"description": ""
+			"description": "Tibet, Formable"
 		},
 		{
 			"text": "TIM",
 			"displayText": "Timurids",
-			"description": ""
+			"description": "Persia, Formable (exists in 1444)"
 		},
 		{
 			"text": "TIR",
 			"displayText": "Tirol",
-			"description": ""
+			"description": "Germany, Releasable"
 		},
 		{
 			"text": "TOK",
 			"displayText": "Tonkin",
-			"description": ""
+			"description": "Indochina, Releasable"
 		},
 		{
 			"text": "TOU",
 			"displayText": "Toulouse",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "TRA",
 			"displayText": "Transylvania",
-			"description": ""
+			"description": "Balkans, Releasable"
 		},
 		{
 			"text": "TRE",
 			"displayText": "Trebizond",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "TRI",
 			"displayText": "Trier",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "TRP",
 			"displayText": "Tripoli",
-			"description": ""
+			"description": "Maghreb, Formable / Releasable"
 		},
 		{
 			"text": "TUN",
 			"displayText": "Tunis",
-			"description": ""
+			"description": "Maghreb, Formable (exists in 1444)"
 		},
 		{
 			"text": "TUR",
 			"displayText": "Ottomans",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "TUS",
 			"displayText": "Tuscany",
-			"description": ""
+			"description": "Italy, Formable"
 		},
 		{
 			"text": "TVE",
 			"displayText": "Tver",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "TYR",
 			"displayText": "Tyrone",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "UKR",
 			"displayText": "Ruthenia",
-			"description": ""
+			"description": "Russia, Formable"
 		},
 		{
 			"text": "URB",
 			"displayText": "Urbino",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "USA",
 			"displayText": "United States",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "UTR",
 			"displayText": "Utrecht",
-			"description": ""
+			"description": "Low Countries"
 		},
 		{
 			"text": "WAL",
 			"displayText": "Wallachia",
-			"description": ""
+			"description": "Balkans"
 		},
 		{
 			"text": "WBG",
 			"displayText": "Wurzburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "VEN",
 			"displayText": "Venice",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "VIE",
 			"displayText": "Vientiane",
-			"description": ""
+			"description": "Indochina, Revolter"
 		},
 		{
 			"text": "VIJ",
 			"displayText": "Vijayanagar",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "WLS",
 			"displayText": "Wales",
-			"description": ""
+			"description": "British Isles, Releasable"
 		},
 		{
 			"text": "WUR",
 			"displayText": "Wurttemberg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "YAR",
 			"displayText": "Yaroslavl",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "YOR",
 			"displayText": "Andhra",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "ZAP",
 			"displayText": "Zapotec",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "ZAZ",
 			"displayText": "Zaporozhie",
-			"description": ""
+			"description": "Russia, Releasable"
 		},
 		{
 			"text": "ZIM",
 			"displayText": "Mutapa",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "NAT",
 			"displayText": "Natives",
-			"description": ""
+			"description": "–, Special game tag"
 		},
 		{
 			"text": "PIR",
 			"displayText": "Pirates",
-			"description": ""
+			"description": "–, Special game tag"
 		},
 		{
 			"text": "AMA",
 			"displayText": "Amago",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "ASA",
 			"displayText": "Asakura",
-			"description": ""
+			"description": "Far East, Releasable"
 		},
 		{
 			"text": "CSK",
 			"displayText": "Chosokabe",
-			"description": ""
+			"description": "Far East, Releasable"
 		},
 		{
 			"text": "DTE",
 			"displayText": "Date",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "HJO",
 			"displayText": "Hojo",
-			"description": ""
+			"description": "Far East, Revolter (more likely by an event)"
 		},
 		{
 			"text": "HSK",
 			"displayText": "Hosokawa",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "HTK",
 			"displayText": "Hatakeyama",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "IKE",
 			"displayText": "Ikeda",
-			"description": ""
+			"description": "Far East, Revolter"
 		},
 		{
 			"text": "IMG",
 			"displayText": "Imagawa",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "MAE",
 			"displayText": "Maeda",
-			"description": ""
+			"description": "Far East, Revolter"
 		},
 		{
 			"text": "MRI",
 			"displayText": "Mori",
-			"description": ""
+			"description": "Far East, Releasable"
 		},
 		{
 			"text": "ODA",
 			"displayText": "Oda",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "OTM",
 			"displayText": "Otomo",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "OUC",
 			"displayText": "Ouchi",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "SBA",
 			"displayText": "Shiba",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "SMZ",
 			"displayText": "Shimazu",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "TKD",
 			"displayText": "Takeda",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "TKG",
 			"displayText": "Tokugawa",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "UES",
 			"displayText": "Uesugi",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "YMN",
 			"displayText": "Yamana",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "JNP",
 			"displayText": "Jaunpur",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "MAW",
 			"displayText": "Marwar",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "MER",
 			"displayText": "Mewar",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "MUL",
 			"displayText": "Multan",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "JAN",
 			"displayText": "Jangladesh",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "GRJ",
 			"displayText": "Garjat",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "GWA",
 			"displayText": "Gwalior",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "DHU",
 			"displayText": "Dhundhar",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KLN",
 			"displayText": "Keladi",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "MAB",
 			"displayText": "Calicut",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "MEW",
 			"displayText": "Mewat",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "BST",
 			"displayText": "Bastar",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "JSL",
 			"displayText": "Jaisalmer",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KAC",
 			"displayText": "Kachar",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "KMT",
 			"displayText": "Koch",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KGR",
 			"displayText": "Kangra",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KAT",
 			"displayText": "Kutch",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KOC",
 			"displayText": "Kochin",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "AHM",
 			"displayText": "Ahmednagar",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "BAH",
 			"displayText": "Bahmanis",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "NAG",
 			"displayText": "Nagpur",
-			"description": ""
+			"description": "India, Revolter"
 		},
 		{
 			"text": "BDA",
 			"displayText": "Baroda",
-			"description": ""
+			"description": "India, Revolter"
 		},
 		{
 			"text": "GOC",
 			"displayText": "Golkonda",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "MAR",
 			"displayText": "Marathas",
-			"description": ""
+			"description": "India, Revolter"
 		},
 		{
 			"text": "VND",
 			"displayText": "Venad",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "DEC",
 			"displayText": "Deccan",
-			"description": ""
+			"description": "India, Revolter"
 		},
 		{
 			"text": "CZH",
 			"displayText": "Zhou",
-			"description": ""
+			"description": "China, Revolter"
 		},
 		{
 			"text": "CSH",
 			"displayText": "Shun",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "CXI",
 			"displayText": "Xi",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "JOL",
 			"displayText": "Jolof",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "PLC",
 			"displayText": "Commonwealth",
-			"description": ""
+			"description": "Eastern Europe, Formable"
 		},
 		{
 			"text": "PRM",
 			"displayText": "Perm",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "CEY",
 			"displayText": "Kotte",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "AFG",
 			"displayText": "Afghanistan",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "QNG",
 			"displayText": "Qing",
-			"description": ""
+			"description": "Manchuria, Formable"
 		},
 		{
 			"text": "ABE",
 			"displayText": "Abenaki",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "APA",
 			"displayText": "Apache",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "ASI",
 			"displayText": "Assiniboine",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "BLA",
 			"displayText": "Blackfoot",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "CAD",
 			"displayText": "Caddo",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "CHI",
 			"displayText": "Chickasaw",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "CHO",
 			"displayText": "Choctaw",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "CHY",
 			"displayText": "Cheyenne",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "COM",
 			"displayText": "Comanche",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "FOX",
 			"displayText": "Fox",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "ILL",
 			"displayText": "Illiniwek",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "LEN",
 			"displayText": "Lenape",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "MIK",
 			"displayText": "Mikmaq",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "MMI",
 			"displayText": "Miami",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "MAH",
 			"displayText": "Mahican",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "NAH",
 			"displayText": "Navajo",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "OJI",
 			"displayText": "Ojibwe",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "OSA",
 			"displayText": "Osage",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "OTT",
 			"displayText": "Ottawa",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "PAW",
 			"displayText": "Pawnee",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "PEQ",
 			"displayText": "Pequot",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "PIM",
 			"displayText": "Pima",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "POT",
 			"displayText": "Potawatomi",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "POW",
 			"displayText": "Powhatan",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "PUE",
 			"displayText": "Pueblo",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "SIO",
 			"displayText": "Sioux",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "SHO",
 			"displayText": "Shoshone",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "SUS",
 			"displayText": "Susquehannock",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "WCR",
 			"displayText": "Cree",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "ZAN",
 			"displayText": "Kilwa",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "AJU",
 			"displayText": "Ajuuraan",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "MBA",
 			"displayText": "Mombasa",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "MDI",
 			"displayText": "Mogadishu",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "MLI",
 			"displayText": "Malindi",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "SFA",
 			"displayText": "Sofala",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "EGY",
 			"displayText": "Egypt",
-			"description": ""
+			"description": "Middle East, Formable"
 		},
 		{
 			"text": "BUK",
 			"displayText": "Bukhara",
-			"description": ""
+			"description": "Central Asia, Formable"
 		},
 		{
 			"text": "BGA",
 			"displayText": "Baglana",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "BGL",
 			"displayText": "Baghelkhand",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "CHD",
 			"displayText": "Chanda",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "CMP",
 			"displayText": "Rewa Kantha",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "GHR",
 			"displayText": "Garhwal",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "HAD",
 			"displayText": "Hadoti",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "JAJ",
 			"displayText": "Habsan",
-			"description": ""
+			"description": "India, Revolter (more likely by an event)"
 		},
 		{
 			"text": "JFN",
 			"displayText": "Jaffna",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "LDK",
 			"displayText": "Ladakh",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "MLB",
 			"displayText": "Manipur",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "NGA",
 			"displayText": "Nagaur",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "NGP",
 			"displayText": "Jharkhand",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "PTA",
 			"displayText": "Patiala",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "RMP",
 			"displayText": "Rohilkhand",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "SDY",
 			"displayText": "Sadiya",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "TPR",
 			"displayText": "Tripura",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "TRT",
 			"displayText": "Tirhut",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "CIR",
 			"displayText": "Circassia",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "GAZ",
 			"displayText": "Gazikumukh",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "IME",
 			"displayText": "Imereti",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "TAB",
 			"displayText": "Mazandaran",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "MYR",
 			"displayText": "Yeren",
-			"description": ""
+			"description": "Manchuria"
 		},
 		{
 			"text": "MHX",
 			"displayText": "Haixi",
-			"description": ""
+			"description": "Manchuria"
 		},
 		{
 			"text": "KRC",
 			"displayText": "Korchin",
-			"description": ""
+			"description": "Mongolia"
 		},
 		{
 			"text": "KLK",
 			"displayText": "Khalkha",
-			"description": ""
+			"description": "Mongolia, Revolter"
 		},
 		{
 			"text": "DGL",
 			"displayText": "Maldives",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "HMI",
 			"displayText": "Kara Del",
-			"description": ""
+			"description": "Mongolia"
 		},
 		{
 			"text": "ZUN",
 			"displayText": "Zunghar",
-			"description": ""
+			"description": "Mongolia, Revolter"
 		},
 		{
 			"text": "KAS",
 			"displayText": "Yarkand",
-			"description": ""
+			"description": "Central Asia"
 		},
 		{
 			"text": "KSD",
 			"displayText": "Khoshuud",
-			"description": ""
+			"description": "Tibet, Revolter"
 		},
 		{
 			"text": "SYG",
 			"displayText": "Sarig Yogir",
-			"description": ""
+			"description": "Tibet"
 		},
 		{
 			"text": "UTS",
 			"displayText": "Tsang",
-			"description": ""
+			"description": "Tibet"
 		},
 		{
 			"text": "KAM",
 			"displayText": "Kham",
-			"description": ""
+			"description": "Tibet"
 		},
 		{
 			"text": "GUG",
 			"displayText": "Guge",
-			"description": ""
+			"description": "Tibet"
 		},
 		{
 			"text": "TMB",
 			"displayText": "Timbuktu",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "AIR",
 			"displayText": "Air",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "MSI",
 			"displayText": "Mossi",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "KTS",
 			"displayText": "Katsina",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "KAN",
 			"displayText": "Kano",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "FUL",
 			"displayText": "Fulo",
-			"description": ""
+			"description": "West Africa, Revolter (more likely by an event)"
 		},
 		{
 			"text": "BON",
 			"displayText": "Bonoman",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "DAH",
 			"displayText": "Dahomey",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "DGB",
 			"displayText": "Dagbon",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "JNN",
 			"displayText": "Jenne",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "KBU",
 			"displayText": "Kaabu",
-			"description": ""
+			"description": "West Africa, Releasable"
 		},
 		{
 			"text": "KNG",
 			"displayText": "Kong",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "NUP",
 			"displayText": "Nupe",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "YAO",
 			"displayText": "Yao",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "YAT",
 			"displayText": "Yatenga",
-			"description": ""
+			"description": "West Africa, Releasable"
 		},
 		{
 			"text": "ZAF",
 			"displayText": "Macina",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "ZZZ",
 			"displayText": "Zazzau",
-			"description": ""
+			"description": "West Africa"
 		},
 		{
 			"text": "ARD",
 			"displayText": "Ardalan",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "BHT",
 			"displayText": "Soran",
-			"description": ""
+			"description": "Arabia, Releasable"
 		},
 		{
 			"text": "ERE",
 			"displayText": "Eretna",
-			"description": ""
+			"description": "Arabia, Releasable"
 		},
 		{
 			"text": "LEB",
 			"displayText": "Lebanon",
-			"description": ""
+			"description": "Arabia, Releasable"
 		},
 		{
 			"text": "MAK",
 			"displayText": "Makuria",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "SHM",
 			"displayText": "Shammar",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "ARB",
 			"displayText": "Arabia",
-			"description": ""
+			"description": "Arabia, Formable"
 		},
 		{
 			"text": "GRM",
 			"displayText": "Germiyan",
-			"description": ""
+			"description": "Arabia, Releasable"
 		},
 		{
 			"text": "MPH",
 			"displayText": "Muan Phuang",
-			"description": ""
+			"description": "Indochina, Releasable"
 		},
 		{
 			"text": "LIG",
 			"displayText": "Ligor",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "JOH",
 			"displayText": "Johor",
-			"description": ""
+			"description": "East Indies, Releasable"
 		},
 		{
 			"text": "KED",
 			"displayText": "Kedah",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "PRK",
 			"displayText": "Perak",
-			"description": ""
+			"description": "East Indies, Releasable"
 		},
 		{
 			"text": "HSE",
 			"displayText": "Hsenwi",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "MYA",
 			"displayText": "Mong Yang",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "AVA",
 			"displayText": "Ava",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "FEO",
 			"displayText": "Theodoro",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "VOL",
 			"displayText": "Galicia-Volhynia",
-			"description": ""
+			"description": "Eastern Europe, Releasable"
 		},
 		{
 			"text": "KIE",
 			"displayText": "Kiev",
-			"description": ""
+			"description": "Eastern Europe, Releasable"
 		},
 		{
 			"text": "CHR",
 			"displayText": "Chernigov",
-			"description": ""
+			"description": "Eastern Europe, Releasable"
 		},
 		{
 			"text": "CHU",
 			"displayText": "Chukchi",
-			"description": ""
+			"description": "Siberia"
 		},
 		{
 			"text": "HOD",
 			"displayText": "Khodynt",
-			"description": ""
+			"description": "Siberia"
 		},
 		{
 			"text": "CHV",
 			"displayText": "Chavchuveny",
-			"description": ""
+			"description": "Siberia"
 		},
 		{
 			"text": "KMC",
 			"displayText": "Kamchadals",
-			"description": ""
+			"description": "Siberia"
 		},
 		{
 			"text": "BRT",
 			"displayText": "Buryatia",
-			"description": ""
+			"description": "Siberia"
 		},
 		{
 			"text": "BSH",
 			"displayText": "Bashkiria",
-			"description": ""
+			"description": "Russia, Releasable"
 		},
 		{
 			"text": "TLC",
 			"displayText": "Tlemcen",
-			"description": ""
+			"description": "Maghreb"
 		},
 		{
 			"text": "MZB",
 			"displayText": "Mzab",
-			"description": ""
+			"description": "Maghreb"
 		},
 		{
 			"text": "TGT",
 			"displayText": "Touggourt",
-			"description": ""
+			"description": "Maghreb"
 		},
 		{
 			"text": "GHD",
 			"displayText": "Djerid",
-			"description": ""
+			"description": "Maghreb"
 		},
 		{
 			"text": "FZA",
 			"displayText": "Fezzan",
-			"description": ""
+			"description": "Maghreb"
 		},
 		{
 			"text": "KBA",
 			"displayText": "Kabylia",
-			"description": ""
+			"description": "Maghreb, Releasable"
 		},
 		{
 			"text": "SOS",
 			"displayText": "Sus",
-			"description": ""
+			"description": "Maghreb, Releasable"
 		},
 		{
 			"text": "TFL",
 			"displayText": "Tafilalt",
-			"description": ""
+			"description": "Maghreb, Releasable"
 		},
 		{
 			"text": "ARP",
 			"displayText": "Arapaho",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "CNK",
 			"displayText": "Chinook",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "COC",
 			"displayText": "Cocomes",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "XIU",
 			"displayText": "Xiu",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "HDA",
 			"displayText": "Haida",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "ITZ",
 			"displayText": "Itza",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "KIC",
 			"displayText": "Kiche",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "KIO",
 			"displayText": "Kiowa",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "MIX",
 			"displayText": "Mixtec",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "SAL",
 			"displayText": "Salish",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "TAR",
 			"displayText": "Tarascan",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "TLA",
 			"displayText": "Tlapanec",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "TLX",
 			"displayText": "Tlaxcala",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "TOT",
 			"displayText": "Totonac",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "WIC",
 			"displayText": "Wichita",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "CLM",
 			"displayText": "Colima",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "BLM",
 			"displayText": "Blambangan",
-			"description": ""
+			"description": "East Indies, Revolter"
 		},
 		{
 			"text": "CRB",
 			"displayText": "Cirebon",
-			"description": ""
+			"description": "East Indies, Revolter"
 		},
 		{
 			"text": "DMK",
 			"displayText": "Demak",
-			"description": ""
+			"description": "East Indies, Revolter"
 		},
 		{
 			"text": "PGR",
 			"displayText": "Pagarruyung",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "PLB",
 			"displayText": "Palembang",
-			"description": ""
+			"description": "East Indies, Revolter"
 		},
 		{
 			"text": "PSA",
 			"displayText": "Pasai",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "SAK",
 			"displayText": "Siak",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "SUN",
 			"displayText": "Sunda",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "MJZ",
 			"displayText": "Jianzhou",
-			"description": ""
+			"description": "Manchuria"
 		},
 		{
 			"text": "SRV",
 			"displayText": "Shirvan",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "MIN",
 			"displayText": "Min",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "YUE",
 			"displayText": "Yue",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "SHU",
 			"displayText": "Shu",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "NNG",
 			"displayText": "Ning",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "CHC",
 			"displayText": "Chu",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "TNG",
 			"displayText": "Tang",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "QIC",
 			"displayText": "Qi",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "YAN",
 			"displayText": "Yan",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "JIN",
 			"displayText": "Jin",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "LNG",
 			"displayText": "Liang",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "HUA",
 			"displayText": "Huai",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "CGS",
 			"displayText": "Changsheng",
-			"description": ""
+			"description": "Indochina, Releasable"
 		},
 		{
 			"text": "CAB",
 			"displayText": "Carib",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "LON",
 			"displayText": "Leon",
-			"description": ""
+			"description": "Iberia, Releasable"
 		},
 		{
 			"text": "ICM",
 			"displayText": "Ichma",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "NUM",
 			"displayText": "Nuremberg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "AUS",
 			"displayText": "Australia",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "BTI",
 			"displayText": "Semien",
-			"description": ""
+			"description": "East Africa, Releasable"
 		},
 		{
 			"text": "MTH",
 			"displayText": "Meath",
-			"description": ""
+			"description": "British Isles, Releasable"
 		},
 		{
 			"text": "ADU",
 			"displayText": "Andalusia",
-			"description": ""
+			"description": "Iberia, Formable"
 		},
 		{
 			"text": "MEM",
 			"displayText": "Memmingen",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "VER",
 			"displayText": "Verden",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "NSA",
 			"displayText": "Nassau",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "RVA",
 			"displayText": "Ravensburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "MFA",
 			"displayText": "Montferrat",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "LUC",
 			"displayText": "Lucca",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "LVA",
 			"displayText": "Livonia",
-			"description": ""
+			"description": "Scandinavia, Releasable"
 		},
 		{
 			"text": "EST",
 			"displayText": "Estonia",
-			"description": ""
+			"description": "Scandinavia, Releasable"
 		},
 		{
 			"text": "SMI",
 			"displayText": "Sapmi",
-			"description": ""
+			"description": "Scandinavia, Revolter"
 		},
 		{
 			"text": "ORM",
 			"displayText": "Hormuz",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "KRL",
 			"displayText": "Karelia",
-			"description": ""
+			"description": "Scandinavia, Revolter"
 		},
 		{
 			"text": "JAI",
 			"displayText": "Malta",
-			"description": ""
+			"description": "Italy, Revolter"
 		},
 		{
 			"text": "KUB",
 			"displayText": "Kuba",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "KLD",
 			"displayText": "Kalundwe",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "YAK",
 			"displayText": "Yaka",
-			"description": ""
+			"description": "Kongo"
 		},
 		{
 			"text": "KZB",
 			"displayText": "Kazembe",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "KIK",
 			"displayText": "Kikondja",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "CKW",
 			"displayText": "Chokwe",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "LND",
 			"displayText": "Lunda",
-			"description": ""
+			"description": "Kongo"
 		},
 		{
 			"text": "LUB",
 			"displayText": "Luba",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "KSJ",
 			"displayText": "Kasanje",
-			"description": ""
+			"description": "Kongo"
 		},
 		{
 			"text": "SYO",
 			"displayText": "Soyo",
-			"description": ""
+			"description": "Kongo, Releasable"
 		},
 		{
 			"text": "TYO",
 			"displayText": "Tyo",
-			"description": ""
+			"description": "Kongo"
 		},
 		{
 			"text": "BSG",
 			"displayText": "Busoga",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "BNY",
 			"displayText": "Bunyoro",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "KRW",
 			"displayText": "Karagwe",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "BUG",
 			"displayText": "Buganda",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "RWA",
 			"displayText": "Rwanda",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "NKO",
 			"displayText": "Nkore",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "BUU",
 			"displayText": "Burundi",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "UBH",
 			"displayText": "Buha",
-			"description": ""
+			"description": "Central Africa"
 		},
 		{
 			"text": "MRA",
 			"displayText": "Maravi",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "LDU",
 			"displayText": "Lundu",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "TBK",
 			"displayText": "Tumbuka",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "MKU",
 			"displayText": "Makua",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "RZW",
 			"displayText": "Butua",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "MIR",
 			"displayText": "Imerina",
-			"description": ""
+			"description": "Madagascar"
 		},
 		{
 			"text": "ANT",
 			"displayText": "Antemoro",
-			"description": ""
+			"description": "Madagascar"
 		},
 		{
 			"text": "SKA",
 			"displayText": "Sakalava",
-			"description": ""
+			"description": "Madagascar"
 		},
 		{
 			"text": "MFY",
 			"displayText": "Mahafaly",
-			"description": ""
+			"description": "Madagascar"
 		},
 		{
 			"text": "BTS",
 			"displayText": "Betsimisaraka",
-			"description": ""
+			"description": "Madagascar"
 		},
 		{
 			"text": "ULS",
 			"displayText": "Ulster",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "DMS",
 			"displayText": "Desmond",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "ORD",
 			"displayText": "Ormond",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "KID",
 			"displayText": "Kildare",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "MCM",
 			"displayText": "Munster",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "FLY",
 			"displayText": "Offaly",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "TRY",
 			"displayText": "Tyrconnell",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "SLN",
 			"displayText": "Sligo",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "OKA",
 			"displayText": "Odoyev",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "ICE",
 			"displayText": "Iceland",
-			"description": ""
+			"description": "Scandinavia, Formable / Releasable"
 		},
 		{
 			"text": "SLO",
 			"displayText": "Nitra",
-			"description": ""
+			"description": "Balkans, Releasable"
 		},
 		{
 			"text": "HSC",
 			"displayText": "Gaeldom",
-			"description": ""
+			"description": "British Isles, Releasable"
 		},
 		{
 			"text": "ROM",
 			"displayText": "Roman Empire",
-			"description": ""
+			"description": "–, Formable"
 		},
 		{
 			"text": "DTT",
 			"displayText": "Dithmarschen",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "GLH",
 			"displayText": "Golden Horde",
-			"description": ""
+			"description": "Russia, Formable"
 		},
 		{
 			"text": "BEJ",
 			"displayText": "Beja",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "JIM",
 			"displayText": "Jimma",
-			"description": ""
+			"description": "East Africa, Revolter"
 		},
 		{
 			"text": "WLY",
 			"displayText": "Welayta",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "DAM",
 			"displayText": "Damot",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "HDY",
 			"displayText": "Hadiya",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "SOA",
 			"displayText": "Shewa",
-			"description": ""
+			"description": "East Africa, Releasable"
 		},
 		{
 			"text": "JJI",
 			"displayText": "Janjiro",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "ENA",
 			"displayText": "Ennarea",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "ABB",
 			"displayText": "Dongola",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "AKM",
 			"displayText": "Akamatsu",
-			"description": ""
+			"description": "Far East, Releasable"
 		},
 		{
 			"text": "AKT",
 			"displayText": "Ando",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "CBA",
 			"displayText": "Chiba",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "ISK",
 			"displayText": "Isshiki",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "ITO",
 			"displayText": "Ito",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "KKC",
 			"displayText": "Kikuchi",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "KNO",
 			"displayText": "Kono",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "OGS",
 			"displayText": "Ogasawara",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "SHN",
 			"displayText": "Shoni",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "STK",
 			"displayText": "Satake",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "TKI",
 			"displayText": "Toki",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "UTN",
 			"displayText": "Utsunomiya",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "TTI",
 			"displayText": "Tsutsui",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "ASK",
 			"displayText": "Ashikaga",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "MVA",
 			"displayText": "Moravia",
-			"description": ""
+			"description": "Eastern Europe, Releasable"
 		},
 		{
 			"text": "YUA",
 			"displayText": "Yuan",
-			"description": ""
+			"description": "Mongolia, Formable"
 		},
 		{
 			"text": "BLO",
 			"displayText": "Beloozero",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "RSO",
 			"displayText": "Rostov",
-			"description": ""
+			"description": "Russia"
 		},
 		{
 			"text": "MHR",
 			"displayText": "Mahra",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "HDR",
 			"displayText": "Hadramut",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "MDA",
 			"displayText": "Medina",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "ANZ",
 			"displayText": "Anizah",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "FAD",
 			"displayText": "Fadl",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "YAS",
 			"displayText": "Yas",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "RAS",
 			"displayText": "Rassids",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "YEM",
 			"displayText": "Yemen",
-			"description": ""
+			"description": "Arabia, Formable (exists in 1444)"
 		},
 		{
 			"text": "DAW",
 			"displayText": "Dawasir",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "MFL",
 			"displayText": "Mikhlaf",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "NJR",
 			"displayText": "Najran",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "HSN",
 			"displayText": "Hisn Kayfa",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "BTL",
 			"displayText": "Bitlis",
-			"description": ""
+			"description": "Arabia"
 		},
 		{
 			"text": "AVR",
 			"displayText": "Avaria",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "MLK",
 			"displayText": "Kharabakh",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "SME",
 			"displayText": "Samtskhe",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "ARL",
 			"displayText": "Ardabil",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "MSY",
 			"displayText": "Mushasha",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "RUM",
 			"displayText": "Rum",
-			"description": ""
+			"description": "Asia Minor, Formable"
 		},
 		{
 			"text": "KRY",
 			"displayText": "Gilan",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "LRI",
 			"displayText": "Luristan",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "SIS",
 			"displayText": "Sistan",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "BPI",
 			"displayText": "Biapas",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "FRS",
 			"displayText": "Fars",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "KRM",
 			"displayText": "Kerman",
-			"description": ""
+			"description": "Persia, Releasable"
 		},
 		{
 			"text": "YZD",
 			"displayText": "Yazd",
-			"description": ""
+			"description": "Persia, Releasable"
 		},
 		{
 			"text": "ISF",
 			"displayText": "Isfahan",
-			"description": ""
+			"description": "Persia, Releasable"
 		},
 		{
 			"text": "TBR",
 			"displayText": "Tabriz",
-			"description": ""
+			"description": "Persia, Releasable"
 		},
 		{
 			"text": "BSR",
 			"displayText": "Basra",
-			"description": ""
+			"description": "Persia, Releasable"
 		},
 		{
 			"text": "MGR",
 			"displayText": "Maregheh",
-			"description": ""
+			"description": "Persia, Releasable"
 		},
 		{
 			"text": "QOM",
 			"displayText": "Ajam",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "TRS",
 			"displayText": "Transoxiana",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "MAS",
 			"displayText": "Madyas",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "PGS",
 			"displayText": "Pangasinan",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "TDO",
 			"displayText": "Tondo",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "MNA",
 			"displayText": "Maynila",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "CEB",
 			"displayText": "Cebu",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "BTU",
 			"displayText": "Butuan",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "KTB",
 			"displayText": "Kitabatake",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "KOI",
 			"displayText": "Mann",
-			"description": ""
+			"description": "British Isles, Releasable"
 		},
 		{
 			"text": "LOI",
 			"displayText": "The Isles",
-			"description": ""
+			"description": "British Isles"
 		},
 		{
 			"text": "MMA",
 			"displayText": "Mong Mao",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "MKA",
 			"displayText": "Mong Kawng",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "MPA",
 			"displayText": "Mong Pai",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "KAL",
 			"displayText": "Kale",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "HSI",
 			"displayText": "Hsipaw",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "BPR",
 			"displayText": "Prome",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "MNI",
 			"displayText": "Mong Nai",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "MBL",
 			"displayText": "Bishnupur",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "SKK",
 			"displayText": "Sikkim",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "IDR",
 			"displayText": "Idar",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "NVR",
 			"displayText": "Navanagar",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "JLV",
 			"displayText": "Jhalavad",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "PTL",
 			"displayText": "Palitana",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "RJK",
 			"displayText": "Rajkot",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "JGD",
 			"displayText": "Junagarh",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "PRB",
 			"displayText": "Porbandar",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "PAN",
 			"displayText": "Kalinjar",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KLP",
 			"displayText": "Kalpi",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "SBP",
 			"displayText": "Sambalpur",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "PTT",
 			"displayText": "Patna",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "JPR",
 			"displayText": "Jeypore",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "PRD",
 			"displayText": "Parlakhimidi",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KJH",
 			"displayText": "Keonhjar",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KLH",
 			"displayText": "Kalahandi",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "RTT",
 			"displayText": "Ratanpur",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "SRG",
 			"displayText": "Surguja",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "TLG",
 			"displayText": "Telingana",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KLT",
 			"displayText": "Kolathunad",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "DNG",
 			"displayText": "Dang",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "DTI",
 			"displayText": "Doti",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "GRK",
 			"displayText": "Gorkha",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "JML",
 			"displayText": "Jumla",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "LWA",
 			"displayText": "Limbuwan",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "MKP",
 			"displayText": "Makwanpur",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "SRM",
 			"displayText": "Sirmur",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KTU",
 			"displayText": "Kathmandu",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KMN",
 			"displayText": "Kumaon",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "KND",
 			"displayText": "Kandy",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "GNG",
 			"displayText": "Gingee",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "TNJ",
 			"displayText": "Tanjore",
-			"description": ""
+			"description": "India, Releasable"
 		},
 		{
 			"text": "PHA",
 			"displayText": "U",
-			"description": ""
+			"description": "Tibet"
 		},
 		{
 			"text": "RJP",
 			"displayText": "Rajputana",
-			"description": ""
+			"description": "India, Formable"
 		},
 		{
 			"text": "SRH",
 			"displayText": "Sirhind",
-			"description": ""
+			"description": "India"
 		},
 		{
 			"text": "ILK",
 			"displayText": "Ilkhanate",
-			"description": ""
+			"description": "Persia, Formable"
 		},
 		{
 			"text": "KLM",
 			"displayText": "Kalmyk",
-			"description": ""
+			"description": "Pontic Steppe, Appears by event"
 		},
 		{
 			"text": "MGE",
 			"displayText": "Mongol Empire",
-			"description": ""
+			"description": "Mongolia, Formable"
 		},
 		{
 			"text": "VAL",
 			"displayText": "Valencia",
-			"description": ""
+			"description": "Iberia, Releasable"
 		},
 		{
 			"text": "ASU",
 			"displayText": "Asturias",
-			"description": ""
+			"description": "Iberia, Releasable"
 		},
 		{
 			"text": "SLE",
 			"displayText": "Sale",
-			"description": ""
+			"description": "Maghreb, Appears by event"
 		},
 		{
 			"text": "TET",
 			"displayText": "Tetouan",
-			"description": ""
+			"description": "Maghreb, Releasable"
 		},
 		{
 			"text": "MJO",
 			"displayText": "Majorca",
-			"description": ""
+			"description": "Iberia, Releasable"
 		},
 		{
 			"text": "MAT",
 			"displayText": "Matlatzinca",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "COI",
 			"displayText": "Coixtlahuaca",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "TEO",
 			"displayText": "Teotitlan",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "XAL",
 			"displayText": "Xalisco",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "GAM",
 			"displayText": "Guamar",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "HST",
 			"displayText": "Huastec",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "CCM",
 			"displayText": "Chichimeca",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "OTO",
 			"displayText": "Otomi",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "YOK",
 			"displayText": "Yokotan",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "LAC",
 			"displayText": "Tzotzil",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "KAQ",
 			"displayText": "Kaqchikel",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "CTM",
 			"displayText": "Chactemal",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "KER",
 			"displayText": "Keres",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "ZNI",
 			"displayText": "Zuni",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "MSC",
 			"displayText": "Mescalero",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "LIP",
 			"displayText": "Lipan",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "CHT",
 			"displayText": "Chorti",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "MIS",
 			"displayText": "Miskito",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "TAI",
 			"displayText": "Tairona",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "CNP",
 			"displayText": "Can Pech",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "TON",
 			"displayText": "Tonala",
-			"description": ""
+			"description": "Central America"
 		},
 		{
 			"text": "YAQ",
 			"displayText": "Yaqui",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "YKT",
 			"displayText": "Yokuts",
-			"description": ""
+			"description": "North America"
 		},
 		{
 			"text": "CAL",
 			"displayText": "California",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "TEX",
 			"displayText": "Texas",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "NSS",
 			"displayText": "New Providence",
-			"description": ""
+			"description": "Caribbeans, Appears by event"
 		},
 		{
 			"text": "PRY",
 			"displayText": "Port Royal",
-			"description": ""
+			"description": "Caribbeans, Appears by event"
 		},
 		{
 			"text": "LIB",
 			"displayText": "Libertatia",
-			"description": ""
+			"description": "South Africa, Appears by event"
 		},
 		{
 			"text": "TOR",
 			"displayText": "Tortuga",
-			"description": ""
+			"description": "Caribbeans, Appears by event"
 		},
 		{
 			"text": "MRK",
 			"displayText": "Marrakesh",
-			"description": ""
+			"description": "Maghreb"
 		},
 		{
 			"text": "MRE",
 			"displayText": "Marehan",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "MJE",
 			"displayText": "Majeerteen",
-			"description": ""
+			"description": "East Africa, Releasable"
 		},
 		{
 			"text": "WAR",
 			"displayText": "Warsangali",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "HOB",
 			"displayText": "Hobyo",
-			"description": ""
+			"description": "East Africa, Releasable"
 		},
 		{
 			"text": "GLE",
 			"displayText": "Geledi",
-			"description": ""
+			"description": "East Africa, Revolter"
 		},
 		{
 			"text": "KAF",
 			"displayText": "Kaffa",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "MED",
 			"displayText": "Medri Bahri",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "HAR",
 			"displayText": "Harar",
-			"description": ""
+			"description": "East Africa, Releasable"
 		},
 		{
 			"text": "AFA",
 			"displayText": "Aussa",
-			"description": ""
+			"description": "East Africa, Releasable"
 		},
 		{
 			"text": "ALO",
 			"displayText": "Alodia",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "PTE",
 			"displayText": "Pate",
-			"description": ""
+			"description": "East Africa"
 		},
 		{
 			"text": "DAR",
 			"displayText": "Darfur",
-			"description": ""
+			"description": "East Africa, Revolter (more likely by an event)"
 		},
 		{
 			"text": "CSU",
 			"displayText": "Cusco",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "CCQ",
 			"displayText": "Calchaqui",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "MPC",
 			"displayText": "Mapuche",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "MCA",
 			"displayText": "Muisca",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "QTO",
 			"displayText": "Quito",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "CJA",
 			"displayText": "Cajamarca",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "HJA",
 			"displayText": "Huyla",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "PTG",
 			"displayText": "Potiguara",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "TPQ",
 			"displayText": "Tupiniquim",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "TUA",
 			"displayText": "Tapuia",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "GUA",
 			"displayText": "Guarani",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "CUA",
 			"displayText": "Charrua",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "WKA",
 			"displayText": "Wanka",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "CYA",
 			"displayText": "Chachapoya",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "CLA",
 			"displayText": "Colla",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "CRA",
 			"displayText": "Charca",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "PCJ",
 			"displayText": "Pacajes",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "TPA",
 			"displayText": "Tupinamba",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "ARW",
 			"displayText": "Arawak",
-			"description": ""
+			"description": "South America"
 		},
 		{
 			"text": "TID",
 			"displayText": "Tidore",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "TER",
 			"displayText": "Ternate",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "MGD",
 			"displayText": "Maguindanao",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "LUW",
 			"displayText": "Luwu",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "LNO",
 			"displayText": "Lanao",
-			"description": ""
+			"description": "East Indies, Releasable"
 		},
 		{
 			"text": "LFA",
 			"displayText": "Lanfang",
-			"description": ""
+			"description": "East Indies, Revolter"
 		},
 		{
 			"text": "BNJ",
 			"displayText": "Banjar",
-			"description": ""
+			"description": "East Indies, Revolter"
 		},
 		{
 			"text": "KUT",
 			"displayText": "Kutai",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "BTN",
 			"displayText": "Buton",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "CMI",
 			"displayText": "Miao",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "CYI",
 			"displayText": "Yi",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "CDL",
 			"displayText": "Dali",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "CHH",
 			"displayText": "Chahar",
-			"description": ""
+			"description": "Mongolia, Revolter"
 		},
 		{
 			"text": "NDO",
 			"displayText": "Ndongo",
-			"description": ""
+			"description": "Kongo"
 		},
 		{
 			"text": "ANU",
 			"displayText": "Ainu",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "EFR",
 			"displayText": "East Frisia",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "SYN",
 			"displayText": "Synthetics",
-			"description": ""
+			"description": "–, Special country (can be spawned only with console)"
 		},
 		{
 			"text": "BAR",
 			"displayText": "Bar",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "HSA",
 			"displayText": "Lubeck",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "SMO",
 			"displayText": "Smolensk",
-			"description": ""
+			"description": "Russia, Releasable"
 		},
 		{
 			"text": "NZH",
 			"displayText": "Nizhny Novgorod",
-			"description": ""
+			"description": "Russia, Releasable"
 		},
 		{
 			"text": "LAU",
 			"displayText": "Saxe-Lauenburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "AAC",
 			"displayText": "Aachen",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "ALE",
 			"displayText": "Alencon",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "AUG",
 			"displayText": "Augsburg",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "ULM",
 			"displayText": "Ulm",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "MSA",
 			"displayText": "Malaya",
-			"description": ""
+			"description": "East Indies, Formable"
 		},
 		{
 			"text": "HIN",
 			"displayText": "Hindustan",
-			"description": ""
+			"description": "India, Formable"
 		},
 		{
 			"text": "BHA",
 			"displayText": "Bharat",
-			"description": ""
+			"description": "India, Formable"
 		},
 		{
 			"text": "CAM",
 			"displayText": "United Central America",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "DNZ",
 			"displayText": "Danzig",
-			"description": ""
+			"description": "Eastern Europe, Releasable"
 		},
 		{
 			"text": "ETR",
 			"displayText": "Etruria",
-			"description": ""
+			"description": "Italy, Revolter"
 		},
 		{
 			"text": "FRN",
 			"displayText": "Frankfurt",
-			"description": ""
+			"description": "Germany"
 		},
 		{
 			"text": "HAT",
 			"displayText": "Haiti",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "IRQ",
 			"displayText": "Iraq",
-			"description": ""
+			"description": "Asia Minor, Releasable"
 		},
 		{
 			"text": "KHO",
 			"displayText": "Khorasan",
-			"description": ""
+			"description": "Persia"
 		},
 		{
 			"text": "KRA",
 			"displayText": "Krakow",
-			"description": ""
+			"description": "Eastern Europe, Releasable"
 		},
 		{
 			"text": "LIV",
 			"displayText": "Livonian Order",
-			"description": ""
+			"description": "Eastern Europe"
 		},
 		{
 			"text": "NAP",
 			"displayText": "Naples",
-			"description": ""
+			"description": "Italy"
 		},
 		{
 			"text": "PRG",
 			"displayText": "Paraguay",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "QIN",
 			"displayText": "Qin",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "RFR",
 			"displayText": "Nanbu",
-			"description": ""
+			"description": "Far East"
 		},
 		{
 			"text": "SOK",
 			"displayText": "Sokoto",
-			"description": ""
+			"description": "West Africa, Formable"
 		},
 		{
 			"text": "SPI",
 			"displayText": "Sardinia-Piedmont",
-			"description": ""
+			"description": "Italy, Formable"
 		},
 		{
 			"text": "SYR",
 			"displayText": "Syria",
-			"description": ""
+			"description": "Middle East, Releasable"
 		},
 		{
 			"text": "VNZ",
 			"displayText": "Venezuela",
-			"description": ""
+			"description": "Colonies, Formable"
 		},
 		{
 			"text": "WES",
 			"displayText": "Westphalia",
-			"description": ""
+			"description": "Germany, Formable"
 		},
 		{
 			"text": "WUU",
 			"displayText": "Wu",
-			"description": ""
+			"description": "China, Releasable"
 		},
 		{
 			"text": "RMN",
 			"displayText": "Romania",
-			"description": ""
+			"description": "Balkans, Formable"
 		},
 		{
 			"text": "AYD",
 			"displayText": "Aydin",
-			"description": ""
+			"description": "Asia Minor, Releasable"
 		},
 		{
 			"text": "AQU",
 			"displayText": "Aquileia",
-			"description": ""
+			"description": "Italy, Releasable"
 		},
 		{
 			"text": "BYZ",
 			"displayText": "Byzantium",
-			"description": ""
+			"description": "Balkans, Formable (exists in 1444)"
 		},
 		{
 			"text": "MAJ",
 			"displayText": "Majapahit",
-			"description": ""
+			"description": "East Indies"
 		},
 		{
 			"text": "MEI",
 			"displayText": "Meissen",
-			"description": ""
+			"description": "Germany, Revolter"
 		},
 		{
 			"text": "SUK",
 			"displayText": "Sukhothai",
-			"description": ""
+			"description": "Indochina"
 		},
 		{
 			"text": "GAL",
 			"displayText": "Galicia",
-			"description": ""
+			"description": "Iberia, Releasable"
 		},
 		{
 			"text": "PLT",
 			"displayText": "Polotsk",
-			"description": ""
+			"description": "Russia, Releasable"
 		},
 		{
 			"text": "SCA",
 			"displayText": "Scandinavia",
-			"description": ""
+			"description": "Scandinavia, Formable"
 		},
 		{
 			"text": "ACH",
 			"displayText": "Achaea",
-			"description": ""
+			"description": "Balkans, Releasable"
 		},
 		{
 			"text": "KOJ",
 			"displayText": "Jerusalem",
-			"description": ""
+			"description": "Middle East, Formable"
 		},
 		{
 			"text": "BER",
 			"displayText": "Berry",
-			"description": ""
+			"description": "France, Releasable"
 		},
 		{
 			"text": "HLR",
 			"displayText": "Holy Roman Empire",
-			"description": ""
+			"description": "Germany, Formable"
 		},
 		{
 			"text": "SRU",
 			"displayText": "Saruhan",
-			"description": ""
+			"description": "Asia Minor, Releasable"
 		},
 		{
 			"text": "MEN",
 			"displayText": "Mentese",
-			"description": ""
+			"description": "Asia Minor, Releasable"
 		},
 		{
 			"text": "RAM",
 			"displayText": "Ramazan",
-			"description": ""
+			"description": "Asia Minor"
 		},
 		{
 			"text": "EPI",
 			"displayText": "Epirus",
-			"description": ""
+			"description": "Balkans, Releasable"
 		}
 	],
 	"equal": [
 	],
 	"bracket": [
-		{
-			"text": "ADA",
-			"displayText": "Adal (clause)",
-			"description": ""
-		},
-		{
-			"text": "ADE",
-			"displayText": "Aden (clause)",
-			"description": ""
-		},
-		{
-			"text": "AKK",
-			"displayText": "Aq Qoyunlu (clause)",
-			"description": ""
-		},
-		{
-			"text": "ALB",
-			"displayText": "Albania (clause)",
-			"description": ""
-		},
-		{
-			"text": "ALG",
-			"displayText": "Algiers (clause)",
-			"description": ""
-		},
-		{
-			"text": "ALH",
-			"displayText": "Haasa (clause)",
-			"description": ""
-		},
-		{
-			"text": "ALS",
-			"displayText": "Alsace (clause)",
-			"description": ""
-		},
-		{
-			"text": "AMG",
-			"displayText": "Armagnac (clause)",
-			"description": ""
-		},
-		{
-			"text": "ANH",
-			"displayText": "Anhalt (clause)",
-			"description": ""
-		},
-		{
-			"text": "ANN",
-			"displayText": "Annam (clause)",
-			"description": ""
-		},
-		{
-			"text": "ANS",
-			"displayText": "Ansbach (clause)",
-			"description": ""
-		},
-		{
-			"text": "ARA",
-			"displayText": "Aragon (clause)",
-			"description": ""
-		},
-		{
-			"text": "ARK",
-			"displayText": "Arakan (clause)",
-			"description": ""
-		},
-		{
-			"text": "ARM",
-			"displayText": "Armenia (clause)",
-			"description": ""
-		},
-		{
-			"text": "ASH",
-			"displayText": "Ashanti (clause)",
-			"description": ""
-		},
-		{
-			"text": "ASS",
-			"displayText": "Assam (clause)",
-			"description": ""
-		},
-		{
-			"text": "AST",
-			"displayText": "Astrakhan (clause)",
-			"description": ""
-		},
-		{
-			"text": "ATH",
-			"displayText": "Athens (clause)",
-			"description": ""
-		},
-		{
-			"text": "ATJ",
-			"displayText": "Aceh (clause)",
-			"description": ""
-		},
-		{
-			"text": "AUV",
-			"displayText": "Auvergne (clause)",
-			"description": ""
-		},
-		{
-			"text": "AVI",
-			"displayText": "Avignon (clause)",
-			"description": ""
-		},
-		{
-			"text": "AYU",
-			"displayText": "Ayutthaya (clause)",
-			"description": ""
-		},
-		{
-			"text": "AZT",
-			"displayText": "Aztec (clause)",
-			"description": ""
-		},
-		{
-			"text": "BAD",
-			"displayText": "Baden (clause)",
-			"description": ""
-		},
-		{
-			"text": "BLI",
-			"displayText": "Bali (clause)",
-			"description": ""
-		},
-		{
-			"text": "BAN",
-			"displayText": "Banten (clause)",
-			"description": ""
-		},
-		{
-			"text": "BAL",
-			"displayText": "Baluchistan (clause)",
-			"description": ""
-		},
-		{
-			"text": "BAV",
-			"displayText": "Bavaria (clause)",
-			"description": ""
-		},
-		{
-			"text": "BEI",
-			"displayText": "Brunei (clause)",
-			"description": ""
-		},
-		{
-			"text": "BEN",
-			"displayText": "Benin (clause)",
-			"description": ""
-		},
-		{
-			"text": "BHU",
-			"displayText": "Bhutan (clause)",
-			"description": ""
-		},
-		{
-			"text": "BIJ",
-			"displayText": "Bijapur (clause)",
-			"description": ""
-		},
-		{
-			"text": "BND",
-			"displayText": "Bundelkhand (clause)",
-			"description": ""
-		},
-		{
-			"text": "BNG",
-			"displayText": "Bengal (clause)",
-			"description": ""
-		},
-		{
-			"text": "BOH",
-			"displayText": "Bohemia (clause)",
-			"description": ""
-		},
-		{
-			"text": "BOS",
-			"displayText": "Bosnia (clause)",
-			"description": ""
-		},
-		{
-			"text": "BOU",
-			"displayText": "Bourbonnais (clause)",
-			"description": ""
-		},
-		{
-			"text": "BRA",
-			"displayText": "Brandenburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "BRB",
-			"displayText": "Brabant (clause)",
-			"description": ""
-		},
-		{
-			"text": "BRE",
-			"displayText": "Bremen (clause)",
-			"description": ""
-		},
-		{
-			"text": "BRI",
-			"displayText": "Brittany (clause)",
-			"description": ""
-		},
-		{
-			"text": "BRR",
-			"displayText": "Berar (clause)",
-			"description": ""
-		},
-		{
-			"text": "BRU",
-			"displayText": "Brunswick (clause)",
-			"description": ""
-		},
-		{
-			"text": "BRZ",
-			"displayText": "Brazil (clause)",
-			"description": ""
-		},
-		{
-			"text": "BUL",
-			"displayText": "Bulgaria (clause)",
-			"description": ""
-		},
-		{
-			"text": "BUR",
-			"displayText": "Burgundy (clause)",
-			"description": ""
-		},
-		{
-			"text": "CAN",
-			"displayText": "Canada (clause)",
-			"description": ""
-		},
-		{
-			"text": "CAS",
-			"displayText": "Castile (clause)",
-			"description": ""
-		},
-		{
-			"text": "CAT",
-			"displayText": "Catalonia (clause)",
-			"description": ""
-		},
-		{
-			"text": "CEP",
-			"displayText": "Corfu (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHA",
-			"displayText": "Champa (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHE",
-			"displayText": "Cherokee (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHG",
-			"displayText": "Chagatai (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHK",
-			"displayText": "Champasak (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHL",
-			"displayText": "Chile (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHM",
-			"displayText": "Chimu (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHP",
-			"displayText": "Champagne (clause)",
-			"description": ""
-		},
-		{
-			"text": "CND",
-			"displayText": "Candar (clause)",
-			"description": ""
-		},
-		{
-			"text": "COL",
-			"displayText": "Colombia (clause)",
-			"description": ""
-		},
-		{
-			"text": "CNN",
-			"displayText": "Clanricarde (clause)",
-			"description": ""
-		},
-		{
-			"text": "COR",
-			"displayText": "Corsica (clause)",
-			"description": ""
-		},
-		{
-			"text": "CRE",
-			"displayText": "Creek (clause)",
-			"description": ""
-		},
-		{
-			"text": "CRI",
-			"displayText": "Crimea (clause)",
-			"description": ""
-		},
-		{
-			"text": "CRN",
-			"displayText": "Cornwall (clause)",
-			"description": ""
-		},
-		{
-			"text": "CRO",
-			"displayText": "Croatia (clause)",
-			"description": ""
-		},
-		{
-			"text": "CRT",
-			"displayText": "Crete (clause)",
-			"description": ""
-		},
-		{
-			"text": "CYP",
-			"displayText": "Cyprus (clause)",
-			"description": ""
-		},
-		{
-			"text": "DAI",
-			"displayText": "Dai Viet (clause)",
-			"description": ""
-		},
-		{
-			"text": "DAN",
-			"displayText": "Denmark (clause)",
-			"description": ""
-		},
-		{
-			"text": "DAU",
-			"displayText": "Dauphine (clause)",
-			"description": ""
-		},
-		{
-			"text": "DLH",
-			"displayText": "Delhi (clause)",
-			"description": ""
-		},
-		{
-			"text": "DUL",
-			"displayText": "Dulkadir (clause)",
-			"description": ""
-		},
-		{
-			"text": "ENG",
-			"displayText": "England (clause)",
-			"description": ""
-		},
-		{
-			"text": "ETH",
-			"displayText": "Ethiopia (clause)",
-			"description": ""
-		},
-		{
-			"text": "FER",
-			"displayText": "Ferrara (clause)",
-			"description": ""
-		},
-		{
-			"text": "FEZ",
-			"displayText": "Fez (clause)",
-			"description": ""
-		},
-		{
-			"text": "FIN",
-			"displayText": "Finland (clause)",
-			"description": ""
-		},
-		{
-			"text": "FLA",
-			"displayText": "Flanders (clause)",
-			"description": ""
-		},
-		{
-			"text": "FOI",
-			"displayText": "Foix (clause)",
-			"description": ""
-		},
-		{
-			"text": "FRA",
-			"displayText": "France (clause)",
-			"description": ""
-		},
-		{
-			"text": "FRI",
-			"displayText": "Friesland (clause)",
-			"description": ""
-		},
-		{
-			"text": "GBR",
-			"displayText": "Great Britain (clause)",
-			"description": ""
-		},
-		{
-			"text": "GDW",
-			"displayText": "Garha (clause)",
-			"description": ""
-		},
-		{
-			"text": "GEL",
-			"displayText": "Gelre (clause)",
-			"description": ""
-		},
-		{
-			"text": "GEN",
-			"displayText": "Genoa (clause)",
-			"description": ""
-		},
-		{
-			"text": "GEO",
-			"displayText": "Georgia (clause)",
-			"description": ""
-		},
-		{
-			"text": "GER",
-			"displayText": "Germany (clause)",
-			"description": ""
-		},
-		{
-			"text": "GOL",
-			"displayText": "Great Horde (clause)",
-			"description": ""
-		},
-		{
-			"text": "GOT",
-			"displayText": "Gotland (clause)",
-			"description": ""
-		},
-		{
-			"text": "GRA",
-			"displayText": "Granada (clause)",
-			"description": ""
-		},
-		{
-			"text": "GRE",
-			"displayText": "Greece (clause)",
-			"description": ""
-		},
-		{
-			"text": "GUJ",
-			"displayText": "Gujarat (clause)",
-			"description": ""
-		},
-		{
-			"text": "GUY",
-			"displayText": "Gascony (clause)",
-			"description": ""
-		},
-		{
-			"text": "HAB",
-			"displayText": "Austria (clause)",
-			"description": ""
-		},
-		{
-			"text": "HAI",
-			"displayText": "Hainaut (clause)",
-			"description": ""
-		},
-		{
-			"text": "HAM",
-			"displayText": "Hamburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "HAN",
-			"displayText": "Hanover (clause)",
-			"description": ""
-		},
-		{
-			"text": "HAU",
-			"displayText": "Hausa (clause)",
-			"description": ""
-		},
-		{
-			"text": "HED",
-			"displayText": "Hejaz (clause)",
-			"description": ""
-		},
-		{
-			"text": "HES",
-			"displayText": "Hesse (clause)",
-			"description": ""
-		},
-		{
-			"text": "HOL",
-			"displayText": "Holland (clause)",
-			"description": ""
-		},
-		{
-			"text": "HUN",
-			"displayText": "Hungary (clause)",
-			"description": ""
-		},
-		{
-			"text": "HUR",
-			"displayText": "Huron (clause)",
-			"description": ""
-		},
-		{
-			"text": "INC",
-			"displayText": "Inca (clause)",
-			"description": ""
-		},
-		{
-			"text": "IRE",
-			"displayText": "Ireland (clause)",
-			"description": ""
-		},
-		{
-			"text": "IRO",
-			"displayText": "Iroquois (clause)",
-			"description": ""
-		},
-		{
-			"text": "ITA",
-			"displayText": "Italy (clause)",
-			"description": ""
-		},
-		{
-			"text": "JAP",
-			"displayText": "Japan (clause)",
-			"description": ""
-		},
-		{
-			"text": "KAR",
-			"displayText": "Karaman (clause)",
-			"description": ""
-		},
-		{
-			"text": "KAZ",
-			"displayText": "Kazan (clause)",
-			"description": ""
-		},
-		{
-			"text": "KBO",
-			"displayText": "Kanem Bornu (clause)",
-			"description": ""
-		},
-		{
-			"text": "KHA",
-			"displayText": "Mongolia (clause)",
-			"description": ""
-		},
-		{
-			"text": "KHD",
-			"displayText": "Khandesh (clause)",
-			"description": ""
-		},
-		{
-			"text": "KHI",
-			"displayText": "Khiva (clause)",
-			"description": ""
-		},
-		{
-			"text": "KHM",
-			"displayText": "Khmer (clause)",
-			"description": ""
-		},
-		{
-			"text": "KLE",
-			"displayText": "Cleves (clause)",
-			"description": ""
-		},
-		{
-			"text": "KNI",
-			"displayText": "The Knights (clause)",
-			"description": ""
-		},
-		{
-			"text": "KOK",
-			"displayText": "Ferghana (clause)",
-			"description": ""
-		},
-		{
-			"text": "KOL",
-			"displayText": "Cologne (clause)",
-			"description": ""
-		},
-		{
-			"text": "KON",
-			"displayText": "Kongo (clause)",
-			"description": ""
-		},
-		{
-			"text": "KOR",
-			"displayText": "Korea (clause)",
-			"description": ""
-		},
-		{
-			"text": "KRK",
-			"displayText": "Carnatic (clause)",
-			"description": ""
-		},
-		{
-			"text": "KSH",
-			"displayText": "Kashmir (clause)",
-			"description": ""
-		},
-		{
-			"text": "KUR",
-			"displayText": "Kurland (clause)",
-			"description": ""
-		},
-		{
-			"text": "KZH",
-			"displayText": "Kazakh (clause)",
-			"description": ""
-		},
-		{
-			"text": "LAN",
-			"displayText": "Florence (clause)",
-			"description": ""
-		},
-		{
-			"text": "LAP",
-			"displayText": "La Plata (clause)",
-			"description": ""
-		},
-		{
-			"text": "LEI",
-			"displayText": "Leinster (clause)",
-			"description": ""
-		},
-		{
-			"text": "LIE",
-			"displayText": "Liege (clause)",
-			"description": ""
-		},
-		{
-			"text": "LIT",
-			"displayText": "Lithuania (clause)",
-			"description": ""
-		},
-		{
-			"text": "LNA",
-			"displayText": "Lan Na (clause)",
-			"description": ""
-		},
-		{
-			"text": "LOA",
-			"displayText": "Loango (clause)",
-			"description": ""
-		},
-		{
-			"text": "LOR",
-			"displayText": "Lorraine (clause)",
-			"description": ""
-		},
-		{
-			"text": "LOU",
-			"displayText": "Louisiana (clause)",
-			"description": ""
-		},
-		{
-			"text": "LUA",
-			"displayText": "Luang Prabang (clause)",
-			"description": ""
-		},
-		{
-			"text": "LUN",
-			"displayText": "Luneburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "LUX",
-			"displayText": "Luxembourg (clause)",
-			"description": ""
-		},
-		{
-			"text": "LXA",
-			"displayText": "Lan Xang (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAD",
-			"displayText": "Madurai (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAG",
-			"displayText": "Magdeburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAI",
-			"displayText": "Mainz (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAL",
-			"displayText": "Mali (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAM",
-			"displayText": "Mamluks (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAN",
-			"displayText": "Mantua (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAY",
-			"displayText": "Maya (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAZ",
-			"displayText": "Mazovia (clause)",
-			"description": ""
-		},
-		{
-			"text": "MCH",
-			"displayText": "Manchu (clause)",
-			"description": ""
-		},
-		{
-			"text": "MEX",
-			"displayText": "Mexico (clause)",
-			"description": ""
-		},
-		{
-			"text": "MKL",
-			"displayText": "Mecklenburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "MKS",
-			"displayText": "Makassar (clause)",
-			"description": ""
-		},
-		{
-			"text": "MLC",
-			"displayText": "Malacca (clause)",
-			"description": ""
-		},
-		{
-			"text": "MLO",
-			"displayText": "Milan (clause)",
-			"description": ""
-		},
-		{
-			"text": "MLW",
-			"displayText": "Malwa (clause)",
-			"description": ""
-		},
-		{
-			"text": "MNG",
-			"displayText": "Ming (clause)",
-			"description": ""
-		},
-		{
-			"text": "MNS",
-			"displayText": "Thomond (clause)",
-			"description": ""
-		},
-		{
-			"text": "MOD",
-			"displayText": "Modena (clause)",
-			"description": ""
-		},
-		{
-			"text": "MOE",
-			"displayText": "Morea (clause)",
-			"description": ""
-		},
-		{
-			"text": "MOL",
-			"displayText": "Moldavia (clause)",
-			"description": ""
-		},
-		{
-			"text": "MON",
-			"displayText": "Montenegro (clause)",
-			"description": ""
-		},
-		{
-			"text": "MOR",
-			"displayText": "Morocco (clause)",
-			"description": ""
-		},
-		{
-			"text": "MOS",
-			"displayText": "Muscovy (clause)",
-			"description": ""
-		},
-		{
-			"text": "MTR",
-			"displayText": "Mataram (clause)",
-			"description": ""
-		},
-		{
-			"text": "MUG",
-			"displayText": "Mughals (clause)",
-			"description": ""
-		},
-		{
-			"text": "MUN",
-			"displayText": "Munster (clause)",
-			"description": ""
-		},
-		{
-			"text": "MYS",
-			"displayText": "Mysore (clause)",
-			"description": ""
-		},
-		{
-			"text": "NAJ",
-			"displayText": "Najd (clause)",
-			"description": ""
-		},
-		{
-			"text": "NAV",
-			"displayText": "Navarra (clause)",
-			"description": ""
-		},
-		{
-			"text": "NAX",
-			"displayText": "Naxos (clause)",
-			"description": ""
-		},
-		{
-			"text": "NED",
-			"displayText": "Netherlands (clause)",
-			"description": ""
-		},
-		{
-			"text": "NEV",
-			"displayText": "Nevers (clause)",
-			"description": ""
-		},
-		{
-			"text": "NOG",
-			"displayText": "Nogai (clause)",
-			"description": ""
-		},
-		{
-			"text": "NOL",
-			"displayText": "Northumberland (clause)",
-			"description": ""
-		},
-		{
-			"text": "NOR",
-			"displayText": "Norway (clause)",
-			"description": ""
-		},
-		{
-			"text": "NOV",
-			"displayText": "Novgorod (clause)",
-			"description": ""
-		},
-		{
-			"text": "NPL",
-			"displayText": "Nepal (clause)",
-			"description": ""
-		},
-		{
-			"text": "NRM",
-			"displayText": "Normandy (clause)",
-			"description": ""
-		},
-		{
-			"text": "NUB",
-			"displayText": "Funj (clause)",
-			"description": ""
-		},
-		{
-			"text": "ODH",
-			"displayText": "Oudh (clause)",
-			"description": ""
-		},
-		{
-			"text": "OIR",
-			"displayText": "Oirat (clause)",
-			"description": ""
-		},
-		{
-			"text": "OLD",
-			"displayText": "Oldenburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "OMA",
-			"displayText": "Oman (clause)",
-			"description": ""
-		},
-		{
-			"text": "ORI",
-			"displayText": "Orissa (clause)",
-			"description": ""
-		},
-		{
-			"text": "ORL",
-			"displayText": "Orleans (clause)",
-			"description": ""
-		},
-		{
-			"text": "OYO",
-			"displayText": "Oyo (clause)",
-			"description": ""
-		},
-		{
-			"text": "PAL",
-			"displayText": "The Palatinate (clause)",
-			"description": ""
-		},
-		{
-			"text": "PAP",
-			"displayText": "The Papal State (clause)",
-			"description": ""
-		},
-		{
-			"text": "PAR",
-			"displayText": "Parma (clause)",
-			"description": ""
-		},
-		{
-			"text": "PAT",
-			"displayText": "Pattani (clause)",
-			"description": ""
-		},
-		{
-			"text": "PEG",
-			"displayText": "Pegu (clause)",
-			"description": ""
-		},
-		{
-			"text": "PER",
-			"displayText": "Persia (clause)",
-			"description": ""
-		},
-		{
-			"text": "PEU",
-			"displayText": "Peru (clause)",
-			"description": ""
-		},
-		{
-			"text": "PIC",
-			"displayText": "Picardy (clause)",
-			"description": ""
-		},
-		{
-			"text": "PIS",
-			"displayText": "Pisa (clause)",
-			"description": ""
-		},
-		{
-			"text": "POL",
-			"displayText": "Poland (clause)",
-			"description": ""
-		},
-		{
-			"text": "POM",
-			"displayText": "Pomerania (clause)",
-			"description": ""
-		},
-		{
-			"text": "POR",
-			"displayText": "Portugal (clause)",
-			"description": ""
-		},
-		{
-			"text": "PRO",
-			"displayText": "Provence (clause)",
-			"description": ""
-		},
-		{
-			"text": "PRU",
-			"displayText": "Prussia (clause)",
-			"description": ""
-		},
-		{
-			"text": "PSK",
-			"displayText": "Pskov (clause)",
-			"description": ""
-		},
-		{
-			"text": "PUN",
-			"displayText": "Punjab (clause)",
-			"description": ""
-		},
-		{
-			"text": "QAR",
-			"displayText": "Qara Qoyunlu (clause)",
-			"description": ""
-		},
-		{
-			"text": "QAS",
-			"displayText": "Qasim (clause)",
-			"description": ""
-		},
-		{
-			"text": "QUE",
-			"displayText": "Quebec (clause)",
-			"description": ""
-		},
-		{
-			"text": "RAG",
-			"displayText": "Ragusa (clause)",
-			"description": ""
-		},
-		{
-			"text": "REB",
-			"displayText": "Rebels (clause)",
-			"description": ""
-		},
-		{
-			"text": "RIG",
-			"displayText": "Riga (clause)",
-			"description": ""
-		},
-		{
-			"text": "RUS",
-			"displayText": "Russia (clause)",
-			"description": ""
-		},
-		{
-			"text": "RYA",
-			"displayText": "Ryazan (clause)",
-			"description": ""
-		},
-		{
-			"text": "RYU",
-			"displayText": "Ryukyu (clause)",
-			"description": ""
-		},
-		{
-			"text": "SAR",
-			"displayText": "Sardinia (clause)",
-			"description": ""
-		},
-		{
-			"text": "SAV",
-			"displayText": "Savoy (clause)",
-			"description": ""
-		},
-		{
-			"text": "SAX",
-			"displayText": "Saxony (clause)",
-			"description": ""
-		},
-		{
-			"text": "SCO",
-			"displayText": "Scotland (clause)",
-			"description": ""
-		},
-		{
-			"text": "SER",
-			"displayText": "Serbia (clause)",
-			"description": ""
-		},
-		{
-			"text": "SHA",
-			"displayText": "Shawnee (clause)",
-			"description": ""
-		},
-		{
-			"text": "SHL",
-			"displayText": "Holstein (clause)",
-			"description": ""
-		},
-		{
-			"text": "SHR",
-			"displayText": "Sharjah (clause)",
-			"description": ""
-		},
-		{
-			"text": "SHY",
-			"displayText": "Uzbek (clause)",
-			"description": ""
-		},
-		{
-			"text": "SIB",
-			"displayText": "Sibir (clause)",
-			"description": ""
-		},
-		{
-			"text": "SIC",
-			"displayText": "Sicily (clause)",
-			"description": ""
-		},
-		{
-			"text": "SIE",
-			"displayText": "Siena (clause)",
-			"description": ""
-		},
-		{
-			"text": "SIL",
-			"displayText": "Silesia (clause)",
-			"description": ""
-		},
-		{
-			"text": "SLZ",
-			"displayText": "Salzburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "SND",
-			"displayText": "Sindh (clause)",
-			"description": ""
-		},
-		{
-			"text": "SOF",
-			"displayText": "Segu (clause)",
-			"description": ""
-		},
-		{
-			"text": "SON",
-			"displayText": "Songhai (clause)",
-			"description": ""
-		},
-		{
-			"text": "SPA",
-			"displayText": "Spain (clause)",
-			"description": ""
-		},
-		{
-			"text": "SST",
-			"displayText": "Shan (clause)",
-			"description": ""
-		},
-		{
-			"text": "STY",
-			"displayText": "Styria (clause)",
-			"description": ""
-		},
-		{
-			"text": "SUL",
-			"displayText": "Sulu (clause)",
-			"description": ""
-		},
-		{
-			"text": "SWE",
-			"displayText": "Sweden (clause)",
-			"description": ""
-		},
-		{
-			"text": "SWI",
-			"displayText": "Switzerland (clause)",
-			"description": ""
-		},
-		{
-			"text": "TAU",
-			"displayText": "Taungu (clause)",
-			"description": ""
-		},
-		{
-			"text": "TEU",
-			"displayText": "Teutonic Order (clause)",
-			"description": ""
-		},
-		{
-			"text": "THU",
-			"displayText": "Thuringia (clause)",
-			"description": ""
-		},
-		{
-			"text": "TIB",
-			"displayText": "Tibet (clause)",
-			"description": ""
-		},
-		{
-			"text": "TIM",
-			"displayText": "Timurids (clause)",
-			"description": ""
-		},
-		{
-			"text": "TIR",
-			"displayText": "Tirol (clause)",
-			"description": ""
-		},
-		{
-			"text": "TOK",
-			"displayText": "Tonkin (clause)",
-			"description": ""
-		},
-		{
-			"text": "TOU",
-			"displayText": "Toulouse (clause)",
-			"description": ""
-		},
-		{
-			"text": "TRA",
-			"displayText": "Transylvania (clause)",
-			"description": ""
-		},
-		{
-			"text": "TRE",
-			"displayText": "Trebizond (clause)",
-			"description": ""
-		},
-		{
-			"text": "TRI",
-			"displayText": "Trier (clause)",
-			"description": ""
-		},
-		{
-			"text": "TRP",
-			"displayText": "Tripoli (clause)",
-			"description": ""
-		},
-		{
-			"text": "TUN",
-			"displayText": "Tunis (clause)",
-			"description": ""
-		},
-		{
-			"text": "TUR",
-			"displayText": "Ottomans (clause)",
-			"description": ""
-		},
-		{
-			"text": "TUS",
-			"displayText": "Tuscany (clause)",
-			"description": ""
-		},
-		{
-			"text": "TVE",
-			"displayText": "Tver (clause)",
-			"description": ""
-		},
-		{
-			"text": "TYR",
-			"displayText": "Tyrone (clause)",
-			"description": ""
-		},
-		{
-			"text": "UKR",
-			"displayText": "Ruthenia (clause)",
-			"description": ""
-		},
-		{
-			"text": "URB",
-			"displayText": "Urbino (clause)",
-			"description": ""
-		},
-		{
-			"text": "USA",
-			"displayText": "United States (clause)",
-			"description": ""
-		},
-		{
-			"text": "UTR",
-			"displayText": "Utrecht (clause)",
-			"description": ""
-		},
-		{
-			"text": "WAL",
-			"displayText": "Wallachia (clause)",
-			"description": ""
-		},
-		{
-			"text": "WBG",
-			"displayText": "Wurzburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "VEN",
-			"displayText": "Venice (clause)",
-			"description": ""
-		},
-		{
-			"text": "VIE",
-			"displayText": "Vientiane (clause)",
-			"description": ""
-		},
-		{
-			"text": "VIJ",
-			"displayText": "Vijayanagar (clause)",
-			"description": ""
-		},
-		{
-			"text": "WLS",
-			"displayText": "Wales (clause)",
-			"description": ""
-		},
-		{
-			"text": "WUR",
-			"displayText": "Wurttemberg (clause)",
-			"description": ""
-		},
-		{
-			"text": "YAR",
-			"displayText": "Yaroslavl (clause)",
-			"description": ""
-		},
-		{
-			"text": "YOR",
-			"displayText": "Andhra (clause)",
-			"description": ""
-		},
-		{
-			"text": "ZAP",
-			"displayText": "Zapotec (clause)",
-			"description": ""
-		},
-		{
-			"text": "ZAZ",
-			"displayText": "Zaporozhie (clause)",
-			"description": ""
-		},
-		{
-			"text": "ZIM",
-			"displayText": "Mutapa (clause)",
-			"description": ""
-		},
-		{
-			"text": "NAT",
-			"displayText": "Natives (clause)",
-			"description": ""
-		},
-		{
-			"text": "PIR",
-			"displayText": "Pirates (clause)",
-			"description": ""
-		},
-		{
-			"text": "AMA",
-			"displayText": "Amago (clause)",
-			"description": ""
-		},
-		{
-			"text": "ASA",
-			"displayText": "Asakura (clause)",
-			"description": ""
-		},
-		{
-			"text": "CSK",
-			"displayText": "Chosokabe (clause)",
-			"description": ""
-		},
-		{
-			"text": "DTE",
-			"displayText": "Date (clause)",
-			"description": ""
-		},
-		{
-			"text": "HJO",
-			"displayText": "Hojo (clause)",
-			"description": ""
-		},
-		{
-			"text": "HSK",
-			"displayText": "Hosokawa (clause)",
-			"description": ""
-		},
-		{
-			"text": "HTK",
-			"displayText": "Hatakeyama (clause)",
-			"description": ""
-		},
-		{
-			"text": "IKE",
-			"displayText": "Ikeda (clause)",
-			"description": ""
-		},
-		{
-			"text": "IMG",
-			"displayText": "Imagawa (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAE",
-			"displayText": "Maeda (clause)",
-			"description": ""
-		},
-		{
-			"text": "MRI",
-			"displayText": "Mori (clause)",
-			"description": ""
-		},
-		{
-			"text": "ODA",
-			"displayText": "Oda (clause)",
-			"description": ""
-		},
-		{
-			"text": "OTM",
-			"displayText": "Otomo (clause)",
-			"description": ""
-		},
-		{
-			"text": "OUC",
-			"displayText": "Ouchi (clause)",
-			"description": ""
-		},
-		{
-			"text": "SBA",
-			"displayText": "Shiba (clause)",
-			"description": ""
-		},
-		{
-			"text": "SMZ",
-			"displayText": "Shimazu (clause)",
-			"description": ""
-		},
-		{
-			"text": "TKD",
-			"displayText": "Takeda (clause)",
-			"description": ""
-		},
-		{
-			"text": "TKG",
-			"displayText": "Tokugawa (clause)",
-			"description": ""
-		},
-		{
-			"text": "UES",
-			"displayText": "Uesugi (clause)",
-			"description": ""
-		},
-		{
-			"text": "YMN",
-			"displayText": "Yamana (clause)",
-			"description": ""
-		},
-		{
-			"text": "JNP",
-			"displayText": "Jaunpur (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAW",
-			"displayText": "Marwar (clause)",
-			"description": ""
-		},
-		{
-			"text": "MER",
-			"displayText": "Mewar (clause)",
-			"description": ""
-		},
-		{
-			"text": "MUL",
-			"displayText": "Multan (clause)",
-			"description": ""
-		},
-		{
-			"text": "JAN",
-			"displayText": "Jangladesh (clause)",
-			"description": ""
-		},
-		{
-			"text": "GRJ",
-			"displayText": "Garjat (clause)",
-			"description": ""
-		},
-		{
-			"text": "GWA",
-			"displayText": "Gwalior (clause)",
-			"description": ""
-		},
-		{
-			"text": "DHU",
-			"displayText": "Dhundhar (clause)",
-			"description": ""
-		},
-		{
-			"text": "KLN",
-			"displayText": "Keladi (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAB",
-			"displayText": "Calicut (clause)",
-			"description": ""
-		},
-		{
-			"text": "MEW",
-			"displayText": "Mewat (clause)",
-			"description": ""
-		},
-		{
-			"text": "BST",
-			"displayText": "Bastar (clause)",
-			"description": ""
-		},
-		{
-			"text": "JSL",
-			"displayText": "Jaisalmer (clause)",
-			"description": ""
-		},
-		{
-			"text": "KAC",
-			"displayText": "Kachar (clause)",
-			"description": ""
-		},
-		{
-			"text": "KMT",
-			"displayText": "Koch (clause)",
-			"description": ""
-		},
-		{
-			"text": "KGR",
-			"displayText": "Kangra (clause)",
-			"description": ""
-		},
-		{
-			"text": "KAT",
-			"displayText": "Kutch (clause)",
-			"description": ""
-		},
-		{
-			"text": "KOC",
-			"displayText": "Kochin (clause)",
-			"description": ""
-		},
-		{
-			"text": "AHM",
-			"displayText": "Ahmednagar (clause)",
-			"description": ""
-		},
-		{
-			"text": "BAH",
-			"displayText": "Bahmanis (clause)",
-			"description": ""
-		},
-		{
-			"text": "NAG",
-			"displayText": "Nagpur (clause)",
-			"description": ""
-		},
-		{
-			"text": "BDA",
-			"displayText": "Baroda (clause)",
-			"description": ""
-		},
-		{
-			"text": "GOC",
-			"displayText": "Golkonda (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAR",
-			"displayText": "Marathas (clause)",
-			"description": ""
-		},
-		{
-			"text": "VND",
-			"displayText": "Venad (clause)",
-			"description": ""
-		},
-		{
-			"text": "DEC",
-			"displayText": "Deccan (clause)",
-			"description": ""
-		},
-		{
-			"text": "CZH",
-			"displayText": "Zhou (clause)",
-			"description": ""
-		},
-		{
-			"text": "CSH",
-			"displayText": "Shun (clause)",
-			"description": ""
-		},
-		{
-			"text": "CXI",
-			"displayText": "Xi (clause)",
-			"description": ""
-		},
-		{
-			"text": "JOL",
-			"displayText": "Jolof (clause)",
-			"description": ""
-		},
-		{
-			"text": "PLC",
-			"displayText": "Commonwealth (clause)",
-			"description": ""
-		},
-		{
-			"text": "PRM",
-			"displayText": "Perm (clause)",
-			"description": ""
-		},
-		{
-			"text": "CEY",
-			"displayText": "Kotte (clause)",
-			"description": ""
-		},
-		{
-			"text": "AFG",
-			"displayText": "Afghanistan (clause)",
-			"description": ""
-		},
-		{
-			"text": "QNG",
-			"displayText": "Qing (clause)",
-			"description": ""
-		},
-		{
-			"text": "ABE",
-			"displayText": "Abenaki (clause)",
-			"description": ""
-		},
-		{
-			"text": "APA",
-			"displayText": "Apache (clause)",
-			"description": ""
-		},
-		{
-			"text": "ASI",
-			"displayText": "Assiniboine (clause)",
-			"description": ""
-		},
-		{
-			"text": "BLA",
-			"displayText": "Blackfoot (clause)",
-			"description": ""
-		},
-		{
-			"text": "CAD",
-			"displayText": "Caddo (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHI",
-			"displayText": "Chickasaw (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHO",
-			"displayText": "Choctaw (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHY",
-			"displayText": "Cheyenne (clause)",
-			"description": ""
-		},
-		{
-			"text": "COM",
-			"displayText": "Comanche (clause)",
-			"description": ""
-		},
-		{
-			"text": "FOX",
-			"displayText": "Fox (clause)",
-			"description": ""
-		},
-		{
-			"text": "ILL",
-			"displayText": "Illiniwek (clause)",
-			"description": ""
-		},
-		{
-			"text": "LEN",
-			"displayText": "Lenape (clause)",
-			"description": ""
-		},
-		{
-			"text": "MIK",
-			"displayText": "Mikmaq (clause)",
-			"description": ""
-		},
-		{
-			"text": "MMI",
-			"displayText": "Miami (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAH",
-			"displayText": "Mahican (clause)",
-			"description": ""
-		},
-		{
-			"text": "NAH",
-			"displayText": "Navajo (clause)",
-			"description": ""
-		},
-		{
-			"text": "OJI",
-			"displayText": "Ojibwe (clause)",
-			"description": ""
-		},
-		{
-			"text": "OSA",
-			"displayText": "Osage (clause)",
-			"description": ""
-		},
-		{
-			"text": "OTT",
-			"displayText": "Ottawa (clause)",
-			"description": ""
-		},
-		{
-			"text": "PAW",
-			"displayText": "Pawnee (clause)",
-			"description": ""
-		},
-		{
-			"text": "PEQ",
-			"displayText": "Pequot (clause)",
-			"description": ""
-		},
-		{
-			"text": "PIM",
-			"displayText": "Pima (clause)",
-			"description": ""
-		},
-		{
-			"text": "POT",
-			"displayText": "Potawatomi (clause)",
-			"description": ""
-		},
-		{
-			"text": "POW",
-			"displayText": "Powhatan (clause)",
-			"description": ""
-		},
-		{
-			"text": "PUE",
-			"displayText": "Pueblo (clause)",
-			"description": ""
-		},
-		{
-			"text": "SIO",
-			"displayText": "Sioux (clause)",
-			"description": ""
-		},
-		{
-			"text": "SHO",
-			"displayText": "Shoshone (clause)",
-			"description": ""
-		},
-		{
-			"text": "SUS",
-			"displayText": "Susquehannock (clause)",
-			"description": ""
-		},
-		{
-			"text": "WCR",
-			"displayText": "Cree (clause)",
-			"description": ""
-		},
-		{
-			"text": "ZAN",
-			"displayText": "Kilwa (clause)",
-			"description": ""
-		},
-		{
-			"text": "AJU",
-			"displayText": "Ajuuraan (clause)",
-			"description": ""
-		},
-		{
-			"text": "MBA",
-			"displayText": "Mombasa (clause)",
-			"description": ""
-		},
-		{
-			"text": "MDI",
-			"displayText": "Mogadishu (clause)",
-			"description": ""
-		},
-		{
-			"text": "MLI",
-			"displayText": "Malindi (clause)",
-			"description": ""
-		},
-		{
-			"text": "SFA",
-			"displayText": "Sofala (clause)",
-			"description": ""
-		},
-		{
-			"text": "EGY",
-			"displayText": "Egypt (clause)",
-			"description": ""
-		},
-		{
-			"text": "BUK",
-			"displayText": "Bukhara (clause)",
-			"description": ""
-		},
-		{
-			"text": "BGA",
-			"displayText": "Baglana (clause)",
-			"description": ""
-		},
-		{
-			"text": "BGL",
-			"displayText": "Baghelkhand (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHD",
-			"displayText": "Chanda (clause)",
-			"description": ""
-		},
-		{
-			"text": "CMP",
-			"displayText": "Rewa Kantha (clause)",
-			"description": ""
-		},
-		{
-			"text": "GHR",
-			"displayText": "Garhwal (clause)",
-			"description": ""
-		},
-		{
-			"text": "HAD",
-			"displayText": "Hadoti (clause)",
-			"description": ""
-		},
-		{
-			"text": "JAJ",
-			"displayText": "Habsan (clause)",
-			"description": ""
-		},
-		{
-			"text": "JFN",
-			"displayText": "Jaffna (clause)",
-			"description": ""
-		},
-		{
-			"text": "LDK",
-			"displayText": "Ladakh (clause)",
-			"description": ""
-		},
-		{
-			"text": "MLB",
-			"displayText": "Manipur (clause)",
-			"description": ""
-		},
-		{
-			"text": "NGA",
-			"displayText": "Nagaur (clause)",
-			"description": ""
-		},
-		{
-			"text": "NGP",
-			"displayText": "Jharkhand (clause)",
-			"description": ""
-		},
-		{
-			"text": "PTA",
-			"displayText": "Patiala (clause)",
-			"description": ""
-		},
-		{
-			"text": "RMP",
-			"displayText": "Rohilkhand (clause)",
-			"description": ""
-		},
-		{
-			"text": "SDY",
-			"displayText": "Sadiya (clause)",
-			"description": ""
-		},
-		{
-			"text": "TPR",
-			"displayText": "Tripura (clause)",
-			"description": ""
-		},
-		{
-			"text": "TRT",
-			"displayText": "Tirhut (clause)",
-			"description": ""
-		},
-		{
-			"text": "CIR",
-			"displayText": "Circassia (clause)",
-			"description": ""
-		},
-		{
-			"text": "GAZ",
-			"displayText": "Gazikumukh (clause)",
-			"description": ""
-		},
-		{
-			"text": "IME",
-			"displayText": "Imereti (clause)",
-			"description": ""
-		},
-		{
-			"text": "TAB",
-			"displayText": "Mazandaran (clause)",
-			"description": ""
-		},
-		{
-			"text": "MYR",
-			"displayText": "Yeren (clause)",
-			"description": ""
-		},
-		{
-			"text": "MHX",
-			"displayText": "Haixi (clause)",
-			"description": ""
-		},
-		{
-			"text": "KRC",
-			"displayText": "Korchin (clause)",
-			"description": ""
-		},
-		{
-			"text": "KLK",
-			"displayText": "Khalkha (clause)",
-			"description": ""
-		},
-		{
-			"text": "DGL",
-			"displayText": "Maldives (clause)",
-			"description": ""
-		},
-		{
-			"text": "HMI",
-			"displayText": "Kara Del (clause)",
-			"description": ""
-		},
-		{
-			"text": "ZUN",
-			"displayText": "Zunghar (clause)",
-			"description": ""
-		},
-		{
-			"text": "KAS",
-			"displayText": "Yarkand (clause)",
-			"description": ""
-		},
-		{
-			"text": "KSD",
-			"displayText": "Khoshuud (clause)",
-			"description": ""
-		},
-		{
-			"text": "SYG",
-			"displayText": "Sarig Yogir (clause)",
-			"description": ""
-		},
-		{
-			"text": "UTS",
-			"displayText": "Tsang (clause)",
-			"description": ""
-		},
-		{
-			"text": "KAM",
-			"displayText": "Kham (clause)",
-			"description": ""
-		},
-		{
-			"text": "GUG",
-			"displayText": "Guge (clause)",
-			"description": ""
-		},
-		{
-			"text": "TMB",
-			"displayText": "Timbuktu (clause)",
-			"description": ""
-		},
-		{
-			"text": "AIR",
-			"displayText": "Air (clause)",
-			"description": ""
-		},
-		{
-			"text": "MSI",
-			"displayText": "Mossi (clause)",
-			"description": ""
-		},
-		{
-			"text": "KTS",
-			"displayText": "Katsina (clause)",
-			"description": ""
-		},
-		{
-			"text": "KAN",
-			"displayText": "Kano (clause)",
-			"description": ""
-		},
-		{
-			"text": "FUL",
-			"displayText": "Fulo (clause)",
-			"description": ""
-		},
-		{
-			"text": "BON",
-			"displayText": "Bonoman (clause)",
-			"description": ""
-		},
-		{
-			"text": "DAH",
-			"displayText": "Dahomey (clause)",
-			"description": ""
-		},
-		{
-			"text": "DGB",
-			"displayText": "Dagbon (clause)",
-			"description": ""
-		},
-		{
-			"text": "JNN",
-			"displayText": "Jenne (clause)",
-			"description": ""
-		},
-		{
-			"text": "KBU",
-			"displayText": "Kaabu (clause)",
-			"description": ""
-		},
-		{
-			"text": "KNG",
-			"displayText": "Kong (clause)",
-			"description": ""
-		},
-		{
-			"text": "NUP",
-			"displayText": "Nupe (clause)",
-			"description": ""
-		},
-		{
-			"text": "YAO",
-			"displayText": "Yao (clause)",
-			"description": ""
-		},
-		{
-			"text": "YAT",
-			"displayText": "Yatenga (clause)",
-			"description": ""
-		},
-		{
-			"text": "ZAF",
-			"displayText": "Macina (clause)",
-			"description": ""
-		},
-		{
-			"text": "ZZZ",
-			"displayText": "Zazzau (clause)",
-			"description": ""
-		},
-		{
-			"text": "ARD",
-			"displayText": "Ardalan (clause)",
-			"description": ""
-		},
-		{
-			"text": "BHT",
-			"displayText": "Soran (clause)",
-			"description": ""
-		},
-		{
-			"text": "ERE",
-			"displayText": "Eretna (clause)",
-			"description": ""
-		},
-		{
-			"text": "LEB",
-			"displayText": "Lebanon (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAK",
-			"displayText": "Makuria (clause)",
-			"description": ""
-		},
-		{
-			"text": "SHM",
-			"displayText": "Shammar (clause)",
-			"description": ""
-		},
-		{
-			"text": "ARB",
-			"displayText": "Arabia (clause)",
-			"description": ""
-		},
-		{
-			"text": "GRM",
-			"displayText": "Germiyan (clause)",
-			"description": ""
-		},
-		{
-			"text": "MPH",
-			"displayText": "Muan Phuang (clause)",
-			"description": ""
-		},
-		{
-			"text": "LIG",
-			"displayText": "Ligor (clause)",
-			"description": ""
-		},
-		{
-			"text": "JOH",
-			"displayText": "Johor (clause)",
-			"description": ""
-		},
-		{
-			"text": "KED",
-			"displayText": "Kedah (clause)",
-			"description": ""
-		},
-		{
-			"text": "PRK",
-			"displayText": "Perak (clause)",
-			"description": ""
-		},
-		{
-			"text": "HSE",
-			"displayText": "Hsenwi (clause)",
-			"description": ""
-		},
-		{
-			"text": "MYA",
-			"displayText": "Mong Yang (clause)",
-			"description": ""
-		},
-		{
-			"text": "AVA",
-			"displayText": "Ava (clause)",
-			"description": ""
-		},
-		{
-			"text": "FEO",
-			"displayText": "Theodoro (clause)",
-			"description": ""
-		},
-		{
-			"text": "VOL",
-			"displayText": "Galicia-Volhynia (clause)",
-			"description": ""
-		},
-		{
-			"text": "KIE",
-			"displayText": "Kiev (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHR",
-			"displayText": "Chernigov (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHU",
-			"displayText": "Chukchi (clause)",
-			"description": ""
-		},
-		{
-			"text": "HOD",
-			"displayText": "Khodynt (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHV",
-			"displayText": "Chavchuveny (clause)",
-			"description": ""
-		},
-		{
-			"text": "KMC",
-			"displayText": "Kamchadals (clause)",
-			"description": ""
-		},
-		{
-			"text": "BRT",
-			"displayText": "Buryatia (clause)",
-			"description": ""
-		},
-		{
-			"text": "BSH",
-			"displayText": "Bashkiria (clause)",
-			"description": ""
-		},
-		{
-			"text": "TLC",
-			"displayText": "Tlemcen (clause)",
-			"description": ""
-		},
-		{
-			"text": "MZB",
-			"displayText": "Mzab (clause)",
-			"description": ""
-		},
-		{
-			"text": "TGT",
-			"displayText": "Touggourt (clause)",
-			"description": ""
-		},
-		{
-			"text": "GHD",
-			"displayText": "Djerid (clause)",
-			"description": ""
-		},
-		{
-			"text": "FZA",
-			"displayText": "Fezzan (clause)",
-			"description": ""
-		},
-		{
-			"text": "KBA",
-			"displayText": "Kabylia (clause)",
-			"description": ""
-		},
-		{
-			"text": "SOS",
-			"displayText": "Sus (clause)",
-			"description": ""
-		},
-		{
-			"text": "TFL",
-			"displayText": "Tafilalt (clause)",
-			"description": ""
-		},
-		{
-			"text": "ARP",
-			"displayText": "Arapaho (clause)",
-			"description": ""
-		},
-		{
-			"text": "CNK",
-			"displayText": "Chinook (clause)",
-			"description": ""
-		},
-		{
-			"text": "COC",
-			"displayText": "Cocomes (clause)",
-			"description": ""
-		},
-		{
-			"text": "XIU",
-			"displayText": "Xiu (clause)",
-			"description": ""
-		},
-		{
-			"text": "HDA",
-			"displayText": "Haida (clause)",
-			"description": ""
-		},
-		{
-			"text": "ITZ",
-			"displayText": "Itza (clause)",
-			"description": ""
-		},
-		{
-			"text": "KIC",
-			"displayText": "Kiche (clause)",
-			"description": ""
-		},
-		{
-			"text": "KIO",
-			"displayText": "Kiowa (clause)",
-			"description": ""
-		},
-		{
-			"text": "MIX",
-			"displayText": "Mixtec (clause)",
-			"description": ""
-		},
-		{
-			"text": "SAL",
-			"displayText": "Salish (clause)",
-			"description": ""
-		},
-		{
-			"text": "TAR",
-			"displayText": "Tarascan (clause)",
-			"description": ""
-		},
-		{
-			"text": "TLA",
-			"displayText": "Tlapanec (clause)",
-			"description": ""
-		},
-		{
-			"text": "TLX",
-			"displayText": "Tlaxcala (clause)",
-			"description": ""
-		},
-		{
-			"text": "TOT",
-			"displayText": "Totonac (clause)",
-			"description": ""
-		},
-		{
-			"text": "WIC",
-			"displayText": "Wichita (clause)",
-			"description": ""
-		},
-		{
-			"text": "CLM",
-			"displayText": "Colima (clause)",
-			"description": ""
-		},
-		{
-			"text": "BLM",
-			"displayText": "Blambangan (clause)",
-			"description": ""
-		},
-		{
-			"text": "CRB",
-			"displayText": "Cirebon (clause)",
-			"description": ""
-		},
-		{
-			"text": "DMK",
-			"displayText": "Demak (clause)",
-			"description": ""
-		},
-		{
-			"text": "PGR",
-			"displayText": "Pagarruyung (clause)",
-			"description": ""
-		},
-		{
-			"text": "PLB",
-			"displayText": "Palembang (clause)",
-			"description": ""
-		},
-		{
-			"text": "PSA",
-			"displayText": "Pasai (clause)",
-			"description": ""
-		},
-		{
-			"text": "SAK",
-			"displayText": "Siak (clause)",
-			"description": ""
-		},
-		{
-			"text": "SUN",
-			"displayText": "Sunda (clause)",
-			"description": ""
-		},
-		{
-			"text": "MJZ",
-			"displayText": "Jianzhou (clause)",
-			"description": ""
-		},
-		{
-			"text": "SRV",
-			"displayText": "Shirvan (clause)",
-			"description": ""
-		},
-		{
-			"text": "MIN",
-			"displayText": "Min (clause)",
-			"description": ""
-		},
-		{
-			"text": "YUE",
-			"displayText": "Yue (clause)",
-			"description": ""
-		},
-		{
-			"text": "SHU",
-			"displayText": "Shu (clause)",
-			"description": ""
-		},
-		{
-			"text": "NNG",
-			"displayText": "Ning (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHC",
-			"displayText": "Chu (clause)",
-			"description": ""
-		},
-		{
-			"text": "TNG",
-			"displayText": "Tang (clause)",
-			"description": ""
-		},
-		{
-			"text": "QIC",
-			"displayText": "Qi (clause)",
-			"description": ""
-		},
-		{
-			"text": "YAN",
-			"displayText": "Yan (clause)",
-			"description": ""
-		},
-		{
-			"text": "JIN",
-			"displayText": "Jin (clause)",
-			"description": ""
-		},
-		{
-			"text": "LNG",
-			"displayText": "Liang (clause)",
-			"description": ""
-		},
-		{
-			"text": "HUA",
-			"displayText": "Huai (clause)",
-			"description": ""
-		},
-		{
-			"text": "CGS",
-			"displayText": "Changsheng (clause)",
-			"description": ""
-		},
-		{
-			"text": "CAB",
-			"displayText": "Carib (clause)",
-			"description": ""
-		},
-		{
-			"text": "LON",
-			"displayText": "Leon (clause)",
-			"description": ""
-		},
-		{
-			"text": "ICM",
-			"displayText": "Ichma (clause)",
-			"description": ""
-		},
-		{
-			"text": "NUM",
-			"displayText": "Nuremberg (clause)",
-			"description": ""
-		},
-		{
-			"text": "AUS",
-			"displayText": "Australia (clause)",
-			"description": ""
-		},
-		{
-			"text": "BTI",
-			"displayText": "Semien (clause)",
-			"description": ""
-		},
-		{
-			"text": "MTH",
-			"displayText": "Meath (clause)",
-			"description": ""
-		},
-		{
-			"text": "ADU",
-			"displayText": "Andalusia (clause)",
-			"description": ""
-		},
-		{
-			"text": "MEM",
-			"displayText": "Memmingen (clause)",
-			"description": ""
-		},
-		{
-			"text": "VER",
-			"displayText": "Verden (clause)",
-			"description": ""
-		},
-		{
-			"text": "NSA",
-			"displayText": "Nassau (clause)",
-			"description": ""
-		},
-		{
-			"text": "RVA",
-			"displayText": "Ravensburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "MFA",
-			"displayText": "Montferrat (clause)",
-			"description": ""
-		},
-		{
-			"text": "LUC",
-			"displayText": "Lucca (clause)",
-			"description": ""
-		},
-		{
-			"text": "LVA",
-			"displayText": "Livonia (clause)",
-			"description": ""
-		},
-		{
-			"text": "EST",
-			"displayText": "Estonia (clause)",
-			"description": ""
-		},
-		{
-			"text": "SMI",
-			"displayText": "Sapmi (clause)",
-			"description": ""
-		},
-		{
-			"text": "ORM",
-			"displayText": "Hormuz (clause)",
-			"description": ""
-		},
-		{
-			"text": "KRL",
-			"displayText": "Karelia (clause)",
-			"description": ""
-		},
-		{
-			"text": "JAI",
-			"displayText": "Malta (clause)",
-			"description": ""
-		},
-		{
-			"text": "KUB",
-			"displayText": "Kuba (clause)",
-			"description": ""
-		},
-		{
-			"text": "KLD",
-			"displayText": "Kalundwe (clause)",
-			"description": ""
-		},
-		{
-			"text": "YAK",
-			"displayText": "Yaka (clause)",
-			"description": ""
-		},
-		{
-			"text": "KZB",
-			"displayText": "Kazembe (clause)",
-			"description": ""
-		},
-		{
-			"text": "KIK",
-			"displayText": "Kikondja (clause)",
-			"description": ""
-		},
-		{
-			"text": "CKW",
-			"displayText": "Chokwe (clause)",
-			"description": ""
-		},
-		{
-			"text": "LND",
-			"displayText": "Lunda (clause)",
-			"description": ""
-		},
-		{
-			"text": "LUB",
-			"displayText": "Luba (clause)",
-			"description": ""
-		},
-		{
-			"text": "KSJ",
-			"displayText": "Kasanje (clause)",
-			"description": ""
-		},
-		{
-			"text": "SYO",
-			"displayText": "Soyo (clause)",
-			"description": ""
-		},
-		{
-			"text": "TYO",
-			"displayText": "Tyo (clause)",
-			"description": ""
-		},
-		{
-			"text": "BSG",
-			"displayText": "Busoga (clause)",
-			"description": ""
-		},
-		{
-			"text": "BNY",
-			"displayText": "Bunyoro (clause)",
-			"description": ""
-		},
-		{
-			"text": "KRW",
-			"displayText": "Karagwe (clause)",
-			"description": ""
-		},
-		{
-			"text": "BUG",
-			"displayText": "Buganda (clause)",
-			"description": ""
-		},
-		{
-			"text": "RWA",
-			"displayText": "Rwanda (clause)",
-			"description": ""
-		},
-		{
-			"text": "NKO",
-			"displayText": "Nkore (clause)",
-			"description": ""
-		},
-		{
-			"text": "BUU",
-			"displayText": "Burundi (clause)",
-			"description": ""
-		},
-		{
-			"text": "UBH",
-			"displayText": "Buha (clause)",
-			"description": ""
-		},
-		{
-			"text": "MRA",
-			"displayText": "Maravi (clause)",
-			"description": ""
-		},
-		{
-			"text": "LDU",
-			"displayText": "Lundu (clause)",
-			"description": ""
-		},
-		{
-			"text": "TBK",
-			"displayText": "Tumbuka (clause)",
-			"description": ""
-		},
-		{
-			"text": "MKU",
-			"displayText": "Makua (clause)",
-			"description": ""
-		},
-		{
-			"text": "RZW",
-			"displayText": "Butua (clause)",
-			"description": ""
-		},
-		{
-			"text": "MIR",
-			"displayText": "Imerina (clause)",
-			"description": ""
-		},
-		{
-			"text": "ANT",
-			"displayText": "Antemoro (clause)",
-			"description": ""
-		},
-		{
-			"text": "SKA",
-			"displayText": "Sakalava (clause)",
-			"description": ""
-		},
-		{
-			"text": "MFY",
-			"displayText": "Mahafaly (clause)",
-			"description": ""
-		},
-		{
-			"text": "BTS",
-			"displayText": "Betsimisaraka (clause)",
-			"description": ""
-		},
-		{
-			"text": "ULS",
-			"displayText": "Ulster (clause)",
-			"description": ""
-		},
-		{
-			"text": "DMS",
-			"displayText": "Desmond (clause)",
-			"description": ""
-		},
-		{
-			"text": "ORD",
-			"displayText": "Ormond (clause)",
-			"description": ""
-		},
-		{
-			"text": "KID",
-			"displayText": "Kildare (clause)",
-			"description": ""
-		},
-		{
-			"text": "MCM",
-			"displayText": "Munster (clause)",
-			"description": ""
-		},
-		{
-			"text": "FLY",
-			"displayText": "Offaly (clause)",
-			"description": ""
-		},
-		{
-			"text": "TRY",
-			"displayText": "Tyrconnell (clause)",
-			"description": ""
-		},
-		{
-			"text": "SLN",
-			"displayText": "Sligo (clause)",
-			"description": ""
-		},
-		{
-			"text": "OKA",
-			"displayText": "Odoyev (clause)",
-			"description": ""
-		},
-		{
-			"text": "ICE",
-			"displayText": "Iceland (clause)",
-			"description": ""
-		},
-		{
-			"text": "SLO",
-			"displayText": "Nitra (clause)",
-			"description": ""
-		},
-		{
-			"text": "HSC",
-			"displayText": "Gaeldom (clause)",
-			"description": ""
-		},
-		{
-			"text": "ROM",
-			"displayText": "Roman Empire (clause)",
-			"description": ""
-		},
-		{
-			"text": "DTT",
-			"displayText": "Dithmarschen (clause)",
-			"description": ""
-		},
-		{
-			"text": "GLH",
-			"displayText": "Golden Horde (clause)",
-			"description": ""
-		},
-		{
-			"text": "BEJ",
-			"displayText": "Beja (clause)",
-			"description": ""
-		},
-		{
-			"text": "JIM",
-			"displayText": "Jimma (clause)",
-			"description": ""
-		},
-		{
-			"text": "WLY",
-			"displayText": "Welayta (clause)",
-			"description": ""
-		},
-		{
-			"text": "DAM",
-			"displayText": "Damot (clause)",
-			"description": ""
-		},
-		{
-			"text": "HDY",
-			"displayText": "Hadiya (clause)",
-			"description": ""
-		},
-		{
-			"text": "SOA",
-			"displayText": "Shewa (clause)",
-			"description": ""
-		},
-		{
-			"text": "JJI",
-			"displayText": "Janjiro (clause)",
-			"description": ""
-		},
-		{
-			"text": "ENA",
-			"displayText": "Ennarea (clause)",
-			"description": ""
-		},
-		{
-			"text": "ABB",
-			"displayText": "Dongola (clause)",
-			"description": ""
-		},
-		{
-			"text": "AKM",
-			"displayText": "Akamatsu (clause)",
-			"description": ""
-		},
-		{
-			"text": "AKT",
-			"displayText": "Ando (clause)",
-			"description": ""
-		},
-		{
-			"text": "CBA",
-			"displayText": "Chiba (clause)",
-			"description": ""
-		},
-		{
-			"text": "ISK",
-			"displayText": "Isshiki (clause)",
-			"description": ""
-		},
-		{
-			"text": "ITO",
-			"displayText": "Ito (clause)",
-			"description": ""
-		},
-		{
-			"text": "KKC",
-			"displayText": "Kikuchi (clause)",
-			"description": ""
-		},
-		{
-			"text": "KNO",
-			"displayText": "Kono (clause)",
-			"description": ""
-		},
-		{
-			"text": "OGS",
-			"displayText": "Ogasawara (clause)",
-			"description": ""
-		},
-		{
-			"text": "SHN",
-			"displayText": "Shoni (clause)",
-			"description": ""
-		},
-		{
-			"text": "STK",
-			"displayText": "Satake (clause)",
-			"description": ""
-		},
-		{
-			"text": "TKI",
-			"displayText": "Toki (clause)",
-			"description": ""
-		},
-		{
-			"text": "UTN",
-			"displayText": "Utsunomiya (clause)",
-			"description": ""
-		},
-		{
-			"text": "TTI",
-			"displayText": "Tsutsui (clause)",
-			"description": ""
-		},
-		{
-			"text": "ASK",
-			"displayText": "Ashikaga (clause)",
-			"description": ""
-		},
-		{
-			"text": "MVA",
-			"displayText": "Moravia (clause)",
-			"description": ""
-		},
-		{
-			"text": "YUA",
-			"displayText": "Yuan (clause)",
-			"description": ""
-		},
-		{
-			"text": "BLO",
-			"displayText": "Beloozero (clause)",
-			"description": ""
-		},
-		{
-			"text": "RSO",
-			"displayText": "Rostov (clause)",
-			"description": ""
-		},
-		{
-			"text": "MHR",
-			"displayText": "Mahra (clause)",
-			"description": ""
-		},
-		{
-			"text": "HDR",
-			"displayText": "Hadramut (clause)",
-			"description": ""
-		},
-		{
-			"text": "MDA",
-			"displayText": "Medina (clause)",
-			"description": ""
-		},
-		{
-			"text": "ANZ",
-			"displayText": "Anizah (clause)",
-			"description": ""
-		},
-		{
-			"text": "FAD",
-			"displayText": "Fadl (clause)",
-			"description": ""
-		},
-		{
-			"text": "YAS",
-			"displayText": "Yas (clause)",
-			"description": ""
-		},
-		{
-			"text": "RAS",
-			"displayText": "Rassids (clause)",
-			"description": ""
-		},
-		{
-			"text": "YEM",
-			"displayText": "Yemen (clause)",
-			"description": ""
-		},
-		{
-			"text": "DAW",
-			"displayText": "Dawasir (clause)",
-			"description": ""
-		},
-		{
-			"text": "MFL",
-			"displayText": "Mikhlaf (clause)",
-			"description": ""
-		},
-		{
-			"text": "NJR",
-			"displayText": "Najran (clause)",
-			"description": ""
-		},
-		{
-			"text": "HSN",
-			"displayText": "Hisn Kayfa (clause)",
-			"description": ""
-		},
-		{
-			"text": "BTL",
-			"displayText": "Bitlis (clause)",
-			"description": ""
-		},
-		{
-			"text": "AVR",
-			"displayText": "Avaria (clause)",
-			"description": ""
-		},
-		{
-			"text": "MLK",
-			"displayText": "Kharabakh (clause)",
-			"description": ""
-		},
-		{
-			"text": "SME",
-			"displayText": "Samtskhe (clause)",
-			"description": ""
-		},
-		{
-			"text": "ARL",
-			"displayText": "Ardabil (clause)",
-			"description": ""
-		},
-		{
-			"text": "MSY",
-			"displayText": "Mushasha (clause)",
-			"description": ""
-		},
-		{
-			"text": "RUM",
-			"displayText": "Rum (clause)",
-			"description": ""
-		},
-		{
-			"text": "KRY",
-			"displayText": "Gilan (clause)",
-			"description": ""
-		},
-		{
-			"text": "LRI",
-			"displayText": "Luristan (clause)",
-			"description": ""
-		},
-		{
-			"text": "SIS",
-			"displayText": "Sistan (clause)",
-			"description": ""
-		},
-		{
-			"text": "BPI",
-			"displayText": "Biapas (clause)",
-			"description": ""
-		},
-		{
-			"text": "FRS",
-			"displayText": "Fars (clause)",
-			"description": ""
-		},
-		{
-			"text": "KRM",
-			"displayText": "Kerman (clause)",
-			"description": ""
-		},
-		{
-			"text": "YZD",
-			"displayText": "Yazd (clause)",
-			"description": ""
-		},
-		{
-			"text": "ISF",
-			"displayText": "Isfahan (clause)",
-			"description": ""
-		},
-		{
-			"text": "TBR",
-			"displayText": "Tabriz (clause)",
-			"description": ""
-		},
-		{
-			"text": "BSR",
-			"displayText": "Basra (clause)",
-			"description": ""
-		},
-		{
-			"text": "MGR",
-			"displayText": "Maregheh (clause)",
-			"description": ""
-		},
-		{
-			"text": "QOM",
-			"displayText": "Ajam (clause)",
-			"description": ""
-		},
-		{
-			"text": "TRS",
-			"displayText": "Transoxiana (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAS",
-			"displayText": "Madyas (clause)",
-			"description": ""
-		},
-		{
-			"text": "PGS",
-			"displayText": "Pangasinan (clause)",
-			"description": ""
-		},
-		{
-			"text": "TDO",
-			"displayText": "Tondo (clause)",
-			"description": ""
-		},
-		{
-			"text": "MNA",
-			"displayText": "Maynila (clause)",
-			"description": ""
-		},
-		{
-			"text": "CEB",
-			"displayText": "Cebu (clause)",
-			"description": ""
-		},
-		{
-			"text": "BTU",
-			"displayText": "Butuan (clause)",
-			"description": ""
-		},
-		{
-			"text": "KTB",
-			"displayText": "Kitabatake (clause)",
-			"description": ""
-		},
-		{
-			"text": "KOI",
-			"displayText": "Mann (clause)",
-			"description": ""
-		},
-		{
-			"text": "LOI",
-			"displayText": "The Isles (clause)",
-			"description": ""
-		},
-		{
-			"text": "MMA",
-			"displayText": "Mong Mao (clause)",
-			"description": ""
-		},
-		{
-			"text": "MKA",
-			"displayText": "Mong Kawng (clause)",
-			"description": ""
-		},
-		{
-			"text": "MPA",
-			"displayText": "Mong Pai (clause)",
-			"description": ""
-		},
-		{
-			"text": "KAL",
-			"displayText": "Kale (clause)",
-			"description": ""
-		},
-		{
-			"text": "HSI",
-			"displayText": "Hsipaw (clause)",
-			"description": ""
-		},
-		{
-			"text": "BPR",
-			"displayText": "Prome (clause)",
-			"description": ""
-		},
-		{
-			"text": "MNI",
-			"displayText": "Mong Nai (clause)",
-			"description": ""
-		},
-		{
-			"text": "MBL",
-			"displayText": "Bishnupur (clause)",
-			"description": ""
-		},
-		{
-			"text": "SKK",
-			"displayText": "Sikkim (clause)",
-			"description": ""
-		},
-		{
-			"text": "IDR",
-			"displayText": "Idar (clause)",
-			"description": ""
-		},
-		{
-			"text": "NVR",
-			"displayText": "Navanagar (clause)",
-			"description": ""
-		},
-		{
-			"text": "JLV",
-			"displayText": "Jhalavad (clause)",
-			"description": ""
-		},
-		{
-			"text": "PTL",
-			"displayText": "Palitana (clause)",
-			"description": ""
-		},
-		{
-			"text": "RJK",
-			"displayText": "Rajkot (clause)",
-			"description": ""
-		},
-		{
-			"text": "JGD",
-			"displayText": "Junagarh (clause)",
-			"description": ""
-		},
-		{
-			"text": "PRB",
-			"displayText": "Porbandar (clause)",
-			"description": ""
-		},
-		{
-			"text": "PAN",
-			"displayText": "Kalinjar (clause)",
-			"description": ""
-		},
-		{
-			"text": "KLP",
-			"displayText": "Kalpi (clause)",
-			"description": ""
-		},
-		{
-			"text": "SBP",
-			"displayText": "Sambalpur (clause)",
-			"description": ""
-		},
-		{
-			"text": "PTT",
-			"displayText": "Patna (clause)",
-			"description": ""
-		},
-		{
-			"text": "JPR",
-			"displayText": "Jeypore (clause)",
-			"description": ""
-		},
-		{
-			"text": "PRD",
-			"displayText": "Parlakhimidi (clause)",
-			"description": ""
-		},
-		{
-			"text": "KJH",
-			"displayText": "Keonhjar (clause)",
-			"description": ""
-		},
-		{
-			"text": "KLH",
-			"displayText": "Kalahandi (clause)",
-			"description": ""
-		},
-		{
-			"text": "RTT",
-			"displayText": "Ratanpur (clause)",
-			"description": ""
-		},
-		{
-			"text": "SRG",
-			"displayText": "Surguja (clause)",
-			"description": ""
-		},
-		{
-			"text": "TLG",
-			"displayText": "Telingana (clause)",
-			"description": ""
-		},
-		{
-			"text": "KLT",
-			"displayText": "Kolathunad (clause)",
-			"description": ""
-		},
-		{
-			"text": "DNG",
-			"displayText": "Dang (clause)",
-			"description": ""
-		},
-		{
-			"text": "DTI",
-			"displayText": "Doti (clause)",
-			"description": ""
-		},
-		{
-			"text": "GRK",
-			"displayText": "Gorkha (clause)",
-			"description": ""
-		},
-		{
-			"text": "JML",
-			"displayText": "Jumla (clause)",
-			"description": ""
-		},
-		{
-			"text": "LWA",
-			"displayText": "Limbuwan (clause)",
-			"description": ""
-		},
-		{
-			"text": "MKP",
-			"displayText": "Makwanpur (clause)",
-			"description": ""
-		},
-		{
-			"text": "SRM",
-			"displayText": "Sirmur (clause)",
-			"description": ""
-		},
-		{
-			"text": "KTU",
-			"displayText": "Kathmandu (clause)",
-			"description": ""
-		},
-		{
-			"text": "KMN",
-			"displayText": "Kumaon (clause)",
-			"description": ""
-		},
-		{
-			"text": "KND",
-			"displayText": "Kandy (clause)",
-			"description": ""
-		},
-		{
-			"text": "GNG",
-			"displayText": "Gingee (clause)",
-			"description": ""
-		},
-		{
-			"text": "TNJ",
-			"displayText": "Tanjore (clause)",
-			"description": ""
-		},
-		{
-			"text": "PHA",
-			"displayText": "U (clause)",
-			"description": ""
-		},
-		{
-			"text": "RJP",
-			"displayText": "Rajputana (clause)",
-			"description": ""
-		},
-		{
-			"text": "SRH",
-			"displayText": "Sirhind (clause)",
-			"description": ""
-		},
-		{
-			"text": "ILK",
-			"displayText": "Ilkhanate (clause)",
-			"description": ""
-		},
-		{
-			"text": "KLM",
-			"displayText": "Kalmyk (clause)",
-			"description": ""
-		},
-		{
-			"text": "MGE",
-			"displayText": "Mongol Empire (clause)",
-			"description": ""
-		},
-		{
-			"text": "VAL",
-			"displayText": "Valencia (clause)",
-			"description": ""
-		},
-		{
-			"text": "ASU",
-			"displayText": "Asturias (clause)",
-			"description": ""
-		},
-		{
-			"text": "SLE",
-			"displayText": "Sale (clause)",
-			"description": ""
-		},
-		{
-			"text": "TET",
-			"displayText": "Tetouan (clause)",
-			"description": ""
-		},
-		{
-			"text": "MJO",
-			"displayText": "Majorca (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAT",
-			"displayText": "Matlatzinca (clause)",
-			"description": ""
-		},
-		{
-			"text": "COI",
-			"displayText": "Coixtlahuaca (clause)",
-			"description": ""
-		},
-		{
-			"text": "TEO",
-			"displayText": "Teotitlan (clause)",
-			"description": ""
-		},
-		{
-			"text": "XAL",
-			"displayText": "Xalisco (clause)",
-			"description": ""
-		},
-		{
-			"text": "GAM",
-			"displayText": "Guamar (clause)",
-			"description": ""
-		},
-		{
-			"text": "HST",
-			"displayText": "Huastec (clause)",
-			"description": ""
-		},
-		{
-			"text": "CCM",
-			"displayText": "Chichimeca (clause)",
-			"description": ""
-		},
-		{
-			"text": "OTO",
-			"displayText": "Otomi (clause)",
-			"description": ""
-		},
-		{
-			"text": "YOK",
-			"displayText": "Yokotan (clause)",
-			"description": ""
-		},
-		{
-			"text": "LAC",
-			"displayText": "Tzotzil (clause)",
-			"description": ""
-		},
-		{
-			"text": "KAQ",
-			"displayText": "Kaqchikel (clause)",
-			"description": ""
-		},
-		{
-			"text": "CTM",
-			"displayText": "Chactemal (clause)",
-			"description": ""
-		},
-		{
-			"text": "KER",
-			"displayText": "Keres (clause)",
-			"description": ""
-		},
-		{
-			"text": "ZNI",
-			"displayText": "Zuni (clause)",
-			"description": ""
-		},
-		{
-			"text": "MSC",
-			"displayText": "Mescalero (clause)",
-			"description": ""
-		},
-		{
-			"text": "LIP",
-			"displayText": "Lipan (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHT",
-			"displayText": "Chorti (clause)",
-			"description": ""
-		},
-		{
-			"text": "MIS",
-			"displayText": "Miskito (clause)",
-			"description": ""
-		},
-		{
-			"text": "TAI",
-			"displayText": "Tairona (clause)",
-			"description": ""
-		},
-		{
-			"text": "CNP",
-			"displayText": "Can Pech (clause)",
-			"description": ""
-		},
-		{
-			"text": "TON",
-			"displayText": "Tonala (clause)",
-			"description": ""
-		},
-		{
-			"text": "YAQ",
-			"displayText": "Yaqui (clause)",
-			"description": ""
-		},
-		{
-			"text": "YKT",
-			"displayText": "Yokuts (clause)",
-			"description": ""
-		},
-		{
-			"text": "CAL",
-			"displayText": "California (clause)",
-			"description": ""
-		},
-		{
-			"text": "TEX",
-			"displayText": "Texas (clause)",
-			"description": ""
-		},
-		{
-			"text": "NSS",
-			"displayText": "New Providence (clause)",
-			"description": ""
-		},
-		{
-			"text": "PRY",
-			"displayText": "Port Royal (clause)",
-			"description": ""
-		},
-		{
-			"text": "LIB",
-			"displayText": "Libertatia (clause)",
-			"description": ""
-		},
-		{
-			"text": "TOR",
-			"displayText": "Tortuga (clause)",
-			"description": ""
-		},
-		{
-			"text": "MRK",
-			"displayText": "Marrakesh (clause)",
-			"description": ""
-		},
-		{
-			"text": "MRE",
-			"displayText": "Marehan (clause)",
-			"description": ""
-		},
-		{
-			"text": "MJE",
-			"displayText": "Majeerteen (clause)",
-			"description": ""
-		},
-		{
-			"text": "WAR",
-			"displayText": "Warsangali (clause)",
-			"description": ""
-		},
-		{
-			"text": "HOB",
-			"displayText": "Hobyo (clause)",
-			"description": ""
-		},
-		{
-			"text": "GLE",
-			"displayText": "Geledi (clause)",
-			"description": ""
-		},
-		{
-			"text": "KAF",
-			"displayText": "Kaffa (clause)",
-			"description": ""
-		},
-		{
-			"text": "MED",
-			"displayText": "Medri Bahri (clause)",
-			"description": ""
-		},
-		{
-			"text": "HAR",
-			"displayText": "Harar (clause)",
-			"description": ""
-		},
-		{
-			"text": "AFA",
-			"displayText": "Aussa (clause)",
-			"description": ""
-		},
-		{
-			"text": "ALO",
-			"displayText": "Alodia (clause)",
-			"description": ""
-		},
-		{
-			"text": "PTE",
-			"displayText": "Pate (clause)",
-			"description": ""
-		},
-		{
-			"text": "DAR",
-			"displayText": "Darfur (clause)",
-			"description": ""
-		},
-		{
-			"text": "CSU",
-			"displayText": "Cusco (clause)",
-			"description": ""
-		},
-		{
-			"text": "CCQ",
-			"displayText": "Calchaqui (clause)",
-			"description": ""
-		},
-		{
-			"text": "MPC",
-			"displayText": "Mapuche (clause)",
-			"description": ""
-		},
-		{
-			"text": "MCA",
-			"displayText": "Muisca (clause)",
-			"description": ""
-		},
-		{
-			"text": "QTO",
-			"displayText": "Quito (clause)",
-			"description": ""
-		},
-		{
-			"text": "CJA",
-			"displayText": "Cajamarca (clause)",
-			"description": ""
-		},
-		{
-			"text": "HJA",
-			"displayText": "Huyla (clause)",
-			"description": ""
-		},
-		{
-			"text": "PTG",
-			"displayText": "Potiguara (clause)",
-			"description": ""
-		},
-		{
-			"text": "TPQ",
-			"displayText": "Tupiniquim (clause)",
-			"description": ""
-		},
-		{
-			"text": "TUA",
-			"displayText": "Tapuia (clause)",
-			"description": ""
-		},
-		{
-			"text": "GUA",
-			"displayText": "Guarani (clause)",
-			"description": ""
-		},
-		{
-			"text": "CUA",
-			"displayText": "Charrua (clause)",
-			"description": ""
-		},
-		{
-			"text": "WKA",
-			"displayText": "Wanka (clause)",
-			"description": ""
-		},
-		{
-			"text": "CYA",
-			"displayText": "Chachapoya (clause)",
-			"description": ""
-		},
-		{
-			"text": "CLA",
-			"displayText": "Colla (clause)",
-			"description": ""
-		},
-		{
-			"text": "CRA",
-			"displayText": "Charca (clause)",
-			"description": ""
-		},
-		{
-			"text": "PCJ",
-			"displayText": "Pacajes (clause)",
-			"description": ""
-		},
-		{
-			"text": "TPA",
-			"displayText": "Tupinamba (clause)",
-			"description": ""
-		},
-		{
-			"text": "ARW",
-			"displayText": "Arawak (clause)",
-			"description": ""
-		},
-		{
-			"text": "TID",
-			"displayText": "Tidore (clause)",
-			"description": ""
-		},
-		{
-			"text": "TER",
-			"displayText": "Ternate (clause)",
-			"description": ""
-		},
-		{
-			"text": "MGD",
-			"displayText": "Maguindanao (clause)",
-			"description": ""
-		},
-		{
-			"text": "LUW",
-			"displayText": "Luwu (clause)",
-			"description": ""
-		},
-		{
-			"text": "LNO",
-			"displayText": "Lanao (clause)",
-			"description": ""
-		},
-		{
-			"text": "LFA",
-			"displayText": "Lanfang (clause)",
-			"description": ""
-		},
-		{
-			"text": "BNJ",
-			"displayText": "Banjar (clause)",
-			"description": ""
-		},
-		{
-			"text": "KUT",
-			"displayText": "Kutai (clause)",
-			"description": ""
-		},
-		{
-			"text": "BTN",
-			"displayText": "Buton (clause)",
-			"description": ""
-		},
-		{
-			"text": "CMI",
-			"displayText": "Miao (clause)",
-			"description": ""
-		},
-		{
-			"text": "CYI",
-			"displayText": "Yi (clause)",
-			"description": ""
-		},
-		{
-			"text": "CDL",
-			"displayText": "Dali (clause)",
-			"description": ""
-		},
-		{
-			"text": "CHH",
-			"displayText": "Chahar (clause)",
-			"description": ""
-		},
-		{
-			"text": "NDO",
-			"displayText": "Ndongo (clause)",
-			"description": ""
-		},
-		{
-			"text": "ANU",
-			"displayText": "Ainu (clause)",
-			"description": ""
-		},
-		{
-			"text": "EFR",
-			"displayText": "East Frisia (clause)",
-			"description": ""
-		},
-		{
-			"text": "SYN",
-			"displayText": "Synthetics (clause)",
-			"description": ""
-		},
-		{
-			"text": "BAR",
-			"displayText": "Bar (clause)",
-			"description": ""
-		},
-		{
-			"text": "HSA",
-			"displayText": "Lubeck (clause)",
-			"description": ""
-		},
-		{
-			"text": "SMO",
-			"displayText": "Smolensk (clause)",
-			"description": ""
-		},
-		{
-			"text": "NZH",
-			"displayText": "Nizhny Novgorod (clause)",
-			"description": ""
-		},
-		{
-			"text": "LAU",
-			"displayText": "Saxe-Lauenburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "AAC",
-			"displayText": "Aachen (clause)",
-			"description": ""
-		},
-		{
-			"text": "ALE",
-			"displayText": "Alencon (clause)",
-			"description": ""
-		},
-		{
-			"text": "AUG",
-			"displayText": "Augsburg (clause)",
-			"description": ""
-		},
-		{
-			"text": "ULM",
-			"displayText": "Ulm (clause)",
-			"description": ""
-		},
-		{
-			"text": "MSA",
-			"displayText": "Malaya (clause)",
-			"description": ""
-		},
-		{
-			"text": "HIN",
-			"displayText": "Hindustan (clause)",
-			"description": ""
-		},
-		{
-			"text": "BHA",
-			"displayText": "Bharat (clause)",
-			"description": ""
-		},
-		{
-			"text": "CAM",
-			"displayText": "United Central America (clause)",
-			"description": ""
-		},
-		{
-			"text": "DNZ",
-			"displayText": "Danzig (clause)",
-			"description": ""
-		},
-		{
-			"text": "ETR",
-			"displayText": "Etruria (clause)",
-			"description": ""
-		},
-		{
-			"text": "FRN",
-			"displayText": "Frankfurt (clause)",
-			"description": ""
-		},
-		{
-			"text": "HAT",
-			"displayText": "Haiti (clause)",
-			"description": ""
-		},
-		{
-			"text": "IRQ",
-			"displayText": "Iraq (clause)",
-			"description": ""
-		},
-		{
-			"text": "KHO",
-			"displayText": "Khorasan (clause)",
-			"description": ""
-		},
-		{
-			"text": "KRA",
-			"displayText": "Krakow (clause)",
-			"description": ""
-		},
-		{
-			"text": "LIV",
-			"displayText": "Livonian Order (clause)",
-			"description": ""
-		},
-		{
-			"text": "NAP",
-			"displayText": "Naples (clause)",
-			"description": ""
-		},
-		{
-			"text": "PRG",
-			"displayText": "Paraguay (clause)",
-			"description": ""
-		},
-		{
-			"text": "QIN",
-			"displayText": "Qin (clause)",
-			"description": ""
-		},
-		{
-			"text": "RFR",
-			"displayText": "Nanbu (clause)",
-			"description": ""
-		},
-		{
-			"text": "SOK",
-			"displayText": "Sokoto (clause)",
-			"description": ""
-		},
-		{
-			"text": "SPI",
-			"displayText": "Sardinia-Piedmont (clause)",
-			"description": ""
-		},
-		{
-			"text": "SYR",
-			"displayText": "Syria (clause)",
-			"description": ""
-		},
-		{
-			"text": "VNZ",
-			"displayText": "Venezuela (clause)",
-			"description": ""
-		},
-		{
-			"text": "WES",
-			"displayText": "Westphalia (clause)",
-			"description": ""
-		},
-		{
-			"text": "WUU",
-			"displayText": "Wu (clause)",
-			"description": ""
-		},
-		{
-			"text": "RMN",
-			"displayText": "Romania (clause)",
-			"description": ""
-		},
-		{
-			"text": "AYD",
-			"displayText": "Aydin (clause)",
-			"description": ""
-		},
-		{
-			"text": "AQU",
-			"displayText": "Aquileia (clause)",
-			"description": ""
-		},
-		{
-			"text": "BYZ",
-			"displayText": "Byzantium (clause)",
-			"description": ""
-		},
-		{
-			"text": "MAJ",
-			"displayText": "Majapahit (clause)",
-			"description": ""
-		},
-		{
-			"text": "MEI",
-			"displayText": "Meissen (clause)",
-			"description": ""
-		},
-		{
-			"text": "SUK",
-			"displayText": "Sukhothai (clause)",
-			"description": ""
-		},
-		{
-			"text": "GAL",
-			"displayText": "Galicia (clause)",
-			"description": ""
-		},
-		{
-			"text": "PLT",
-			"displayText": "Polotsk (clause)",
-			"description": ""
-		},
-		{
-			"text": "SCA",
-			"displayText": "Scandinavia (clause)",
-			"description": ""
-		},
-		{
-			"text": "ACH",
-			"displayText": "Achaea (clause)",
-			"description": ""
-		},
-		{
-			"text": "KOJ",
-			"displayText": "Jerusalem (clause)",
-			"description": ""
-		},
-		{
-			"text": "BER",
-			"displayText": "Berry (clause)",
-			"description": ""
-		},
-		{
-			"text": "HLR",
-			"displayText": "Holy Roman Empire (clause)",
-			"description": ""
-		},
-		{
-			"text": "SRU",
-			"displayText": "Saruhan (clause)",
-			"description": ""
-		},
-		{
-			"text": "MEN",
-			"displayText": "Mentese (clause)",
-			"description": ""
-		},
-		{
-			"text": "RAM",
-			"displayText": "Ramazan (clause)",
-			"description": ""
-		},
-		{
-			"text": "EPI",
-			"displayText": "Epirus (clause)",
-			"description": ""
-		}
 	]
 }

@@ -12,7 +12,18 @@ module.exports =
       enum: [
         { value: 0, description: 'Select each time' }
         { value: 1, description: 'Single line only' }
-        { value: 2, description: 'Multi lines only' }
+        { value: 2, description: 'Multiple lines only' }
+      ]
+
+    includeloc:
+      title: 'Include locations'
+      description: 'Specify whether it uses location dictionaries or not.'
+      type: 'integer'
+      default: 0
+      enum: [
+        { value: 0, description: 'Include locations' }
+        { value: 1, description: 'Include locations without clauses' }
+        { value: 2, description: 'Not include locations' }
       ]
 
     includedesc:

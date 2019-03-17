@@ -2,16 +2,15 @@
 
 This package autocompletes Europa Universalis IV specific keywords.
 
-You have to install [language-eu4](https://github.com/oooFUNooo/language-eu4) to use it.
+You need also [language-eu4](https://github.com/oooFUNooo/language-eu4) package to use it.
 
 ![Fig 1. Sample screenshot](https://neo-event-horizon.com/wp-content/uploads/2019/03/autocomplete-eu4.png)
 
 ## Features
 
-- Powerful dictionary with lots of keywords.
-- Show descriptions derive from Wiki.
-- Show hyperlinks to related Wiki page.
-- Automatic bracket insertion (you can change the behavior in Settings.)
+- Powerful dictionaries with a lot of words.
+- Insert equals and brackets automatically.
+- Show and search descriptions derive from Wiki.
 
 ## Copyrights
 

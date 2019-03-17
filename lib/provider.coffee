@@ -28,21 +28,27 @@ module.exports =
   getSuggestions: ({editor, bufferPosition, scopeDescriptor, prefix}) ->
 
     completions = []
-    completions = @searchText(0, prefix, completions, GENERAL  , ''         , ''              )
-    completions = @searchText(0, prefix, completions, EFFECT   , 'effect'   , 'Commands'      )
-    completions = @searchText(0, prefix, completions, CONDITION, 'condition', 'Conditions'    )
-    completions = @searchText(0, prefix, completions, MODIFIER , 'modifier' , 'Modifier_list' )
-    completions = @searchText(0, prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
-    completions = @searchText(1, prefix, completions, COUNTRY  , 'country'  , 'Countries'     )
+    completions = @searchText(0, prefix, completions, GENERAL  , ''         , '')
+    completions = @searchText(0, prefix, completions, EFFECT   , 'effect'   , 'Commands')
+    completions = @searchText(0, prefix, completions, CONDITION, 'condition', 'Conditions')
+    completions = @searchText(0, prefix, completions, MODIFIER , 'modifier' , 'Modifier_list')
+    completions = @searchText(0, prefix, completions, SCOPE    , 'scope'    , 'Scopes')
+
+    if atom.config.get('autocomplete-eu4.includeloc') < 2
+
+      completions = @searchText(1, prefix, completions, COUNTRY  , 'country'  , 'Countries')
 
     if atom.config.get('autocomplete-eu4.includedesc')
 
-      completions = @searchText(2, prefix, completions, GENERAL  , ''         , ''              )
-      completions = @searchText(2, prefix, completions, EFFECT   , 'effect'   , 'Commands'      )
-      completions = @searchText(2, prefix, completions, CONDITION, 'condition', 'Conditions'    )
-      completions = @searchText(2, prefix, completions, MODIFIER , 'modifier' , 'Modifier_list' )
-      completions = @searchText(2, prefix, completions, SCOPE    , 'scope'    , 'Scopes'        )
-      completions = @searchText(3, prefix, completions, COUNTRY  , 'country'  , 'Countries'     )
+      completions = @searchText(2, prefix, completions, GENERAL  , ''         , '')
+      completions = @searchText(2, prefix, completions, EFFECT   , 'effect'   , 'Commands')
+      completions = @searchText(2, prefix, completions, CONDITION, 'condition', 'Conditions')
+      completions = @searchText(2, prefix, completions, MODIFIER , 'modifier' , 'Modifier_list')
+      completions = @searchText(2, prefix, completions, SCOPE    , 'scope'    , 'Scopes')
+
+      if atom.config.get('autocomplete-eu4.includeloc') < 2
+
+        completions = @searchText(3, prefix, completions, COUNTRY  , 'country'  , 'Countries')
 
     completions.sort(@compareCompletions)
 
@@ -52,10 +58,11 @@ module.exports =
   searchText: (mode, prefix, completions, dictionary, label, url) ->
 
     if prefix
-      completions   = @searchBlock(mode, 0, prefix, completions, dictionary.simple , label, url)
-      completions   = @searchBlock(mode, 1, prefix, completions, dictionary.equal  , label, url)
+      completions = @searchBlock(mode, 0, prefix, completions, dictionary.simple, label, url)
+      completions = @searchBlock(mode, 1, prefix, completions, dictionary.equal , label, url)
       if mode == 1 or mode == 3
-        completions = @searchBlock(mode, 2, prefix, completions, dictionary.simple , label, url)
+        if atom.config.get('autocomplete-eu4.includeloc') == 0
+          completions = @searchBlock(mode, 2, prefix, completions, dictionary.simple, label, url)
       else
         completions = @searchBlock(mode, 2, prefix, completions, dictionary.bracket, label, url)
 
@@ -134,12 +141,12 @@ module.exports =
 
               when 1
                 snippet = entry.text + ' = { $1 }$2'
-                if mode == 3
+                if mode == 1 or mode == 3
                   left = 'clause'
 
               when 2
                 snippet = entry.text + ' = {\n\t$1\n}'
-                if mode == 3
+                if mode == 1 or mode == 3
                   left = 'clause'
 
         completions = @createCompletion(mode, block, completions, snippet, disp, type, left, right, icon, desc, url, pos)

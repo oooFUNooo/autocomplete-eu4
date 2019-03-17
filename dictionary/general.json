@@ -473,6 +473,36 @@
 			"text": "random_list",
 			"displayText": "random_list",
 			"description": ""
+		},
+		{
+			"text": "set_variable",
+			"displayText": "set_variable",
+			"description": ""
+		},
+		{
+			"text": "change_variable",
+			"displayText": "change_variable",
+			"description": ""
+		},
+		{
+			"text": "subtract_variable",
+			"displayText": "subtract_variable",
+			"description": ""
+		},
+		{
+			"text": "divide_variable",
+			"displayText": "divide_variable",
+			"description": ""
+		},
+		{
+			"text": "multiply_variable",
+			"displayText": "multiply_variable",
+			"description": ""
+		},
+		{
+			"text": "export_to_variable",
+			"displayText": "export_to_variable",
+			"description": ""
 		}
 	]
 }

@@ -5,212 +5,212 @@
 		{
 			"text": "absolutism",
 			"displayText": "absolutism",
-			"description": "Returns true if the country has at least X absolutism."
+			"description": "Returns true if the country has at least X absolutism. [Country]"
 		},
 		{
 			"text": "accepted_culture",
 			"displayText": "accepted_culture",
-			"description": "Returns true if the country accepts the specified."
+			"description": "Returns true if the country accepts the specified culture. [Country]"
 		},
 		{
 			"text": "active_major_mission",
 			"displayText": "active_major_mission",
-			"description": "Returns true if X is the current ot the country."
+			"description": "Returns true if X is the current mission ot the country. [Country]"
 		},
 		{
 			"text": "adm_power",
 			"displayText": "adm_power",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X administrative power. [Country]"
 		},
 		{
 			"text": "adm_tech",
 			"displayText": "adm_tech",
-			"description": "Returns true if the country has an of at least X."
+			"description": "Returns true if the country has an administrative technology of at least X. [Country]"
 		},
 		{
 			"text": "advisor",
 			"displayText": "advisor",
-			"description": "Returns true if the country has an of the specified type."
+			"description": "Returns true if the country has an advisor of the specified type. [Country]"
 		},
 		{
 			"text": "advisor_exists",
 			"displayText": "advisor_exists",
-			"description": "Returns true if the X exists."
+			"description": "Returns true if the advisor X exists. [Country]"
 		},
 		{
 			"text": "ai",
 			"displayText": "ai",
-			"description": "Returns true if the country is controlled by the."
+			"description": "Returns true if the country is controlled by the AI. [Country]"
 		},
 		{
 			"text": "alliance_with",
 			"displayText": "alliance_with",
-			"description": "Returns true if the country has an with X."
+			"description": "Returns true if the country has an alliance with X. [Country]"
 		},
 		{
 			"text": "allows_female_emperor",
 			"displayText": "allows_female_emperor",
-			"description": "Returns true if females can become."
+			"description": "Returns true if females can become emperor. [Anywhere]"
 		},
 		{
 			"text": "always",
 			"displayText": "always",
-			"description": "Returns true under all circumstances if set to yes, returns false under all circumstances if set to no."
+			"description": "Returns true under all circumstances if set to yes, returns false under all circumstances if set to no. [Anywhere]"
 		},
 		{
 			"text": "area",
 			"displayText": "area",
-			"description": "Returns true if the province is part of the X."
+			"description": "Returns true if the province is part of the area X. [Province]"
 		},
 		{
 			"text": "army_size",
 			"displayText": "army_size",
-			"description": "Returns true if the country has an army of at least X k soldiers."
+			"description": "Returns true if the country has an army of at least X k soldiers. [Country]"
 		},
 		{
 			"text": "army_size_percentage",
 			"displayText": "army_size_percentage",
-			"description": "Returns true if the total army size of the country is at least X% of its."
+			"description": "Returns true if the total army size of the country is at least X% of its land force limit. [Country]"
 		},
 		{
 			"text": "army_professionalism",
 			"displayText": "army_professionalism",
-			"description": "Returns true if the country's is of at least X."
+			"description": "Returns true if the country's army professionalism is of at least X. [Country]"
 		},
 		{
 			"text": "army_tradition",
 			"displayText": "army_tradition",
-			"description": "Returns true if the country has an of at least X."
+			"description": "Returns true if the country has an army tradition of at least X. [Country]"
 		},
 		{
 			"text": "artillery_fraction",
 			"displayText": "artillery_fraction",
-			"description": "Returns true if the ratio of the fraction to the army size of the country is at least X."
+			"description": "Returns true if the ratio of the artillery fraction to the army size of the country is at least X. [Country]"
 		},
 		{
 			"text": "artillery_in_province",
 			"displayText": "artillery_in_province",
-			"description": "Returns true if there are at least X units in the province."
+			"description": "Returns true if there are at least X artillery units in the province. [Province]"
 		},
 		{
 			"text": "at_war_with_religious_enemy",
 			"displayText": "at_war_with_religious_enemy",
-			"description": "Returns true if the country is at with any country of a different."
+			"description": "Returns true if the country is at war with any country of a different religion. [Country]"
 		},
 		{
 			"text": "authority",
 			"displayText": "authority",
-			"description": "Returns true if the country has at least X authority."
+			"description": "Returns true if the Inti country has at least X authority. [Country]"
 		},
 		{
 			"text": "average_autonomy",
 			"displayText": "average_autonomy",
-			"description": "Returns true if the country has an average in its provinces of at least X."
+			"description": "Returns true if the country has an average autonomy in its provinces of at least X. [Country]"
 		},
 		{
 			"text": "average_autonomy_above_min",
 			"displayText": "average_autonomy_above_min",
-			"description": ""
+			"description": " [Country]"
 		},
 		{
 			"text": "average_effective_unrest",
 			"displayText": "average_effective_unrest",
-			"description": ""
+			"description": " [Country]"
 		},
 		{
 			"text": "average_home_autonomy",
 			"displayText": "average_home_autonomy",
-			"description": "Returns true if the country has an average in its provinces excluding overseas provinces is at least X."
+			"description": "Returns true if the country has an average autonomy in its provinces excluding overseas provinces is at least X. [Country]"
 		},
 		{
 			"text": "average_unrest",
 			"displayText": "average_unrest",
-			"description": "Returns true if the country has an average in its provinces of at least X."
+			"description": "Returns true if the country has an average unrest in its provinces of at least X. [Country]"
 		},
 		{
 			"text": "base_manpower",
 			"displayText": "base_manpower",
-			"description": "Returns true if the of the province is at least X."
+			"description": "Returns true if the base manpower of the province is at least X. [Province]"
 		},
 		{
 			"text": "base_production",
 			"displayText": "base_production",
-			"description": "Returns true if the of the province is at least X."
+			"description": "Returns true if the base production of the province is at least X. [Province]"
 		},
 		{
 			"text": "base_tax",
 			"displayText": "base_tax",
-			"description": "Returns true if the of the province is at least X."
+			"description": "Returns true if the base tax of the province is at least X. [Province]"
 		},
 		{
 			"text": "blockade",
 			"displayText": "blockade",
-			"description": "Returns true if the penalty of the country is at least X%."
+			"description": "Returns true if the blockade penalty of the country is at least X%. [Country]"
 		},
 		{
 			"text": "can_be_overlord",
 			"displayText": "can_be_overlord",
-			"description": "Returns true, if country meets the conditions defined in the subject type's is_potential_overlord section."
+			"description": "Returns true, if country meets the conditions defined in the subject type's is_potential_overlord section. [Country]"
 		},
 		{
 			"text": "can_build",
 			"displayText": "can_build",
-			"description": "Returns true if the specified building can be built in the province."
+			"description": "Returns true if the specified building can be built in the province. [Province]"
 		},
 		{
 			"text": "can_create_vassals",
 			"displayText": "can_create_vassals",
-			"description": "Returns true if the country can create a vassal.Warning: Interprets anything after ‘=’ as “yes”. Note: Works only for independent countries."
+			"description": "Returns true if the country can create a vassal. Warning: Interprets anything after ‘=’ as “yes”. Note: Works only for independent countries. [Country]"
 		},
 		{
 			"text": "can_heir_be_child_of_consort",
 			"displayText": "can_heir_be_child_of_consort",
-			"description": "Returns true if the country’s heir can potentially be the consort’s child."
+			"description": "Returns true if the country’s heir can potentially be the consort’s child. [Country]"
 		},
 		{
 			"text": "can_justify_trade_conflict",
 			"displayText": "can_justify_trade_conflict",
-			"description": "Returns true if the country can justify a trade conflict against country X."
+			"description": "Returns true if the country can justify a trade conflict against country X. [Country]"
 		},
 		{
 			"text": "can_spawn_rebels",
 			"displayText": "can_spawn_rebels",
-			"description": "Returns true if the specified is a valid rebel faction of the province."
+			"description": "Returns true if the specified rebel faction is a valid rebel faction of the province. [Province]"
 		},
 		{
 			"text": "capital",
 			"displayText": "capital",
-			"description": "Returns true if the country's is the province with the ID X."
+			"description": "Returns true if the country's capital is the province with the ID X. [Country]"
 		},
 		{
 			"text": "capital_trade_node",
 			"displayText": "capital_trade_node",
-			"description": "Returns true if trade node capital is X"
+			"description": "Returns true if trade node capital is X [Region]"
 		},
 		{
 			"text": "cavalry_fraction",
 			"displayText": "cavalry_fraction",
-			"description": "Returns true if the ratio of the fraction to the army size of the country is at least X."
+			"description": "Returns true if the ratio of the cavalry fraction to the army size of the country is at least X. [Country]"
 		},
 		{
 			"text": "cavalry_in_province",
 			"displayText": "cavalry_in_province",
-			"description": "Returns true if there are at least X units in the province."
+			"description": "Returns true if there are at least X cavalry units in the province. [Province]"
 		},
 		{
 			"text": "province_has_center_of_trade_of_level",
 			"displayText": "province_has_center_of_trade_of_level",
-			"description": "Returns true if the province has a center of trade of at least this level."
+			"description": "Returns true if the province has a center of trade of at least this level. [Province]"
 		},
 		{
 			"text": "church_power",
 			"displayText": "church_power",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X church power. [Country]"
 		},
 		{
 			"text": "coalition_target",
 			"displayText": "coalition_target",
-			"description": "Returns true if the country is the target of a."
+			"description": "Returns true if the country is the target of a coalition. [Country]"
 		},
 		{
 			"text": "colonial_claim_by_anyone_of_religion",
@@ -220,342 +220,342 @@
 		{
 			"text": "colonial_region",
 			"displayText": "colonial_region",
-			"description": "Returns true if the province is part of the X."
+			"description": "Returns true if the province is part of the colonial region X. [Province]"
 		},
 		{
 			"text": "colony",
 			"displayText": "colony",
-			"description": "Returns true if country has at least that many colonial subjects."
+			"description": "Returns true if country has at least that many colonial subjects. [Country]"
 		},
 		{
 			"text": "colony_claim",
 			"displayText": "colony_claim",
-			"description": "Returns true if country has claim on colony"
+			"description": "Returns true if country has claim on colony [Country]"
 		},
 		{
 			"text": "colonysize",
 			"displayText": "colonysize",
-			"description": "Returns true if colony is at least size X."
+			"description": "Returns true if colony is at least size X. [Province]"
 		},
 		{
 			"text": "consort_adm",
 			"displayText": "consort_adm",
-			"description": "Returns true if the country has a with an administrative skill of at least X."
+			"description": "Returns true if the country has a consort with an administrative skill of at least X. [Country]"
 		},
 		{
 			"text": "consort_age",
 			"displayText": "consort_age",
-			"description": "Returns true if the country’s has an age of at least X."
+			"description": "Returns true if the country’s consort has an age of at least X. [Country]"
 		},
 		{
 			"text": "consort_dip",
 			"displayText": "consort_dip",
-			"description": "Returns true if the country has a with an diplomatic skill of at least X."
+			"description": "Returns true if the country has a consort with an diplomatic skill of at least X. [Country]"
 		},
 		{
 			"text": "consort_mil",
 			"displayText": "consort_mil",
-			"description": "Returns true if the country has a with an military skill of at least X."
+			"description": "Returns true if the country has a consort with an military skill of at least X. [Country]"
 		},
 		{
 			"text": "consort_culture",
 			"displayText": "consort_culture",
-			"description": "Returns true, if the country's consort has the specified culture. Can utilise."
+			"description": "Returns true, if the country's consort has the specified culture. Can utilise Event Scope Values. [Country]"
 		},
 		{
 			"text": "consort_religion",
 			"displayText": "consort_religion",
-			"description": "Returns true, if the country's consort has the specified religion. Can utilise."
+			"description": "Returns true, if the country's consort has the specified religion. Can utilise Event Scope Values. [Country]"
 		},
 		{
 			"text": "consort_has_personality",
 			"displayText": "consort_has_personality",
-			"description": "Returns true if the country’s has the specified."
+			"description": "Returns true if the country’s consort has the specified personality. [Country]"
 		},
 		{
 			"text": "construction_progress",
 			"displayText": "construction_progress",
-			"description": "Returns true if the construction progress is at least X%."
+			"description": "Returns true if the construction progress is at least X%. [Province]"
 		},
 		{
 			"text": "continent",
 			"displayText": "continent",
-			"description": "Returns true if the province is located on X."
+			"description": "Returns true if the province is located on continent X. [Province]"
 		},
 		{
 			"text": "controlled_by",
 			"displayText": "controlled_by",
-			"description": "Returns true if the province is controlled by X."
+			"description": "Returns true if the province is controlled by X. [Province]"
 		},
 		{
 			"text": "controls",
 			"displayText": "controls",
-			"description": "Returns true if the province with id X is controlled by the country."
+			"description": "Returns true if the province with id X is controlled by the country. [Country]"
 		},
 		{
 			"text": "core_claim",
 			"displayText": "core_claim",
-			"description": "Returns true if the country has a on any province owned by country X."
+			"description": "Returns true if the country has a core on any province owned by country X. [Country]"
 		},
 		{
 			"text": "core_percentage",
 			"displayText": "core_percentage",
-			"description": "Returns true if the country has at least X% of its provinces."
+			"description": "Returns true if the country has cored at least X% of its provinces. [Country]"
 		},
 		{
 			"text": "corruption",
 			"displayText": "corruption",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a corruption of at least X. [Country]"
 		},
 		{
 			"text": "country_or_vassal_holds",
 			"displayText": "country_or_vassal_holds",
-			"description": "Returns true if the province is part of the specified country or its."
+			"description": "Returns true if the province is part of the specified country or its subjects. [Province]"
 		},
 		{
 			"text": "culture",
 			"displayText": "culture",
-			"description": "Returns true if the province culture is X."
+			"description": "Returns true if the province culture is X. [Province]"
 		},
 		{
 			"text": "culture_group",
 			"displayText": "culture_group",
-			"description": "Returns true if the country/province has a culture of the specified."
+			"description": "Returns true if the country/province has a culture of the specified culture group. [Country / Province]"
 		},
 		{
 			"text": "culture_group_claim",
 			"displayText": "culture_group_claim",
-			"description": "Returns true if country's primary culture is the same culture group as any province owned by country X."
+			"description": "Returns true if country's primary culture is the same culture group as any province owned by country X. [Country]"
 		},
 		{
 			"text": "current_age",
 			"displayText": "current_age",
-			"description": "Returns true, if the current age is X."
+			"description": "Returns true, if the current age is X. [Anywhere]"
 		},
 		{
 			"text": "current_debate",
 			"displayText": "current_debate",
-			"description": "Returns true if the parliament of the countrys about X."
+			"description": "Returns true if the parliament of the country debates about X. [Country]"
 		},
 		{
 			"text": "current_icon",
 			"displayText": "current_icon",
-			"description": "Returns true, if the country has the specified (orthodox) icon."
+			"description": "Returns true, if the country has the specified (orthodox) icon. [Country]"
 		},
 		{
 			"text": "current_institution_growth",
 			"displayText": "current_institution_growth",
-			"description": "Returns true, if the country/province has an institution growth of at least X for the first not embraced institution."
+			"description": "Returns true, if the country/province has an institution growth of at least X for the first not embraced institution. [Country / Province]"
 		},
 		{
 			"text": "current_size_of_parliament",
 			"displayText": "current_size_of_parliament",
-			"description": "Returns true if the of the country has a least X seats."
+			"description": "Returns true if the parliament of the country has a least X seats. [Country]"
 		},
 		{
 			"text": "defensive_war_with",
 			"displayText": "defensive_war_with",
-			"description": "Returns true if the country is in a defensive with country X."
+			"description": "Returns true if the country is in a defensive war with country X. [Country]"
 		},
 		{
 			"text": "devastation",
 			"displayText": "devastation",
-			"description": "Returns true if the of the province is at least X."
+			"description": "Returns true if the devastation of the province is at least X. [Province]"
 		},
 		{
 			"text": "development",
 			"displayText": "development",
-			"description": "Returns true if the of the province is at least X."
+			"description": "Returns true if the development of the province is at least X. [Province]"
 		},
 		{
 			"text": "development_of_overlord_fraction",
 			"displayText": "development_of_overlord_fraction",
-			"description": "Returns true, if the country has X percent of its overlord's development"
+			"description": "Returns true, if the country has X percent of its overlord's development [Country]"
 		},
 		{
 			"text": "devotion",
 			"displayText": "devotion",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X devotion. [Country]"
 		},
 		{
 			"text": "diplomatic_reputation",
 			"displayText": "diplomatic_reputation",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a diplomatic reputation of at least X. [Country]"
 		},
 		{
 			"text": "dip_power",
 			"displayText": "dip_power",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X diplomatic power. [Country]"
 		},
 		{
 			"text": "dip_tech",
 			"displayText": "dip_tech",
-			"description": "Returns true if the country has an of at least level X."
+			"description": "Returns true if the country has an diplomatic technology of at least level X. [Country]"
 		},
 		{
 			"text": "dominant_culture",
 			"displayText": "dominant_culture",
-			"description": "Returns true if the in the country is X."
+			"description": "Returns true if the dominant culture in the country is X. [Country]"
 		},
 		{
 			"text": "dominant_religion",
 			"displayText": "dominant_religion",
-			"description": "Returns true if the dominant religion in the country is X."
+			"description": "Returns true if the dominant religion in the country is X. [Country]"
 		},
 		{
 			"text": "doom",
 			"displayText": "doom",
-			"description": "Returns true if the country has at least X doom."
+			"description": "Returns true if the country has at least X doom. [Country]"
 		},
 		{
 			"text": "dynasty",
 			"displayText": "dynasty",
-			"description": "Returns true if the ruling of the country is X."
+			"description": "Returns true if the ruling dynasty of the country is X. [Country]"
 		},
 		{
 			"text": "empire_of_china_reform_level",
 			"displayText": "empire_of_china_reform_level",
-			"description": "Returns true, if at least X Empire of China reforms are enacted. Works similar to hre_reform_level"
+			"description": "Returns true, if at least X Empire of China reforms are enacted. Works similar to hre_reform_level [Anywhere]"
 		},
 		{
 			"text": "exists",
 			"displayText": "exists",
-			"description": "Returns true if X exists."
+			"description": "Returns true if country X exists. [Anywhere]"
 		},
 		{
 			"text": "faction_in_power",
 			"displayText": "faction_in_power",
-			"description": "Returns true if the in power of the country is X."
+			"description": "Returns true if the faction in power of the country is X. [Country]"
 		},
 		{
 			"text": "federation_size",
 			"displayText": "federation_size",
-			"description": "Returns true if the with the country has at least X members."
+			"description": "Returns true if the federation with the country has at least X members. [Country]"
 		},
 		{
 			"text": "fervor",
 			"displayText": "fervor",
-			"description": "Returns true if the country has stored at least X fervor points."
+			"description": "Returns true if the country has stored at least X fervor points. [Country]"
 		},
 		{
 			"text": "fort_level",
 			"displayText": "fort_level",
-			"description": "Returns true if the in the province has at least level X."
+			"description": "Returns true if the fort in the province has at least level X. [Province]"
 		},
 		{
 			"text": "full_idea_group",
 			"displayText": "full_idea_group",
-			"description": "Returns true if the country has completed the X."
+			"description": "Returns true if the country has completed the X idea group. [Country]"
 		},
 		{
 			"text": "galley_fraction",
 			"displayText": "galley_fraction",
-			"description": "Returns true if the ratio of the fraction to the navy size of the country is at least X."
+			"description": "Returns true if the ratio of the galley fraction to the navy size of the country is at least X. [Country]"
 		},
 		{
 			"text": "galleys_in_province",
 			"displayText": "galleys_in_province",
-			"description": "Returns true if there are at least X in the province."
+			"description": "Returns true if there are at least X galleys in the province. [Province]"
 		},
 		{
 			"text": "garrison",
 			"displayText": "garrison",
-			"description": "Returns true if the is at X men.Note: The localisation is misleading."
+			"description": "Returns true if the garrison is at X men. Note: The localisation is misleading. [Province]"
 		},
 		{
 			"text": "gold_income",
 			"displayText": "gold_income",
-			"description": "Returns true if the country has an from of at least X."
+			"description": "Returns true if the country has an income from gold of at least X. [Country]"
 		},
 		{
 			"text": "gold_income_percentage",
 			"displayText": "gold_income_percentage",
-			"description": "Returns true if in the country the proportion of from is at least X."
+			"description": "Returns true if in the country the proportion of income from gold is at least X. [Country]"
 		},
 		{
 			"text": "government_rank",
 			"displayText": "government_rank",
-			"description": "Returns true if the country has a of X or higher."
+			"description": "Returns true if the country has a government rank of X or higher. [Country]"
 		},
 		{
 			"text": "grown_by_development",
 			"displayText": "grown_by_development",
-			"description": "Returns true if the country's total development has grown by the specified amount"
+			"description": "Returns true if the country's total development has grown by the specified amount [Country]"
 		},
 		{
 			"text": "great_power_rank",
 			"displayText": "great_power_rank",
-			"description": "Returns true if the country has a rank of 2 or worse."
+			"description": "Returns true if the country has a great power rank of 2 or worse. [Country]"
 		},
 		{
 			"text": "guaranteed_by",
 			"displayText": "guaranteed_by",
-			"description": "Returns true if the country isd by X."
+			"description": "Returns true if the country is guaranteed by X. [Country]"
 		},
 		{
 			"text": "had_recent_war",
 			"displayText": "had_recent_war",
-			"description": "Returns true if the country fought a war within the last X years."
+			"description": "Returns true if the country fought a war within the last X years. [Country]"
 		},
 		{
 			"text": "harmonization_progress",
 			"displayText": "harmonization_progress",
-			"description": "Returns true, if the country's current harmonization progress is at least at X."
+			"description": "Returns true, if the country's current harmonization progress is at least at X. [Country]"
 		},
 		{
 			"text": "harmony",
 			"displayText": "harmony",
-			"description": "Returns true, if the country has at least X harmony."
+			"description": "Returns true, if the country has at least X harmony. [Country]"
 		},
 		{
 			"text": "has_active_debate",
 			"displayText": "has_active_debate",
-			"description": "Returns true if the country has ongoing in parliament."
+			"description": "Returns true if the country has ongoing debate in parliament. [Country]"
 		},
 		{
 			"text": "has_active_fervor",
 			"displayText": "has_active_fervor",
-			"description": "Returns true if the country has activated a effect."
+			"description": "Returns true if the country has activated a fervor effect. [Country]"
 		},
 		{
 			"text": "has_active_policy",
 			"displayText": "has_active_policy",
-			"description": "Returns true if country has the specified active."
+			"description": "Returns true if country has the specified policy active. [Country]"
 		},
 		{
 			"text": "has_adopted_cult",
 			"displayText": "has_adopted_cult",
-			"description": "Returns true if the country has adopted the specified."
+			"description": "Returns true if the country has adopted the specified cult. [Country]"
 		},
 		{
 			"text": "has_advisor",
 			"displayText": "has_advisor",
-			"description": "Returns true if the country has hired an. Warning: Inteprets every right side argument as yes."
+			"description": "Returns true if the country has hired an advisor. Warning: Inteprets every right side argument as yes . [Country]"
 		},
 		{
 			"text": "has_age_ability",
 			"displayText": "has_age_ability",
-			"description": "Returns true, if the country has the specified age ability."
+			"description": "Returns true, if the country has the specified age ability. [Country]"
 		},
 		{
 			"text": "has_border_with_religious_enemy",
 			"displayText": "has_border_with_religious_enemy",
-			"description": "Returns true if the country borders any country of a different religion.Warning: Interprets anything after ‘=’ as “yes”."
+			"description": "Returns true if the country borders any country of a different religion. Warning: Interprets anything after ‘=’ as “yes”. [Country]"
 		},
 		{
 			"text": "has_building",
 			"displayText": "has_building",
-			"description": "Returns true if there is the specified building in the province."
+			"description": "Returns true if there is the specified building in the province. [Province]"
 		},
 		{
 			"text": "has_cardinal",
 			"displayText": "has_cardinal",
-			"description": "Returns true if the province has a in the curia."
+			"description": "Returns true if the province has a cardinal in the curia. [Province]"
 		},
 		{
 			"text": "has_casus_belli_against",
 			"displayText": "has_casus_belli_against",
-			"description": "Returns true if the country has a against country X."
+			"description": "Returns true if the country has a casus belli against country X. [Country]"
 		},
 		{
 			"text": "has_changed_nation",
@@ -565,177 +565,177 @@
 		{
 			"text": "has_church_aspect",
 			"displayText": "has_church_aspect",
-			"description": "Returns true if the country has enabled the X."
+			"description": "Returns true if the country has enabled the church aspect X. [Country]"
 		},
 		{
 			"text": "has_climate",
 			"displayText": "has_climate",
-			"description": "Returns true if the province has X."
+			"description": "Returns true if the province has climate X. [Province]"
 		},
 		{
 			"text": "has_colonial_parent",
 			"displayText": "has_colonial_parent",
-			"description": "Returns true if the specified country is the colonial parent of the country."
+			"description": "Returns true if the specified country is the colonial parent of the country. [Country]"
 		},
 		{
 			"text": "has_colonist",
 			"displayText": "has_colonist",
-			"description": "Returns true if scoped province has an active colonist"
+			"description": "Returns true if scoped province has an active colonist [Province]"
 		},
 		{
 			"text": "has_commanding_three_star",
 			"displayText": "has_commanding_three_star",
-			"description": "Returns true, if country has a three star general."
+			"description": "Returns true, if country has a three star general. [Country]"
 		},
 		{
 			"text": "has_consort",
 			"displayText": "has_consort",
-			"description": "Returns true if the country has a."
+			"description": "Returns true if the country has a consort. [Country]"
 		},
 		{
 			"text": "has_consort_flag",
 			"displayText": "has_consort_flag",
-			"description": "Returns true if the consort flag X is set."
+			"description": "Returns true if the consort flag X is set. [Country]"
 		},
 		{
 			"text": "has_consort_regency",
 			"displayText": "has_consort_regency",
-			"description": "Returns true if the country has a."
+			"description": "Returns true if the country has a consort regency. [Country]"
 		},
 		{
 			"text": "has_construction",
 			"displayText": "has_construction",
-			"description": "Returns true if there is the specified construction in progress in the province.Possible values are core, culture, building, merchant, diplomat, missionary, army, navy, canal, great_project etc."
+			"description": "Returns true if there is the specified construction in progress in the province. Possible values are core, culture, building, merchant, diplomat, missionary, army, navy, canal, great_project etc. [Province]"
 		},
 		{
 			"text": "has_country_flag",
 			"displayText": "has_country_flag",
-			"description": "Returns true if the flag X is set for the country."
+			"description": "Returns true if the flag X is set for the country. [Country]"
 		},
 		{
 			"text": "has_country_modifier",
 			"displayText": "has_country_modifier",
-			"description": "Returns true if the country has the modifier X."
+			"description": "Returns true if the country has the modifier X. [Country]"
 		},
 		{
 			"text": "has_custom_ideas",
 			"displayText": "has_custom_ideas",
-			"description": "Returns true if the country has."
+			"description": "Returns true if the country has custom ideas. [Country]"
 		},
 		{
 			"text": "has_disaster",
 			"displayText": "has_disaster",
-			"description": "Returns true if the country is currently in the X."
+			"description": "Returns true if the country is currently in the disaster X. [Country]"
 		},
 		{
 			"text": "has_discovered",
 			"displayText": "has_discovered",
-			"description": "Returns true if the country has discovered the province with the ID X."
+			"description": "Returns true if the country has discovered the province with the ID X. [Country / Province]"
 		},
 		{
 			"text": "has_dlc",
 			"displayText": "has_dlc",
-			"description": "Returns true if the X is enabled."
+			"description": "Returns true if the DLC X is enabled. [Anywhere]"
 		},
 		{
 			"text": "has_divert_trade",
 			"displayText": "has_divert_trade",
-			"description": "Returns true if the has divert trade to its overlord."
+			"description": "Returns true if the protectorate has divert trade to its overlord. [(Subject) Country]"
 		},
 		{
 			"text": "has_embargo_rivals",
 			"displayText": "has_embargo_rivals",
-			"description": "Returns true if the is embargoing overlord's rivals."
+			"description": "Returns true if the subject nation is embargoing overlord's rivals. [(Subject) Country]"
 		},
 		{
 			"text": "has_empty_adjacent_province",
 			"displayText": "has_empty_adjacent_province",
-			"description": "Returns true if an adjacent province is uncolonized.Warning: Works only with 'yes'."
+			"description": "Returns true if an adjacent province is uncolonized. Warning: Works only with 'yes'. [Province]"
 		},
 		{
 			"text": "has_estate",
 			"displayText": "has_estate",
-			"description": "Returns true if the province is controlled by an."
+			"description": "Returns true if the province is controlled by an estate. [Province]"
 		},
 		{
 			"text": "has_faction",
 			"displayText": "has_faction",
-			"description": "Returns true if the country has the specified faction."
+			"description": "Returns true if the country has the specified faction. [Country]"
 		},
 		{
 			"text": "has_factions",
 			"displayText": "has_factions",
-			"description": "Returns true if country hass."
+			"description": "Returns true if country has factions. [Country]"
 		},
 		{
 			"text": "has_female_consort",
 			"displayText": "has_female_consort",
-			"description": "Returns true if the country has a female."
+			"description": "Returns true if the country has a female consort. [Country]"
 		},
 		{
 			"text": "has_female_heir",
 			"displayText": "has_female_heir",
-			"description": "Returns true if the country has a female."
+			"description": "Returns true if the country has a female heir. [Country]"
 		},
 		{
 			"text": "has_first_revolution_started",
 			"displayText": "has_first_revolution_started",
-			"description": "Returns true if a has happened in the world."
+			"description": "Returns true if a revolution has happened in the world. [Anywhere]"
 		},
 		{
 			"text": "has_foreign_consort",
 			"displayText": "has_foreign_consort",
-			"description": "Returns true if the country has foreign."
+			"description": "Returns true if the country has foreign consort. [Country]"
 		},
 		{
 			"text": "has_foreign_heir",
 			"displayText": "has_foreign_heir",
-			"description": "Returns true if the country has foreign."
+			"description": "Returns true if the country has foreign heir. [Country]"
 		},
 		{
 			"text": "has_friendly_reformation_center",
 			"displayText": "has_friendly_reformation_center",
-			"description": "Returns true if the country has a friendly."
+			"description": "Returns true if the country has a friendly center of reformation. [Country]"
 		},
 		{
 			"text": "has_game_started",
 			"displayText": "has_game_started",
-			"description": "Returns true if the game has started."
+			"description": "Returns true if the game has started. [Clobal]"
 		},
 		{
 			"text": "has_given_consort_to",
 			"displayText": "has_given_consort_to",
-			"description": "Returns true if the scoped country has given a to the specified country."
+			"description": "Returns true if the scoped country has given a consort to the specified country. [Country]"
 		},
 		{
 			"text": "has_great_project",
 			"displayText": "has_great_project",
-			"description": "Returns true if the country has the specified."
+			"description": "Returns true if the country has the specified great project. [Province]"
 		},
 		{
 			"text": "has_guaranteed",
 			"displayText": "has_guaranteed",
-			"description": "Returns true if the country hasd country X."
+			"description": "Returns true if the country has guaranteed country X. [Country]"
 		},
 		{
 			"text": "has_global_flag",
 			"displayText": "has_global_flag",
-			"description": "Returns true if the specified global flag is set."
+			"description": "Returns true if the specified global flag is set. [Anywhere]"
 		},
 		{
 			"text": "has_government_mechanic",
 			"displayText": "has_government_mechanic",
-			"description": "Returns true, if the country uses the specified government mechanic."
+			"description": "Returns true, if the country uses the specified government mechanic. [Country]"
 		},
 		{
 			"text": "has_government_power",
 			"displayText": "has_government_power",
-			"description": ""
+			"description": " [Country]"
 		},
 		{
 			"text": "has_harmonized_with",
 			"displayText": "has_harmonized_with",
-			"description": "Returns true, if the country has harmonized with the specified religion or religion group."
+			"description": "Returns true, if the country has harmonized with the specified religion or religion group. [Country]"
 		},
 		{
 			"text": "has_harsh_treatment",
@@ -745,162 +745,162 @@
 		{
 			"text": "has_heir",
 			"displayText": "has_heir",
-			"description": "Returns true if the country has an (named X)."
+			"description": "Returns true if the country has an heir (named X). [Country]"
 		},
 		{
 			"text": "has_heir_flag",
 			"displayText": "has_heir_flag",
-			"description": "Returns true if the heir flag X is set."
+			"description": "Returns true if the heir flag X is set. [Country]"
 		},
 		{
 			"text": "has_heir_leader_from",
 			"displayText": "has_heir_leader_from",
-			"description": "Returns true if an army in the province is led by an heir from X."
+			"description": "Returns true if an army in the province is led by an heir from X. [Province]"
 		},
 		{
 			"text": "has_hostile_reformation_center",
 			"displayText": "has_hostile_reformation_center",
-			"description": "Returns true if the country has a hostile."
+			"description": "Returns true if the country has a hostile center of reformation. [Country]"
 		},
 		{
 			"text": "has_idea",
 			"displayText": "has_idea",
-			"description": "Returns true if the country has the X."
+			"description": "Returns true if the country has the X idea. [Country]"
 		},
 		{
 			"text": "has_idea_group",
 			"displayText": "has_idea_group",
-			"description": "Returns true if the country has chosen the X."
+			"description": "Returns true if the country has chosen the X idea group. [Country]"
 		},
 		{
 			"text": "has_influencing_fort",
 			"displayText": "has_influencing_fort",
-			"description": "Returns true if the province has an influencing."
+			"description": "Returns true if the province has an influencing fort. [Province]"
 		},
 		{
 			"text": "has_institution",
 			"displayText": "has_institution",
-			"description": "Returns true if the country has the specified."
+			"description": "Returns true if the country has the specified institution. [Country]"
 		},
 		{
 			"text": "has_leader",
 			"displayText": "has_leader",
-			"description": "Returns true if the country has the leader X."
+			"description": "Returns true if the country has the leader \"X\". [Country]"
 		},
 		{
 			"text": "has_matching_religion",
 			"displayText": "has_matching_religion",
-			"description": "Returns true if the country has the specified religion or syncretic faith."
+			"description": "Returns true if the country has the specified religion or syncretic faith. [Country]"
 		},
 		{
 			"text": "has_merchant",
 			"displayText": "has_merchant",
-			"description": "Returns true if the scoped country has an active in the."
+			"description": "Returns true if the scoped country has an active merchant in the trade node. [Province (Trade node)]"
 		},
 		{
 			"text": "has_missionary",
 			"displayText": "has_missionary",
-			"description": "Returns true if the province has an active."
+			"description": "Returns true if the province has an active missionary. [Province]"
 		},
 		{
 			"text": "has_most_province_trade_power",
 			"displayText": "has_most_province_trade_power",
-			"description": "Returns true if the country X has most amount of trade power in."
+			"description": "Returns true if the country X has most amount of trade power in trade node. [Province (Trade node)]"
 		},
 		{
 			"text": "has_new_dynasty",
 			"displayText": "has_new_dynasty",
-			"description": "Returns true if the country has a new dynasty."
+			"description": "Returns true if the country has a new dynasty. [Country]"
 		},
 		{
 			"text": "has_owner_accepted_culture",
 			"displayText": "has_owner_accepted_culture",
-			"description": "Returns true if the of the province is accepted by its owner."
+			"description": "Returns true if the culture of the province is accepted by its owner. [Province]"
 		},
 		{
 			"text": "has_owner_culture",
 			"displayText": "has_owner_culture",
-			"description": "Returns true if the province has the of its owner."
+			"description": "Returns true if the province has the culture of its owner. [Province]"
 		},
 		{
 			"text": "has_owner_religion",
 			"displayText": "has_owner_religion",
-			"description": "Returns true if the province has the of its owner."
+			"description": "Returns true if the province has the religion of its owner. [Province]"
 		},
 		{
 			"text": "has_parliament",
 			"displayText": "has_parliament",
-			"description": "Returns true if the country has a."
+			"description": "Returns true if the country has a parliament. [Country]"
 		},
 		{
 			"text": "has_personal_deity",
 			"displayText": "has_personal_deity",
-			"description": "Returns true if the ruler of the country has picked the specified."
+			"description": "Returns true if the ruler of the country has picked the specified personal deity. [Country]"
 		},
 		{
 			"text": "has_port",
 			"displayText": "has_port",
-			"description": "Returns true if it is a coastal province."
+			"description": "Returns true if it is a coastal province. [Province]"
 		},
 		{
 			"text": "has_privateers",
 			"displayText": "has_privateers",
-			"description": "Returns true if the country has in any trade node."
+			"description": "Returns true if the country has privateers in any trade node. [Country]"
 		},
 		{
 			"text": "has_promote_investments",
 			"displayText": "has_promote_investments",
-			"description": "Returns true if the country is promoting investments in the specified (region)."
+			"description": "Returns true if the country is promoting investments in the specified trade company (region). [Country]"
 		},
 		{
 			"text": "has_province_flag",
 			"displayText": "has_province_flag",
-			"description": "Returns true if the province has the province flag X."
+			"description": "Returns true if the province has the province flag X. [Province]"
 		},
 		{
 			"text": "has_province_modifier",
 			"displayText": "has_province_modifier",
-			"description": "Returns true if province has the province modifier X."
+			"description": "Returns true if province has the province modifier X. [Province]"
 		},
 		{
 			"text": "has_rebel_faction",
 			"displayText": "has_rebel_faction",
-			"description": "Returns true if the province is controlled by (the specified) rebel faction."
+			"description": "Returns true if the province is controlled by (the specified) rebel faction. [Province]"
 		},
 		{
 			"text": "has_regency",
 			"displayText": "has_regency",
-			"description": "Returns true if the country has a."
+			"description": "Returns true if the country has a regency. [Country]"
 		},
 		{
 			"text": "has_reform",
 			"displayText": "has_reform",
-			"description": "Returns true if the country has the specific government reform."
+			"description": "Returns true if the country has the specific government reform. [Country]"
 		},
 		{
 			"text": "has_removed_fow",
 			"displayText": "has_removed_fow",
-			"description": "Returns true if the country has lifted the fog of war from the specified country."
+			"description": "Returns true if the country has lifted the fog of war from the specified country. [Country]"
 		},
 		{
 			"text": "has_ruler",
 			"displayText": "has_ruler",
-			"description": "Returns true if the country has a ruler named X."
+			"description": "Returns true if the country has a ruler named \"X\". [Country]"
 		},
 		{
 			"text": "has_ruler_flag",
 			"displayText": "has_ruler_flag",
-			"description": "Returns true if the ruler flag X is set for the country."
+			"description": "Returns true if the ruler flag X is set for the country. [Country]"
 		},
 		{
 			"text": "has_ruler_leader_from",
 			"displayText": "has_ruler_leader_from",
-			"description": "Returns true if an army in the province is led by a ruler from X."
+			"description": "Returns true if an army in the province is led by a ruler from X. [Province]"
 		},
 		{
 			"text": "has_ruler_modifier",
 			"displayText": "has_ruler_modifier",
-			"description": "Returns true the country has the modifier X until the ruler changes."
+			"description": "Returns true the country has the modifier X until the ruler changes. [Country]"
 		},
 		{
 			"text": "has_saved_event_target",
@@ -910,1622 +910,1622 @@
 		{
 			"text": "has_scutage",
 			"displayText": "has_scutage",
-			"description": "Returns true if the pays scutage."
+			"description": "Returns true if the vassal pays scutage. [(Subject) Country]"
 		},
 		{
 			"text": "has_seat_in_parliament",
 			"displayText": "has_seat_in_parliament",
-			"description": "Returns true if the province has a seat in."
+			"description": "Returns true if the province has a seat in parliament. [Province]"
 		},
 		{
 			"text": "has_secondary_religion",
 			"displayText": "has_secondary_religion",
-			"description": "Returns true if the county has a."
+			"description": "Returns true if the county has a secondary religion. [Country]"
 		},
 		{
 			"text": "has_send_officers",
 			"displayText": "has_send_officers",
-			"description": "Returns true if the has received officers."
+			"description": "Returns true if the protectorate has received officers. [(Subject) Country]"
 		},
 		{
 			"text": "has_siege",
 			"displayText": "has_siege",
-			"description": "Returns true if the province has."
+			"description": "Returns true if the province has siege. [Province]"
 		},
 		{
 			"text": "has_spawned_rebels",
 			"displayText": "has_spawned_rebels",
-			"description": "Returns true if of the specified type are active in the country."
+			"description": "Returns true if rebels of the specified type are active in the country. [Country]"
 		},
 		{
 			"text": "has_spawned_supported_rebels",
 			"displayText": "has_spawned_supported_rebels",
-			"description": "Returns true if which were supported by the secified country are active in the country."
+			"description": "Returns true if rebels which were supported by the secified country are active in the country. [Country]"
 		},
 		{
 			"text": "has_state_edict",
 			"displayText": "has_state_edict",
-			"description": "Returns true if the state has X enabled."
+			"description": "Returns true if the state has X edict enabled. [State]"
 		},
 		{
 			"text": "has_state_patriach",
 			"displayText": "has_state_patriach",
-			"description": "Returns true, if the province has any state patriarch."
+			"description": "Returns true, if the province has any state patriarch. [Province]"
 		},
 		{
 			"text": "has_subsidize_armies",
 			"displayText": "has_subsidize_armies",
-			"description": "Returns true if the march has."
+			"description": "Returns true if the march has subsidizes armies. [(Subject) Country]"
 		},
 		{
 			"text": "has_support_loyalists",
 			"displayText": "has_support_loyalists",
-			"description": "Returns true if the receives support for loyalists."
+			"description": "Returns true if the subject nation receives support for loyalists. [(Subject) Country]"
 		},
 		{
 			"text": "has_switched_nation",
 			"displayText": "has_switched_nation",
-			"description": "Returns true if the player has changed nation by playing as a."
+			"description": "Returns true if the player has changed nation by playing as a released vassal. [Anywhere]"
 		},
 		{
 			"text": "has_terrain",
 			"displayText": "has_terrain",
-			"description": "Returns true if the province has terrain X."
+			"description": "Returns true if the province has terrain X. [Province]"
 		},
 		{
 			"text": "has_trader",
 			"displayText": "has_trader",
-			"description": "Returns true if the specified country has a in the trade node."
+			"description": "Returns true if the specified country has a merchant in the trade node. [Province (Trade node)]"
 		},
 		{
 			"text": "has_truce",
 			"displayText": "has_truce",
-			"description": "Returns true if the country has."
+			"description": "Returns true if the country has truce. [Country]"
 		},
 		{
 			"text": "has_unified_culture_group",
 			"displayText": "has_unified_culture_group",
-			"description": "Returns true, if the country owns all provinces of its culture group."
+			"description": "Returns true, if the country owns all provinces of its culture group. [Country]"
 		},
 		{
 			"text": "has_unit_type",
 			"displayText": "has_unit_type",
-			"description": "Returns true if the country has selected unit type X as preferable unit."
+			"description": "Returns true if the country has selected unit type X as preferable unit. [Country]"
 		},
 		{
 			"text": "has_unlocked_cult",
 			"displayText": "has_unlocked_cult",
-			"description": "Returns true if the country has unlocked the specified."
+			"description": "Returns true if the country has unlocked the specified cult. [Country]"
 		},
 		{
 			"text": "has_wartaxes",
 			"displayText": "has_wartaxes",
-			"description": "Returns true if the country has raised."
+			"description": "Returns true if the country has raised war taxes. [Country]"
 		},
 		{
 			"text": "has_winter",
 			"displayText": "has_winter",
-			"description": "Returns true if the province has X."
+			"description": "Returns true if the province has winter X. [Province]"
 		},
 		{
 			"text": "heavy_ship_fraction",
 			"displayText": "heavy_ship_fraction",
-			"description": "Returns true if the ratio of the fraction to the navy size of the country is at least X."
+			"description": "Returns true if the ratio of the heavy ship fraction to the navy size of the country is at least X. [Country]"
 		},
 		{
 			"text": "heavy_ships_in_province",
 			"displayText": "heavy_ships_in_province",
-			"description": "Returns true if there are at least X in the province."
+			"description": "Returns true if there are at least X heavy ships in the province. [Province]"
 		},
 		{
 			"text": "heir_adm",
 			"displayText": "heir_adm",
-			"description": "Returns true if the country has an with an administrative skill of at least X."
+			"description": "Returns true if the country has an heir with an administrative skill of at least X. [Country]"
 		},
 		{
 			"text": "heir_dip",
 			"displayText": "heir_dip",
-			"description": "Returns true if the country has an with a diplomatic skill of at least X."
+			"description": "Returns true if the country has an heir with a diplomatic skill of at least X. [Country]"
 		},
 		{
 			"text": "heir_mil",
 			"displayText": "heir_mil",
-			"description": "Returns true if the country has an with a military skill of at least X."
+			"description": "Returns true if the country has an heir with a military skill of at least X. [Country]"
 		},
 		{
 			"text": "heir_age",
 			"displayText": "heir_age",
-			"description": "Returns true if the country has an heir that is at least X years old."
+			"description": "Returns true if the country has an heir that is at least X years old. [Country]"
 		},
 		{
 			"text": "heir_claim",
 			"displayText": "heir_claim",
-			"description": "Returns true if the country has an heir with a claim strength of at least X."
+			"description": "Returns true if the country has an heir with a claim strength of at least X. [Country]"
 		},
 		{
 			"text": "heir_culture",
 			"displayText": "heir_culture",
-			"description": "Returns true, if the country's heir has the specified culture. Can utilise."
+			"description": "Returns true, if the country's heir has the specified culture. Can utilise Event Scope Values. [Country]"
 		},
 		{
 			"text": "heir_religion",
 			"displayText": "heir_religion",
-			"description": "Returns true, if the country's heir has the specified religion. Can utilise."
+			"description": "Returns true, if the country's heir has the specified religion. Can utilise Event Scope Values. [Country]"
 		},
 		{
 			"text": "heir_nationality",
 			"displayText": "heir_nationality",
-			"description": "Returns true if the country has an with nationality X."
+			"description": "Returns true if the country has an heir with nationality X. [Country]"
 		},
 		{
 			"text": "heir_has_consort_dynasty",
 			"displayText": "heir_has_consort_dynasty",
-			"description": "Returns true if the country’s and have the same."
+			"description": "Returns true if the country’s heir and consort have the same dynasty. [Country]"
 		},
 		{
 			"text": "heir_has_ruler_dynasty",
 			"displayText": "heir_has_ruler_dynasty",
-			"description": "Returns true if the country’s and have the same."
+			"description": "Returns true if the country’s heir and ruler have the same dynasty. [Country]"
 		},
 		{
 			"text": "heir_has_personality",
 			"displayText": "heir_has_personality",
-			"description": "Returns true if the country’s has the specified."
+			"description": "Returns true if the country’s heir has the specified personality. [Country]"
 		},
 		{
 			"text": "highest_value_trade_node",
 			"displayText": "highest_value_trade_node",
-			"description": "Returns true if the is the highest valued trade node in the world.The value is calculated as total trade value minus outgoing trade value."
+			"description": "Returns true if the trade node is the highest valued trade node in the world. The value is calculated as total trade value minus outgoing trade value. [Province (Trade node)]"
 		},
 		{
 			"text": "historical_friend_with",
 			"displayText": "historical_friend_with",
-			"description": "Returns true if the countries ares."
+			"description": "Returns true if the countries are historical friends. [Country]"
 		},
 		{
 			"text": "historical_rival_with",
 			"displayText": "historical_rival_with",
-			"description": "Returns true if the countries ares"
+			"description": "Returns true if the countries are historical rivals [Country]"
 		},
 		{
 			"text": "horde_unity",
 			"displayText": "horde_unity",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a horde unity of at least X. [Country]"
 		},
 		{
 			"text": "hre_heretic_religion",
 			"displayText": "hre_heretic_religion",
-			"description": "Returns true if the specified religion is the opposition religion of the.Note: No localisation for the negation."
+			"description": "Returns true if the specified religion is the opposition religion of the HRE. Note: No localisation for the negation. [Anywhere]"
 		},
 		{
 			"text": "hre_leagues_enabled",
 			"displayText": "hre_leagues_enabled",
-			"description": "Returns true are enabled."
+			"description": "Returns true religious leagues are enabled. [Anywhere]"
 		},
 		{
 			"text": "hre_reform_level",
 			"displayText": "hre_reform_level",
-			"description": "Returns true if the Xth is enacted."
+			"description": "Returns true if the Xth imperial reform is enacted. [Anywhere]"
 		},
 		{
 			"text": "hre_religion",
 			"displayText": "hre_religion",
-			"description": "Returns true if the specified religion is the dominant faith of the HRE."
+			"description": "Returns true if the specified religion is the dominant faith of the HRE. [Anywhere]"
 		},
 		{
 			"text": "hre_religion_locked",
 			"displayText": "hre_religion_locked",
-			"description": "Returns true if an official faith of the HRE has been permanently established."
+			"description": "Returns true if an official faith of the HRE has been permanently established. [Anywhere]"
 		},
 		{
 			"text": "hre_religion_treaty",
 			"displayText": "hre_religion_treaty",
-			"description": "Returns true if the treaty of religious peace in the HRE has been signed."
+			"description": "Returns true if the treaty of religious peace in the HRE has been signed. [Anywhere]"
 		},
 		{
 			"text": "hre_size",
 			"displayText": "hre_size",
-			"description": "Returns true if the contains at least X members."
+			"description": "Returns true if the HRE contains at least X members. [Anywhere]"
 		},
 		{
 			"text": "imperial_influence",
 			"displayText": "imperial_influence",
-			"description": "Returns true if the  of the HRE has an of at least X."
+			"description": "Returns true if the emperor of the HRE has an imperial authority of at least X. [Anywhere]"
 		},
 		{
 			"text": "imperial_mandate",
 			"displayText": "imperial_mandate",
-			"description": "Returns true, if the emperor of China has at least X mandate."
+			"description": "Returns true, if the emperor of China has at least X mandate. [Anywhere]"
 		},
 		{
 			"text": "in_golden_age",
 			"displayText": "in_golden_age",
-			"description": "Returns true, if the country currently is in a golden age."
+			"description": "Returns true, if the country currently is in a golden age. [Country]"
 		},
 		{
 			"text": "infantry_fraction",
 			"displayText": "infantry_fraction",
-			"description": "Returns true if the ratio of the fraction to the army size of the country is at least X."
+			"description": "Returns true if the ratio of the infantry fraction to the army size of the country is at least X. [Country]"
 		},
 		{
 			"text": "infantry_in_province",
 			"displayText": "infantry_in_province",
-			"description": "Returns true if there are at least X units in the province."
+			"description": "Returns true if there are at least X infantry units in the province. [Province]"
 		},
 		{
 			"text": "inflation",
 			"displayText": "inflation",
-			"description": "Returns true if the country has an of at least X"
+			"description": "Returns true if the country has an inflation of at least X [Country]"
 		},
 		{
 			"text": "invested_papal_influence",
 			"displayText": "invested_papal_influence",
-			"description": "Returns true if the country has invested at least X in the election of the next papal controller."
+			"description": "Returns true if the country has invested at least X papal influence in the election of the next papal controller. [Country]"
 		},
 		{
 			"text": "in_league",
 			"displayText": "in_league",
-			"description": "Returns true if the countries is in the X."
+			"description": "Returns true if the countries is in the X league. [Country]"
 		},
 		{
 			"text": "ironman",
 			"displayText": "ironman",
-			"description": "Returns true if the mode is enabled"
+			"description": "Returns true if the ironman mode is enabled [Anywhere]"
 		},
 		{
 			"text": "is_advisor_employed",
 			"displayText": "is_advisor_employed",
-			"description": "Returns true if the with the ID X is employed."
+			"description": "Returns true if the advisor with the ID X is employed."
 		},
 		{
 			"text": "is_at_war",
 			"displayText": "is_at_war",
-			"description": "Returns true if the country is at."
+			"description": "Returns true if the country is at war. [Country]"
 		},
 		{
 			"text": "is_backing_current_issue",
 			"displayText": "is_backing_current_issue",
-			"description": "Returns true if the province is backing the current issue in the."
+			"description": "Returns true if the province is backing the current issue in the parliament. [Province]"
 		},
 		{
 			"text": "is_bankrupt",
 			"displayText": "is_bankrupt",
-			"description": "Returns true if the country is."
+			"description": "Returns true if the country is bankrupt. [Country]"
 		},
 		{
 			"text": "is_blockaded",
 			"displayText": "is_blockaded",
-			"description": "Returns true if the province is."
+			"description": "Returns true if the province is blockaded. [Province]"
 		},
 		{
 			"text": "is_capital",
 			"displayText": "is_capital",
-			"description": "Returns true if the province is a."
+			"description": "Returns true if the province is a capital. [Province]"
 		},
 		{
 			"text": "is_city",
 			"displayText": "is_city",
-			"description": "Returns true if the province is a, i.e. has a population of at least 1000."
+			"description": "Returns true if the province is a city, i.e. has a population of at least 1000. [Province]"
 		},
 		{
 			"text": "is_claim",
 			"displayText": "is_claim",
-			"description": "Returns true if the country has a on the province with the ID X."
+			"description": "Returns true if the country has a claim on the province with the ID X. [Country / Province]"
 		},
 		{
 			"text": "is_client_nation",
 			"displayText": "is_client_nation",
-			"description": "Returns true if the country is a."
+			"description": "Returns true if the country is a client state. [Country]"
 		},
 		{
 			"text": "is_client_nation_of",
 			"displayText": "is_client_nation_of",
-			"description": "Returns true if the country is a of X."
+			"description": "Returns true if the country is a client state of X. [Country]"
 		},
 		{
 			"text": "is_colonial_nation",
 			"displayText": "is_colonial_nation",
-			"description": "Returns true if the country is a non-independent."
+			"description": "Returns true if the country is a non-independent colonial nation. [Country]"
 		},
 		{
 			"text": "is_colonial_nation_of",
 			"displayText": "is_colonial_nation_of",
-			"description": "Returns true if the country is a of X."
+			"description": "Returns true if the country is a colonial nation of X. [Country]"
 		},
 		{
 			"text": "is_colony",
 			"displayText": "is_colony",
-			"description": "Returns true if the province is a."
+			"description": "Returns true if the province is a colony. [Province]"
 		},
 		{
 			"text": "is_core",
 			"displayText": "is_core",
-			"description": "Returns true if the country has a on the province with the ID X."
+			"description": "Returns true if the country has a core on the province with the ID X. [Country / Province]"
 		},
 		{
 			"text": "is_crusade_target",
 			"displayText": "is_crusade_target",
-			"description": "Returns true if the country is the target of a."
+			"description": "Returns true if the country is the target of a crusade. [Country]"
 		},
 		{
 			"text": "is_defender_of_faith",
 			"displayText": "is_defender_of_faith",
-			"description": "Returns true if the country is the."
+			"description": "Returns true if the country is the defender of the faith. [Country]"
 		},
 		{
 			"text": "is_dynamic_tag",
 			"displayText": "is_dynamic_tag",
-			"description": "Returns true, if the country is a dynamically created tag (e.g. client states)."
+			"description": "Returns true, if the country is a dynamically created tag (e.g. client states). [Country]"
 		},
 		{
 			"text": "is_elector",
 			"displayText": "is_elector",
-			"description": "Returns true if the country is an of the HRE."
+			"description": "Returns true if the country is an elector of the HRE. [Country]"
 		},
 		{
 			"text": "is_emperor",
 			"displayText": "is_emperor",
-			"description": "Returns true if the country is the of the HRE."
+			"description": "Returns true if the country is the emperor of the HRE. [Country]"
 		},
 		{
 			"text": "is_emperor_of_china",
 			"displayText": "is_emperor_of_china",
-			"description": "Returns true if the country is the."
+			"description": "Returns true if the country is the emperor of China. [Country]"
 		},
 		{
 			"text": "is_empty",
 			"displayText": "is_empty",
-			"description": "Returns true if province is empty"
+			"description": "Returns true if province is empty [Province]"
 		},
 		{
 			"text": "is_enemy",
 			"displayText": "is_enemy",
-			"description": "Returns true the country views country X as an enemy."
+			"description": "Returns true the country views country X as an enemy. [Country]"
 		},
 		{
 			"text": "is_excommunicated",
 			"displayText": "is_excommunicated",
-			"description": "Returns true if the ruler of the country is."
+			"description": "Returns true if the ruler of the country is excommunicated. [Country]"
 		},
 		{
 			"text": "is_federation_leader",
 			"displayText": "is_federation_leader",
-			"description": "Returns true if the country is a."
+			"description": "Returns true if the country is a federation leader. [Country]"
 		},
 		{
 			"text": "is_female",
 			"displayText": "is_female",
-			"description": "Returns true if ruler of the country is female."
+			"description": "Returns true if ruler of the country is female. [Country]"
 		},
 		{
 			"text": "is_force_converted",
 			"displayText": "is_force_converted",
-			"description": "Returns true if country has been via either religious rebels or an Enforce Religion peace treaty.Note: The subject interaction Enforce Religion does not cause the subject to be considered as force-converted."
+			"description": "Returns true if country has been force-converted via either religious rebels or an Enforce Religion peace treaty. Note: The subject interaction Enforce Religion does not cause the subject to be considered as force-converted. [Country]"
 		},
 		{
 			"text": "is_former_colonial_nation",
 			"displayText": "is_former_colonial_nation",
-			"description": "Returns true if the country is a that has gained independence."
+			"description": "Returns true if the country is a colonial nation that has gained independence. [Country]"
 		},
 		{
 			"text": "is_great_power",
 			"displayText": "is_great_power",
-			"description": "Returns true if the country is a."
+			"description": "Returns true if the country is a great power. [Country]"
 		},
 		{
 			"text": "is_harmonizing_with",
 			"displayText": "is_harmonizing_with",
-			"description": "Returns true, if the country is currently harmonizing with the specified religion or religion group."
+			"description": "Returns true, if the country is currently harmonizing with the specified religion or religion group. [Country]"
 		},
 		{
 			"text": "is_heir_leader",
 			"displayText": "is_heir_leader",
-			"description": "Returns true if the heir of the country is a. Note: Proper localisation for the negation only with NOT ="
+			"description": "Returns true if the heir of the country is a general. Note: Proper localisation for the negation only with NOT = ... . [Country]"
 		},
 		{
 			"text": "is_imperial_ban_allowed",
 			"displayText": "is_imperial_ban_allowed",
-			"description": "Returns true if the has a casus belli on occupiers of the Empire.Note: Enabled/Disabled with."
+			"description": "Returns true if the emperor has a casus belli on occupiers of the Empire. Note: Enabled/Disabled with Call for Reichsreform. [Anywhere]"
 		},
 		{
 			"text": "is_incident_active",
 			"displayText": "is_incident_active",
-			"description": "Returns true, if the specified incident is active."
+			"description": "Returns true, if the specified incident is active. [Country]"
 		},
 		{
 			"text": "is_incident_happened",
 			"displayText": "is_incident_happened",
-			"description": "Returns true, if the specified incident already happened."
+			"description": "Returns true, if the specified incident already happened. [Country]"
 		},
 		{
 			"text": "is_incident_possible",
 			"displayText": "is_incident_possible",
-			"description": "Returns true, if the specified incident can possibly happen."
+			"description": "Returns true, if the specified incident can possibly happen. [Country]"
 		},
 		{
 			"text": "is_incident_potential",
 			"displayText": "is_incident_potential",
-			"description": "Returns true, if the specified incident is visible and therefor can happen in the future."
+			"description": "Returns true, if the specified incident is visible and therefor can happen in the future. [Country]"
 		},
 		{
 			"text": "is_institution_enabled",
 			"displayText": "is_institution_enabled",
-			"description": "Returns true if the specified has been discovered."
+			"description": "Returns true if the specified institution has been discovered. [Anywhere]"
 		},
 		{
 			"text": "is_institution_origin",
 			"displayText": "is_institution_origin",
-			"description": "Returns true if the province is the origin of the specified."
+			"description": "Returns true if the province is the origin of the specified institution. [Province]"
 		},
 		{
 			"text": "is_in_capital_area",
 			"displayText": "is_in_capital_area",
-			"description": "Returns true if the province is in the of its owner (i.e. has a land connection to the owner’s capital through whose provinces)."
+			"description": "Returns true if the province is in the capital area of its owner (i.e. has a land connection to the owner’s capital through whose provinces). [Province]"
 		},
 		{
 			"text": "is_in_coalition",
 			"displayText": "is_in_coalition",
-			"description": "Returns true if the country is in a."
+			"description": "Returns true if the country is in a coalition. [Country]"
 		},
 		{
 			"text": "is_in_coalition_war",
 			"displayText": "is_in_coalition_war",
-			"description": "Returns true if the country is fighting a."
+			"description": "Returns true if the country is fighting a coalition war. [Country]"
 		},
 		{
 			"text": "is_in_deficit",
 			"displayText": "is_in_deficit",
-			"description": "Returns true if the country is running a deficit."
+			"description": "Returns true if the country is running a deficit. [Country]"
 		},
 		{
 			"text": "is_in_league_war",
 			"displayText": "is_in_league_war",
-			"description": "Returns true if the country is in a religious war."
+			"description": "Returns true if the country is in a religious league war. [Country]"
 		},
 		{
 			"text": "is_in_trade_league",
 			"displayText": "is_in_trade_league",
-			"description": "Returns true if the country is a member of a."
+			"description": "Returns true if the country is a member of a trade league. [Country]"
 		},
 		{
 			"text": "is_in_trade_league_with",
 			"displayText": "is_in_trade_league_with",
-			"description": "Returns true if the country is a member of the same as country X."
+			"description": "Returns true if the country is a member of the same trade league as country X. [Country]"
 		},
 		{
 			"text": "is_island",
 			"displayText": "is_island",
-			"description": "Returns true if the province is an island, i.e. has no neighboring land province and no reachable province via a."
+			"description": "Returns true if the province is an island, i.e. has no neighboring land province and no reachable province via a strait. [Province]"
 		},
 		{
 			"text": "is_league_enemy",
 			"displayText": "is_league_enemy",
-			"description": "Returns true if country X is league enemy of the country('s league)."
+			"description": "Returns true if country X is league enemy of the country('s league). [Country]"
 		},
 		{
 			"text": "is_league_friend",
 			"displayText": "is_league_friend",
-			"description": "Returns true, if the country is in the same religious as the specified country."
+			"description": "Returns true, if the country is in the same religious league as the specified country. [Country]"
 		},
 		{
 			"text": "is_league_leader",
 			"displayText": "is_league_leader",
-			"description": "Returns true if the country leads a religious."
+			"description": "Returns true if the country leads a religious league. [Country]"
 		},
 		{
 			"text": "is_lesser_in_union",
 			"displayText": "is_lesser_in_union",
-			"description": "Returns true if the country is the lesser partner in a."
+			"description": "Returns true if the country is the lesser partner in a personal union. [Country]"
 		},
 		{
 			"text": "is_looted",
 			"displayText": "is_looted",
-			"description": "Returns true if the province is."
+			"description": "Returns true if the province is looted. [Province]"
 		},
 		{
 			"text": "is_monarch_leader",
 			"displayText": "is_monarch_leader",
-			"description": "Returns true if the rulerof the country is a. Note: Proper localisation for the negation only with NOT ="
+			"description": "Returns true if the rulerof the country is a general. Note: Proper localisation for the negation only with NOT = ... . [Country]"
 		},
 		{
 			"text": "is_month",
 			"displayText": "is_month",
-			"description": "Returns true if the current month is at least X (zero based)."
+			"description": "Returns true if the current month is at least X (zero based). [Anywhere]"
 		},
 		{
 			"text": "is_march",
 			"displayText": "is_march",
-			"description": "Returns true if the country is a."
+			"description": "Returns true if the country is a march. [Country]"
 		},
 		{
 			"text": "is_neighbor_of",
 			"displayText": "is_neighbor_of",
-			"description": "Returns true if the country is neighbor of X."
+			"description": "Returns true if the country is neighbor of X. [Country]"
 		},
 		{
 			"text": "is_node_in_trade_company_region",
 			"displayText": "is_node_in_trade_company_region",
-			"description": "Returns true, if the province's trade node is in a trade company region."
+			"description": "Returns true, if the province's trade node is in a trade company region. [Province]"
 		},
 		{
 			"text": "is_nomad",
 			"displayText": "is_nomad",
-			"description": "Returns true if country's government is nomadic. (Note: Only the government is flagged as nomadic.)"
+			"description": "Returns true if country's government is nomadic. (Note: Only the Steppe Nomads government is flagged as nomadic.) [Country]"
 		},
 		{
 			"text": "is_orangists_in_power",
 			"displayText": "is_orangists_in_power",
-			"description": "Returns true if in the country the are in power."
+			"description": "Returns true if in the country the orangists are in power. [Country]"
 		},
 		{
 			"text": "is_origin_of_consort",
 			"displayText": "is_origin_of_consort",
-			"description": "Returns true if the specified country is the origin country of the scoped country’s."
+			"description": "Returns true if the specified country is the origin country of the scoped country’s consort. [Country]"
 		},
 		{
 			"text": "is_overseas",
 			"displayText": "is_overseas",
-			"description": "Returns true if the province is"
+			"description": "Returns true if the province is overseas [Province]"
 		},
 		{
 			"text": "is_overseas_subject",
 			"displayText": "is_overseas_subject",
-			"description": "Returns true if the is."
+			"description": "Returns true if the subject is overseas. [Country (subject)]"
 		},
 		{
 			"text": "is_owned_by_trade_company",
 			"displayText": "is_owned_by_trade_company",
-			"description": "Returns true if the province belongs to a."
+			"description": "Returns true if the province belongs to a trade company. [Province]"
 		},
 		{
 			"text": "is_papal_controller",
 			"displayText": "is_papal_controller",
-			"description": "Returns true if the country is the."
+			"description": "Returns true if the country is the papal controller. [Country]"
 		},
 		{
 			"text": "is_part_of_hre",
 			"displayText": "is_part_of_hre",
-			"description": "Returns true if the country/province is part of the."
+			"description": "Returns true if the country/province is part of the HRE. [Country Province]"
 		},
 		{
 			"text": "is_permanent_claim",
 			"displayText": "is_permanent_claim",
-			"description": "Returns true if the province is a of X."
+			"description": "Returns true if the province is a permanent claim of X. [Province]"
 		},
 		{
 			"text": "is_playing_custom_nation",
 			"displayText": "is_playing_custom_nation",
-			"description": "Returns true if the country is a player-designed."
+			"description": "Returns true if the country is a player-designed custom nation. [Country]"
 		},
 		{
 			"text": "is_possible_march",
 			"displayText": "is_possible_march",
-			"description": "Returns true if X is a possible of the country."
+			"description": "Returns true if vassal X is a possible march of the country. [Country]"
 		},
 		{
 			"text": "is_possible_vassal",
 			"displayText": "is_possible_vassal",
-			"description": "Returns true if country X is releasable as of the country."
+			"description": "Returns true if country X is releasable as vassal of the country. [Country]"
 		},
 		{
 			"text": "is_previous_papal_controller",
 			"displayText": "is_previous_papal_controller",
-			"description": "Returns true if the country is the previous."
+			"description": "Returns true if the country is the previous papal controller. [Country]"
 		},
 		{
 			"text": "is_prosperous",
 			"displayText": "is_prosperous",
-			"description": "Returns true if the province is prosperous. Note: Does not have a tooltip."
+			"description": "Returns true if the province is prosperous. NOTE: Does not have a tooltip. [Province]"
 		},
 		{
 			"text": "is_protectorate",
 			"displayText": "is_protectorate",
-			"description": "Returns true if the country is a"
+			"description": "Returns true if the country is a protectorate [Country]"
 		},
 		{
 			"text": "is_random_new_world",
 			"displayText": "is_random_new_world",
-			"description": "Returns true if playing with a."
+			"description": "Returns true if playing with a random New World. [Anywhere]"
 		},
 		{
 			"text": "is_reformation_center",
 			"displayText": "is_reformation_center",
-			"description": "Returns true if the province is a."
+			"description": "Returns true if the province is a reformation center. [Global]"
 		},
 		{
 			"text": "is_religion_grant_colonial_claim",
 			"displayText": "is_religion_grant_colonial_claim",
-			"description": "Returns true if the province has been granted to any country, to no country or to a specific country."
+			"description": "Returns true if the province has been granted to any country, to no country or to a specific country. [Province]"
 		},
 		{
 			"text": "is_religion_enabled",
 			"displayText": "is_religion_enabled",
-			"description": "Returns true if the specified is enabled."
+			"description": "Returns true if the specified religion is enabled. [Anywhere]"
 		},
 		{
 			"text": "is_religion_reformed",
 			"displayText": "is_religion_reformed",
-			"description": "Returns true if the country has."
+			"description": "Returns true if the country has reformed their religion. [Country]"
 		},
 		{
 			"text": "is_revolution_target",
 			"displayText": "is_revolution_target",
-			"description": "Returns true if the country is the."
+			"description": "Returns true if the country is the revolution target. [Country]"
 		},
 		{
 			"text": "is_rival",
 			"displayText": "is_rival",
-			"description": "Returns true if country X is a of the country."
+			"description": "Returns true if country X is a rival of the country. [Country]"
 		},
 		{
 			"text": "is_sea",
 			"displayText": "is_sea",
-			"description": "Returns true if the province is sea.Mostly used for."
+			"description": "Returns true if the province is sea. Mostly used for trade nodes. [Province]"
 		},
 		{
 			"text": "is_state",
 			"displayText": "is_state",
-			"description": "Returns true if the province is in a."
+			"description": "Returns true if the province is in a state. [Province]"
 		},
 		{
 			"text": "is_state_core",
 			"displayText": "is_state_core",
-			"description": "Returns true if the country has a state on the province with the ID X."
+			"description": "Returns true if the country has a state core on the province with the ID X. [Country / Province]"
 		},
 		{
 			"text": "is_statists_in_power",
 			"displayText": "is_statists_in_power",
-			"description": "Returns true if in the country the are in power."
+			"description": "Returns true if in the country the statists are in power. [Province]"
 		},
 		{
 			"text": "is_strongest_trade_power",
 			"displayText": "is_strongest_trade_power",
-			"description": "Returns true if the specified country has the most trade power in the area."
+			"description": "Returns true if the specified country has the most trade power in the area. [Province (Trade node)]"
 		},
 		{
 			"text": "is_subject",
 			"displayText": "is_subject",
-			"description": "Returns true if the country is a."
+			"description": "Returns true if the country is a subject. [Country]"
 		},
 		{
 			"text": "is_subject_of",
 			"displayText": "is_subject_of",
-			"description": "Returns true if the country is a of X."
+			"description": "Returns true if the country is a subject of X. [Country]"
 		},
 		{
 			"text": "is_subject_of_type",
 			"displayText": "is_subject_of_type",
-			"description": "Returns true if the country is a of type."
+			"description": "Returns true if the country is a subject of subject type. [Country]"
 		},
 		{
 			"text": "is_territorial_core",
 			"displayText": "is_territorial_core",
-			"description": "Returns true if the country has a on the province with the ID X."
+			"description": "Returns true if the country has a territorial core on the province with the ID X. [Country / Province]"
 		},
 		{
 			"text": "is_territory",
 			"displayText": "is_territory",
-			"description": "Returns true if the province is in a."
+			"description": "Returns true if the province is in a territory. [Province]"
 		},
 		{
 			"text": "is_threat",
 			"displayText": "is_threat",
-			"description": "Returns true if country X is by the country."
+			"description": "Returns true if country X is threatened by the country. [Country]"
 		},
 		{
 			"text": "is_trade_league_leader",
 			"displayText": "is_trade_league_leader",
-			"description": "Returns true if the country is the leader of a."
+			"description": "Returns true if the country is the leader of a trade league. [Country]"
 		},
 		{
 			"text": "is_tribal",
 			"displayText": "is_tribal",
-			"description": "Returns true if the country has a. (Note: Government types that allow migration are not considered tribal.)"
+			"description": "Returns true if the country has a tribal government. (Note: Government types that allow migration are not considered tribal.) [Country]"
 		},
 		{
 			"text": "is_vassal",
 			"displayText": "is_vassal",
-			"description": "Returns true if the country is a."
+			"description": "Returns true if the country is a vassal. [Country]"
 		},
 		{
 			"text": "is_wasteland",
 			"displayText": "is_wasteland",
-			"description": "Returns true if the province is."
+			"description": "Returns true if the province is wasteland. [Province]"
 		},
 		{
 			"text": "is_year",
 			"displayText": "is_year",
-			"description": "Returns true if the current year is at least X."
+			"description": "Returns true if the current year is at least X. [Anywhere]"
 		},
 		{
 			"text": "island",
 			"displayText": "island",
-			"description": "Returns true if the province is an  i.e. has no neighboring land provinces."
+			"description": "Returns true if the province is an island, i.e. has no neighboring land provinces. [Province]"
 		},
 		{
 			"text": "isolationism",
 			"displayText": "isolationism",
-			"description": "Returns true, if the country has a isolationism level of at least X."
+			"description": "Returns true, if the country has a isolationism level of at least X. [Country]"
 		},
 		{
 			"text": "janissary_percentage",
 			"displayText": "janissary_percentage",
-			"description": "Returns true if the country has an army of at least X k janissaries. Available only with the DLC enabled."
+			"description": "Returns true if the country has an army of at least X k janissaries. CoC Available only with the Cradle of Civilization DLC enabled."
 		},
 		{
 			"text": "junior_union_with",
 			"displayText": "junior_union_with",
-			"description": "Returns true if the country is the junior partner in a under country X."
+			"description": "Returns true if the country is the junior partner in a personal union under country X. [Country]"
 		},
 		{
 			"text": "karma",
 			"displayText": "karma",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a karma of at least X. [Country]"
 		},
 		{
 			"text": "knows_country",
 			"displayText": "knows_country",
-			"description": "Returns true if the country has knowledge of country X."
+			"description": "Returns true if the country has knowledge of country X. [Country]"
 		},
 		{
 			"text": "land_forcelimit",
 			"displayText": "land_forcelimit",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a land force limit of at least X. [Country]"
 		},
 		{
 			"text": "land_maintenance",
 			"displayText": "land_maintenance",
-			"description": "Returns true if the country has set its to X."
+			"description": "Returns true if the country has set its land maintenance to X. [Country]"
 		},
 		{
 			"text": "land_morale",
 			"displayText": "land_morale",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a morale of armies of at least X. [Country]"
 		},
 		{
 			"text": "last_mission",
 			"displayText": "last_mission",
-			"description": "Returns true if the last of the country was the specified mission."
+			"description": "Returns true if the last mission of the country was the specified mission. [Country]"
 		},
 		{
 			"text": "legitimacy",
 			"displayText": "legitimacy",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X legitimacy. [Country]"
 		},
 		{
 			"text": "legitimacy_equivalent",
 			"displayText": "legitimacy_equivalent",
-			"description": "Returns true, if the country's legitimacy equivalent (legitmacy, republican tradition, devotion, horde unity, meritocracy etc.) is at least X."
+			"description": "Returns true, if the country's legitimacy equivalent (legitmacy, republican tradition, devotion, horde unity, meritocracy etc.) is at least X. [Country]"
 		},
 		{
 			"text": "legitimacy_or_horde_unity",
 			"displayText": "legitimacy_or_horde_unity",
-			"description": "Returns true if the country has at least X or."
+			"description": "Returns true if the country has at least X legitimacy or horde unity. [Country]"
 		},
 		{
 			"text": "liberty_desire",
 			"displayText": "liberty_desire",
-			"description": "Return true if the subject has a of at least X."
+			"description": "Return true if the subject has a liberty desire of at least X. [Country (subject)]"
 		},
 		{
 			"text": "light_ship_fraction",
 			"displayText": "light_ship_fraction",
-			"description": "Returns true if the ratio of the fraction to the navy size of the country is at least X."
+			"description": "Returns true if the ratio of the light ship fraction to the navy size of the country is at least X. [Country]"
 		},
 		{
 			"text": "light_ships_in_province",
 			"displayText": "light_ships_in_province",
-			"description": "Returns true if there are at least X in the province."
+			"description": "Returns true if there are at least X light ships in the province. [Province]"
 		},
 		{
 			"text": "likely_rebels",
 			"displayText": "likely_rebels",
-			"description": "Returns true if the province has the specified as likely rebels."
+			"description": "Returns true if the province has the specified rebel faction as likely rebels. [Province]"
 		},
 		{
 			"text": "local_autonomy",
 			"displayText": "local_autonomy",
-			"description": "Returns true if the province has a of at least X."
+			"description": "Returns true if the province has a local autonomy of at least X. [Province]"
 		},
 		{
 			"text": "local_autonomy_above_min",
 			"displayText": "local_autonomy_above_min",
-			"description": "Returns true, if the province's local autonomy is at least X above the local development's minimun value."
+			"description": "Returns true, if the province's local autonomy is at least X above the local development's minimun value. [Province]"
 		},
 		{
 			"text": "luck",
 			"displayText": "luck",
-			"description": "Returns true if the country is a. (AI controlled counties only.)"
+			"description": "Returns true if the country is a lucky nation. (AI controlled counties only.) [Country]"
 		},
 		{
 			"text": "march_of",
 			"displayText": "march_of",
-			"description": "Returns true if the country is a under country X."
+			"description": "Returns true if the country is a march under country X. [Country]"
 		},
 		{
 			"text": "manpower",
 			"displayText": "manpower",
-			"description": "Returns true if the country has at least X * 1000 available."
+			"description": "Returns true if the country has at least X * 1000 available manpower. [Country]"
 		},
 		{
 			"text": "manpower_percentage",
 			"displayText": "manpower_percentage",
-			"description": "Returns true if the country has a level of at least X%."
+			"description": "Returns true if the country has a manpower level of at least X%. [Country]"
 		},
 		{
 			"text": "marriage_with",
 			"displayText": "marriage_with",
-			"description": "Returns true if the country has a with X."
+			"description": "Returns true if the country has a royal marriage with X. [Country]"
 		},
 		{
 			"text": "max_manpower",
 			"displayText": "max_manpower",
-			"description": "Returns true if the country has at least X * 1000 maximum manpower."
+			"description": "Returns true if the country has at least X * 1000 maximum manpower. [Country]"
 		},
 		{
 			"text": "mercantilism",
 			"displayText": "mercantilism",
-			"description": "Returns true if the country's is at least X."
+			"description": "Returns true if the country's mercantilism is at least X. [Country]"
 		},
 		{
 			"text": "meritocracy",
 			"displayText": "meritocracy",
-			"description": "Returns true, if the country has a meritocracy value of at least X."
+			"description": "Returns true, if the country has a meritocracy value of at least X. [Country]"
 		},
 		{
 			"text": "militarised_society",
 			"displayText": "militarised_society",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a militarization of country of at least X. [Country]"
 		},
 		{
 			"text": "mil_power",
 			"displayText": "mil_power",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X military power. [Country]"
 		},
 		{
 			"text": "mil_tech",
 			"displayText": "mil_tech",
-			"description": "Returns true if the country has an of at least level X."
+			"description": "Returns true if the country has an military technology of at least level X. [Country]"
 		},
 		{
 			"text": "monthly_income",
 			"displayText": "monthly_income",
-			"description": "Returns true if the country has a monthly of at least X."
+			"description": "Returns true if the country has a monthly income of at least X. [Country]"
 		},
 		{
 			"text": "months_of_ruling",
 			"displayText": "months_of_ruling",
-			"description": "Returns true if the country has a that has ruled for at least X months."
+			"description": "Returns true if the country has a ruler that has ruled for at least X months. [Country]"
 		},
 		{
 			"text": "months_since_defection",
 			"displayText": "months_since_defection",
-			"description": "Returns true if the province defected within the last X months."
+			"description": "Returns true if the province defected within the last X months. [Province]"
 		},
 		{
 			"text": "nationalism",
 			"displayText": "nationalism",
-			"description": "Returns true if province has at least X years of remaining."
+			"description": "Returns true if province has at least X years of separatism remaining. [Province]"
 		},
 		{
 			"text": "national_focus",
 			"displayText": "national_focus",
-			"description": "Returns true if country has set the to X."
+			"description": "Returns true if country has set the national focus to X. [Country]"
 		},
 		{
 			"text": "nation_designer_points",
 			"displayText": "nation_designer_points",
-			"description": "Returns true if at least X points were used when creating the."
+			"description": "Returns true if at least X points were used when creating the custom nation. [Country]"
 		},
 		{
 			"text": "native_ferocity",
 			"displayText": "native_ferocity",
-			"description": "Returns true if ferocity of natives in the province is at least X."
+			"description": "Returns true if ferocity of natives in the province is at least X. [Province]"
 		},
 		{
 			"text": "native_hostileness",
 			"displayText": "native_hostileness",
-			"description": "Returns true if hostileness of natives in the province is at least X."
+			"description": "Returns true if hostileness of natives in the province is at least X. [Province]"
 		},
 		{
 			"text": "native_size",
 			"displayText": "native_size",
-			"description": "Returns true if size of natives in the province is at least X."
+			"description": "Returns true if size of natives in the province is at least X. [Province]"
 		},
 		{
 			"text": "naval_forcelimit",
 			"displayText": "naval_forcelimit",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a naval force limit of at least X. [Country]"
 		},
 		{
 			"text": "naval_maintenance",
 			"displayText": "naval_maintenance",
-			"description": "Returns true if the country's slider is at least X fraction of maximum."
+			"description": "Returns true if the country's naval maintenance slider is at least X fraction of maximum. [Country]"
 		},
 		{
 			"text": "naval_morale",
 			"displayText": "naval_morale",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a morale of navies of at least X. [Country]"
 		},
 		{
 			"text": "navy_size",
 			"displayText": "navy_size",
-			"description": "Returns true if the current scope has a navy of at least Xs."
+			"description": "Returns true if the current scope has a navy of at least X ships. [Country]"
 		},
 		{
 			"text": "navy_size_percentage",
 			"displayText": "navy_size_percentage",
-			"description": "Returns true if the ratio of the total navy size of the country to its is at least X."
+			"description": "Returns true if the ratio of the total navy size of the country to its naval force limit is at least X. [Country]"
 		},
 		{
 			"text": "navy_tradition",
 			"displayText": "navy_tradition",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a navy tradition of at least X. [Country]"
 		},
 		{
 			"text": "normal_or_historical_nations",
 			"displayText": "normal_or_historical_nations",
-			"description": "Returns true if game is set to use."
+			"description": "Returns true if game is set to use normal or historical nations. [Anywhere]"
 		},
 		{
 			"text": "normal_province_values",
 			"displayText": "normal_province_values",
-			"description": "Returns true if game is set to use."
+			"description": "Returns true if game is set to use normal province values. [Anywhere]"
 		},
 		{
 			"text": "num_accepted_cultures",
 			"displayText": "num_accepted_cultures",
-			"description": "Returns true, if the country has at least X accepted cultures."
+			"description": "Returns true, if the country has at least X accepted cultures. [Country]"
 		},
 		{
 			"text": "num_free_building_slots",
 			"displayText": "num_free_building_slots",
-			"description": "Returns true if the province has at least X remaining."
+			"description": "Returns true if the province has at least X building slots remaining. [Province]"
 		},
 		{
 			"text": "num_of_active_blessings",
 			"displayText": "num_of_active_blessings",
-			"description": "Returns true if the country has enabled at least Xs."
+			"description": "Returns true if the country has enabled at least X blessings. [Country]"
 		},
 		{
 			"text": "num_of_admirals",
 			"displayText": "num_of_admirals",
-			"description": "Returns true if the country has at least Xs."
+			"description": "Returns true if the country has at least X admirals. [Country]"
 		},
 		{
 			"text": "num_of_admirals_with_traits",
 			"displayText": "num_of_admirals_with_traits",
-			"description": "Returns true if the country has at least X with traits."
+			"description": "Returns true if the country has at least X admirals with traits. [Country]"
 		},
 		{
 			"text": "num_of_allies",
 			"displayText": "num_of_allies",
-			"description": "Return true if the country has at least X."
+			"description": "Return true if the country has at least X allies. [Country]"
 		},
 		{
 			"text": "num_of_artillery",
 			"displayText": "num_of_artillery",
-			"description": "Returns true if the country has at least X artillery regiments."
+			"description": "Returns true if the country has at least X artillery regiments. [Country]"
 		},
 		{
 			"text": "num_of_aspects",
 			"displayText": "num_of_aspects",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X church aspects. [Country]"
 		},
 		{
 			"text": "num_of_banners",
 			"displayText": "num_of_banners",
-			"description": "Returns true, if the country has at least X banner units."
+			"description": "Returns true, if the country has at least X banner units. [Country]"
 		},
 		{
 			"text": "num_of_cardinals",
 			"displayText": "num_of_cardinals",
-			"description": "Returns true if the country has at least X in the Holy See."
+			"description": "Returns true if the country has at least X cardinals in the Holy See. [Country]"
 		},
 		{
 			"text": "num_of_cavalry",
 			"displayText": "num_of_cavalry",
-			"description": "Returns true if the country has at least X cavalry regiments."
+			"description": "Returns true if the country has at least X cavalry regiments. [Country]"
 		},
 		{
 			"text": "num_of_cities",
 			"displayText": "num_of_cities",
-			"description": "Returns true if the country owns at least X."
+			"description": "Returns true if the country owns at least X cities. [Country]"
 		},
 		{
 			"text": "num_of_coalition_members",
 			"displayText": "num_of_coalition_members",
-			"description": "Returns true if the country is in a of at least X members."
+			"description": "Returns true if the country is in a coalition of at least X members. [Country]"
 		},
 		{
 			"text": "num_of_colonies",
 			"displayText": "num_of_colonies",
-			"description": "Returns true if the country has at least X unfinished."
+			"description": "Returns true if the country has at least X unfinished colonies. [Country]"
 		},
 		{
 			"text": "num_of_colonists",
 			"displayText": "num_of_colonists",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X colonists. [Country]"
 		},
 		{
 			"text": "num_of_conquistadors",
 			"displayText": "num_of_conquistadors",
-			"description": "Returns true if the country has at least Xs."
+			"description": "Returns true if the country has at least X conquistadors. [Country]"
 		},
 		{
 			"text": "num_of_continents",
 			"displayText": "num_of_continents",
-			"description": "Returns true, if the country owns provinces on at least X continents. Only provinces owned by the country itself are taken into account, not provinces owned by subjects."
+			"description": "Returns true, if the country owns provinces on at least X continents. Only provinces owned by the country itself are taken into account, not provinces owned by subjects. [Country]"
 		},
 		{
 			"text": "num_of_cossacks",
 			"displayText": "num_of_cossacks",
-			"description": "Returns true, if the country has at least X cossack units."
+			"description": "Returns true, if the country has at least X cossack units. [Country]"
 		},
 		{
 			"text": "num_of_custom_nations",
 			"displayText": "num_of_custom_nations",
-			"description": "Returns true if there are at least X in the game."
+			"description": "Returns true if there are at least X custom nations in the game. [Country]"
 		},
 		{
 			"text": "num_of_diplomatic_relations",
 			"displayText": "num_of_diplomatic_relations",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X diplomatic relations. [Country]"
 		},
 		{
 			"text": "num_of_diplomats",
 			"displayText": "num_of_diplomats",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X diplomats. [Country]"
 		},
 		{
 			"text": "num_of_electors",
 			"displayText": "num_of_electors",
-			"description": "Returns true if there are at least X of the HRE."
+			"description": "Returns true if there are at least X electors of the HRE. [Anywhere]"
 		},
 		{
 			"text": "num_of_explorers",
 			"displayText": "num_of_explorers",
-			"description": "Returns true if the country has at least Xs."
+			"description": "Returns true if the country has at least X explorers. [Country]"
 		},
 		{
 			"text": "num_of_free_diplomatic_relations",
 			"displayText": "num_of_free_diplomatic_relations",
-			"description": "Returns true if the country has at least X free slots."
+			"description": "Returns true if the country has at least X free diplomatic relations slots. [Country]"
 		},
 		{
 			"text": "num_of_galley",
 			"displayText": "num_of_galley",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X galleys. [Country]"
 		},
 		{
 			"text": "num_of_generals",
 			"displayText": "num_of_generals",
-			"description": "Returns true if the country has at least Xs."
+			"description": "Returns true if the country has at least X generals. [Country]"
 		},
 		{
 			"text": "num_of_generals_with_traits",
 			"displayText": "num_of_generals_with_traits",
-			"description": "Returns true if the country has at least X with traits."
+			"description": "Returns true if the country has at least X generals with traits. [Country]"
 		},
 		{
 			"text": "num_of_harmonized",
 			"displayText": "num_of_harmonized",
-			"description": "Returns true, if the country has harmonized with at least X religions or religion groups."
+			"description": "Returns true, if the country has harmonized with at least X religions or religion groups. [Country]"
 		},
 		{
 			"text": "num_of_heavy_ship",
 			"displayText": "num_of_heavy_ship",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X heavy ships. [Country]"
 		},
 		{
 			"text": "num_of_infantry",
 			"displayText": "num_of_infantry",
-			"description": "Returns true if the country has at least X infantry regiments."
+			"description": "Returns true if the country has at least X infantry regiments. [Country]"
 		},
 		{
 			"text": "num_of_light_ship",
 			"displayText": "num_of_light_ship",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X light ships. [Country]"
 		},
 		{
 			"text": "num_of_loans",
 			"displayText": "num_of_loans",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X loans. [Country]"
 		},
 		{
 			"text": "num_of_marches",
 			"displayText": "num_of_marches",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X marches. [Country]"
 		},
 		{
 			"text": "num_of_mercenaries",
 			"displayText": "num_of_mercenaries",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X mercenaries. [Country]"
 		},
 		{
 			"text": "num_of_merchants",
 			"displayText": "num_of_merchants",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X merchants. [Country]"
 		},
 		{
 			"text": "num_of_missionaries",
 			"displayText": "num_of_missionaries",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X missionaries. [Country]"
 		},
 		{
 			"text": "num_of_owned_and_controlled_institutions",
 			"displayText": "num_of_owned_and_controlled_institutions",
-			"description": "Returns true, if the country owns and controlls at least X provinces that are institution origins."
+			"description": "Returns true, if the country owns and controlls at least X provinces that are institution origins. [Country]"
 		},
 		{
 			"text": "num_of_ports",
 			"displayText": "num_of_ports",
-			"description": "Returns true if country owns at least Xs (in lands contiguously connected to the capital)."
+			"description": "Returns true if country owns at least X home ports (in lands contiguously connected to the capital). [Country]"
 		},
 		{
 			"text": "num_of_ports_blockading",
 			"displayText": "num_of_ports_blockading",
-			"description": "Returns true if the country blockades at least X ports."
+			"description": "Returns true if the country blockades at least X ports. [Country]"
 		},
 		{
 			"text": "num_of_powerful_estates",
 			"displayText": "num_of_powerful_estates",
-			"description": "Returns true if the country has at least X with at least 70 influence."
+			"description": "Returns true if the country has at least X estates with at least 70 influence. [Country]"
 		},
 		{
 			"text": "num_of_protectorates",
 			"displayText": "num_of_protectorates",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X protectorates. [Country]"
 		},
 		{
 			"text": "num_of_provinces_in_states",
 			"displayText": "num_of_provinces_in_states",
-			"description": "Returns true if the country has at least X provinces is."
+			"description": "Returns true if the country has at least X provinces is states. [Country]"
 		},
 		{
 			"text": "num_of_provinces_in_territories",
 			"displayText": "num_of_provinces_in_territories",
-			"description": "Returns true if the country has at least X provinces is."
+			"description": "Returns true if the country has at least X provinces is territories. [Country]"
 		},
 		{
 			"text": "num_of_rebel_armies",
 			"displayText": "num_of_rebel_armies",
-			"description": "Returns true if the number of armies in the country is at least X."
+			"description": "Returns true if the number of rebel armies in the country is at least X. [Country]"
 		},
 		{
 			"text": "num_of_rebel_controlled_provinces",
 			"displayText": "num_of_rebel_controlled_provinces",
-			"description": "Returns true if the number of controlled provinces in the country is at least X."
+			"description": "Returns true if the number of rebel controlled provinces in the country is at least X. [Country]"
 		},
 		{
 			"text": "num_of_revolts",
 			"displayText": "num_of_revolts",
-			"description": "Returns true if the number of revolts in the country is at least X. The same as num_of_rebel_controlled_provinces."
+			"description": "Returns true if the number of revolts in the country is at least X. The same as ‘num_of_rebel_controlled_provinces’. [Country]"
 		},
 		{
 			"text": "num_of_royal_marriages",
 			"displayText": "num_of_royal_marriages",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X royal marriages. [Country]"
 		},
 		{
 			"text": "num_of_states",
 			"displayText": "num_of_states",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X states. [Country]"
 		},
 		{
 			"text": "num_of_streltsy",
 			"displayText": "num_of_streltsy",
-			"description": "Returns true, if the country has at least X streltsy units."
+			"description": "Returns true, if the country has at least X streltsy units. [Country]"
 		},
 		{
 			"text": "num_of_strong_trade_companies",
 			"displayText": "num_of_strong_trade_companies",
-			"description": "Returns true if the country has at least X strong."
+			"description": "Returns true if the country has at least X strong trade companies. [Country]"
 		},
 		{
 			"text": "num_of_subjects",
 			"displayText": "num_of_subjects",
-			"description": "Returns true if the country is the overlord of at least X subject countries of any type."
+			"description": "Returns true if the country is the overlord of at least X subject countries of any type. [Country]"
 		},
 		{
 			"text": "num_of_territories",
 			"displayText": "num_of_territories",
-			"description": "Returns true, if the country has at least X territories (areas that aren't states)."
+			"description": "Returns true, if the country has at least X territories (areas that aren't states). [Country]"
 		},
 		{
 			"text": "num_of_times_improved",
 			"displayText": "num_of_times_improved",
-			"description": "Returns true if the of the province was improved at least X times."
+			"description": "Returns true if the development of the province was improved at least X times. [Province]"
 		},
 		{
 			"text": "num_of_total_ports",
 			"displayText": "num_of_total_ports",
-			"description": "Returns true if the country owns at least X total ports (anywhere in the world)."
+			"description": "Returns true if the country owns at least X total ports (anywhere in the world). [Country]"
 		},
 		{
 			"text": "num_of_trade_embargos",
 			"displayText": "num_of_trade_embargos",
-			"description": "Returns true if the country has at least X trades."
+			"description": "Returns true if the country has at least X trade embargos. [Country]"
 		},
 		{
 			"text": "num_of_trading_bonuses",
 			"displayText": "num_of_trading_bonuses",
-			"description": "Returns true if the country hasat least X trading in bonuses."
+			"description": "Returns true if the country hasat least X ‘trading in’ bonuses. [Country]"
 		},
 		{
 			"text": "num_of_transport",
 			"displayText": "num_of_transport",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X transports. [Country]"
 		},
 		{
 			"text": "num_of_trusted_allies",
 			"displayText": "num_of_trusted_allies",
-			"description": "Returns true if the country has at least X with 100."
+			"description": "Returns true if the country has at least X allies with 100 trust. [Country]"
 		},
 		{
 			"text": "num_of_unions",
 			"displayText": "num_of_unions",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X personal unions. [Country]"
 		},
 		{
 			"text": "num_of_unlocked_cults",
 			"displayText": "num_of_unlocked_cults",
-			"description": "Returns true if the country has unlocked at least X."
+			"description": "Returns true if the country has unlocked at least X cults. [Country]"
 		},
 		{
 			"text": "num_of_war_reparations",
 			"displayText": "num_of_war_reparations",
-			"description": "Returns true if the country receives from at least X countries."
+			"description": "Returns true if the country receives war reparations from at least X countries. [Country]"
 		},
 		{
 			"text": "num_ships_privateering",
 			"displayText": "num_ships_privateering",
-			"description": "Returns true if country has at least X ships."
+			"description": "Returns true if country has at least X ships privateering. [Country]"
 		},
 		{
 			"text": "offensive_war_with",
 			"displayText": "offensive_war_with",
-			"description": "Returns true if the country is in an offensive war with country X."
+			"description": "Returns true if the country is in an offensive war with country X. [Country]"
 		},
 		{
 			"text": "overextension_percentage",
 			"displayText": "overextension_percentage",
-			"description": "Returns true if country has at least X%."
+			"description": "Returns true if country has at least X% overextension. [Country]"
 		},
 		{
 			"text": "overlord_of",
 			"displayText": "overlord_of",
-			"description": "Returns true if the country is the of X."
+			"description": "Returns true if the country is the overlord of X. [Country]"
 		},
 		{
 			"text": "overseas_provinces_percentage",
 			"displayText": "overseas_provinces_percentage",
-			"description": "Returns true if the country has X percentage of provinces."
+			"description": "Returns true if the country has X percentage of overseas provinces. [Country]"
 		},
 		{
 			"text": "owned_by",
 			"displayText": "owned_by",
-			"description": "Returns true if the province is owned by the country X."
+			"description": "Returns true if the province is owned by the country X. [Province]"
 		},
 		{
 			"text": "owns",
 			"displayText": "owns",
-			"description": "Returns true if the country owns the specified province."
+			"description": "Returns true if the country owns the specified province. [Country]"
 		},
 		{
 			"text": "owns_core_province",
 			"displayText": "owns_core_province",
-			"description": "Returns true if the country owns and has a on the specified province."
+			"description": "Returns true if the country owns and has a core on the specified province. [Country]"
 		},
 		{
 			"text": "owns_or_non_sovereign_subject_of",
 			"displayText": "owns_or_non_sovereign_subject_of",
-			"description": "Returns true, if the country or a subject that is not categorized as sovereign (e.g. tributary states are excluded) owns the specified province."
+			"description": "Returns true, if the country or a subject that is not categorized as \"sovereign\" (e.g. tributary states are excluded) owns the specified province. [Country]"
 		},
 		{
 			"text": "owns_or_subject_of",
 			"displayText": "owns_or_subject_of",
-			"description": "Returns true, if the country or a subject owns the specified province."
+			"description": "Returns true, if the country or a subject owns the specified province. [Country]"
 		},
 		{
 			"text": "papacy_active",
 			"displayText": "papacy_active",
-			"description": "Returns true if the is active."
+			"description": "Returns true if the papacy is active. [Anywhere]"
 		},
 		{
 			"text": "papal_influence",
 			"displayText": "papal_influence",
-			"description": "Returns true if the country's is at least X."
+			"description": "Returns true if the country's papal influence is at least X. [Country]"
 		},
 		{
 			"text": "patriarch_authority",
 			"displayText": "patriarch_authority",
-			"description": "Returns true if the country's is at least X."
+			"description": "Returns true if the country's patriarch authority is at least X. [Country]"
 		},
 		{
 			"text": "percentage_backing_issue",
 			"displayText": "percentage_backing_issue",
-			"description": "Returns true if at least the Xth part of the seats in the is backing for the current issue."
+			"description": "Returns true if at least the Xth part of the seats in the parliament is backing for the current issue. [Country]"
 		},
 		{
 			"text": "personality",
 			"displayText": "personality",
-			"description": "Returns true if the country has a which is X."
+			"description": "Returns true if the country has a ruler which personality is X. [Country]"
 		},
 		{
 			"text": "piety",
 			"displayText": "piety",
-			"description": "Returns true if the country's is at least X."
+			"description": "Returns true if the country's piety is at least X. [Country]"
 		},
 		{
 			"text": "preferred_emperor",
 			"displayText": "preferred_emperor",
-			"description": "Returns true if an elector has the country X is the preferred emperor."
+			"description": "Returns true if an elector has the country X is the preferred emperor. [Country (Elector)]"
 		},
 		{
 			"text": "prestige",
 			"displayText": "prestige",
-			"description": "Return true if the country has a of at least X."
+			"description": "Return true if the country has a prestige of at least X. [Country]"
 		},
 		{
 			"text": "previous_owner",
 			"displayText": "previous_owner",
-			"description": "Returns true if the previous owner of the province was X."
+			"description": "Returns true if the previous owner of the province was X. [Province]"
 		},
 		{
 			"text": "primary_culture",
 			"displayText": "primary_culture",
-			"description": "Returns true if the country's primary culture is X."
+			"description": "Returns true if the country's primary culture is X. [Country]"
 		},
 		{
 			"text": "primitives",
 			"displayText": "primitives",
-			"description": "Returns true if the country is."
+			"description": "Returns true if the country is primitive. [Country]"
 		},
 		{
 			"text": "production_efficiency",
 			"displayText": "production_efficiency",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a production efficiency of at least X. [Country]"
 		},
 		{
 			"text": "production_income_percentage",
 			"displayText": "production_income_percentage",
-			"description": "Returns true if the ratio of production income to total income is at least X."
+			"description": "Returns true if the ratio of production income to total income is at least X. [Country]"
 		},
 		{
 			"text": "province_id",
 			"displayText": "province_id",
-			"description": "Returns true if the province has the ID X."
+			"description": "Returns true if the province has the ID X. [Province]"
 		},
 		{
 			"text": "province_group",
 			"displayText": "province_group",
-			"description": "Returns true if the province belongs to the specified."
+			"description": "Returns true if the province belongs to the specified province group. [Province]"
 		},
 		{
 			"text": "province_trade_power",
 			"displayText": "province_trade_power",
-			"description": "Returns true if generated by the province is at least X."
+			"description": "Returns true if trade power generated by the province is at least X. [Province]"
 		},
 		{
 			"text": "provinces_on_capital_continent_of",
 			"displayText": "provinces_on_capital_continent_of",
-			"description": "Returns true if the country has a province on the continent with the capital of the specified country."
+			"description": "Returns true if the country has a province on the continent with the capital of the specified country. [Country]"
 		},
 		{
 			"text": "pure_unrest",
 			"displayText": "pure_unrest",
-			"description": "Returns true if the province has a base of at least X."
+			"description": "Returns true if the province has a base unrest of at least X. [Province]"
 		},
 		{
 			"text": "range",
 			"displayText": "range",
-			"description": "Returns true if the province is within the range of the specified country."
+			"description": "Returns true if the province is within the range of the specified country. [Province]"
 		},
 		{
 			"text": "real_day_of_year",
 			"displayText": "real_day_of_year",
-			"description": "Returns true, if today is X. Refers to the actual real day (probably takes system time)."
+			"description": "Returns true, if today is X. Refers to the actual real day (probably takes system time). [Anywhere]"
 		},
 		{
 			"text": "real_month_of_year",
 			"displayText": "real_month_of_year",
-			"description": "Returns true if the month of the year in reality is at least X (January = 0)."
+			"description": "Returns true if the month of the year in reality is at least X (January &#8793 [0)]"
 		},
 		{
 			"text": "reform_desire",
 			"displayText": "reform_desire",
-			"description": "Returns true if the is at least X%."
+			"description": "Returns true if the reform desire is at least X%. [Anywhere]"
 		},
 		{
 			"text": "region",
 			"displayText": "region",
-			"description": "Returns true if the province is part of the X."
+			"description": "Returns true if the province is part of the region X. [Province]"
 		},
 		{
 			"text": "religion",
 			"displayText": "religion",
-			"description": "Returns true if the country/province has religion X. Note: Within province scope religion = secondary returns true if the province religion matches the secondary/syncretic religion of the owner."
+			"description": "Returns true if the country/province has religion X. Note: Within province scope religion = secondary returns true if the province religion matches the secondary/syncretic religion of the owner. [Country / Province]"
 		},
 		{
 			"text": "religion_group",
 			"displayText": "religion_group",
-			"description": "Returns true if the country/province has a religion of the specified."
+			"description": "Returns true if the country/province has a religion of the specified religious group. [Country / Province]"
 		},
 		{
 			"text": "religion_group_claim",
 			"displayText": "religion_group_claim",
-			"description": "Returns true if the country has the same religion as country X"
+			"description": "Returns true if the country has the same religion as country X [Region]"
 		},
 		{
 			"text": "religious_unity",
 			"displayText": "religious_unity",
-			"description": "Returns true if the country's is at least X."
+			"description": "Returns true if the country's religious unity is at least X. [Country]"
 		},
 		{
 			"text": "republican_tradition",
 			"displayText": "republican_tradition",
-			"description": "Returns true if country's is at least X."
+			"description": "Returns true if country's republican tradition is at least X. [Country]"
 		},
 		{
 			"text": "revanchism",
 			"displayText": "revanchism",
-			"description": "Returns true if country's is at least X."
+			"description": "Returns true if country's revanchism is at least X. [Country]"
 		},
 		{
 			"text": "revolt_percentage",
 			"displayText": "revolt_percentage",
-			"description": "Returns true if at least the Xth part of the provinces of the country have."
+			"description": "Returns true if at least the Xth part of the provinces of the country have revolts. [Country]"
 		},
 		{
 			"text": "revolution_target_exists",
 			"displayText": "revolution_target_exists",
-			"description": "Returns true if there is a in the world."
+			"description": "Returns true if there is a revolutionary target in the world."
 		},
 		{
 			"text": "ruler_age",
 			"displayText": "ruler_age",
-			"description": "Returns true if the country has a that is at least X years old."
+			"description": "Returns true if the country has a ruler that is at least X years old. [Country]"
 		},
 		{
 			"text": "ruler_consort_marriage_length",
 			"displayText": "ruler_consort_marriage_length",
-			"description": ""
+			"description": " [Country]"
 		},
 		{
 			"text": "ruler_culture",
 			"displayText": "ruler_culture",
-			"description": "Returns true, if the country's ruler has the specified culture. Can utilise."
+			"description": "Returns true, if the country's ruler has the specified culture. Can utilise Event Scope Values. [Country]"
 		},
 		{
 			"text": "ruler_has_personality",
 			"displayText": "ruler_has_personality",
-			"description": "Returns true if the country’s has the specified."
+			"description": "Returns true if the country’s ruler has the specified personality. [Country]"
 		},
 		{
 			"text": "ruler_is_foreigner",
 			"displayText": "ruler_is_foreigner",
-			"description": "Returns true if the country has foreign."
+			"description": "Returns true if the country has foreign ruler. [Country]"
 		},
 		{
 			"text": "ruler_religion",
 			"displayText": "ruler_religion",
-			"description": "Returns true, if the country's ruler has the specified religion. Can utilise."
+			"description": "Returns true, if the country's ruler has the specified religion. Can utilise Event Scope Values. [Country]"
 		},
 		{
 			"text": "sailors",
 			"displayText": "sailors",
-			"description": "Returns true if the country has at least X."
+			"description": "Returns true if the country has at least X sailors. [Country]"
 		},
 		{
 			"text": "sailors_percentage",
 			"displayText": "sailors_percentage",
-			"description": "Returns true if the country has a level of at least X%."
+			"description": "Returns true if the country has a sailor level of at least X%. [Country]"
 		},
 		{
 			"text": "same_continent",
 			"displayText": "same_continent",
-			"description": "Returns true, if specified provinces are on the same continent. If used in country scope, capitals are checked."
+			"description": "Returns true, if specified provinces are on the same continent. If used in country scope, capitals are checked. [Country / Province]"
 		},
 		{
 			"text": "secondary_religion",
 			"displayText": "secondary_religion",
-			"description": "Returns true the of the country is X."
+			"description": "Returns true the secondary religion of the country is X. [Country]"
 		},
 		{
 			"text": "senior_union_with",
 			"displayText": "senior_union_with",
-			"description": "Returns true if the country is the senior partner in a over country X."
+			"description": "Returns true if the country is the senior partner in a personal union over country X. [Country]"
 		},
 		{
 			"text": "sieged_by",
 			"displayText": "sieged_by",
-			"description": "Returns true if the province is being besieged by country X."
+			"description": "Returns true if the province is being besieged by country X. [Province]"
 		},
 		{
 			"text": "splendor",
 			"displayText": "splendor",
-			"description": "Returns true, if the country has at least X splendor."
+			"description": "Returns true, if the country has at least X splendor. [Country]"
 		},
 		{
 			"text": "stability",
 			"displayText": "stability",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a stability of at least X. [Country]"
 		},
 		{
 			"text": "start_date",
 			"displayText": "start_date",
-			"description": "Returns true if the of the campaign is X."
+			"description": "Returns true if the start date of the campaign is X. [Anywhere]"
 		},
 		{
 			"text": "started_in",
 			"displayText": "started_in",
-			"description": "Returns true if the of the campaign is X or after."
+			"description": "Returns true if the start date of the campaign is X or after. [Anywhere]"
 		},
 		{
 			"text": "statists_vs_orangists",
 			"displayText": "statists_vs_orangists",
-			"description": "Returns true if vs is at least X."
+			"description": "Returns true if Statists vs Orangists is at least X. [Country]"
 		},
 		{
 			"text": "subsidised_percent_amount",
 			"displayText": "subsidised_percent_amount",
-			"description": "Returns true if the receives of at least X% of its monthly income."
+			"description": "Returns true if the country receives subsidies of at least X% of its monthly income. [Country]"
 		},
 		{
 			"text": "succession_claim",
 			"displayText": "succession_claim",
-			"description": "Returns true if the country has of the country X."
+			"description": "Returns true if the country has claimed the throne of the country X. [Country]"
 		},
 		{
 			"text": "superregion",
 			"displayText": "superregion",
-			"description": "Returns true if the province belongs to the X."
+			"description": "Returns true if the province belongs to the superregion X. [Province]"
 		},
 		{
 			"text": "tag",
 			"displayText": "tag",
-			"description": "Returns true if the is the specified country."
+			"description": "Returns true if the country is the specified country. [Country]"
 		},
 		{
 			"text": "tariff_value",
 			"displayText": "tariff_value",
-			"description": "Returns true if the pays at least X% tariffs."
+			"description": "Returns true if the colonial nation pays at least X% tariffs. [Country]"
 		},
 		{
 			"text": "tax_income_percentage",
 			"displayText": "tax_income_percentage",
-			"description": "Returns true if the ratio of tax income to total income is at least X."
+			"description": "Returns true if the ratio of tax income to total income is at least X. [Country]"
 		},
 		{
 			"text": "tech_difference",
 			"displayText": "tech_difference",
-			"description": "Returns true if the scoped country is at least X technologies ahead (compared to the country)."
+			"description": "Returns true if the scoped country is at least X technologies ahead (compared to the country). [Country]"
 		},
 		{
 			"text": "technology_group",
 			"displayText": "technology_group",
-			"description": "Returns true if the country has the X."
+			"description": "Returns true if the country has the technology group X. [Country]"
 		},
 		{
 			"text": "tolerance_to_this",
 			"displayText": "tolerance_to_this",
-			"description": "Returns true if the country has a tolerance of at least X towards the religion of the country or scoped province."
+			"description": "Returns true if the country has a tolerance of at least X towards the religion of the country or scoped province. [Country / Province]"
 		},
 		{
 			"text": "total_base_tax",
 			"displayText": "total_base_tax",
-			"description": "Returns true if the of the country's provinces totals at least X."
+			"description": "Returns true if the base tax of the country's provinces totals at least X. [Country]"
 		},
 		{
 			"text": "total_development",
 			"displayText": "total_development",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a total development of at least X. [Country]"
 		},
 		{
 			"text": "total_number_of_cardinals",
 			"displayText": "total_number_of_cardinals",
-			"description": "Returns true if the total number of is at least X."
+			"description": "Returns true if the total number of cardinals is at least X. [Anywhere]"
 		},
 		{
 			"text": "trade_league_embargoed_bytrade_league_embargoed_by",
@@ -2535,234 +2535,234 @@
 		{
 			"text": "transports_in_province",
 			"displayText": "transports_in_province",
-			"description": "Returns true if there are at least X in the province."
+			"description": "Returns true if there are at least X transports in the province. [Province]"
 		},
 		{
 			"text": "trade_company_size",
 			"displayText": "trade_company_size",
-			"description": "Returns true if the has at least X provinces."
+			"description": "Returns true if the trade company has at least X provinces. [Province]"
 		},
 		{
 			"text": "trade_efficiency",
 			"displayText": "trade_efficiency",
-			"description": "Returns true if the country has a over X."
+			"description": "Returns true if the country has a trade efficiency over X. [Country]"
 		},
 		{
 			"text": "trade_embargoing",
 			"displayText": "trade_embargoing",
-			"description": "Returns true if the country ising country X."
+			"description": "Returns true if the country is embargoing country X. [Country]"
 		},
 		{
 			"text": "trade_embargo_by",
 			"displayText": "trade_embargo_by",
-			"description": "Returns true if country X ising the country."
+			"description": "Returns true if country X is embargoing the country. [Country]"
 		},
 		{
 			"text": "trade_income_percentage",
 			"displayText": "trade_income_percentage",
-			"description": "Returns true if the ratio of trade income to total income is at least X."
+			"description": "Returns true if the ratio of trade income to total income is at least X. [Country]"
 		},
 		{
 			"text": "trade_range",
 			"displayText": "trade_range",
-			"description": "Returns true if the trade node is within the of the specified country."
+			"description": "Returns true if the trade node is within the trade range of the specified country. [Province (Trade node)]"
 		},
 		{
 			"text": "transport_fraction",
 			"displayText": "transport_fraction",
-			"description": "Returns true if the ratio of the fraction to the navy size of the country is at least X."
+			"description": "Returns true if the ratio of the transport fraction to the navy size of the country is at least X. [Country]"
 		},
 		{
 			"text": "treasury",
 			"displayText": "treasury",
-			"description": "Returns true if country's treasury contains at least X ducats."
+			"description": "Returns true if country's treasury contains at least X ducats. [Country]"
 		},
 		{
 			"text": "tribal_allegiance",
 			"displayText": "tribal_allegiance",
-			"description": "Returns true, if the country has a tribal allegiance of at least X."
+			"description": "Returns true, if the country has a tribal allegiance of at least X. [Country]"
 		},
 		{
 			"text": "truce_with",
 			"displayText": "truce_with",
-			"description": "Returns true if the country has a with X."
+			"description": "Returns true if the country has a truce with X. [Country]"
 		},
 		{
 			"text": "unit_has_leader",
 			"displayText": "unit_has_leader",
-			"description": "Returns true if any unit is in the province has a leader.Warning: Works only with 'yes'."
+			"description": "Returns true if any unit is in the province has a leader. Warning: Works only with 'yes'. [Province]"
 		},
 		{
 			"text": "unit_in_battle",
 			"displayText": "unit_in_battle",
-			"description": "Returns true if any unit in the province is in a battle."
+			"description": "Returns true if any unit in the province is in a battle. [Province]"
 		},
 		{
 			"text": "unit_in_siege",
 			"displayText": "unit_in_siege",
-			"description": "Returns true if any unit in the province is in a siege."
+			"description": "Returns true if any unit in the province is in a siege. [Province]"
 		},
 		{
 			"text": "units_in_province",
 			"displayText": "units_in_province",
-			"description": "Returns true if there are at least X units in the province."
+			"description": "Returns true if there are at least X units in the province. [Province]"
 		},
 		{
 			"text": "unit_type",
 			"displayText": "unit_type",
-			"description": "Returns true if the country has units of type X."
+			"description": "Returns true if the country has units of type X. [Country]"
 		},
 		{
 			"text": "unrest",
 			"displayText": "unrest",
-			"description": "Returns true if the in the province is at least X."
+			"description": "Returns true if the unrest in the province is at least X. [Province]"
 		},
 		{
 			"text": "uses_authority",
 			"displayText": "uses_authority",
-			"description": "Returns true if the country uses mechanics."
+			"description": "Returns true if the country uses authority mechanics. [Country]"
 		},
 		{
 			"text": "uses_church_aspects",
 			"displayText": "uses_church_aspects",
-			"description": "Returns true if the country uses mechanics."
+			"description": "Returns true if the country uses church aspects mechanics. [Country]"
 		},
 		{
 			"text": "uses_blessings",
 			"displayText": "uses_blessings",
-			"description": "Returns true if the country usess mechanics."
+			"description": "Returns true if the country uses blessings mechanics. [Country]"
 		},
 		{
 			"text": "uses_cults",
 			"displayText": "uses_cults",
-			"description": "Returns true if the country uses mechanics."
+			"description": "Returns true if the country uses cults mechanics. [Country]"
 		},
 		{
 			"text": "uses_devotion",
 			"displayText": "uses_devotion",
-			"description": "Returns true, if the country uses devotion instead of legitimacy."
+			"description": "Returns true, if the country uses devotion instead of legitimacy. [Country]"
 		},
 		{
 			"text": "uses_doom",
 			"displayText": "uses_doom",
-			"description": "Returns true if the country uses mechanics."
+			"description": "Returns true if the country uses doom mechanics. [Country]"
 		},
 		{
 			"text": "uses_fervor",
 			"displayText": "uses_fervor",
-			"description": "Returns true if the country uses mechanics."
+			"description": "Returns true if the country uses fervor mechanics. [Country]"
 		},
 		{
 			"text": "uses_isolationism",
 			"displayText": "uses_isolationism",
-			"description": "Returns true, if the country uses the isolationism mechanic."
+			"description": "Returns true, if the country uses the isolationism mechanic. [Country]"
 		},
 		{
 			"text": "uses_karma",
 			"displayText": "uses_karma",
-			"description": "Returns true if the country uses mechanics."
+			"description": "Returns true if the country uses karma mechanics. [Country]"
 		},
 		{
 			"text": "uses_papacy",
 			"displayText": "uses_papacy",
-			"description": "Returns true if the country uses mechanics."
+			"description": "Returns true if the country uses papacy mechanics. [Country]"
 		},
 		{
 			"text": "uses_patriarch_authority",
 			"displayText": "uses_patriarch_authority",
-			"description": "Returns true if the country uses mechanics."
+			"description": "Returns true if the country uses patriarch authority mechanics. [Country]"
 		},
 		{
 			"text": "uses_personal_deities",
 			"displayText": "uses_personal_deities",
-			"description": "Returns true if the country uses mechanics."
+			"description": "Returns true if the country uses personal deities mechanics. [Country]"
 		},
 		{
 			"text": "uses_piety",
 			"displayText": "uses_piety",
-			"description": "Returns true if the country uses mechanics."
+			"description": "Returns true if the country uses piety mechanics. [Country]"
 		},
 		{
 			"text": "uses_religious_icons",
 			"displayText": "uses_religious_icons",
-			"description": "Returns true, if the country uses religious icons."
+			"description": "Returns true, if the country uses religious icons. [Country]"
 		},
 		{
 			"text": "uses_syncretic_faiths",
 			"displayText": "uses_syncretic_faiths",
-			"description": "Returns true if the country usess mechanics."
+			"description": "Returns true if the country uses syncretic faiths mechanics. [Country]"
 		},
 		{
 			"text": "vassal_of",
 			"displayText": "vassal_of",
-			"description": "Returns true if the country is a of country X."
+			"description": "Returns true if the country is a vassal of country X. [Country]"
 		},
 		{
 			"text": "war_exhaustion",
 			"displayText": "war_exhaustion",
-			"description": "Returns true if the country has a of at least X."
+			"description": "Returns true if the country has a war exhaustion of at least X. [Country]"
 		},
 		{
 			"text": "war_score",
 			"displayText": "war_score",
-			"description": "Returns true if the coutry has a of at least X%."
+			"description": "Returns true if the coutry has a warscore of at least X%. [Country]"
 		},
 		{
 			"text": "war_with",
 			"displayText": "war_with",
-			"description": "Returns true if the country is at with country X."
+			"description": "Returns true if the country is at war with country X. [Country]"
 		},
 		{
 			"text": "was_never_end_game_tag_trigger",
 			"displayText": "was_never_end_game_tag_trigger",
-			"description": "Returns false if the country was ever an end game tag i.e. a tag that is not intended to form another nation"
+			"description": "Returns false if the country was ever an end game tag i.e. a tag that is not intended to form another nation [Country]"
 		},
 		{
 			"text": "was_player",
 			"displayText": "was_player",
-			"description": "Returns true if the country was controlled by a human player."
+			"description": "Returns true if the country was controlled by a human player. [Country]"
 		},
 		{
 			"text": "will_back_next_reform",
 			"displayText": "will_back_next_reform",
-			"description": "Returns true if the member of the HRE is backing the next."
+			"description": "Returns true if the member of the HRE is backing the next imperial reform. [Country]"
 		},
 		{
 			"text": "yearly_corruption_increase",
 			"displayText": "yearly_corruption_increase",
-			"description": "Returns true if the country has a yearly increase of at least X."
+			"description": "Returns true if the country has a yearly corruption increase of at least X. [Country]"
 		},
 		{
 			"text": "years_of_income",
 			"displayText": "years_of_income",
-			"description": "Returns true if the country's treasury contains ducats of at least X times their yearly income."
+			"description": "Returns true if the country's treasury contains ducats of at least X times their yearly income. [Country]"
 		}
 	],
 	"bracket": [
 		{
 			"text": "ai_attitude",
 			"displayText": "ai_attitude",
-			"description": "Returns true if the country has the specified towards country X."
+			"description": "Returns true if the country has the specified attitude towards country X. [Country]"
 		},
 		{
 			"text": "army_strength",
 			"displayText": "army_strength",
-			"description": "Returns true, if the country's army size is at least the size of X times the army size of the specified country."
+			"description": "Returns true, if the country's army size is at least the size of X times the army size of the specified country. [Country]"
 		},
 		{
 			"text": "border_distance",
 			"displayText": "border_distance",
-			"description": "Returns true if distance between the borders of the countries is at least X."
+			"description": "Returns true if distance between the borders of the countries is at least X. [Country]"
 		},
 		{
 			"text": "calc_true_if",
 			"displayText": "calc_true_if",
-			"description": "Returns true if at least \"amount\" number of targets within the specified scope match the specified conditions"
+			"description": "Returns true if at least \"amount\" number of targets within the specified scope match the specified conditions [Anywhere]"
 		},
 		{
 			"text": "capital_distance",
 			"displayText": "capital_distance",
-			"description": "Returns true if distance between the capitals of the countries is at least X."
+			"description": "Returns true if distance between the capitals of the countries is at least X. [Country]"
 		},
 		{
 			"text": "check_variable",
@@ -2772,152 +2772,152 @@
 		{
 			"text": "custom_trigger_tooltip",
 			"displayText": "custom_trigger_tooltip",
-			"description": "Hides the enclosed condition so that it is still required but cannot be seen by human players and displays the specified tooltip in its place."
+			"description": "Hides the enclosed condition so that it is still required but cannot be seen by human players and displays the specified tooltip in its place. [Anywhere]"
 		},
 		{
 			"text": "employed_advisor",
 			"displayText": "employed_advisor",
-			"description": "Returns true if the country has employed an with the specified characteristics.(Any combinations of type, home_religion and home_culture are permitted.)"
+			"description": "Returns true if the country has employed an advisor with the specified characteristics. (Any combinations of type , home_religion and home_culture are permitted.) [Country]"
 		},
 		{
 			"text": "estate_influence",
 			"displayText": "estate_influence",
-			"description": "Returns true if the X in the country has at least Y influence."
+			"description": "Returns true if the estate X in the country has at least Y influence. [Country]"
 		},
 		{
 			"text": "estate_loyalty",
 			"displayText": "estate_loyalty",
-			"description": "Returns true if the X in the country has at least Y loyalty."
+			"description": "Returns true if the estate X in the country has at least Y loyalty. [Country]"
 		},
 		{
 			"text": "estate_territory",
 			"displayText": "estate_territory",
-			"description": "Returns true if the X in the country controls at least Y% of the total development."
+			"description": "Returns true if the estate X in the country controls at least Y% of the total development. [Country]"
 		},
 		{
 			"text": "faction_influence",
 			"displayText": "faction_influence",
-			"description": "Returns true if the X of the country has at least Y influence."
+			"description": "Returns true if the faction X of the country has at least Y influence. [Country]"
 		},
 		{
 			"text": "had_active_policy",
 			"displayText": "had_active_policy",
-			"description": "Returns true, if the country still has and had the specified policy for at least X days."
+			"description": "Returns true, if the country still has and had the specified policy for at least X days. [Country]"
 		},
 		{
 			"text": "had_consort_flag",
 			"displayText": "had_consort_flag",
-			"description": "Returns true if the consort flag X was last set at least Y days ago"
+			"description": "Returns true if the consort flag X was last set at least Y days ago [Country]"
 		},
 		{
 			"text": "had_country_flag",
 			"displayText": "had_country_flag",
-			"description": "Returns true if the country flag X was last set for the country at least Y days ago."
+			"description": "Returns true if the country flag X was last set for the country at least Y days ago. [Country]"
 		},
 		{
 			"text": "had_global_flag",
 			"displayText": "had_global_flag",
-			"description": "Returns true if the global flag X was last set at least Y days ago."
+			"description": "Returns true if the global flag X was last set at least Y days ago. [Anywhere]"
 		},
 		{
 			"text": "had_heir_flag",
 			"displayText": "had_heir_flag",
-			"description": "Returns true if the heir flag X was last set at least Y days ago"
+			"description": "Returns true if the heir flag X was last set at least Y days ago [Country]"
 		},
 		{
 			"text": "had_province_flag",
 			"displayText": "had_province_flag",
-			"description": "Returns true if the province flag X was last set for the province at least Y days ago."
+			"description": "Returns true if the province flag X was last set for the province at least Y days ago. [Province]"
 		},
 		{
 			"text": "had_ruler_flag",
 			"displayText": "had_ruler_flag",
-			"description": "Returns true if the ruler flag X was last set for the current ruler at least Y days ago"
+			"description": "Returns true if the ruler flag X was last set for the current ruler at least Y days ago [Country]"
 		},
 		{
 			"text": "has_casus_belli",
 			"displayText": "has_casus_belli",
-			"description": "Returns true if the country has a of type X against country Y."
+			"description": "Returns true if the country has a casus belli of type X against country Y. [Country]"
 		},
 		{
 			"text": "has_disaster_progress",
 			"displayText": "has_disaster_progress",
-			"description": "Returns true if the progress of the specified disaster is at least X in the country."
+			"description": "Returns true if the disaster progress of the specified disaster is at least X in the country. [Country]"
 		},
 		{
 			"text": "has_estate_influence_modifier",
 			"displayText": "has_estate_influence_modifier",
-			"description": "Returns true if the X in the country has the influence modifier Y."
+			"description": "Returns true if the estate X in the country has the influence modifier Y. [Country]"
 		},
 		{
 			"text": "has_estate_loyalty_modifier",
 			"displayText": "has_estate_loyalty_modifier",
-			"description": "Returns true if the X in the country has the loyalty modifier Y."
+			"description": "Returns true if the estate X in the country has the loyalty modifier Y. [Country]"
 		},
 		{
 			"text": "has_global_modifier_value",
 			"displayText": "has_global_modifier_value",
-			"description": "Returns true if the value of the specified modifier is at least X for the country."
+			"description": "Returns true if the value of the specified modifier is at least X for the country. [Country]"
 		},
 		{
 			"text": "has_leader_with",
 			"displayText": "has_leader_with",
-			"description": "Returns true if the country has a with at least the specified stats.admiral = yes and general = yes can be used as further limitation."
+			"description": "Returns true if the country has a leader with at least the specified stats. admiral = yes and general = yes can be used as further limitation. [Country]"
 		},
 		{
 			"text": "has_local_modifier_value",
 			"displayText": "has_local_modifier_value",
-			"description": "Returns true if the value of the specified modifier is at least X for the province."
+			"description": "Returns true if the value of the specified modifier is at least X for the province. [Province]"
 		},
 		{
 			"text": "has_opinion",
 			"displayText": "has_opinion",
-			"description": "Returns true if the country has at least \"value\" opinion of the country specified by \"who\"."
+			"description": "Returns true if the country has at least \"value\" opinion of the country specified by \"who\". [Country]"
 		},
 		{
 			"text": "has_opinion_diff",
 			"displayText": "has_opinion_diff",
-			"description": "Returns true if opinion difference between country X and Y, is at least Z"
+			"description": "Returns true if opinion difference between country X and Y, is at least Z [Country]"
 		},
 		{
 			"text": "has_opinion_modifier",
 			"displayText": "has_opinion_modifier",
-			"description": "Returns true if the country has the opinion modifier \"modifier\" towards the country specified by \"who\".Can also specify a value of the modifier (but it is not displayed)."
+			"description": "Returns true if the country has the opinion modifier \"modifier\" towards the country specified by \"who\". Can also specify a value of the modifier (but it is not displayed). [Country]"
 		},
 		{
 			"text": "has_spy_network_from",
 			"displayText": "has_spy_network_from",
-			"description": "Returns true if the country X has a of at least the specified size in the country."
+			"description": "Returns true if the country X has a spy network of at least the specified size in the country. [Country]"
 		},
 		{
 			"text": "has_spy_network_in",
 			"displayText": "has_spy_network_in",
-			"description": "Returns true if the country has a of at least the specified size in country X."
+			"description": "Returns true if the country has a spy network of at least the specified size in country X. [Country]"
 		},
 		{
 			"text": "has_trade_modifier",
 			"displayText": "has_trade_modifier",
-			"description": "Returns true the specified country has the trade modifier X in the trade node."
+			"description": "Returns true the specified country has the trade modifier X in the trade node. [Province (Trade node)]"
 		},
 		{
 			"text": "hidden_trigger",
 			"displayText": "hidden_trigger",
-			"description": "Hides the enclosed conditions so that they are still required but cannot be seen by human players."
+			"description": "Hides the enclosed conditions so that they are still required but cannot be seen by human players. [Anywhere]"
 		},
 		{
 			"text": "incident_variable_value",
 			"displayText": "incident_variable_value",
-			"description": "Returns true, if the value of the specified incident is at least X."
+			"description": "Returns true, if the value of the specified incident is at least X. [Country]"
 		},
 		{
 			"text": "institution_difference",
 			"displayText": "institution_difference",
-			"description": "Returns true if the country has embraced at least X more than the specified country."
+			"description": "Returns true if the country has embraced at least X more institutions than the specified country. [Country]"
 		},
 		{
 			"text": "is_in_war",
 			"displayText": "is_in_war",
-			"description": "Returns true if the country is at and the mentioned conditions are fulfilled. Possible are: attacker_leader, defender_leader, casus_belli, defenders, attackers, participants, war_score, start_date, duration, war_goal_province."
+			"description": "Returns true if the country is at war and the mentioned conditions are fulfilled. Possible are: attacker_leader, defender_leader, casus_belli, defenders, attackers, participants, war_score, start_date, duration, war_goal_province. [Country]"
 		},
 		{
 			"text": "is_variable_equal",
@@ -2927,107 +2927,107 @@
 		{
 			"text": "military_strength",
 			"displayText": "military_strength",
-			"description": "Returns true, if the country's military strength (army size & navy size combined) is at least the size of X times the military strength of the specified country"
+			"description": "Returns true, if the country's military strength (army size & navy size combined) is at least the size of X times the military strength of the specified country [Country]"
 		},
 		{
 			"text": "naval_strength",
 			"displayText": "naval_strength",
-			"description": "Returns true, if the country's navy size is at least the size of X times the navy size of the specified country."
+			"description": "Returns true, if the country's navy size is at least the size of X times the navy size of the specified country. [Country]"
 		},
 		{
 			"text": "num_of_owned_provinces_with",
 			"displayText": "num_of_owned_provinces_with",
-			"description": "Returns true if at least X provinces of the scoped country match the specified condition(s)."
+			"description": "Returns true if at least X provinces of the scoped country match the specified condition(s). [Country]"
 		},
 		{
 			"text": "num_of_religion",
 			"displayText": "num_of_religion",
-			"description": "Float value: Returns true if the ratio of the provinces with the specified religion to the total provinces of the country is at least X.Integer value: Returns true if the country has at least X provinces with the specified religion.It is also possible to specify the secondary religion by secondary = yes."
+			"description": "Float value: Returns true if the ratio of the provinces with the specified religion to the total provinces of the country is at least X. Integer value: Returns true if the country has at least X provinces with the specified religion. It is also possible to specify the secondary religion by secondary = yes . [Country]"
 		},
 		{
 			"text": "num_of_units_in_province",
 			"displayText": "num_of_units_in_province",
-			"description": "Returns true if the specified country has at least X units of the specified type in the province. (type and who are not needed, if not included will default to all.)"
+			"description": "Returns true if the specified country has at least X units of the specified type in the province. ( type and who are not needed, if not included will default to all.) [Province]"
 		},
 		{
 			"text": "privateer_power",
 			"displayText": "privateer_power",
-			"description": "Returns true if the country has at least X trade power from in the trade node."
+			"description": "Returns true if the country has at least X trade power from privateering in the trade node. [Province (Trade node)]"
 		},
 		{
 			"text": "production_leader",
 			"displayText": "production_leader",
-			"description": "Returns true if the country is the of the X."
+			"description": "Returns true if the country is the production leader of the trade good X. [Country]"
 		},
 		{
 			"text": "province_distance",
 			"displayText": "province_distance",
-			"description": "Returns true, if the distance between specified provinces is at least X."
+			"description": "Returns true, if the distance between specified provinces is at least X. [Province]"
 		},
 		{
 			"text": "religion_years",
 			"displayText": "religion_years",
-			"description": "Returns true if the specified religion is enabled for at least X years."
+			"description": "Returns true if the specified religion is enabled for at least X years. [Anywhere]"
 		},
 		{
 			"text": "religious_school",
 			"displayText": "religious_school",
-			"description": "Returns true, if the country has the specified religious school."
+			"description": "Returns true, if the country has the specified religious school. [Country]"
 		},
 		{
 			"text": "reverse_has_opinion",
 			"displayText": "reverse_has_opinion",
-			"description": "Returns true if the country specified by \"who\" has at least \"value\" opinion of the country."
+			"description": "Returns true if the country specified by \"who\" has at least \"value\" opinion of the country. [Country]"
 		},
 		{
 			"text": "reverse_has_opinion_modifier",
 			"displayText": "reverse_has_opinion_modifier",
-			"description": "Returns true if the country specified by \"who\" has the opinion modifier \"modifier\" towards the country.Can also specify a value of the modifier (but it is not displayed)."
+			"description": "Returns true if the country specified by \"who\" has the opinion modifier \"modifier\" towards the country. Can also specify a value of the modifier (but it is not displayed). [Country]"
 		},
 		{
 			"text": "trade_share",
 			"displayText": "trade_share",
-			"description": "Returns true if the country controls at least X% of the in the specified."
+			"description": "Returns true if the country controls at least X% of the trade in the specified trade node. [Province (Trade node)]"
 		},
 		{
 			"text": "trading_bonus",
 			"displayText": "trading_bonus",
-			"description": "Returns true if the country has the ‘[[trading in]]’ bonus of the specified trade good."
+			"description": "Returns true if the country has the ‘trading in’ bonus of the specified trade good. [Country]"
 		},
 		{
 			"text": "trading_part",
 			"displayText": "trading_part",
-			"description": "Returns true if the country has access to X% of the world market of the specified."
+			"description": "Returns true if the country has access to X% of the world market of the specified trade good. [Country]"
 		},
 		{
 			"text": "trading_policy_in_node",
 			"displayText": "trading_policy_in_node",
-			"description": "Returns true, if the country has the specified trading policy in the specified trade node. Can also use policy = any."
+			"description": "Returns true, if the country has the specified trading policy in the specified trade node. Can also use \"policy = any\". [Country]"
 		},
 		{
 			"text": "trust",
 			"displayText": "trust",
-			"description": "Returns true if the current scope has a trust level of at least X with the specified tag."
+			"description": "Returns true if the current scope has a trust level of at least X with the specified tag. [Country]"
 		},
 		{
 			"text": "variable_arithmetic_trigger",
 			"displayText": "variable_arithmetic_trigger",
-			"description": "Can use variable effects and triggers to compare or change and compare modifier and trigger values. variable_arithmetic_trigger sections can include more variable_arithmetic_trigger sections. This has to be done for effects such as change_variable or effects of if sections inside the  since the game may crash otherwise."
+			"description": "Can use variable effects and triggers to compare or change and compare modifier and trigger values. \"variable_arithmetic_trigger\" sections can include more \"variable_arithmetic_trigger\" sections. This has to be done for effects such as \"change_variable\" or effects of \"if\" sections inside the \"variable_arithmetic_trigger\", since the game may crash otherwise. [Anywhere]"
 		},
 		{
 			"text": "war_score_against",
 			"displayText": "war_score_against",
-			"description": "Returns true if the coutry has a of at least X against the specified country."
+			"description": "Returns true if the coutry has a warscore of at least X against the specified country. [Country]"
 		},
 		{
 			"text": "years_in_union_under",
 			"displayText": "years_in_union_under",
-			"description": "Returns true if the country is in a under the specified country for at least X years."
+			"description": "Returns true if the country is in a personal union under the specified country for at least X years. [Country]"
 		},
 		{
 			"text": "years_in_vassalage_under",
 			"displayText": "years_in_vassalage_under",
-			"description": "Returns true if the country is a of the specified country for at least X years."
+			"description": "Returns true if the country is a vassal of the specified country for at least X years. [Country]"
 		}
 	]
 }

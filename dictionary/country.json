@@ -23,7 +23,7 @@
 		{
 			"text": "ALG",
 			"displayText": "Algiers",
-			"description": "Maghreb, Formable / Releasable"
+			"description": "Maghreb [Formable / Releasable]"
 		},
 		{
 			"text": "ALH",
@@ -38,7 +38,7 @@
 		{
 			"text": "AMG",
 			"displayText": "Armagnac",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "ANH",
@@ -48,7 +48,7 @@
 		{
 			"text": "ANN",
 			"displayText": "Annam",
-			"description": "Indochina, Releasable"
+			"description": "Indochina [Releasable]"
 		},
 		{
 			"text": "ANS",
@@ -68,12 +68,12 @@
 		{
 			"text": "ARM",
 			"displayText": "Armenia",
-			"description": "Caucasia, Formable / Releasable"
+			"description": "Caucasia [Formable / Releasable]"
 		},
 		{
 			"text": "ASH",
 			"displayText": "Ashanti",
-			"description": "West Africa, Revolter (more likely by an event)"
+			"description": "West Africa [Revolter (more likely by an event)]"
 		},
 		{
 			"text": "ASS",
@@ -83,7 +83,7 @@
 		{
 			"text": "AST",
 			"displayText": "Astrakhan",
-			"description": "Russia, Releasable"
+			"description": "Russia [Releasable]"
 		},
 		{
 			"text": "ATH",
@@ -93,17 +93,17 @@
 		{
 			"text": "ATJ",
 			"displayText": "Aceh",
-			"description": "East Indies, Revolter"
+			"description": "East Indies [Revolter]"
 		},
 		{
 			"text": "AUV",
 			"displayText": "Auvergne",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "AVI",
 			"displayText": "Avignon",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "AYU",
@@ -123,12 +123,12 @@
 		{
 			"text": "BLI",
 			"displayText": "Bali",
-			"description": "East Indies, Releasable"
+			"description": "East Indies [Releasable]"
 		},
 		{
 			"text": "BAN",
 			"displayText": "Banten",
-			"description": "East Indies, Revolter"
+			"description": "East Indies [Revolter]"
 		},
 		{
 			"text": "BAL",
@@ -153,12 +153,12 @@
 		{
 			"text": "BHU",
 			"displayText": "Bhutan",
-			"description": "Tibet, Releasable"
+			"description": "Tibet [Releasable]"
 		},
 		{
 			"text": "BIJ",
 			"displayText": "Bijapur",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "BND",
@@ -183,7 +183,7 @@
 		{
 			"text": "BOU",
 			"displayText": "Bourbonnais",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "BRA",
@@ -208,7 +208,7 @@
 		{
 			"text": "BRR",
 			"displayText": "Berar",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "BRU",
@@ -218,12 +218,12 @@
 		{
 			"text": "BRZ",
 			"displayText": "Brazil",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "BUL",
 			"displayText": "Bulgaria",
-			"description": "Balkans, Releasable"
+			"description": "Balkans [Releasable]"
 		},
 		{
 			"text": "BUR",
@@ -233,7 +233,7 @@
 		{
 			"text": "CAN",
 			"displayText": "Canada",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "CAS",
@@ -243,7 +243,7 @@
 		{
 			"text": "CAT",
 			"displayText": "Catalonia",
-			"description": "Iberia, Releasable"
+			"description": "Iberia [Releasable]"
 		},
 		{
 			"text": "CEP",
@@ -268,12 +268,12 @@
 		{
 			"text": "CHK",
 			"displayText": "Champasak",
-			"description": "Indochina, Revolter"
+			"description": "Indochina [Revolter]"
 		},
 		{
 			"text": "CHL",
 			"displayText": "Chile",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "CHM",
@@ -283,7 +283,7 @@
 		{
 			"text": "CHP",
 			"displayText": "Champagne",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "CND",
@@ -293,7 +293,7 @@
 		{
 			"text": "COL",
 			"displayText": "Colombia",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "CNN",
@@ -303,7 +303,7 @@
 		{
 			"text": "COR",
 			"displayText": "Corsica",
-			"description": "Italy, Releasable"
+			"description": "Italy [Releasable]"
 		},
 		{
 			"text": "CRE",
@@ -318,17 +318,17 @@
 		{
 			"text": "CRN",
 			"displayText": "Cornwall",
-			"description": "British Isles, Releasable"
+			"description": "British Isles [Releasable]"
 		},
 		{
 			"text": "CRO",
 			"displayText": "Croatia",
-			"description": "Balkans, Formable / Releasable"
+			"description": "Balkans [Formable / Releasable]"
 		},
 		{
 			"text": "CRT",
 			"displayText": "Crete",
-			"description": "Balkans, Releasable"
+			"description": "Balkans [Releasable]"
 		},
 		{
 			"text": "CYP",
@@ -348,7 +348,7 @@
 		{
 			"text": "DAU",
 			"displayText": "Dauphine",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "DLH",
@@ -363,7 +363,7 @@
 		{
 			"text": "ENG",
 			"displayText": "England",
-			"description": "British Isles, Formable (exists in 1444)"
+			"description": "British Isles [Formable (exists in 1444)]"
 		},
 		{
 			"text": "ETH",
@@ -378,12 +378,12 @@
 		{
 			"text": "FEZ",
 			"displayText": "Fez",
-			"description": "Maghreb, Releasable"
+			"description": "Maghreb [Releasable]"
 		},
 		{
 			"text": "FIN",
 			"displayText": "Finland",
-			"description": "Scandinavia, Releasable"
+			"description": "Scandinavia [Releasable]"
 		},
 		{
 			"text": "FLA",
@@ -393,12 +393,12 @@
 		{
 			"text": "FOI",
 			"displayText": "Foix",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "FRA",
 			"displayText": "France",
-			"description": "France, Formable (exists in 1444)"
+			"description": "France [Formable (exists in 1444)]"
 		},
 		{
 			"text": "FRI",
@@ -408,7 +408,7 @@
 		{
 			"text": "GBR",
 			"displayText": "Great Britain",
-			"description": "British Isles, Formable"
+			"description": "British Isles [Formable]"
 		},
 		{
 			"text": "GDW",
@@ -428,12 +428,12 @@
 		{
 			"text": "GEO",
 			"displayText": "Georgia",
-			"description": "Caucasia, Formable (exists in 1444)"
+			"description": "Caucasia [Formable (exists in 1444)]"
 		},
 		{
 			"text": "GER",
 			"displayText": "Germany",
-			"description": "Germany, Formable"
+			"description": "Germany [Formable]"
 		},
 		{
 			"text": "GOL",
@@ -443,7 +443,7 @@
 		{
 			"text": "GOT",
 			"displayText": "Gotland",
-			"description": "Scandinavia, Releasable"
+			"description": "Scandinavia [Releasable]"
 		},
 		{
 			"text": "GRA",
@@ -453,7 +453,7 @@
 		{
 			"text": "GRE",
 			"displayText": "Greece",
-			"description": "Balkans, Formable"
+			"description": "Balkans [Formable]"
 		},
 		{
 			"text": "GUJ",
@@ -463,17 +463,17 @@
 		{
 			"text": "GUY",
 			"displayText": "Gascony",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "HAB",
 			"displayText": "Austria",
-			"description": "Germany, Formable (exists in 1444)"
+			"description": "Germany [Formable (exists in 1444)]"
 		},
 		{
 			"text": "HAI",
 			"displayText": "Hainaut",
-			"description": "Low Countries, Releasable"
+			"description": "Low Countries [Releasable]"
 		},
 		{
 			"text": "HAM",
@@ -483,12 +483,12 @@
 		{
 			"text": "HAN",
 			"displayText": "Hanover",
-			"description": "Germany, Formable"
+			"description": "Germany [Formable]"
 		},
 		{
 			"text": "HAU",
 			"displayText": "Hausa",
-			"description": "West Africa, Releasable"
+			"description": "West Africa [Releasable]"
 		},
 		{
 			"text": "HED",
@@ -518,12 +518,12 @@
 		{
 			"text": "INC",
 			"displayText": "Inca",
-			"description": "South America, Formable"
+			"description": "South America [Formable]"
 		},
 		{
 			"text": "IRE",
 			"displayText": "Ireland",
-			"description": "British Isles, Formable"
+			"description": "British Isles [Formable]"
 		},
 		{
 			"text": "IRO",
@@ -533,12 +533,12 @@
 		{
 			"text": "ITA",
 			"displayText": "Italy",
-			"description": "Italy, Formable"
+			"description": "Italy [Formable]"
 		},
 		{
 			"text": "JAP",
 			"displayText": "Japan",
-			"description": "Far East, Formable"
+			"description": "Far East [Formable]"
 		},
 		{
 			"text": "KAR",
@@ -568,7 +568,7 @@
 		{
 			"text": "KHI",
 			"displayText": "Khiva",
-			"description": "Central Asia, Releasable"
+			"description": "Central Asia [Releasable]"
 		},
 		{
 			"text": "KHM",
@@ -588,7 +588,7 @@
 		{
 			"text": "KOK",
 			"displayText": "Ferghana",
-			"description": "Central Asia, Releasable"
+			"description": "Central Asia [Releasable]"
 		},
 		{
 			"text": "KOL",
@@ -608,7 +608,7 @@
 		{
 			"text": "KRK",
 			"displayText": "Carnatic",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "KSH",
@@ -618,12 +618,12 @@
 		{
 			"text": "KUR",
 			"displayText": "Kurland",
-			"description": "Eastern Europe, Formable"
+			"description": "Eastern Europe [Formable]"
 		},
 		{
 			"text": "KZH",
 			"displayText": "Kazakh",
-			"description": "Central Asia, Releasable"
+			"description": "Central Asia [Releasable]"
 		},
 		{
 			"text": "LAN",
@@ -633,7 +633,7 @@
 		{
 			"text": "LAP",
 			"displayText": "La Plata",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "LEI",
@@ -668,22 +668,22 @@
 		{
 			"text": "LOU",
 			"displayText": "Louisiana",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "LUA",
 			"displayText": "Luang Prabang",
-			"description": "Indochina, Releasable"
+			"description": "Indochina [Releasable]"
 		},
 		{
 			"text": "LUN",
-			"displayText": "Luneburg",
+			"displayText": "Lüneburg",
 			"description": "Germany"
 		},
 		{
 			"text": "LUX",
 			"displayText": "Luxembourg",
-			"description": "Low Countries, Releasable"
+			"description": "Low Countries [Releasable]"
 		},
 		{
 			"text": "LXA",
@@ -723,7 +723,7 @@
 		{
 			"text": "MAY",
 			"displayText": "Maya",
-			"description": "Central America, Formable"
+			"description": "Central America [Formable]"
 		},
 		{
 			"text": "MAZ",
@@ -733,12 +733,12 @@
 		{
 			"text": "MCH",
 			"displayText": "Manchu",
-			"description": "Manchuria, Formable"
+			"description": "Manchuria [Formable]"
 		},
 		{
 			"text": "MEX",
 			"displayText": "Mexico",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "MKL",
@@ -778,12 +778,12 @@
 		{
 			"text": "MOD",
 			"displayText": "Modena",
-			"description": "Italy, Releasable"
+			"description": "Italy [Releasable]"
 		},
 		{
 			"text": "MOE",
 			"displayText": "Morea",
-			"description": "Balkans, Releasable"
+			"description": "Balkans [Releasable]"
 		},
 		{
 			"text": "MOL",
@@ -793,12 +793,12 @@
 		{
 			"text": "MON",
 			"displayText": "Montenegro",
-			"description": "Balkans, Releasable"
+			"description": "Balkans [Releasable]"
 		},
 		{
 			"text": "MOR",
 			"displayText": "Morocco",
-			"description": "Maghreb, Formable (exists in 1444)"
+			"description": "Maghreb [Formable (exists in 1444)]"
 		},
 		{
 			"text": "MOS",
@@ -808,16 +808,16 @@
 		{
 			"text": "MTR",
 			"displayText": "Mataram",
-			"description": "East Indies, Revolter"
+			"description": "East Indies [Revolter]"
 		},
 		{
 			"text": "MUG",
 			"displayText": "Mughals",
-			"description": "India, Formable"
+			"description": "India [Formable]"
 		},
 		{
 			"text": "MUN",
-			"displayText": "Munster",
+			"displayText": "Münster",
 			"description": "Germany"
 		},
 		{
@@ -843,7 +843,7 @@
 		{
 			"text": "NED",
 			"displayText": "Netherlands",
-			"description": "Low Countries, Formable"
+			"description": "Low Countries [Formable]"
 		},
 		{
 			"text": "NEV",
@@ -858,7 +858,7 @@
 		{
 			"text": "NOL",
 			"displayText": "Northumberland",
-			"description": "British Isles, Releasable"
+			"description": "British Isles [Releasable]"
 		},
 		{
 			"text": "NOR",
@@ -878,17 +878,17 @@
 		{
 			"text": "NRM",
 			"displayText": "Normandy",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "NUB",
 			"displayText": "Funj",
-			"description": "West Africa, Revolter (more likely by an event)"
+			"description": "West Africa [Revolter (more likely by an event)]"
 		},
 		{
 			"text": "ODH",
 			"displayText": "Oudh",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "OIR",
@@ -913,7 +913,7 @@
 		{
 			"text": "ORL",
 			"displayText": "Orleans",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "OYO",
@@ -933,7 +933,7 @@
 		{
 			"text": "PAR",
 			"displayText": "Parma",
-			"description": "Italy, Releasable"
+			"description": "Italy [Releasable]"
 		},
 		{
 			"text": "PAT",
@@ -948,27 +948,27 @@
 		{
 			"text": "PER",
 			"displayText": "Persia",
-			"description": "Persia, Formable"
+			"description": "Persia [Formable]"
 		},
 		{
 			"text": "PEU",
 			"displayText": "Peru",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "PIC",
 			"displayText": "Picardy",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "PIS",
 			"displayText": "Pisa",
-			"description": "Italy, Releasable"
+			"description": "Italy [Releasable]"
 		},
 		{
 			"text": "POL",
 			"displayText": "Poland",
-			"description": "Eastern Europe, Formable (exists in 1444)"
+			"description": "Eastern Europe [Formable (exists in 1444)]"
 		},
 		{
 			"text": "POM",
@@ -988,7 +988,7 @@
 		{
 			"text": "PRU",
 			"displayText": "Prussia",
-			"description": "Eastern Europe, Formable"
+			"description": "Eastern Europe [Formable]"
 		},
 		{
 			"text": "PSK",
@@ -998,7 +998,7 @@
 		{
 			"text": "PUN",
 			"displayText": "Punjab",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "QAR",
@@ -1008,12 +1008,12 @@
 		{
 			"text": "QAS",
 			"displayText": "Qasim",
-			"description": "Russia, Releasable"
+			"description": "Russia [Releasable]"
 		},
 		{
 			"text": "QUE",
 			"displayText": "Quebec",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "RAG",
@@ -1023,7 +1023,7 @@
 		{
 			"text": "REB",
 			"displayText": "Rebels",
-			"description": "–, Special game tag"
+			"description": "Nowhere [Special game tag]"
 		},
 		{
 			"text": "RIG",
@@ -1033,7 +1033,7 @@
 		{
 			"text": "RUS",
 			"displayText": "Russia",
-			"description": "Russia, Formable"
+			"description": "Russia [Formable]"
 		},
 		{
 			"text": "RYA",
@@ -1048,7 +1048,7 @@
 		{
 			"text": "SAR",
 			"displayText": "Sardinia",
-			"description": "Italy, Releasable"
+			"description": "Italy [Releasable]"
 		},
 		{
 			"text": "SAV",
@@ -1083,7 +1083,7 @@
 		{
 			"text": "SHR",
 			"displayText": "Sharjah",
-			"description": "Arabia, Releasable"
+			"description": "Arabia [Releasable]"
 		},
 		{
 			"text": "SHY",
@@ -1093,12 +1093,12 @@
 		{
 			"text": "SIB",
 			"displayText": "Sibir",
-			"description": "Russia, Releasable"
+			"description": "Russia [Releasable]"
 		},
 		{
 			"text": "SIC",
 			"displayText": "Sicily",
-			"description": "Italy, Releasable"
+			"description": "Italy [Releasable]"
 		},
 		{
 			"text": "SIE",
@@ -1123,7 +1123,7 @@
 		{
 			"text": "SOF",
 			"displayText": "Segu",
-			"description": "West Africa, Revolter"
+			"description": "West Africa [Revolter]"
 		},
 		{
 			"text": "SON",
@@ -1133,17 +1133,17 @@
 		{
 			"text": "SPA",
 			"displayText": "Spain",
-			"description": "Iberia, Formable"
+			"description": "Iberia [Formable]"
 		},
 		{
 			"text": "SST",
 			"displayText": "Shan",
-			"description": "Indochina, Formable"
+			"description": "Indochina [Formable]"
 		},
 		{
 			"text": "STY",
 			"displayText": "Styria",
-			"description": "Germany, Releasable"
+			"description": "Germany [Releasable]"
 		},
 		{
 			"text": "SUL",
@@ -1173,37 +1173,37 @@
 		{
 			"text": "THU",
 			"displayText": "Thuringia",
-			"description": "Germany, Releasable"
+			"description": "Germany [Releasable]"
 		},
 		{
 			"text": "TIB",
 			"displayText": "Tibet",
-			"description": "Tibet, Formable"
+			"description": "Tibet [Formable]"
 		},
 		{
 			"text": "TIM",
 			"displayText": "Timurids",
-			"description": "Persia, Formable (exists in 1444)"
+			"description": "Persia [Formable (exists in 1444)]"
 		},
 		{
 			"text": "TIR",
 			"displayText": "Tirol",
-			"description": "Germany, Releasable"
+			"description": "Germany [Releasable]"
 		},
 		{
 			"text": "TOK",
 			"displayText": "Tonkin",
-			"description": "Indochina, Releasable"
+			"description": "Indochina [Releasable]"
 		},
 		{
 			"text": "TOU",
 			"displayText": "Toulouse",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "TRA",
 			"displayText": "Transylvania",
-			"description": "Balkans, Releasable"
+			"description": "Balkans [Releasable]"
 		},
 		{
 			"text": "TRE",
@@ -1218,12 +1218,12 @@
 		{
 			"text": "TRP",
 			"displayText": "Tripoli",
-			"description": "Maghreb, Formable / Releasable"
+			"description": "Maghreb [Formable / Releasable]"
 		},
 		{
 			"text": "TUN",
 			"displayText": "Tunis",
-			"description": "Maghreb, Formable (exists in 1444)"
+			"description": "Maghreb [Formable (exists in 1444)]"
 		},
 		{
 			"text": "TUR",
@@ -1233,7 +1233,7 @@
 		{
 			"text": "TUS",
 			"displayText": "Tuscany",
-			"description": "Italy, Formable"
+			"description": "Italy [Formable]"
 		},
 		{
 			"text": "TVE",
@@ -1248,7 +1248,7 @@
 		{
 			"text": "UKR",
 			"displayText": "Ruthenia",
-			"description": "Russia, Formable"
+			"description": "Russia [Formable]"
 		},
 		{
 			"text": "URB",
@@ -1258,7 +1258,7 @@
 		{
 			"text": "USA",
 			"displayText": "United States",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "UTR",
@@ -1283,7 +1283,7 @@
 		{
 			"text": "VIE",
 			"displayText": "Vientiane",
-			"description": "Indochina, Revolter"
+			"description": "Indochina [Revolter]"
 		},
 		{
 			"text": "VIJ",
@@ -1293,7 +1293,7 @@
 		{
 			"text": "WLS",
 			"displayText": "Wales",
-			"description": "British Isles, Releasable"
+			"description": "British Isles [Releasable]"
 		},
 		{
 			"text": "WUR",
@@ -1318,7 +1318,7 @@
 		{
 			"text": "ZAZ",
 			"displayText": "Zaporozhie",
-			"description": "Russia, Releasable"
+			"description": "Russia [Releasable]"
 		},
 		{
 			"text": "ZIM",
@@ -1328,12 +1328,12 @@
 		{
 			"text": "NAT",
 			"displayText": "Natives",
-			"description": "–, Special game tag"
+			"description": "Nowhere [Special game tag]"
 		},
 		{
 			"text": "PIR",
 			"displayText": "Pirates",
-			"description": "–, Special game tag"
+			"description": "Nowhere [Special game tag]"
 		},
 		{
 			"text": "AMA",
@@ -1343,12 +1343,12 @@
 		{
 			"text": "ASA",
 			"displayText": "Asakura",
-			"description": "Far East, Releasable"
+			"description": "Far East [Releasable]"
 		},
 		{
 			"text": "CSK",
 			"displayText": "Chosokabe",
-			"description": "Far East, Releasable"
+			"description": "Far East [Releasable]"
 		},
 		{
 			"text": "DTE",
@@ -1358,7 +1358,7 @@
 		{
 			"text": "HJO",
 			"displayText": "Hojo",
-			"description": "Far East, Revolter (more likely by an event)"
+			"description": "Far East [Revolter (more likely by an event)]"
 		},
 		{
 			"text": "HSK",
@@ -1373,7 +1373,7 @@
 		{
 			"text": "IKE",
 			"displayText": "Ikeda",
-			"description": "Far East, Revolter"
+			"description": "Far East [Revolter]"
 		},
 		{
 			"text": "IMG",
@@ -1383,12 +1383,12 @@
 		{
 			"text": "MAE",
 			"displayText": "Maeda",
-			"description": "Far East, Revolter"
+			"description": "Far East [Revolter]"
 		},
 		{
 			"text": "MRI",
 			"displayText": "Mori",
-			"description": "Far East, Releasable"
+			"description": "Far East [Releasable]"
 		},
 		{
 			"text": "ODA",
@@ -1443,7 +1443,7 @@
 		{
 			"text": "MAW",
 			"displayText": "Marwar",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "MER",
@@ -1478,7 +1478,7 @@
 		{
 			"text": "KLN",
 			"displayText": "Keladi",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "MAB",
@@ -1528,7 +1528,7 @@
 		{
 			"text": "AHM",
 			"displayText": "Ahmednagar",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "BAH",
@@ -1538,22 +1538,22 @@
 		{
 			"text": "NAG",
 			"displayText": "Nagpur",
-			"description": "India, Revolter"
+			"description": "India [Revolter]"
 		},
 		{
 			"text": "BDA",
 			"displayText": "Baroda",
-			"description": "India, Revolter"
+			"description": "India [Revolter]"
 		},
 		{
 			"text": "GOC",
 			"displayText": "Golkonda",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "MAR",
 			"displayText": "Marathas",
-			"description": "India, Revolter"
+			"description": "India [Revolter]"
 		},
 		{
 			"text": "VND",
@@ -1563,22 +1563,22 @@
 		{
 			"text": "DEC",
 			"displayText": "Deccan",
-			"description": "India, Revolter"
+			"description": "India [Revolter]"
 		},
 		{
 			"text": "CZH",
 			"displayText": "Zhou",
-			"description": "China, Revolter"
+			"description": "China [Revolter]"
 		},
 		{
 			"text": "CSH",
 			"displayText": "Shun",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "CXI",
 			"displayText": "Xi",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "JOL",
@@ -1588,7 +1588,7 @@
 		{
 			"text": "PLC",
 			"displayText": "Commonwealth",
-			"description": "Eastern Europe, Formable"
+			"description": "Eastern Europe [Formable]"
 		},
 		{
 			"text": "PRM",
@@ -1608,7 +1608,7 @@
 		{
 			"text": "QNG",
 			"displayText": "Qing",
-			"description": "Manchuria, Formable"
+			"description": "Manchuria [Formable]"
 		},
 		{
 			"text": "ABE",
@@ -1788,12 +1788,12 @@
 		{
 			"text": "EGY",
 			"displayText": "Egypt",
-			"description": "Middle East, Formable"
+			"description": "Middle East [Formable]"
 		},
 		{
 			"text": "BUK",
 			"displayText": "Bukhara",
-			"description": "Central Asia, Formable"
+			"description": "Central Asia [Formable]"
 		},
 		{
 			"text": "BGA",
@@ -1828,7 +1828,7 @@
 		{
 			"text": "JAJ",
 			"displayText": "Habsan",
-			"description": "India, Revolter (more likely by an event)"
+			"description": "India [Revolter (more likely by an event)]"
 		},
 		{
 			"text": "JFN",
@@ -1858,12 +1858,12 @@
 		{
 			"text": "PTA",
 			"displayText": "Patiala",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "RMP",
 			"displayText": "Rohilkhand",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "SDY",
@@ -1918,7 +1918,7 @@
 		{
 			"text": "KLK",
 			"displayText": "Khalkha",
-			"description": "Mongolia, Revolter"
+			"description": "Mongolia [Revolter]"
 		},
 		{
 			"text": "DGL",
@@ -1933,7 +1933,7 @@
 		{
 			"text": "ZUN",
 			"displayText": "Zunghar",
-			"description": "Mongolia, Revolter"
+			"description": "Mongolia [Revolter]"
 		},
 		{
 			"text": "KAS",
@@ -1943,7 +1943,7 @@
 		{
 			"text": "KSD",
 			"displayText": "Khoshuud",
-			"description": "Tibet, Revolter"
+			"description": "Tibet [Revolter]"
 		},
 		{
 			"text": "SYG",
@@ -1993,7 +1993,7 @@
 		{
 			"text": "FUL",
 			"displayText": "Fulo",
-			"description": "West Africa, Revolter (more likely by an event)"
+			"description": "West Africa [Revolter (more likely by an event)]"
 		},
 		{
 			"text": "BON",
@@ -2012,13 +2012,13 @@
 		},
 		{
 			"text": "JNN",
-			"displayText": "Jenne",
+			"displayText": "Jenné",
 			"description": "West Africa"
 		},
 		{
 			"text": "KBU",
 			"displayText": "Kaabu",
-			"description": "West Africa, Releasable"
+			"description": "West Africa [Releasable]"
 		},
 		{
 			"text": "KNG",
@@ -2038,7 +2038,7 @@
 		{
 			"text": "YAT",
 			"displayText": "Yatenga",
-			"description": "West Africa, Releasable"
+			"description": "West Africa [Releasable]"
 		},
 		{
 			"text": "ZAF",
@@ -2058,17 +2058,17 @@
 		{
 			"text": "BHT",
 			"displayText": "Soran",
-			"description": "Arabia, Releasable"
+			"description": "Arabia [Releasable]"
 		},
 		{
 			"text": "ERE",
 			"displayText": "Eretna",
-			"description": "Arabia, Releasable"
+			"description": "Arabia [Releasable]"
 		},
 		{
 			"text": "LEB",
 			"displayText": "Lebanon",
-			"description": "Arabia, Releasable"
+			"description": "Arabia [Releasable]"
 		},
 		{
 			"text": "MAK",
@@ -2083,17 +2083,17 @@
 		{
 			"text": "ARB",
 			"displayText": "Arabia",
-			"description": "Arabia, Formable"
+			"description": "Arabia [Formable]"
 		},
 		{
 			"text": "GRM",
 			"displayText": "Germiyan",
-			"description": "Arabia, Releasable"
+			"description": "Arabia [Releasable]"
 		},
 		{
 			"text": "MPH",
 			"displayText": "Muan Phuang",
-			"description": "Indochina, Releasable"
+			"description": "Indochina [Releasable]"
 		},
 		{
 			"text": "LIG",
@@ -2103,7 +2103,7 @@
 		{
 			"text": "JOH",
 			"displayText": "Johor",
-			"description": "East Indies, Releasable"
+			"description": "East Indies [Releasable]"
 		},
 		{
 			"text": "KED",
@@ -2113,7 +2113,7 @@
 		{
 			"text": "PRK",
 			"displayText": "Perak",
-			"description": "East Indies, Releasable"
+			"description": "East Indies [Releasable]"
 		},
 		{
 			"text": "HSE",
@@ -2137,18 +2137,18 @@
 		},
 		{
 			"text": "VOL",
-			"displayText": "Galicia-Volhynia",
-			"description": "Eastern Europe, Releasable"
+			"displayText": "Galicia–Volhynia",
+			"description": "Eastern Europe [Releasable]"
 		},
 		{
 			"text": "KIE",
 			"displayText": "Kiev",
-			"description": "Eastern Europe, Releasable"
+			"description": "Eastern Europe [Releasable]"
 		},
 		{
 			"text": "CHR",
 			"displayText": "Chernigov",
-			"description": "Eastern Europe, Releasable"
+			"description": "Eastern Europe [Releasable]"
 		},
 		{
 			"text": "CHU",
@@ -2178,7 +2178,7 @@
 		{
 			"text": "BSH",
 			"displayText": "Bashkiria",
-			"description": "Russia, Releasable"
+			"description": "Russia [Releasable]"
 		},
 		{
 			"text": "TLC",
@@ -2208,17 +2208,17 @@
 		{
 			"text": "KBA",
 			"displayText": "Kabylia",
-			"description": "Maghreb, Releasable"
+			"description": "Maghreb [Releasable]"
 		},
 		{
 			"text": "SOS",
 			"displayText": "Sus",
-			"description": "Maghreb, Releasable"
+			"description": "Maghreb [Releasable]"
 		},
 		{
 			"text": "TFL",
 			"displayText": "Tafilalt",
-			"description": "Maghreb, Releasable"
+			"description": "Maghreb [Releasable]"
 		},
 		{
 			"text": "ARP",
@@ -2303,17 +2303,17 @@
 		{
 			"text": "BLM",
 			"displayText": "Blambangan",
-			"description": "East Indies, Revolter"
+			"description": "East Indies [Revolter]"
 		},
 		{
 			"text": "CRB",
 			"displayText": "Cirebon",
-			"description": "East Indies, Revolter"
+			"description": "East Indies [Revolter]"
 		},
 		{
 			"text": "DMK",
 			"displayText": "Demak",
-			"description": "East Indies, Revolter"
+			"description": "East Indies [Revolter]"
 		},
 		{
 			"text": "PGR",
@@ -2323,7 +2323,7 @@
 		{
 			"text": "PLB",
 			"displayText": "Palembang",
-			"description": "East Indies, Revolter"
+			"description": "East Indies [Revolter]"
 		},
 		{
 			"text": "PSA",
@@ -2353,62 +2353,62 @@
 		{
 			"text": "MIN",
 			"displayText": "Min",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "YUE",
 			"displayText": "Yue",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "SHU",
 			"displayText": "Shu",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "NNG",
 			"displayText": "Ning",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "CHC",
 			"displayText": "Chu",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "TNG",
 			"displayText": "Tang",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "QIC",
 			"displayText": "Qi",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "YAN",
 			"displayText": "Yan",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "JIN",
 			"displayText": "Jin",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "LNG",
 			"displayText": "Liang",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "HUA",
 			"displayText": "Huai",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "CGS",
 			"displayText": "Changsheng",
-			"description": "Indochina, Releasable"
+			"description": "Indochina [Releasable]"
 		},
 		{
 			"text": "CAB",
@@ -2417,8 +2417,8 @@
 		},
 		{
 			"text": "LON",
-			"displayText": "Leon",
-			"description": "Iberia, Releasable"
+			"displayText": "León",
+			"description": "Iberia [Releasable]"
 		},
 		{
 			"text": "ICM",
@@ -2433,22 +2433,22 @@
 		{
 			"text": "AUS",
 			"displayText": "Australia",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "BTI",
 			"displayText": "Semien",
-			"description": "East Africa, Releasable"
+			"description": "East Africa [Releasable]"
 		},
 		{
 			"text": "MTH",
 			"displayText": "Meath",
-			"description": "British Isles, Releasable"
+			"description": "British Isles [Releasable]"
 		},
 		{
 			"text": "ADU",
 			"displayText": "Andalusia",
-			"description": "Iberia, Formable"
+			"description": "Iberia [Formable]"
 		},
 		{
 			"text": "MEM",
@@ -2483,17 +2483,17 @@
 		{
 			"text": "LVA",
 			"displayText": "Livonia",
-			"description": "Scandinavia, Releasable"
+			"description": "Scandinavia [Releasable]"
 		},
 		{
 			"text": "EST",
 			"displayText": "Estonia",
-			"description": "Scandinavia, Releasable"
+			"description": "Scandinavia [Releasable]"
 		},
 		{
 			"text": "SMI",
 			"displayText": "Sapmi",
-			"description": "Scandinavia, Revolter"
+			"description": "Scandinavia [Revolter]"
 		},
 		{
 			"text": "ORM",
@@ -2503,12 +2503,12 @@
 		{
 			"text": "KRL",
 			"displayText": "Karelia",
-			"description": "Scandinavia, Revolter"
+			"description": "Scandinavia [Revolter]"
 		},
 		{
 			"text": "JAI",
 			"displayText": "Malta",
-			"description": "Italy, Revolter"
+			"description": "Italy [Revolter]"
 		},
 		{
 			"text": "KUB",
@@ -2558,7 +2558,7 @@
 		{
 			"text": "SYO",
 			"displayText": "Soyo",
-			"description": "Kongo, Releasable"
+			"description": "Kongo [Releasable]"
 		},
 		{
 			"text": "TYO",
@@ -2703,22 +2703,22 @@
 		{
 			"text": "ICE",
 			"displayText": "Iceland",
-			"description": "Scandinavia, Formable / Releasable"
+			"description": "Scandinavia [Formable / Releasable]"
 		},
 		{
 			"text": "SLO",
 			"displayText": "Nitra",
-			"description": "Balkans, Releasable"
+			"description": "Balkans [Releasable]"
 		},
 		{
 			"text": "HSC",
 			"displayText": "Gaeldom",
-			"description": "British Isles, Releasable"
+			"description": "British Isles [Releasable]"
 		},
 		{
 			"text": "ROM",
 			"displayText": "Roman Empire",
-			"description": "–, Formable"
+			"description": "Nowhere [Formable]"
 		},
 		{
 			"text": "DTT",
@@ -2728,7 +2728,7 @@
 		{
 			"text": "GLH",
 			"displayText": "Golden Horde",
-			"description": "Russia, Formable"
+			"description": "Russia [Formable]"
 		},
 		{
 			"text": "BEJ",
@@ -2738,7 +2738,7 @@
 		{
 			"text": "JIM",
 			"displayText": "Jimma",
-			"description": "East Africa, Revolter"
+			"description": "East Africa [Revolter]"
 		},
 		{
 			"text": "WLY",
@@ -2758,7 +2758,7 @@
 		{
 			"text": "SOA",
 			"displayText": "Shewa",
-			"description": "East Africa, Releasable"
+			"description": "East Africa [Releasable]"
 		},
 		{
 			"text": "JJI",
@@ -2778,7 +2778,7 @@
 		{
 			"text": "AKM",
 			"displayText": "Akamatsu",
-			"description": "Far East, Releasable"
+			"description": "Far East [Releasable]"
 		},
 		{
 			"text": "AKT",
@@ -2848,12 +2848,12 @@
 		{
 			"text": "MVA",
 			"displayText": "Moravia",
-			"description": "Eastern Europe, Releasable"
+			"description": "Eastern Europe [Releasable]"
 		},
 		{
 			"text": "YUA",
 			"displayText": "Yuan",
-			"description": "Mongolia, Formable"
+			"description": "Mongolia [Formable]"
 		},
 		{
 			"text": "BLO",
@@ -2903,7 +2903,7 @@
 		{
 			"text": "YEM",
 			"displayText": "Yemen",
-			"description": "Arabia, Formable (exists in 1444)"
+			"description": "Arabia [Formable (exists in 1444)]"
 		},
 		{
 			"text": "DAW",
@@ -2957,8 +2957,8 @@
 		},
 		{
 			"text": "RUM",
-			"displayText": "Rum",
-			"description": "Asia Minor, Formable"
+			"displayText": "Rûm",
+			"description": "Asia Minor [Formable]"
 		},
 		{
 			"text": "KRY",
@@ -2988,32 +2988,32 @@
 		{
 			"text": "KRM",
 			"displayText": "Kerman",
-			"description": "Persia, Releasable"
+			"description": "Persia [Releasable]"
 		},
 		{
 			"text": "YZD",
 			"displayText": "Yazd",
-			"description": "Persia, Releasable"
+			"description": "Persia [Releasable]"
 		},
 		{
 			"text": "ISF",
 			"displayText": "Isfahan",
-			"description": "Persia, Releasable"
+			"description": "Persia [Releasable]"
 		},
 		{
 			"text": "TBR",
 			"displayText": "Tabriz",
-			"description": "Persia, Releasable"
+			"description": "Persia [Releasable]"
 		},
 		{
 			"text": "BSR",
 			"displayText": "Basra",
-			"description": "Persia, Releasable"
+			"description": "Persia [Releasable]"
 		},
 		{
 			"text": "MGR",
 			"displayText": "Maregheh",
-			"description": "Persia, Releasable"
+			"description": "Persia [Releasable]"
 		},
 		{
 			"text": "QOM",
@@ -3063,7 +3063,7 @@
 		{
 			"text": "KOI",
 			"displayText": "Mann",
-			"description": "British Isles, Releasable"
+			"description": "British Isles [Releasable]"
 		},
 		{
 			"text": "LOI",
@@ -3123,7 +3123,7 @@
 		{
 			"text": "NVR",
 			"displayText": "Navanagar",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "JLV",
@@ -3138,7 +3138,7 @@
 		{
 			"text": "RJK",
 			"displayText": "Rajkot",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "JGD",
@@ -3163,7 +3163,7 @@
 		{
 			"text": "SBP",
 			"displayText": "Sambalpur",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "PTT",
@@ -3198,7 +3198,7 @@
 		{
 			"text": "SRG",
 			"displayText": "Surguja",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "TLG",
@@ -3238,7 +3238,7 @@
 		{
 			"text": "MKP",
 			"displayText": "Makwanpur",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "SRM",
@@ -3263,12 +3263,12 @@
 		{
 			"text": "GNG",
 			"displayText": "Gingee",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "TNJ",
 			"displayText": "Tanjore",
-			"description": "India, Releasable"
+			"description": "India [Releasable]"
 		},
 		{
 			"text": "PHA",
@@ -3278,7 +3278,7 @@
 		{
 			"text": "RJP",
 			"displayText": "Rajputana",
-			"description": "India, Formable"
+			"description": "India [Formable]"
 		},
 		{
 			"text": "SRH",
@@ -3288,42 +3288,42 @@
 		{
 			"text": "ILK",
 			"displayText": "Ilkhanate",
-			"description": "Persia, Formable"
+			"description": "Persia [Formable]"
 		},
 		{
 			"text": "KLM",
 			"displayText": "Kalmyk",
-			"description": "Pontic Steppe, Appears by event"
+			"description": "Pontic Steppe [Appears by event]"
 		},
 		{
 			"text": "MGE",
 			"displayText": "Mongol Empire",
-			"description": "Mongolia, Formable"
+			"description": "Mongolia [Formable]"
 		},
 		{
 			"text": "VAL",
 			"displayText": "Valencia",
-			"description": "Iberia, Releasable"
+			"description": "Iberia [Releasable]"
 		},
 		{
 			"text": "ASU",
 			"displayText": "Asturias",
-			"description": "Iberia, Releasable"
+			"description": "Iberia [Releasable]"
 		},
 		{
 			"text": "SLE",
-			"displayText": "Sale",
-			"description": "Maghreb, Appears by event"
+			"displayText": "Salé",
+			"description": "Maghreb [Appears by event]"
 		},
 		{
 			"text": "TET",
-			"displayText": "Tetouan",
-			"description": "Maghreb, Releasable"
+			"displayText": "Tétouan",
+			"description": "Maghreb [Releasable]"
 		},
 		{
 			"text": "MJO",
 			"displayText": "Majorca",
-			"description": "Iberia, Releasable"
+			"description": "Iberia [Releasable]"
 		},
 		{
 			"text": "MAT",
@@ -3443,32 +3443,32 @@
 		{
 			"text": "CAL",
 			"displayText": "California",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "TEX",
 			"displayText": "Texas",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "NSS",
 			"displayText": "New Providence",
-			"description": "Caribbeans, Appears by event"
+			"description": "Caribbeans [Appears by event]"
 		},
 		{
 			"text": "PRY",
 			"displayText": "Port Royal",
-			"description": "Caribbeans, Appears by event"
+			"description": "Caribbeans [Appears by event]"
 		},
 		{
 			"text": "LIB",
 			"displayText": "Libertatia",
-			"description": "South Africa, Appears by event"
+			"description": "South Africa [Appears by event]"
 		},
 		{
 			"text": "TOR",
 			"displayText": "Tortuga",
-			"description": "Caribbeans, Appears by event"
+			"description": "Caribbeans [Appears by event]"
 		},
 		{
 			"text": "MRK",
@@ -3483,7 +3483,7 @@
 		{
 			"text": "MJE",
 			"displayText": "Majeerteen",
-			"description": "East Africa, Releasable"
+			"description": "East Africa [Releasable]"
 		},
 		{
 			"text": "WAR",
@@ -3493,12 +3493,12 @@
 		{
 			"text": "HOB",
 			"displayText": "Hobyo",
-			"description": "East Africa, Releasable"
+			"description": "East Africa [Releasable]"
 		},
 		{
 			"text": "GLE",
 			"displayText": "Geledi",
-			"description": "East Africa, Revolter"
+			"description": "East Africa [Revolter]"
 		},
 		{
 			"text": "KAF",
@@ -3513,12 +3513,12 @@
 		{
 			"text": "HAR",
 			"displayText": "Harar",
-			"description": "East Africa, Releasable"
+			"description": "East Africa [Releasable]"
 		},
 		{
 			"text": "AFA",
 			"displayText": "Aussa",
-			"description": "East Africa, Releasable"
+			"description": "East Africa [Releasable]"
 		},
 		{
 			"text": "ALO",
@@ -3533,7 +3533,7 @@
 		{
 			"text": "DAR",
 			"displayText": "Darfur",
-			"description": "East Africa, Revolter (more likely by an event)"
+			"description": "East Africa [Revolter (more likely by an event)]"
 		},
 		{
 			"text": "CSU",
@@ -3653,17 +3653,17 @@
 		{
 			"text": "LNO",
 			"displayText": "Lanao",
-			"description": "East Indies, Releasable"
+			"description": "East Indies [Releasable]"
 		},
 		{
 			"text": "LFA",
 			"displayText": "Lanfang",
-			"description": "East Indies, Revolter"
+			"description": "East Indies [Revolter]"
 		},
 		{
 			"text": "BNJ",
 			"displayText": "Banjar",
-			"description": "East Indies, Revolter"
+			"description": "East Indies [Revolter]"
 		},
 		{
 			"text": "KUT",
@@ -3678,22 +3678,22 @@
 		{
 			"text": "CMI",
 			"displayText": "Miao",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "CYI",
 			"displayText": "Yi",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "CDL",
 			"displayText": "Dali",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "CHH",
 			"displayText": "Chahar",
-			"description": "Mongolia, Revolter"
+			"description": "Mongolia [Revolter]"
 		},
 		{
 			"text": "NDO",
@@ -3713,27 +3713,27 @@
 		{
 			"text": "SYN",
 			"displayText": "Synthetics",
-			"description": "–, Special country (can be spawned only with console)"
+			"description": "Nowhere [Special country (can be spawned only with console)]"
 		},
 		{
 			"text": "BAR",
 			"displayText": "Bar",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "HSA",
-			"displayText": "Lubeck",
+			"displayText": "Lübeck",
 			"description": "Germany"
 		},
 		{
 			"text": "SMO",
 			"displayText": "Smolensk",
-			"description": "Russia, Releasable"
+			"description": "Russia [Releasable]"
 		},
 		{
 			"text": "NZH",
 			"displayText": "Nizhny Novgorod",
-			"description": "Russia, Releasable"
+			"description": "Russia [Releasable]"
 		},
 		{
 			"text": "LAU",
@@ -3747,8 +3747,8 @@
 		},
 		{
 			"text": "ALE",
-			"displayText": "Alencon",
-			"description": "France, Releasable"
+			"displayText": "Alençon",
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "AUG",
@@ -3763,32 +3763,32 @@
 		{
 			"text": "MSA",
 			"displayText": "Malaya",
-			"description": "East Indies, Formable"
+			"description": "East Indies [Formable]"
 		},
 		{
 			"text": "HIN",
 			"displayText": "Hindustan",
-			"description": "India, Formable"
+			"description": "India [Formable]"
 		},
 		{
 			"text": "BHA",
 			"displayText": "Bharat",
-			"description": "India, Formable"
+			"description": "India [Formable]"
 		},
 		{
 			"text": "CAM",
 			"displayText": "United Central America",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "DNZ",
 			"displayText": "Danzig",
-			"description": "Eastern Europe, Releasable"
+			"description": "Eastern Europe [Releasable]"
 		},
 		{
 			"text": "ETR",
 			"displayText": "Etruria",
-			"description": "Italy, Revolter"
+			"description": "Italy [Revolter]"
 		},
 		{
 			"text": "FRN",
@@ -3798,12 +3798,12 @@
 		{
 			"text": "HAT",
 			"displayText": "Haiti",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "IRQ",
 			"displayText": "Iraq",
-			"description": "Asia Minor, Releasable"
+			"description": "Asia Minor [Releasable]"
 		},
 		{
 			"text": "KHO",
@@ -3813,7 +3813,7 @@
 		{
 			"text": "KRA",
 			"displayText": "Krakow",
-			"description": "Eastern Europe, Releasable"
+			"description": "Eastern Europe [Releasable]"
 		},
 		{
 			"text": "LIV",
@@ -3828,12 +3828,12 @@
 		{
 			"text": "PRG",
 			"displayText": "Paraguay",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "QIN",
 			"displayText": "Qin",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "RFR",
@@ -3843,52 +3843,52 @@
 		{
 			"text": "SOK",
 			"displayText": "Sokoto",
-			"description": "West Africa, Formable"
+			"description": "West Africa [Formable]"
 		},
 		{
 			"text": "SPI",
 			"displayText": "Sardinia-Piedmont",
-			"description": "Italy, Formable"
+			"description": "Italy [Formable]"
 		},
 		{
 			"text": "SYR",
 			"displayText": "Syria",
-			"description": "Middle East, Releasable"
+			"description": "Middle East [Releasable]"
 		},
 		{
 			"text": "VNZ",
 			"displayText": "Venezuela",
-			"description": "Colonies, Formable"
+			"description": "Colonies [Formable]"
 		},
 		{
 			"text": "WES",
 			"displayText": "Westphalia",
-			"description": "Germany, Formable"
+			"description": "Germany [Formable]"
 		},
 		{
 			"text": "WUU",
 			"displayText": "Wu",
-			"description": "China, Releasable"
+			"description": "China [Releasable]"
 		},
 		{
 			"text": "RMN",
 			"displayText": "Romania",
-			"description": "Balkans, Formable"
+			"description": "Balkans [Formable]"
 		},
 		{
 			"text": "AYD",
 			"displayText": "Aydin",
-			"description": "Asia Minor, Releasable"
+			"description": "Asia Minor [Releasable]"
 		},
 		{
 			"text": "AQU",
 			"displayText": "Aquileia",
-			"description": "Italy, Releasable"
+			"description": "Italy [Releasable]"
 		},
 		{
 			"text": "BYZ",
 			"displayText": "Byzantium",
-			"description": "Balkans, Formable (exists in 1444)"
+			"description": "Balkans [Formable (exists in 1444)]"
 		},
 		{
 			"text": "MAJ",
@@ -3898,7 +3898,7 @@
 		{
 			"text": "MEI",
 			"displayText": "Meissen",
-			"description": "Germany, Revolter"
+			"description": "Germany [Revolter]"
 		},
 		{
 			"text": "SUK",
@@ -3908,47 +3908,47 @@
 		{
 			"text": "GAL",
 			"displayText": "Galicia",
-			"description": "Iberia, Releasable"
+			"description": "Iberia [Releasable]"
 		},
 		{
 			"text": "PLT",
 			"displayText": "Polotsk",
-			"description": "Russia, Releasable"
+			"description": "Russia [Releasable]"
 		},
 		{
 			"text": "SCA",
 			"displayText": "Scandinavia",
-			"description": "Scandinavia, Formable"
+			"description": "Scandinavia [Formable]"
 		},
 		{
 			"text": "ACH",
 			"displayText": "Achaea",
-			"description": "Balkans, Releasable"
+			"description": "Balkans [Releasable]"
 		},
 		{
 			"text": "KOJ",
 			"displayText": "Jerusalem",
-			"description": "Middle East, Formable"
+			"description": "Middle East [Formable]"
 		},
 		{
 			"text": "BER",
 			"displayText": "Berry",
-			"description": "France, Releasable"
+			"description": "France [Releasable]"
 		},
 		{
 			"text": "HLR",
 			"displayText": "Holy Roman Empire",
-			"description": "Germany, Formable"
+			"description": "Germany [Formable]"
 		},
 		{
 			"text": "SRU",
 			"displayText": "Saruhan",
-			"description": "Asia Minor, Releasable"
+			"description": "Asia Minor [Releasable]"
 		},
 		{
 			"text": "MEN",
 			"displayText": "Mentese",
-			"description": "Asia Minor, Releasable"
+			"description": "Asia Minor [Releasable]"
 		},
 		{
 			"text": "RAM",
@@ -3958,7 +3958,7 @@
 		{
 			"text": "EPI",
 			"displayText": "Epirus",
-			"description": "Balkans, Releasable"
+			"description": "Balkans [Releasable]"
 		}
 	],
 	"equal": [

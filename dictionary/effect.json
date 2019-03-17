@@ -70,12 +70,12 @@
 		{
 			"text": "change_tag",
 			"displayText": "change_tag",
-			"description": "Changes current scope to  tag."
+			"description": "Changes current scope to tag."
 		},
 		{
 			"text": "switch_tag",
 			"displayText": "switch_tag",
-			"description": "Switches the player view to  tag. Original country becomes controlled by AI."
+			"description": "Switches the player view to tag. Original country becomes controlled by AI."
 		},
 		{
 			"text": "change_graphical_culture",
@@ -140,7 +140,7 @@
 		{
 			"text": "add_government_reform",
 			"displayText": "add_government_reform",
-			"description": "If Dharma is active, enacts a government reform, replacing any existing reform at the same tier. If Dharma is not active, changes to the legacy government type that this reform has listed as its legacy_equivalent."
+			"description": "If dhr Dharma is active, enacts a government reform, replacing any existing reform at the same tier. If Dharma is \"not\" active, changes to the legacy government type that this reform has listed as its legacy_equivalent ."
 		},
 		{
 			"text": "add_legitimacy",
@@ -210,7 +210,7 @@
 		{
 			"text": "reinstate_parliament",
 			"displayText": "reinstate_parliament",
-			"description": "Re-enables the Parliament mechanic after dissolve_parliament."
+			"description": "Re-enables the Parliament mechanic after \"dissolve_parliament\"."
 		},
 		{
 			"text": "add_accepted_culture",
@@ -235,7 +235,7 @@
 		{
 			"text": "enable_religion",
 			"displayText": "enable_religion",
-			"description": "Enables an religion that has been restricted with the date parameter."
+			"description": "Enables an religion that has been restricted with the \"date\" parameter."
 		},
 		{
 			"text": "force_converted",
@@ -245,12 +245,12 @@
 		{
 			"text": "add_authority",
 			"displayText": "add_authority",
-			"description": "Adds authority to the current scope. Used in Religious Reforms that use authority."
+			"description": "Adds authority to the current scope. Used in Religious Reforms that use \"authority\"."
 		},
 		{
 			"text": "add_doom",
 			"displayText": "add_doom",
-			"description": "Adds doom to the current scope. Used in Religious Reforms that use doom."
+			"description": "Adds doom to the current scope. Used in Religious Reforms that use \"doom\"."
 		},
 		{
 			"text": "remove_religious_reforms",
@@ -400,17 +400,17 @@
 		{
 			"text": "add_adm_tech",
 			"displayText": "add_adm_tech",
-			"description": "Adds ADM technologies to the current scope."
+			"description": "Adds \"ADM\" technologies to the current scope."
 		},
 		{
 			"text": "add_dip_tech",
 			"displayText": "add_dip_tech",
-			"description": "Adds DIP technologies to the current scope."
+			"description": "Adds \"DIP\" technologies to the current scope."
 		},
 		{
 			"text": "add_mil_tech",
 			"displayText": "add_mil_tech",
-			"description": "Adds MIL technologies to the current scope."
+			"description": "Adds \"MIL\" technologies to the current scope."
 		},
 		{
 			"text": "add_prestige",

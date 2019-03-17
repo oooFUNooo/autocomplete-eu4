@@ -99,11 +99,11 @@ module.exports =
         if repeat
           continue
 
-        disp  = entry.displayText
-        desc  = entry.description
-        url   = WIKIURL + url
-        right = label
-        pos   = haystack.indexOf(needle)
+        disp    = entry.displayText
+        desc    = entry.description
+        descurl = WIKIURL + url
+        right   = label
+        pos     = haystack.indexOf(needle)
 
         switch mode
 
@@ -137,7 +137,7 @@ module.exports =
               when 0
                 snippet = entry.text + ' = { $1 }$2'
                 left = 'single'
-                completions = @createCompletion(mode, block, completions, snippet, disp, type, left, right, icon, desc, url, pos)
+                completions = @createCompletion(mode, block, completions, snippet, disp, type, left, right, icon, desc, descurl, pos)
                 snippet = entry.text + ' = {\n\t$1\n}'
                 left = 'multi'
 
@@ -151,12 +151,12 @@ module.exports =
                 if mode == 1 or mode == 3
                   left = 'clause'
 
-        completions = @createCompletion(mode, block, completions, snippet, disp, type, left, right, icon, desc, url, pos)
+        completions = @createCompletion(mode, block, completions, snippet, disp, type, left, right, icon, desc, descurl, pos)
 
     completions
 
 
-  createCompletion: (mode, block, completions, snippet, disp, type, left, right, icon, desc, url, pos) ->
+  createCompletion: (mode, block, completions, snippet, disp, type, left, right, icon, desc, descurl, pos) ->
 
     completion =
       snippet: snippet
@@ -166,7 +166,7 @@ module.exports =
       rightLabel: right
       iconHTML: '<i class=\"' + icon + '\"></i>'
       description: desc
-      descriptionMoreURL: url
+      descriptionMoreURL: descurl
       mode: mode
       block: block
       pos: pos

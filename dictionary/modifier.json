@@ -5,1547 +5,1547 @@
 		{
 			"text": "army_tradition",
 			"displayText": "army_tradition",
-			"description": "Adds to the rate of Army Tradition gained each year."
+			"description": "Adds to the rate of Army Tradition gained each year. [Additive]"
 		},
 		{
 			"text": "army_tradition_decay",
 			"displayText": "army_tradition_decay",
-			"description": "Adds to the decay rate of Army Tradition."
+			"description": "Adds to the decay rate of Army Tradition. [Additive]"
 		},
 		{
 			"text": "army_tradition_from_battle",
 			"displayText": "army_tradition_from_battle",
-			"description": "Modifies the Army Tradition bonus when gained through battles."
+			"description": "Modifies the Army Tradition bonus when gained through battles. [Multiplicative]"
 		},
 		{
 			"text": "yearly_army_professionalism",
 			"displayText": "yearly_army_professionalism",
-			"description": "Modifies the rate of Army Professionalism gained each year."
+			"description": "Modifies the rate of Army Professionalism gained each year. [Multiplicative]"
 		},
 		{
 			"text": "drill_gain_modifier",
 			"displayText": "drill_gain_modifier",
-			"description": "Modifies the army drill gains while drilling"
+			"description": "Modifies the army drill gains while drilling [Multiplicative]"
 		},
 		{
 			"text": "drill_decay_modifier",
 			"displayText": "drill_decay_modifier",
-			"description": "Modifies the army drill decay rate per year."
+			"description": "Modifies the army drill decay rate per year. [Multiplicative]"
 		},
 		{
 			"text": "infantry_cost",
 			"displayText": "infantry_cost",
-			"description": "Modifies the base cost of infantry units."
+			"description": "Modifies the base cost of infantry units. [Multiplicative]"
 		},
 		{
 			"text": "infantry_power",
 			"displayText": "infantry_power",
-			"description": "Modifies the power infantry gain from unit pips."
+			"description": "Modifies the power infantry gain from unit pips. [Multiplicative]"
 		},
 		{
 			"text": "cavalry_cost",
 			"displayText": "cavalry_cost",
-			"description": "Modifies the base cost of cavalry units."
+			"description": "Modifies the base cost of cavalry units. [Multiplicative]"
 		},
 		{
 			"text": "cavalry_power",
 			"displayText": "cavalry_power",
-			"description": "Modifies the power cavalry gain from unit pips."
+			"description": "Modifies the power cavalry gain from unit pips. [Multiplicative]"
 		},
 		{
 			"text": "artillery_cost",
 			"displayText": "artillery_cost",
-			"description": "Modifies the base cost of artillery units."
+			"description": "Modifies the base cost of artillery units. [Multiplicative]"
 		},
 		{
 			"text": "artillery_power",
 			"displayText": "artillery_power",
-			"description": "Modifies the power artillery gain from unit pips."
+			"description": "Modifies the power artillery gain from unit pips. [Multiplicative]"
 		},
 		{
 			"text": "cav_to_inf_ratio",
 			"displayText": "cav_to_inf_ratio",
-			"description": "Adds to the ratio required to negate the Insufficient Support penalty."
+			"description": "Adds to the ratio required to negate the Insufficient Support penalty. [Additive]"
 		},
 		{
 			"text": "cavalry_flanking",
 			"displayText": "cavalry_flanking",
-			"description": "Modifies the effectiveness of cavalry flanking."
+			"description": "Modifies the effectiveness of cavalry flanking. [Multiplicative]"
 		},
 		{
 			"text": "artillery_bonus_vs_fort",
 			"displayText": "artillery_bonus_vs_fort",
-			"description": "Adds to the bonus artillery get versus forts."
+			"description": "Adds to the bonus artillery get versus forts. [Additive]"
 		},
 		{
 			"text": "backrow_artillery_damage",
 			"displayText": "backrow_artillery_damage",
-			"description": "Modifies the bonus damage artillery inflict when in the backrow during combat."
+			"description": "Modifies the bonus damage artillery inflict when in the backrow during combat. [Multiplicative]"
 		},
 		{
 			"text": "discipline",
 			"displayText": "discipline",
-			"description": "Modifies the discipline of land units."
+			"description": "Modifies the discipline of land units. [Multiplicative]"
 		},
 		{
 			"text": "mercenary_discipline",
 			"displayText": "mercenary_discipline",
-			"description": "Modifies the discipline of mercenary units."
+			"description": "Modifies the discipline of mercenary units. [Multiplicative]"
 		},
 		{
 			"text": "land_morale",
 			"displayText": "land_morale",
-			"description": "Modifies the land morale of land units."
+			"description": "Modifies the land morale of land units. [Multiplicative]"
 		},
 		{
 			"text": "defensiveness",
 			"displayText": "defensiveness",
-			"description": "Modifies the siege defensiveness that affects siege phase length."
+			"description": "Modifies the siege defensiveness that affects siege phase length. [Multiplicative]"
 		},
 		{
 			"text": "siege_ability",
 			"displayText": "siege_ability",
-			"description": "Modifies the siege ability that affects siege phase length. Reverse concept of defensiveness."
+			"description": "Modifies the siege ability that affects siege phase length. Reverse concept of defensiveness. [Multiplicative]"
 		},
 		{
 			"text": "movement_speed",
 			"displayText": "movement_speed",
-			"description": "Modifies the base movement speed for all land units."
+			"description": "Modifies the base movement speed for all land units. [Multiplicative]"
 		},
 		{
 			"text": "fire_damage",
 			"displayText": "fire_damage",
-			"description": "Modifies the fire damage done by land units."
+			"description": "Modifies the fire damage done by land units. [Multiplicative]"
 		},
 		{
 			"text": "fire_damage_received",
 			"displayText": "fire_damage_received",
-			"description": "Modifies the fire damage taken by land units."
+			"description": "Modifies the fire damage taken by land units. [Multiplicative]"
 		},
 		{
 			"text": "shock_damage",
 			"displayText": "shock_damage",
-			"description": "Modifies the shock damage done by land units."
+			"description": "Modifies the shock damage done by land units. [Multiplicative]"
 		},
 		{
 			"text": "shock_damage_received",
 			"displayText": "shock_damage_received",
-			"description": "Modifies the shock damage taken by land units."
+			"description": "Modifies the shock damage taken by land units. [Multiplicative]"
 		},
 		{
 			"text": "recover_army_morale_speed",
 			"displayText": "recover_army_morale_speed",
-			"description": "Modifies the army morale recovery speed."
+			"description": "Modifies the army morale recovery speed. [Multiplicative]"
 		},
 		{
 			"text": "siege_blockade_progress",
 			"displayText": "siege_blockade_progress",
-			"description": "Modifies the bonus siege status by blockaded."
+			"description": "Modifies the bonus siege status by blockaded. [Additive]"
 		},
 		{
 			"text": "reserves_organisation",
 			"displayText": "reserves_organisation",
-			"description": "Modifies the morale damage taken by units in reserves (i.e. not in battle, but engaged with another unit)"
+			"description": "Modifies the morale damage taken by units in reserves (i.e. not in battle, but engaged with another unit) [Multiplicative]"
 		},
 		{
 			"text": "land_attrition",
 			"displayText": "land_attrition",
-			"description": "Modifies the attrition taken by land units."
+			"description": "Modifies the attrition taken by land units. [Multiplicative]"
 		},
 		{
 			"text": "reinforce_cost_modifier",
 			"displayText": "reinforce_cost_modifier",
-			"description": "Modifies the cost of reinforcements when units are reinforced."
+			"description": "Modifies the cost of reinforcements when units are reinforced. [Multiplicative]"
 		},
 		{
 			"text": "reinforce_speed",
 			"displayText": "reinforce_speed",
-			"description": "Modifies the rate at which units are reinforced with new men."
+			"description": "Modifies the rate at which units are reinforced with new men. [Multiplicative]"
 		},
 		{
 			"text": "manpower_recovery_speed",
 			"displayText": "manpower_recovery_speed",
-			"description": "Modifies the rate at which manpower is recovered."
+			"description": "Modifies the rate at which manpower is recovered. [Multiplicative]"
 		},
 		{
 			"text": "global_manpower",
 			"displayText": "global_manpower",
-			"description": "Adds to the country's total manpower pool. 1 equals 1000 men."
+			"description": "Adds to the country's total manpower pool. 1 equals 1000 men. [Additive]"
 		},
 		{
 			"text": "global_manpower_modifier",
 			"displayText": "global_manpower_modifier",
-			"description": "Modifies a country's total manpower pool."
+			"description": "Modifies a country's total manpower pool. [Multiplicative]"
 		},
 		{
 			"text": "global_regiment_cost",
 			"displayText": "global_regiment_cost",
-			"description": "Modifies the base unit cost for all land units."
+			"description": "Modifies the base unit cost for all land units. [Multiplicative]"
 		},
 		{
 			"text": "global_regiment_recruit_speed",
 			"displayText": "global_regiment_recruit_speed",
-			"description": "Modifies the base speed at which land units are recruited."
+			"description": "Modifies the base speed at which land units are recruited. [Multiplicative]"
 		},
 		{
 			"text": "global_supply_limit_modifier",
 			"displayText": "global_supply_limit_modifier",
-			"description": "Modifies the supply limit of provinces"
+			"description": "Modifies the supply limit of provinces [Additive]"
 		},
 		{
 			"text": "land_forcelimit",
 			"displayText": "land_forcelimit",
-			"description": "Adds to a country's force limit."
+			"description": "Adds to a country's force limit. [Additive]"
 		},
 		{
 			"text": "land_forcelimit_modifier",
 			"displayText": "land_forcelimit_modifier",
-			"description": "Modifies a country's force limit."
+			"description": "Modifies a country's force limit. [Multiplicative]"
 		},
 		{
 			"text": "land_maintenance_modifier",
 			"displayText": "land_maintenance_modifier",
-			"description": "Modifies the maintenance cost of all land units."
+			"description": "Modifies the maintenance cost of all land units. [Multiplicative]"
 		},
 		{
 			"text": "mercenary_cost",
 			"displayText": "mercenary_cost",
-			"description": "Modifies the base cost for mercenary units."
+			"description": "Modifies the base cost for mercenary units. [Multiplicative]"
 		},
 		{
 			"text": "merc_maintenance_modifier",
 			"displayText": "merc_maintenance_modifier",
-			"description": "Modifies the maintenance cost of all mercenary units."
+			"description": "Modifies the maintenance cost of all mercenary units. [Multiplicative]"
 		},
 		{
 			"text": "possible_condottieri",
 			"displayText": "possible_condottieri",
-			"description": "Modifies the base condottieri limit."
+			"description": "Modifies the base condottieri limit. [Multiplicative]"
 		},
 		{
 			"text": "possible_mercenaries",
 			"displayText": "possible_mercenaries",
-			"description": "Modifies the base mercenary limit."
+			"description": "Modifies the base mercenary limit. [Multiplicative]"
 		},
 		{
 			"text": "hostile_attrition",
 			"displayText": "hostile_attrition",
-			"description": "Adds to the attrition enemies take in a country's provinces."
+			"description": "Adds to the attrition enemies take in a country's provinces. [Additive]"
 		},
 		{
 			"text": "garrison_size",
 			"displayText": "garrison_size",
-			"description": "Modifies the base garrison size in provinces."
+			"description": "Modifies the base garrison size in provinces. [Multiplicative]"
 		},
 		{
 			"text": "global_garrison_growth",
 			"displayText": "global_garrison_growth",
-			"description": "Modifies the base garrison growth in provinces."
+			"description": "Modifies the base garrison growth in provinces. [Multiplicative]"
 		},
 		{
 			"text": "fort_maintenance_modifier",
 			"displayText": "fort_maintenance_modifier",
-			"description": "Modifies the base fort maintenance cost."
+			"description": "Modifies the base fort maintenance cost. [Multiplicative]"
 		},
 		{
 			"text": "rival_border_fort_maintenance",
 			"displayText": "rival_border_fort_maintenance",
-			"description": "Modifies the base fort maintenance cost for forts in provinces that border rivals."
+			"description": "Modifies the base fort maintenance cost for forts in provinces that border rivals. [Multiplicative]"
 		},
 		{
 			"text": "war_exhaustion",
 			"displayText": "war_exhaustion",
-			"description": "Adds to the monthly war exhaustion rate."
+			"description": "Adds to the monthly war exhaustion rate. [Additive]"
 		},
 		{
 			"text": "war_exhaustion_cost",
 			"displayText": "war_exhaustion_cost",
-			"description": "Modifies the diplomatic power cost for reducing war exhaustion."
+			"description": "Modifies the diplomatic power cost for reducing war exhaustion. [Multiplicative]"
 		},
 		{
 			"text": "leader_land_fire",
 			"displayText": "leader_land_fire",
-			"description": "Adds to the minimum fire pip count a leader can be generated with."
+			"description": "Adds to the minimum fire pip count a leader can be generated with. [Additive]"
 		},
 		{
 			"text": "leader_land_manuever",
 			"displayText": "leader_land_manuever",
-			"description": "Adds to the minimum maneuver pip count a leader can be generated with."
+			"description": "Adds to the minimum maneuver pip count a leader can be generated with. [Additive]"
 		},
 		{
 			"text": "leader_land_shock",
 			"displayText": "leader_land_shock",
-			"description": "Adds to the minimum shock pip count a leader can be generated with."
+			"description": "Adds to the minimum shock pip count a leader can be generated with. [Additive]"
 		},
 		{
 			"text": "leader_siege",
 			"displayText": "leader_siege",
-			"description": "Adds to the minimum siege pip count a leader can be generated with."
+			"description": "Adds to the minimum siege pip count a leader can be generated with. [Additive]"
 		},
 		{
 			"text": "general_cost",
 			"displayText": "general_cost",
-			"description": "Modifies the base military power cost for recruiting Generals."
+			"description": "Modifies the base military power cost for recruiting Generals. [Multiplicative]"
 		},
 		{
 			"text": "free_leader_pool",
 			"displayText": "free_leader_pool",
-			"description": "Adds to the maximum amount of free leaders."
+			"description": "Adds to the maximum amount of free leaders. [Additive]"
 		},
 		{
 			"text": "raze_power_gain",
 			"displayText": "raze_power_gain",
-			"description": "Modifies the amount of monarch power gained from razing."
+			"description": "Modifies the amount of monarch power gained from razing. [Multiplicative]"
 		},
 		{
 			"text": "loot_amount",
 			"displayText": "loot_amount",
-			"description": "Modifies the amount of loot taken at once during looting."
+			"description": "Modifies the amount of loot taken at once during looting. [Multiplicative]"
 		},
 		{
 			"text": "prestige_from_land",
 			"displayText": "prestige_from_land",
-			"description": "Modifies the prestige bonus from combat."
+			"description": "Modifies the prestige bonus from combat. [Multiplicative]"
 		},
 		{
 			"text": "amount_of_banners",
 			"displayText": "amount_of_banners",
-			"description": "Modifies the maximum amount of banners available."
+			"description": "Modifies the maximum amount of banners available. [Multiplicative]"
 		},
 		{
 			"text": "war_taxes_cost_modifier",
 			"displayText": "war_taxes_cost_modifier",
-			"description": "Modifies the military power cost for raising war taxes."
+			"description": "Modifies the military power cost for raising war taxes. [Multiplicative]"
 		},
 		{
 			"text": "leader_cost",
 			"displayText": "leader_cost",
-			"description": "Modifies the military power cost for hiring leaders."
+			"description": "Modifies the military power cost for hiring leaders. [Multiplicative]"
 		},
 		{
 			"text": "navy_tradition",
 			"displayText": "navy_tradition",
-			"description": "Adds to the yearly Navy Tradition rate."
+			"description": "Adds to the yearly Navy Tradition rate. [Additive]"
 		},
 		{
 			"text": "navy_tradition_decay",
 			"displayText": "navy_tradition_decay",
-			"description": "Adds to the decay rate of Navy Tradition."
+			"description": "Adds to the decay rate of Navy Tradition. [Additive]"
 		},
 		{
 			"text": "naval_tradition_from_battle",
 			"displayText": "naval_tradition_from_battle",
-			"description": "Modifies the base Navy Tradition gained from battles."
+			"description": "Modifies the base Navy Tradition gained from battles. [Multiplicative]"
 		},
 		{
 			"text": "heavy_ship_cost",
 			"displayText": "heavy_ship_cost",
-			"description": "Modifies the base cost of heavy ships."
+			"description": "Modifies the base cost of heavy ships. [Multiplicative]"
 		},
 		{
 			"text": "heavy_ship_power",
 			"displayText": "heavy_ship_power",
-			"description": "Modifies the power heavy ships gain from unit pips."
+			"description": "Modifies the power heavy ships gain from unit pips. [Multiplicative]"
 		},
 		{
 			"text": "light_ship_cost",
 			"displayText": "light_ship_cost",
-			"description": "Modifies the base cost of light ships."
+			"description": "Modifies the base cost of light ships. [Multiplicative]"
 		},
 		{
 			"text": "light_ship_power",
 			"displayText": "light_ship_power",
-			"description": "Modifies the power light ships gain from unit pips."
+			"description": "Modifies the power light ships gain from unit pips. [Multiplicative]"
 		},
 		{
 			"text": "galley_cost",
 			"displayText": "galley_cost",
-			"description": "Modifies the base cost of galley ships."
+			"description": "Modifies the base cost of galley ships. [Multiplicative]"
 		},
 		{
 			"text": "galley_power",
 			"displayText": "galley_power",
-			"description": "Modifies the power galley ships gain from unit pips."
+			"description": "Modifies the power galley ships gain from unit pips. [Multiplicative]"
 		},
 		{
 			"text": "transport_cost",
 			"displayText": "transport_cost",
-			"description": "Modifies the base cost of transport ships."
+			"description": "Modifies the base cost of transport ships. [Multiplicative]"
 		},
 		{
 			"text": "transport_power",
 			"displayText": "transport_power",
-			"description": "Modifies the power transport ships gain from unit pips."
+			"description": "Modifies the power transport ships gain from unit pips. [Multiplicative]"
 		},
 		{
 			"text": "global_ship_cost",
 			"displayText": "global_ship_cost",
-			"description": "Modifies the base cost of all ships."
+			"description": "Modifies the base cost of all ships. [Multiplicative]"
 		},
 		{
 			"text": "global_ship_recruit_speed",
 			"displayText": "global_ship_recruit_speed",
-			"description": "Modifies the base recruitmend speed of all ships."
+			"description": "Modifies the base recruitmend speed of all ships. [Multiplicative]"
 		},
 		{
 			"text": "global_ship_repair",
 			"displayText": "global_ship_repair",
-			"description": "Modifies the base repair speed (in port) of all ships."
+			"description": "Modifies the base repair speed (in port) of all ships. [Multiplicative]"
 		},
 		{
 			"text": "naval_forcelimit",
 			"displayText": "naval_forcelimit",
-			"description": "Adds to a country's naval force limit."
+			"description": "Adds to a country's naval force limit. [Additive]"
 		},
 		{
 			"text": "naval_forcelimit_modifier",
 			"displayText": "naval_forcelimit_modifier",
-			"description": "Modifies a country's naval force limit."
+			"description": "Modifies a country's naval force limit. [Multiplicative]"
 		},
 		{
 			"text": "naval_maintenance_modifier",
 			"displayText": "naval_maintenance_modifier",
-			"description": "Modifies the naval maintenance for all ships."
+			"description": "Modifies the naval maintenance for all ships. [Multiplicative]"
 		},
 		{
 			"text": "global_sailors",
 			"displayText": "global_sailors",
-			"description": "Adds to a country's maximum sailor pool."
+			"description": "Adds to a country's maximum sailor pool. [Additive]"
 		},
 		{
 			"text": "global_sailors_modifier",
 			"displayText": "global_sailors_modifier",
-			"description": "Modifies a country's maximum sailor pool."
+			"description": "Modifies a country's maximum sailor pool. [Multiplicative]"
 		},
 		{
 			"text": "sailor_maintenance_modifer",
 			"displayText": "sailor_maintenance_modifer",
-			"description": "Modifies the sailor maintenance for all ships."
+			"description": "Modifies the sailor maintenance for all ships. [Multiplicative]"
 		},
 		{
 			"text": "sailors_recovery_speed",
 			"displayText": "sailors_recovery_speed",
-			"description": "Modifies the sailor recovery rate for all ships."
+			"description": "Modifies the sailor recovery rate for all ships. [Multiplicative]"
 		},
 		{
 			"text": "blockade_efficiency",
 			"displayText": "blockade_efficiency",
-			"description": "Modifies the efficiency of blockades against enemies."
+			"description": "Modifies the efficiency of blockades against enemies. [Multiplicative]"
 		},
 		{
 			"text": "capture_ship_chance",
 			"displayText": "capture_ship_chance",
-			"description": "Adds to the chance for ship capture during naval battles."
+			"description": "Adds to the chance for ship capture during naval battles. [Additive]"
 		},
 		{
 			"text": "global_naval_engagement_modifier",
 			"displayText": "global_naval_engagement_modifier",
-			"description": "Modifies the maximum naval engagement width."
+			"description": "Modifies the maximum naval engagement width. [Multiplicative]"
 		},
 		{
 			"text": "naval_attrition",
 			"displayText": "naval_attrition",
-			"description": "Modifies the naval attrition taken by ships."
+			"description": "Modifies the naval attrition taken by ships. [Multiplicative]"
 		},
 		{
 			"text": "naval_morale",
 			"displayText": "naval_morale",
-			"description": "Modifies the naval morale of all ships."
+			"description": "Modifies the naval morale of all ships. [Multiplicative]"
 		},
 		{
 			"text": "ship_durability",
 			"displayText": "ship_durability",
-			"description": "Modifies the durability of all ships. (discipline for ships)"
+			"description": "Modifies the durability of all ships. (discipline for ships) [Multiplicative]"
 		},
 		{
 			"text": "sunk_ship_morale_hit_recieved",
 			"displayText": "sunk_ship_morale_hit_recieved",
-			"description": "Modifies the morale damage taken during battle by losing ships."
+			"description": "Modifies the morale damage taken during battle by losing ships. [Multiplicative]"
 		},
 		{
 			"text": "recover_navy_morale_speed",
 			"displayText": "recover_navy_morale_speed",
-			"description": "Modifies the morale recovery rate of ships."
+			"description": "Modifies the morale recovery rate of ships. [Multiplicative]"
 		},
 		{
 			"text": "prestige_from_naval",
 			"displayText": "prestige_from_naval",
-			"description": "Modifies the prestige gained through naval battles."
+			"description": "Modifies the prestige gained through naval battles. [Multiplicative]"
 		},
 		{
 			"text": "leader_naval_fire",
 			"displayText": "leader_naval_fire",
-			"description": "Adds to the minimum fire pip count a leader can be generated with."
+			"description": "Adds to the minimum fire pip count a leader can be generated with. [Additive]"
 		},
 		{
 			"text": "leader_naval_manuever",
 			"displayText": "leader_naval_manuever",
-			"description": "Adds to the minimum manuever pip count a leader can be generated with."
+			"description": "Adds to the minimum manuever pip count a leader can be generated with. [Additive]"
 		},
 		{
 			"text": "leader_naval_shock",
 			"displayText": "leader_naval_shock",
-			"description": "Adds to the minimum shock pip count a leader can be generated with."
+			"description": "Adds to the minimum shock pip count a leader can be generated with. [Additive]"
 		},
 		{
 			"text": "own_coast_naval_combat_bonus",
 			"displayText": "own_coast_naval_combat_bonus",
-			"description": "Modifies the combat bonus navies gain when sailing in coastal tiles that border their home nation."
+			"description": "Modifies the combat bonus navies gain when sailing in coastal tiles that border their home nation. [Multiplicative]"
 		},
 		{
 			"text": "diplomats",
 			"displayText": "diplomats",
-			"description": "Adds to a country's diplomat count."
+			"description": "Adds to a country's diplomat count. [Additive]"
 		},
 		{
 			"text": "diplomatic_reputation",
 			"displayText": "diplomatic_reputation",
-			"description": "Adds to a country's diplomatic reputation."
+			"description": "Adds to a country's diplomatic reputation. [Additive]"
 		},
 		{
 			"text": "diplomatic_upkeep",
 			"displayText": "diplomatic_upkeep",
-			"description": "Adds to the maximum number of free diplomatic relations."
+			"description": "Adds to the maximum number of free diplomatic relations. [Additive]"
 		},
 		{
 			"text": "envoy_travel_time",
 			"displayText": "envoy_travel_time",
-			"description": "Modifies diplomat travel time during actions."
+			"description": "Modifies diplomat travel time during actions. [Multiplicative]"
 		},
 		{
 			"text": "fabricate_claims_cost",
 			"displayText": "fabricate_claims_cost",
-			"description": "Modifies spy network cost for fabricating claim."
+			"description": "Modifies spy network cost for fabricating claim. [Multiplicative]"
 		},
 		{
 			"text": "improve_relation_modifier",
 			"displayText": "improve_relation_modifier",
-			"description": "Modifies the speed of the Improve Relations diplomatic action."
+			"description": "Modifies the speed of the Improve Relations diplomatic action. [Multiplicative]"
 		},
 		{
 			"text": "vassal_forcelimit_bonus",
 			"displayText": "vassal_forcelimit_bonus",
-			"description": "Modifies the bonus to a country's forcelimit from their subjects."
+			"description": "Modifies the bonus to a country's forcelimit from their subjects. [Multiplicative]"
 		},
 		{
 			"text": "vassal_income",
 			"displayText": "vassal_income",
-			"description": "Modifies the bonus to a country's income from their subjects."
+			"description": "Modifies the bonus to a country's income from their subjects. [Multiplicative]"
 		},
 		{
 			"text": "ae_impact",
 			"displayText": "ae_impact",
-			"description": "Modifies the total size of Aggressive Expansion gained during actions that confer it."
+			"description": "Modifies the total size of Aggressive Expansion gained during actions that confer it. [Multiplicative]"
 		},
 		{
 			"text": "claim_duration",
 			"displayText": "claim_duration",
-			"description": "Modifies the duration of claims."
+			"description": "Modifies the duration of claims. [Multiplicative]"
 		},
 		{
 			"text": "diplomatic_annexation_cost",
 			"displayText": "diplomatic_annexation_cost",
-			"description": "Modifies the diplomatic power cost for annexation."
+			"description": "Modifies the diplomatic power cost for annexation. [Multiplicative]"
 		},
 		{
 			"text": "province_warscore_cost",
 			"displayText": "province_warscore_cost",
-			"description": "Modifies the warscore cost for taking provinces."
+			"description": "Modifies the warscore cost for taking provinces. [Multiplicative]"
 		},
 		{
 			"text": "unjustified_demands",
 			"displayText": "unjustified_demands",
-			"description": "Modifies the weighting of demands in peace treaties."
+			"description": "Modifies the weighting of demands in peace treaties. [Multiplicative]"
 		},
 		{
 			"text": "enemy_core_creation",
 			"displayText": "enemy_core_creation",
-			"description": "Modifies the cost of coring provinces for enemies that have your cores."
+			"description": "Modifies the cost of coring provinces for enemies that have your cores. [Multiplicative]"
 		},
 		{
 			"text": "rival_change_cost",
 			"displayText": "rival_change_cost",
-			"description": "Modifies the diplomatic power cost to change rivals."
+			"description": "Modifies the diplomatic power cost to change rivals. [Multiplicative]"
 		},
 		{
 			"text": "justify_trade_conflict_cost",
 			"displayText": "justify_trade_conflict_cost",
-			"description": "Modifies the spy network cost to justify trade conflicts."
+			"description": "Modifies the spy network cost to justify trade conflicts. [Multiplicative]"
 		},
 		{
 			"text": "global_tax_income",
 			"displayText": "global_tax_income",
-			"description": "Adds to the base tax income per year (i.e. 12 equals 1 extra per month)."
+			"description": "Adds to the base tax income per year (i.e. 12 equals 1 extra per month). [Additive]"
 		},
 		{
 			"text": "global_tax_modifier",
 			"displayText": "global_tax_modifier",
-			"description": "Modifies the base tax income by a percentage."
+			"description": "Modifies the base tax income by a percentage. [Multiplicative]"
 		},
 		{
 			"text": "production_efficiency",
 			"displayText": "production_efficiency",
-			"description": "Modifies the base production income by a percentage."
+			"description": "Modifies the base production income by a percentage. [Multiplicative]"
 		},
 		{
 			"text": "state_maintenance_modifier",
 			"displayText": "state_maintenance_modifier",
-			"description": "Modifies the maintenance cost for states."
+			"description": "Modifies the maintenance cost for states. [Multiplicative]"
 		},
 		{
 			"text": "inflation_action_cost",
 			"displayText": "inflation_action_cost",
-			"description": "Modifies the administrative power cost for reducing inflation."
+			"description": "Modifies the administrative power cost for reducing inflation. [Multiplicative]"
 		},
 		{
 			"text": "inflation_reduction",
 			"displayText": "inflation_reduction",
-			"description": "Adds to the base yearly inflation rate."
+			"description": "Adds to the base yearly inflation rate. [Additive]"
 		},
 		{
 			"text": "interest",
 			"displayText": "interest",
-			"description": "Adds to the base interest rate."
+			"description": "Adds to the base interest rate. [Additive]"
 		},
 		{
 			"text": "development_cost",
 			"displayText": "development_cost",
-			"description": "Modifies the development cost for provinces."
+			"description": "Modifies the development cost for provinces. [Multiplicative]"
 		},
 		{
 			"text": "build_cost",
 			"displayText": "build_cost",
-			"description": "Modifies all building costs."
+			"description": "Modifies all building costs. [Multiplicative]"
 		},
 		{
 			"text": "build_time",
 			"displayText": "build_time",
-			"description": "Modifies all building construction times."
+			"description": "Modifies all building construction times. [Multiplicative]"
 		},
 		{
 			"text": "administrative_efficiency",
 			"displayText": "administrative_efficiency",
-			"description": "Modifies the base core creation cost, diplo-annexation costs and the impact of province development on overextension and warscore cost."
+			"description": "Modifies the base core creation cost, diplo-annexation costs and the impact of province development on overextension and warscore cost. [Multiplicative]"
 		},
 		{
 			"text": "core_creation",
 			"displayText": "core_creation",
-			"description": "Modifies the base core creation cost."
+			"description": "Modifies the base core creation cost. [Multiplicative]"
 		},
 		{
 			"text": "core_decay_on_your_own",
 			"displayText": "core_decay_on_your_own",
-			"description": "Modifies the rate at which the cores of a country will decay when under the ownership of a different country."
+			"description": "Modifies the rate at which the cores of a country will decay when under the ownership of a different country. [Multiplicative]"
 		},
 		{
 			"text": "adm_cost_modifier",
 			"displayText": "adm_cost_modifier",
-			"description": "Modifies the monarch power cost of Administrative technologies. Generated automatically for all technology tables in ."
+			"description": "Modifies the monarch power cost of Administrative technologies. Generated automatically for all technology tables in common/technology.txt. [Multiplicative]"
 		},
 		{
 			"text": "dip_cost_modifier",
 			"displayText": "dip_cost_modifier",
-			"description": "Modifies the monarch power cost of Diplomatic technologies. Generated automatically for all technology tables in ."
+			"description": "Modifies the monarch power cost of Diplomatic technologies. Generated automatically for all technology tables in common/technology.txt. [Multiplicative]"
 		},
 		{
 			"text": "mil_cost_modifier",
 			"displayText": "mil_cost_modifier",
-			"description": "Modifies the monarch power cost of Military technologies. Generated automatically for all technology tables in ."
+			"description": "Modifies the monarch power cost of Military technologies. Generated automatically for all technology tables in common/technology.txt. [Multiplicative]"
 		},
 		{
 			"text": "technology_cost",
 			"displayText": "technology_cost",
-			"description": "Modifies the monarch power  cost of all technologies."
+			"description": "Modifies the monarch power cost of all technologies. [Multiplicative]"
 		},
 		{
 			"text": "idea_cost",
 			"displayText": "idea_cost",
-			"description": "Modifies the monarch power cost of purchasable ideas."
+			"description": "Modifies the monarch power cost of purchasable ideas. [Multiplicative]"
 		},
 		{
 			"text": "embracement_cost",
 			"displayText": "embracement_cost",
-			"description": "Modifies the ducat cost for embracing an institution."
+			"description": "Modifies the ducat cost for embracing an institution. [Multiplicative]"
 		},
 		{
 			"text": "global_institution_spread",
 			"displayText": "global_institution_spread",
-			"description": "Modifies the rate of spread for institutions in all owned provinces."
+			"description": "Modifies the rate of spread for institutions in all owned provinces. [Multiplicative]"
 		},
 		{
 			"text": "institution_spread_from_true_faith",
 			"displayText": "institution_spread_from_true_faith",
-			"description": "Modifies the rate of spread for institutions in owned provinces following the owner's religion."
+			"description": "Modifies the rate of spread for institutions in owned provinces following the owner's religion. [Multiplicative]"
 		},
 		{
 			"text": "native_advancement_cost",
 			"displayText": "native_advancement_cost",
-			"description": "Modifies the monarch power cost of native advancements."
+			"description": "Modifies the monarch power cost of native advancements. [Multiplicative]"
 		},
 		{
 			"text": "all_power_cost",
 			"displayText": "all_power_cost",
-			"description": "Modifies the monarch power cost of '''every''' action that costs monarch power."
+			"description": "Modifies the monarch power cost of every action that costs monarch power. [Multiplicative]"
 		},
 		{
 			"text": "innovativeness_gain",
 			"displayText": "innovativeness_gain",
-			"description": "Modifies the amount of Innovativeness gained"
+			"description": "Modifies the amount of Innovativeness gained [Multiplicative]"
 		},
 		{
 			"text": "free_adm_policy",
 			"displayText": "free_adm_policy",
-			"description": "Modifies the amount of free Administrative policies."
+			"description": "Modifies the amount of free Administrative policies. [Additive]"
 		},
 		{
 			"text": "free_dip_policy",
 			"displayText": "free_dip_policy",
-			"description": "Modifies the amount of free Diplomatic policies."
+			"description": "Modifies the amount of free Diplomatic policies. [Additive]"
 		},
 		{
 			"text": "free_mil_policy",
 			"displayText": "free_mil_policy",
-			"description": "Modifies the amount of free Military policies."
+			"description": "Modifies the amount of free Military policies. [Additive]"
 		},
 		{
 			"text": "possible_adm_policy",
 			"displayText": "possible_adm_policy",
-			"description": "Modifies the amount of Administrative policy slots."
+			"description": "Modifies the amount of Administrative policy slots. [Additive]"
 		},
 		{
 			"text": "possible_dip_policy",
 			"displayText": "possible_dip_policy",
-			"description": "Modifies the amount of Diplomatic policy slots."
+			"description": "Modifies the amount of Diplomatic policy slots. [Additive]"
 		},
 		{
 			"text": "possible_mil_policy",
 			"displayText": "possible_mil_policy",
-			"description": "Modifies the amount of Military policy slots."
+			"description": "Modifies the amount of Military policy slots. [Additive]"
 		},
 		{
 			"text": "free_policy",
 			"displayText": "free_policy",
-			"description": "Modifies the amount of policy slots."
+			"description": "Modifies the amount of policy slots. [Additive]"
 		},
 		{
 			"text": "prestige",
 			"displayText": "prestige",
-			"description": "Adds to the base yearly rate of prestige."
+			"description": "Adds to the base yearly rate of prestige. [Additive]"
 		},
 		{
 			"text": "prestige_decay",
 			"displayText": "prestige_decay",
-			"description": "Adds to the base rate of prestige decay."
+			"description": "Adds to the base rate of prestige decay. [Additive]"
 		},
 		{
 			"text": "monthly_splendor",
 			"displayText": "monthly_splendor",
-			"description": "Adds to the monthly rate of splendor points."
+			"description": "Adds to the monthly rate of splendor points. [Additive]"
 		},
 		{
 			"text": "yearly_corruption",
 			"displayText": "yearly_corruption",
-			"description": "Adds to the yearly rate of corruption."
+			"description": "Adds to the yearly rate of corruption. [Additive]"
 		},
 		{
 			"text": "advisor_cost",
 			"displayText": "advisor_cost",
-			"description": "Modifies the base cost of advisors."
+			"description": "Modifies the base cost of advisors. [Multiplicative]"
 		},
 		{
 			"text": "advisor_pool",
 			"displayText": "advisor_pool",
-			"description": "Adds to the pool size for advisors."
+			"description": "Adds to the pool size for advisors. [Additive]"
 		},
 		{
 			"text": "female_advisor_chance",
 			"displayText": "female_advisor_chance",
-			"description": "Modifies the base chance rate for female advisors."
+			"description": "Modifies the base chance rate for female advisors. [Multiplicative]"
 		},
 		{
 			"text": "heir_chance",
 			"displayText": "heir_chance",
-			"description": "Modifies the base chance for an heir during the heir generation tick."
+			"description": "Modifies the base chance for an heir during the heir generation tick. [Multiplicative]"
 		},
 		{
 			"text": "monarch_admin_power",
 			"displayText": "monarch_admin_power",
-			"description": "Adds to the base ADM skill a ruler, heir and consort can be generated with."
+			"description": "Adds to the base ADM skill a ruler, heir and consort can be generated with. Does not effect rulers created with fixed = yes . [Additive]"
 		},
 		{
 			"text": "monarch_diplomatic_power",
 			"displayText": "monarch_diplomatic_power",
-			"description": "Adds to the base DIP skill a ruler, heir and consort can be generated with."
+			"description": "Adds to the base DIP skill a ruler, heir and consort can be generated with. Does not effect rulers created with fixed = yes . [Additive]"
 		},
 		{
 			"text": "monarch_military_power",
 			"displayText": "monarch_military_power",
-			"description": "Adds to the base MIL skill a ruler, heir and consort can be generated with."
+			"description": "Adds to the base MIL skill a ruler, heir and consort can be generated with. Does not effect rulers created with fixed = yes . [Additive]"
 		},
 		{
 			"text": "adm_advisor_cost",
 			"displayText": "adm_advisor_cost",
-			"description": "Modifies the cost of hiring an Administrative advisor."
+			"description": "Modifies the cost of hiring an Administrative advisor. [Multiplicative]"
 		},
 		{
 			"text": "dip_advisor_cost",
 			"displayText": "dip_advisor_cost",
-			"description": "Modifies the cost of hiring an Diplomatic advisor."
+			"description": "Modifies the cost of hiring an Diplomatic advisor. [Multiplicative]"
 		},
 		{
 			"text": "mil_advisor_cost",
 			"displayText": "mil_advisor_cost",
-			"description": "Modifies the cost of hiring an Military advisor."
+			"description": "Modifies the cost of hiring an Military advisor. [Multiplicative]"
 		},
 		{
 			"text": "yearly_absolutism",
 			"displayText": "yearly_absolutism",
-			"description": "Adds to the yearly base rate of absolutism."
+			"description": "Adds to the yearly base rate of absolutism. [Additive]"
 		},
 		{
 			"text": "max_absolutism",
 			"displayText": "max_absolutism",
-			"description": "Adds to the maximum value of absolutism. Internally absolutism bonuses do not scale above 100."
+			"description": "Adds to the maximum value of absolutism. Internally absolutism bonuses do not scale above 100. [Additive]"
 		},
 		{
 			"text": "max_states",
 			"displayText": "max_states",
-			"description": "Adds to the maximum number of states a country can support."
+			"description": "Adds to the maximum number of states a country can support. [Additive]"
 		},
 		{
 			"text": "legitimacy",
 			"displayText": "legitimacy",
-			"description": "Adds to the yearly rate of legitimacy.Does not appear or have an effect if a country's government does not use legitimacy."
+			"description": "Adds to the yearly rate of legitimacy. Does not appear or have an effect if a country's government does not use legitimacy. [Additive]"
 		},
 		{
 			"text": "republican_tradition",
 			"displayText": "republican_tradition",
-			"description": "Adds to the yearly rate of republican tradition.Does not appear or have an effect if a country's government does not use republican tradition."
+			"description": "Adds to the yearly rate of republican tradition. Does not appear or have an effect if a country's government does not use republican tradition. [Additive]"
 		},
 		{
 			"text": "devotion",
 			"displayText": "devotion",
-			"description": "Adds to the yearly rate of devotion.Does not appear or have an effect if a country's government does not use devotion."
+			"description": "Adds to the yearly rate of devotion. Does not appear or have an effect if a country's government does not use devotion. [Additive]"
 		},
 		{
 			"text": "horde_unity",
 			"displayText": "horde_unity",
-			"description": "Adds to the yearly rate of horde unity.Does not appear or have an effect if a country's government does not use horde unity."
+			"description": "Adds to the yearly rate of horde unity. Does not appear or have an effect if a country's government does not use horde unity. [Additive]"
 		},
 		{
 			"text": "meritocracy",
 			"displayText": "meritocracy",
-			"description": "Adds to the yearly rate of meritocracy. Does not appear or have an effect if a country's government does not use meritocracy."
+			"description": "Adds to the yearly rate of meritocracy. Does not appear or have an effect if a country's government does not use meritocracy. [Additive]"
 		},
 		{
 			"text": "monthly_militarized_society",
 			"displayText": "monthly_militarized_society",
-			"description": "Adds to the monthly rate of militarisation for governments with the militarisation mechanic."
+			"description": "Adds to the monthly rate of militarisation for governments with the militarisation mechanic. [Additive]"
 		},
 		{
 			"text": "yearly_tribal_allegiance",
 			"displayText": "yearly_tribal_allegiance",
-			"description": "Adds to the yearly rate of tribal allegiance for governments with the tribal allegiance mechanic."
+			"description": "Adds to the yearly rate of tribal allegiance for governments with the tribal allegiance mechanic. [Additive]"
 		},
 		{
 			"text": "imperial_authority",
 			"displayText": "imperial_authority",
-			"description": "Modifies the impact of Imperial Authority gains."
+			"description": "Modifies the impact of Imperial Authority gains. [Multiplicative]"
 		},
 		{
 			"text": "imperial_authority_value",
 			"displayText": "imperial_authority_value",
-			"description": "Adds to the rate of Imperial Authority gained per month."
+			"description": "Adds to the rate of Imperial Authority gained per month. [Additive]"
 		},
 		{
 			"text": "imperial_mandate",
 			"displayText": "imperial_mandate",
-			"description": "Adds to the rate of Mandate gained per month."
+			"description": "Adds to the rate of Mandate gained per month. [Additive]"
 		},
 		{
 			"text": "election_cycle",
 			"displayText": "election_cycle",
-			"description": "Adds to the duration of an election cycle for the current nation. Negative values shorten the duration, positive values add to it."
+			"description": "Adds to the duration of an election cycle for the current nation. Negative values shorten the duration, positive values add to it. [Additive]"
 		},
 		{
 			"text": "candidate_random_bonus",
 			"displayText": "candidate_random_bonus",
-			"description": "Adds to the randomized stats a republican candidate may receive during elections."
+			"description": "Adds to the randomized stats a republican candidate may receive during elections. [Additive]"
 		},
 		{
 			"text": "reelection_cost",
 			"displayText": "reelection_cost",
-			"description": "Modifies the cost in Republican Tradition when re-electing candidates."
+			"description": "Modifies the cost in Republican Tradition when re-electing candidates. [Multiplicative]"
 		},
 		{
 			"text": "reform_progress_growth",
 			"displayText": "reform_progress_growth",
-			"description": "Adds to the rate of government reform progress gain."
+			"description": "Adds to the rate of government reform progress gain. [Additive]"
 		},
 		{
 			"text": "culture_conversion_cost",
 			"displayText": "culture_conversion_cost",
-			"description": "Modifies the diplomatic power cost for culture conversion in provinces."
+			"description": "Modifies the diplomatic power cost for culture conversion in provinces. [Multiplicative]"
 		},
 		{
 			"text": "num_accepted_cultures",
 			"displayText": "num_accepted_cultures",
-			"description": "Adds to the maximum number of accepted cultures a country can have."
+			"description": "Adds to the maximum number of accepted cultures a country can have. [Additive]"
 		},
 		{
 			"text": "same_culture_advisor_cost",
 			"displayText": "same_culture_advisor_cost",
-			"description": "Modifies the advisor cost for advisors that share the same culture as the country's court they're in."
+			"description": "Modifies the advisor cost for advisors that share the same culture as the country's court they're in. [Multiplicative]"
 		},
 		{
 			"text": "promote_culture_cost",
 			"displayText": "promote_culture_cost",
-			"description": "Modifies the diplomatic power cost for promoting a culture."
+			"description": "Modifies the diplomatic power cost for promoting a culture. [Multiplicative]"
 		},
 		{
 			"text": "global_unrest",
 			"displayText": "global_unrest",
-			"description": "Adds to the base unrest value."
+			"description": "Adds to the base unrest value. [Additive]"
 		},
 		{
 			"text": "stability_cost_modifier",
 			"displayText": "stability_cost_modifier",
-			"description": "Modifies the administrative power cost of raising stability."
+			"description": "Modifies the administrative power cost of raising stability. [Multiplicative]"
 		},
 		{
 			"text": "global_autonomy",
 			"displayText": "global_autonomy",
-			"description": "Adds to the monthly rate of autonomy in owned provinces."
+			"description": "Adds to the monthly rate of autonomy in owned provinces. [Additive]"
 		},
 		{
 			"text": "min_autonomy",
 			"displayText": "min_autonomy",
-			"description": "Sets the minimum autonomy level allowed in all owned provinces."
+			"description": "Sets the minimum autonomy level allowed in all owned provinces. [Constant]"
 		},
 		{
 			"text": "autonomy_change_time",
 			"displayText": "autonomy_change_time",
-			"description": "Modifies the cooldown for the autonomy reduction and increase buttons."
+			"description": "Modifies the cooldown for the autonomy reduction and increase buttons. [Multiplicative]"
 		},
 		{
 			"text": "harsh_treatment_cost",
 			"displayText": "harsh_treatment_cost",
-			"description": "Modifies the military power cost for using harsh treatment."
+			"description": "Modifies the military power cost for using harsh treatment. [Multiplicative]"
 		},
 		{
 			"text": "years_of_nationalism",
 			"displayText": "years_of_nationalism",
-			"description": "Adds to the base separatism value of provinces when conquered."
+			"description": "Adds to the base separatism value of provinces when conquered. [Additive]"
 		},
 		{
 			"text": "min_autonomy_in_territories",
 			"displayText": "min_autonomy_in_territories",
-			"description": "Modifies the minimum autonomy experienced in territories."
+			"description": "Modifies the minimum autonomy experienced in territories. [Multiplicative]"
 		},
 		{
 			"text": "liberty_desire",
 			"displayText": "liberty_desire",
-			"description": "Adds to subject liberty desire against their overlord."
+			"description": "Adds to subject liberty desire against their overlord. [Additive]"
 		},
 		{
 			"text": "liberty_desire_from_subject_development",
 			"displayText": "liberty_desire_from_subject_development",
-			"description": "Adds to the subject liberty desire from development against their overlord."
+			"description": "Adds to the subject liberty desire from development against their overlord. [Multiplicative]"
 		},
 		{
 			"text": "reduced_liberty_desire",
 			"displayText": "reduced_liberty_desire",
-			"description": "Adds to the liberty desire subjects have against their overlord. Applied to the overlord."
+			"description": "Adds to the liberty desire subjects have against their overlord. Applied to the overlord. [Additive]"
 		},
 		{
 			"text": "reduced_liberty_desire_on_same_continent",
 			"displayText": "reduced_liberty_desire_on_same_continent",
-			"description": "Adds to the liberty desire subjects have against their overlord if on the same continent. Applied to the overlord."
+			"description": "Adds to the liberty desire subjects have against their overlord if on the same continent. Applied to the overlord. [Additive]"
 		},
 		{
 			"text": "spy_offence",
 			"displayText": "spy_offence",
-			"description": "Modifies the base effectiveness of spies against enemies."
+			"description": "Modifies the base effectiveness of spies against enemies. [Multiplicative]"
 		},
 		{
 			"text": "global_spy_defence",
 			"displayText": "global_spy_defence",
-			"description": "Modifies the base effectiveness of counter-espionage against enemy spies."
+			"description": "Modifies the base effectiveness of counter-espionage against enemy spies. [Multiplicative]"
 		},
 		{
 			"text": "discovered_relations_impact",
 			"displayText": "discovered_relations_impact",
-			"description": "Modifies the relations impact applied to a country when discovered committing an espionage action."
+			"description": "Modifies the relations impact applied to a country when discovered committing an espionage action. [Multiplicative]"
 		},
 		{
 			"text": "rebel_support_efficiency",
 			"displayText": "rebel_support_efficiency",
-			"description": "Modifies the effectiveness of supported rebels in other countries."
+			"description": "Modifies the effectiveness of supported rebels in other countries. [Multiplicative]"
 		},
 		{
 			"text": "global_missionary_strength",
 			"displayText": "global_missionary_strength",
-			"description": "Adds to the base missionary strength against all religions."
+			"description": "Adds to the base missionary strength against all religions. [Additive]"
 		},
 		{
 			"text": "global_heretic_missionary_strength",
 			"displayText": "global_heretic_missionary_strength",
-			"description": "Adds to the base missionary strength against heretic religions."
+			"description": "Adds to the base missionary strength against heretic religions. [Additive]"
 		},
 		{
 			"text": "missionaries",
 			"displayText": "missionaries",
-			"description": "Adds to the base missionary count for a country."
+			"description": "Adds to the base missionary count for a country. [Additive]"
 		},
 		{
 			"text": "religious_unity",
 			"displayText": "religious_unity",
-			"description": "Adds to the base religious unity value for a country."
+			"description": "Adds to the base religious unity value for a country. [Additive]"
 		},
 		{
 			"text": "tolerance_own",
 			"displayText": "tolerance_own",
-			"description": "Adds to the base tolerance for the true faith within a country."
+			"description": "Adds to the base tolerance for the true faith within a country. [Additive]"
 		},
 		{
 			"text": "tolerance_heretic",
 			"displayText": "tolerance_heretic",
-			"description": "Adds to the base tolerance for heretics within a country."
+			"description": "Adds to the base tolerance for heretics within a country. [Additive]"
 		},
 		{
 			"text": "tolerance_heathen",
 			"displayText": "tolerance_heathen",
-			"description": "Adds to the base tolerance for heathens within a country."
+			"description": "Adds to the base tolerance for heathens within a country. [Additive]"
 		},
 		{
 			"text": "papal_influence",
 			"displayText": "papal_influence",
-			"description": "Adds to the rate of papal influence gained per year."
+			"description": "Adds to the rate of papal influence gained per year. [Additive]"
 		},
 		{
 			"text": "church_power_modifier",
 			"displayText": "church_power_modifier",
-			"description": "Modifies the effectiveness of church power gains."
+			"description": "Modifies the effectiveness of church power gains. [Multiplicative]"
 		},
 		{
 			"text": "monthly_fervor_increase",
 			"displayText": "monthly_fervor_increase",
-			"description": "Adds to the rate of fervor gained per month."
+			"description": "Adds to the rate of fervor gained per month. [Additive]"
 		},
 		{
 			"text": "harmonization_speed",
 			"displayText": "harmonization_speed",
-			"description": "Modifies the rate at which harmonization occurs."
+			"description": "Modifies the rate at which harmonization occurs. [Multiplicative]"
 		},
 		{
 			"text": "yearly_harmony",
 			"displayText": "yearly_harmony",
-			"description": "Adds to the rate of harmony gained per year."
+			"description": "Adds to the rate of harmony gained per year. [Additive]"
 		},
 		{
 			"text": "monthly_piety",
 			"displayText": "monthly_piety",
-			"description": "Adds to the rate of piety gained per month."
+			"description": "Adds to the rate of piety gained per month. [Additive]"
 		},
 		{
 			"text": "monthly_karma",
 			"displayText": "monthly_karma",
-			"description": "Adds to the rate of karma gained per month."
+			"description": "Adds to the rate of karma gained per month. [Additive]"
 		},
 		{
 			"text": "enforce_religion_cost",
 			"displayText": "enforce_religion_cost",
-			"description": "Modifies the war score cost for the Enforce Religion peace term."
+			"description": "Modifies the war score cost for the Enforce Religion peace term. [Multiplicative]"
 		},
 		{
 			"text": "prestige_per_development_from_conversion",
 			"displayText": "prestige_per_development_from_conversion",
-			"description": "Adds to the prestige bonus gained per development when successfully converting a province to a state religion."
+			"description": "Adds to the prestige bonus gained per development when successfully converting a province to a state religion. [Additive]"
 		},
 		{
 			"text": "warscore_cost_vs_other_religion",
 			"displayText": "warscore_cost_vs_other_religion",
-			"description": "Modifies the war score costs for peace terms whilst in war against countries of a different religion."
+			"description": "Modifies the war score costs for peace terms whilst in war against countries of a different religion. [Multiplicative]"
 		},
 		{
 			"text": "colonists",
 			"displayText": "colonists",
-			"description": "Modifies the base colonist count for a country."
+			"description": "Modifies the base colonist count for a country. [Additive]"
 		},
 		{
 			"text": "colonist_placement_chance",
 			"displayText": "colonist_placement_chance",
-			"description": "Adds to the base colonial placement chance for colonists, which is the chance that additional settlers will be spawned whilst the colonist is present."
+			"description": "Adds to the base colonial placement chance for colonists, which is the chance that additional settlers will be spawned whilst the colonist is present. [Additive]"
 		},
 		{
 			"text": "global_colonial_growth",
 			"displayText": "global_colonial_growth",
-			"description": "Adds to the base yearly colonial growth gain."
+			"description": "Adds to the base yearly colonial growth gain. [Additive]"
 		},
 		{
 			"text": "range",
 			"displayText": "range",
-			"description": "Modifies the base colonisation  used for exploration, colonisation and coring province that border sea."
+			"description": "Modifies the base colonisation range, used for exploration, colonisation and coring province that border sea. [Multiplicative]"
 		},
 		{
 			"text": "native_uprising_chance",
 			"displayText": "native_uprising_chance",
-			"description": "Adds to the chance of native uprisings in a colony province."
+			"description": "Adds to the chance of native uprisings in a colony province. [Multiplicative]"
 		},
 		{
 			"text": "native_assimilation",
 			"displayText": "native_assimilation",
-			"description": "Modifies the bonus from assimilation in colonies. Native assimilation is bonus to goods produced depends on the native population."
+			"description": "Modifies the bonus from assimilation in colonies. Native assimilation is bonus to goods produced depends on the native population. [Multiplicative]"
 		},
 		{
 			"text": "migration_cooldown",
 			"displayText": "migration_cooldown",
-			"description": "Modifies the cooldown for the migration action for primitive nations that can migrate."
+			"description": "Modifies the cooldown for the migration action for primitive nations that can migrate. [Multiplicative]"
 		},
 		{
 			"text": "global_tariffs",
 			"displayText": "global_tariffs",
-			"description": "Modifies the tariff income from colonial nations."
+			"description": "Modifies the tariff income from colonial nations. [Multiplicative]"
 		},
 		{
 			"text": "caravan_power",
 			"displayText": "caravan_power",
-			"description": "Modifies the bonus trade power inland nodes receive from trade power sources."
+			"description": "Modifies the bonus trade power inland nodes receive from trade power sources. [Multiplicative]"
 		},
 		{
 			"text": "merchants",
 			"displayText": "merchants",
-			"description": "Adds to the base merchant count for a country."
+			"description": "Adds to the base merchant count for a country. [Additive]"
 		},
 		{
 			"text": "placed_merchant_power",
 			"displayText": "placed_merchant_power",
-			"description": "Modifies the additional trade power when a merchant present in a trade node."
+			"description": "Modifies the additional trade power when a merchant present in a trade node. [Additive]"
 		},
 		{
 			"text": "global_trade_power",
 			"displayText": "global_trade_power",
-			"description": "Modifies the trade power in all trade nodes for a country."
+			"description": "Modifies the trade power in all trade nodes for a country. [Multiplicative]"
 		},
 		{
 			"text": "global_foreign_trade_power",
 			"displayText": "global_foreign_trade_power",
-			"description": "Modifies the trade power for a country in trade nodes that are not [[Trade#Domestic_trade_powerdomestic]]."
+			"description": "Modifies the trade power for a country in trade nodes that are not domestic. [Multiplicative]"
 		},
 		{
 			"text": "global_own_trade_power",
 			"displayText": "global_own_trade_power",
-			"description": "Modifies the trade power for a country in trade nodes that are [[Trade#Domestic_trade_powerdomestic]]."
+			"description": "Modifies the trade power for a country in trade nodes that are domestic. [Multiplicative]"
 		},
 		{
 			"text": "global_prov_trade_power_modifier",
 			"displayText": "global_prov_trade_power_modifier",
-			"description": "Modifies the base trade power of owned provinces."
+			"description": "Modifies the base trade power of owned provinces. [Multiplicative]"
 		},
 		{
 			"text": "global_trade_goods_size_modifier",
 			"displayText": "global_trade_goods_size_modifier",
-			"description": "Modifies the base trade good size of owned provinces."
+			"description": "Modifies the base trade good size of owned provinces. [Multiplicative]"
 		},
 		{
 			"text": "trade_efficiency",
 			"displayText": "trade_efficiency",
-			"description": "Modifies a country's trade income. (Maximum is 200%)"
+			"description": "Modifies a country's trade income. (Maximum is 200%) [Multiplicative]"
 		},
 		{
 			"text": "trade_range_modifier",
 			"displayText": "trade_range_modifier",
-			"description": "Modifies the trade range used to determine if a country can place a merchant in a trade node."
+			"description": "Modifies the trade range used to determine if a country can place a merchant in a trade node. [Multiplicative]"
 		},
 		{
 			"text": "trade_steering",
 			"displayText": "trade_steering",
-			"description": "Modifies the bonus to trade power used for steering when determining which outgoing node trade is steered to. If you have a merchant present, it also slightly increases the outgoing value."
+			"description": "Modifies the bonus to trade power used for steering when determining which outgoing node trade is steered to. If you have a merchant present, it also slightly increases the outgoing value. [Multiplicative]"
 		},
 		{
 			"text": "global_ship_trade_power",
 			"displayText": "global_ship_trade_power",
-			"description": "Modifies the trade power ships grant when protecting trade."
+			"description": "Modifies the trade power ships grant when protecting trade. [Multiplicative]"
 		},
 		{
 			"text": "privateer_efficiency",
 			"displayText": "privateer_efficiency",
-			"description": "Modifies the effectiveness of privateers in a trade node."
+			"description": "Modifies the effectiveness of privateers in a trade node. [Multiplicative]"
 		},
 		{
 			"text": "embargo_efficiency",
 			"displayText": "embargo_efficiency",
-			"description": "Modifies the effectiveness of embargoing another country."
+			"description": "Modifies the effectiveness of embargoing another country. [Multiplicative]"
 		},
 		{
 			"text": "ship_power_propagation",
 			"displayText": "ship_power_propagation",
-			"description": "Modifies the propagation of trade power from ships protecting trade."
+			"description": "Modifies the propagation of trade power from ships protecting trade. [Multiplicative]"
 		},
 		{
 			"text": "max_attrition",
 			"displayText": "max_attrition",
-			"description": "Adds to the maximum attrition that can be experienced in a province."
+			"description": "Adds to the maximum attrition that can be experienced in a province. [Additive]"
 		},
 		{
 			"text": "attrition",
 			"displayText": "attrition",
-			"description": "Adds to the base attrition in a province."
+			"description": "Adds to the base attrition in a province. [Additive]"
 		},
 		{
 			"text": "local_hostile_attrition",
 			"displayText": "local_hostile_attrition",
-			"description": "Adds to the base attrition for enemies in a province."
+			"description": "Adds to the base attrition for enemies in a province. [Additive]"
 		},
 		{
 			"text": "fort_level",
 			"displayText": "fort_level",
-			"description": "Adds to the fort level in a province, determining how difficult it is to siege."
+			"description": "Adds to the fort level in a province, determining how difficult it is to siege. [Additive]"
 		},
 		{
 			"text": "garrison_growth",
 			"displayText": "garrison_growth",
-			"description": "Modifies the rate of garrison growth in a province."
+			"description": "Modifies the rate of garrison growth in a province. [Multiplicative]"
 		},
 		{
 			"text": "local_defensiveness",
 			"displayText": "local_defensiveness",
-			"description": "Modifies the defensiveness of a province, impacting siege phase length."
+			"description": "Modifies the defensiveness of a province, impacting siege phase length. [Multiplicative]"
 		},
 		{
 			"text": "local_friendly_movement_speed",
 			"displayText": "local_friendly_movement_speed",
-			"description": "Modifies the movement speed of units in a province that are considered friendly."
+			"description": "Modifies the movement speed of units in a province that are considered friendly. [Multiplicative]"
 		},
 		{
 			"text": "local_hostile_movement_speed",
 			"displayText": "local_hostile_movement_speed",
-			"description": "Modifies the movement speed of units in a province that are considered enemies."
+			"description": "Modifies the movement speed of units in a province that are considered enemies. [Multiplicative]"
 		},
 		{
 			"text": "local_manpower",
 			"displayText": "local_manpower",
-			"description": "Adds to the base manpower value. 1 equals 1000 men."
+			"description": "Adds to the base manpower value. 1 equals 1000 men. [Additive]"
 		},
 		{
 			"text": "local_manpower_modifier",
 			"displayText": "local_manpower_modifier",
-			"description": "Modifies the manpower efficiency in a province."
+			"description": "Modifies the manpower efficiency in a province. [Multiplicative]"
 		},
 		{
 			"text": "local_regiment_cost",
 			"displayText": "local_regiment_cost",
-			"description": "Modifies the recruitment cost of land units in a province."
+			"description": "Modifies the recruitment cost of land units in a province. [Multiplicative]"
 		},
 		{
 			"text": "regiment_recruit_speed",
 			"displayText": "regiment_recruit_speed",
-			"description": "Modifies the recruitment speed of land units in a province."
+			"description": "Modifies the recruitment speed of land units in a province. [Multiplicative]"
 		},
 		{
 			"text": "supply_limit",
 			"displayText": "supply_limit",
-			"description": "Adds to the base supply limit of a province."
+			"description": "Adds to the base supply limit of a province. [Additive]"
 		},
 		{
 			"text": "supply_limit_modifier",
 			"displayText": "supply_limit_modifier",
-			"description": "Modifies the supply limit efficiency of a province."
+			"description": "Modifies the supply limit efficiency of a province. [Multiplicative]"
 		},
 		{
 			"text": "local_amount_of_banners",
 			"displayText": "local_amount_of_banners",
-			"description": "Modiifes the amount of banners that can be raised from a province."
+			"description": "Modiifes the amount of banners that can be raised from a province. [Multiplicative]"
 		},
 		{
 			"text": "local_naval_engagement_modifier",
 			"displayText": "local_naval_engagement_modifier",
-			"description": "Modifies the naval engagement width in a province. Only usable in sea provinces."
+			"description": "Modifies the naval engagement width in a province. Only usable in sea provinces. [Multiplicative]"
 		},
 		{
 			"text": "local_sailors",
 			"displayText": "local_sailors",
-			"description": "Adds to the sailors value for a province. 1 equals 1 sailor."
+			"description": "Adds to the sailors value for a province. 1 equals 1 sailor. [Additive]"
 		},
 		{
 			"text": "local_sailors_modifier",
 			"displayText": "local_sailors_modifier",
-			"description": "Modifies the sailors efficiency of a province."
+			"description": "Modifies the sailors efficiency of a province. [Multiplicative]"
 		},
 		{
 			"text": "local_ship_cost",
 			"displayText": "local_ship_cost",
-			"description": "Modifies the cost of ship recruitment in a province."
+			"description": "Modifies the cost of ship recruitment in a province. [Multiplicative]"
 		},
 		{
 			"text": "local_ship_repair",
 			"displayText": "local_ship_repair",
-			"description": "Modifies the speed of ship repair in a province."
+			"description": "Modifies the speed of ship repair in a province. [Multiplicative]"
 		},
 		{
 			"text": "ship_recruit_speed",
 			"displayText": "ship_recruit_speed",
-			"description": "Modifies the recruitment speed of ships in a province."
+			"description": "Modifies the recruitment speed of ships in a province. [Multiplicative]"
 		},
 		{
 			"text": "local_colonial_growth",
 			"displayText": "local_colonial_growth",
-			"description": "Adds to the colonial growth in a colony province."
+			"description": "Adds to the colonial growth in a colony province. [Additive]"
 		},
 		{
 			"text": "local_colonist_placement_chance",
 			"displayText": "local_colonist_placement_chance",
-			"description": "Adds to the placement chance in a colony province."
+			"description": "Adds to the placement chance in a colony province. [Additive]"
 		},
 		{
 			"text": "inflation_reduction_local",
 			"displayText": "inflation_reduction_local",
-			"description": "Adds to the base yearly inflation value. Requires '''every''' province in a country to have the modifier to work however."
+			"description": "Adds to the base yearly inflation value. Requires every province in a country to have the modifier to work however. [Additive]"
 		},
 		{
 			"text": "local_state_maintenance_modifier",
 			"displayText": "local_state_maintenance_modifier",
-			"description": "Modifies the state maintenance cost for the state that a province belongs to."
+			"description": "Modifies the state maintenance cost for the state that a province belongs to. [Multiplicative]"
 		},
 		{
 			"text": "local_build_cost",
 			"displayText": "local_build_cost",
-			"description": "Modifies the cost of constructing buildings in a province."
+			"description": "Modifies the cost of constructing buildings in a province. [Multiplicative]"
 		},
 		{
 			"text": "local_build_time",
 			"displayText": "local_build_time",
-			"description": "Modifies the construction speed of buildings in a province."
+			"description": "Modifies the construction speed of buildings in a province. [Multiplicative]"
 		},
 		{
 			"text": "local_monthly_devastation",
 			"displayText": "local_monthly_devastation",
-			"description": "Adds to the devastation rate in a province."
+			"description": "Adds to the devastation rate in a province. [Additive]"
 		},
 		{
 			"text": "local_production_efficiency",
 			"displayText": "local_production_efficiency",
-			"description": "Modifies the production efficiency in a province."
+			"description": "Modifies the production efficiency in a province. [Multiplicative]"
 		},
 		{
 			"text": "local_tax_modifier",
 			"displayText": "local_tax_modifier",
-			"description": "Modifies the tax efficiency in a province."
+			"description": "Modifies the tax efficiency in a province. [Multiplicative]"
 		},
 		{
 			"text": "tax_income",
 			"displayText": "tax_income",
-			"description": "Adds to the yearly tax income of a province."
+			"description": "Adds to the yearly tax income of a province. [Additive]"
 		},
 		{
 			"text": "allowed_num_of_buildings",
 			"displayText": "allowed_num_of_buildings",
-			"description": "Adds to the maximum number of building slots in a province."
+			"description": "Adds to the maximum number of building slots in a province. [Additive]"
 		},
 		{
 			"text": "local_development_cost",
 			"displayText": "local_development_cost",
-			"description": "Modifies the monarch power cost for development in a province. Converts to local_tax_modifier in for non-Common Sense owners."
+			"description": "Modifies the monarch power cost for development in a province. Converts to local_tax_modifier in for non-Common Sense owners. [Multiplicative]"
 		},
 		{
 			"text": "local_institution_spread",
 			"displayText": "local_institution_spread",
-			"description": "Modifies the spread of institutions in a province."
+			"description": "Modifies the spread of institutions in a province. [Multiplicative]"
 		},
 		{
 			"text": "local_core_creation",
 			"displayText": "local_core_creation",
-			"description": "Modifies the cost of coring in a province."
+			"description": "Modifies the cost of coring in a province. [Multiplicative]"
 		},
 		{
 			"text": "cs_only_local_development_cost",
 			"displayText": "cs_only_local_development_cost",
-			"description": "Modifies the monarch power cost for development in a province. Does not appear or affect non-Common Sense owners."
+			"description": "Modifies the monarch power cost for development in a province. Does not appear or affect non-Common Sense owners. [Multiplicative]"
 		},
 		{
 			"text": "province_trade_power_modifier",
 			"displayText": "province_trade_power_modifier",
-			"description": "Modifies the trade power efficiency in a province."
+			"description": "Modifies the trade power efficiency in a province. [Multiplicative]"
 		},
 		{
 			"text": "province_trade_power_value",
 			"displayText": "province_trade_power_value",
-			"description": "Adds to the trade power in a province."
+			"description": "Adds to the trade power in a province. [Additive]"
 		},
 		{
 			"text": "trade_goods_size_modifier",
 			"displayText": "trade_goods_size_modifier",
-			"description": "Modifies the goods produced efficiency in a province."
+			"description": "Modifies the goods produced efficiency in a province. [Multiplicative]"
 		},
 		{
 			"text": "trade_goods_size",
 			"displayText": "trade_goods_size",
-			"description": "Adds to the trade good size in a province"
+			"description": "Adds to the trade good size in a province [Additive]"
 		},
 		{
 			"text": "trade_value_modifier",
 			"displayText": "trade_value_modifier",
-			"description": "Modifies the base trade value in a province."
+			"description": "Modifies the base trade value in a province. [Multiplicative]"
 		},
 		{
 			"text": "trade_value",
 			"displayText": "trade_value",
-			"description": "Adds to the base trade value in a province."
+			"description": "Adds to the base trade value in a province. [Additive]"
 		},
 		{
 			"text": "local_missionary_strength",
 			"displayText": "local_missionary_strength",
-			"description": "Adds to the missionary strength in a province. 1 equals 100% strength."
+			"description": "Adds to the missionary strength in a province. 1 equals 100% strength. [Additive]"
 		},
 		{
 			"text": "religious_conversion_resistance",
 			"displayText": "religious_conversion_resistance",
-			"description": "Adds to conversion resistance from Centres of Reformation."
+			"description": "Adds to conversion resistance from Centres of Reformation. [Additive]"
 		},
 		{
 			"text": "local_culture_conversion_cost",
 			"displayText": "local_culture_conversion_cost",
-			"description": "Modifies the culture conversion cost in a province."
+			"description": "Modifies the culture conversion cost in a province. [Multiplicative]"
 		},
 		{
 			"text": "local_unrest",
 			"displayText": "local_unrest",
-			"description": "Adds to the unrest value in a province."
+			"description": "Adds to the unrest value in a province. [Additive]"
 		},
 		{
 			"text": "local_autonomy",
 			"displayText": "local_autonomy",
-			"description": "Adds to the autonomy rate in a province."
+			"description": "Adds to the autonomy rate in a province. [Additive]"
 		},
 		{
 			"text": "local_years_of_nationalism",
 			"displayText": "local_years_of_nationalism",
-			"description": "Adds to the base nationalism value in a province."
+			"description": "Adds to the base nationalism value in a province. [Additive]"
 		},
 		{
 			"text": "min_local_autonomy",
 			"displayText": "min_local_autonomy",
-			"description": "Sets the minimum autonomy value a province can have."
+			"description": "Sets the minimum autonomy value a province can have. [Constant]"
 		},
 		{
 			"text": "attack_bonus_in_capital_terrain",
 			"displayText": "attack_bonus_in_capital_terrain",
-			"description": "Grants attack bonus in provinces with the same terrain as capital province."
+			"description": "Grants attack bonus in provinces with the same terrain as capital province. [Constant]"
 		},
 		{
 			"text": "can_bypass_forts",
 			"displayText": "can_bypass_forts",
-			"description": "Allows units to ignore fort zones of control."
+			"description": "Allows units to ignore fort zones of control. [Constant]"
 		},
 		{
 			"text": "can_chain_claim",
 			"displayText": "can_chain_claim",
-			"description": "Allows claims to be enacted through already claimed provinces."
+			"description": "Allows claims to be enacted through already claimed provinces. [Constant]"
 		},
 		{
 			"text": "can_colony_boost_development",
 			"displayText": "can_colony_boost_development",
-			"description": "Grants bonus 1 tax, production and manpower on completed colonies."
+			"description": "Grants bonus 1 tax, production and manpower on completed colonies. [Constant]"
 		},
 		{
 			"text": "can_transfer_vassal_wargoal",
 			"displayText": "can_transfer_vassal_wargoal",
-			"description": "Allows usage of the Transfer Subject peace term at half cost."
+			"description": "Allows usage of the Transfer Subject peace term at half cost. [Constant]"
 		},
 		{
 			"text": "force_march_free",
 			"displayText": "force_march_free",
-			"description": "Allows usage of the force march action for free."
+			"description": "Allows usage of the force march action for free. [Constant]"
 		},
 		{
 			"text": "free_maintenance_on_expl_conq",
 			"displayText": "free_maintenance_on_expl_conq",
-			"description": "Removes maintenance cost for explorers and conquisadors."
+			"description": "Removes maintenance cost for explorers and conquisadors. [Constant]"
 		},
 		{
 			"text": "ignore_coring_distance",
 			"displayText": "ignore_coring_distance",
-			"description": "Allows coring in any uncored province, regardless of distance."
+			"description": "Allows coring in any uncored province, regardless of distance. [Constant]"
 		},
 		{
 			"text": "cb_on_government_enemies",
 			"displayText": "cb_on_government_enemies",
-			"description": "Acts a visible script flag. Can be checked in triggers with cb_on_government_enemies = yes"
+			"description": "Acts a visible script flag. Can be checked in triggers with cb_on_government_enemies = yes [Constant]"
 		},
 		{
 			"text": "cb_on_religious_enemies",
 			"displayText": "cb_on_religious_enemies",
-			"description": "Acts a visible script flag. Can be checked in triggers with cb_on_religious_enemies = yes"
+			"description": "Acts a visible script flag. Can be checked in triggers with cb_on_religious_enemies = yes [Constant]"
 		},
 		{
 			"text": "cb_on_primitives",
 			"displayText": "cb_on_primitives",
-			"description": "Allows claims to be fabricated on overseas provinces in Colonial regions."
+			"description": "Allows claims to be fabricated on overseas provinces in Colonial regions. [Constant]"
 		},
 		{
 			"text": "cb_on_overseas",
 			"displayText": "cb_on_overseas",
-			"description": "Allows claims to be fabricated on overseas provinces in Trade Company regions."
+			"description": "Allows claims to be fabricated on overseas provinces in Trade Company regions. [Constant]"
 		},
 		{
 			"text": "idea_claim_colonies",
 			"displayText": "idea_claim_colonies",
-			"description": "Allows claims to be fabricated on overseas provinces in Colonial regions that are owned by by another nation that is also overseas."
+			"description": "Allows claims to be fabricated on overseas provinces in Colonial regions that are owned by by another nation that is also overseas. [Constant]"
 		},
 		{
 			"text": "may_explore",
 			"displayText": "may_explore",
-			"description": "Allows the recruitment of explorers and conquisadors."
+			"description": "Allows the recruitment of explorers and conquisadors. [Constant]"
 		},
 		{
 			"text": "may_perform_slave_raid",
 			"displayText": "may_perform_slave_raid",
-			"description": "Allows ships to perform slave raids."
+			"description": "Allows ships to perform slave raids. [Constant]"
 		},
 		{
 			"text": "may_recruit_female_generals",
 			"displayText": "may_recruit_female_generals",
-			"description": "Allows the recruitment of female generals."
+			"description": "Allows the recruitment of female generals. [Constant]"
 		},
 		{
 			"text": "no_religion_penalty",
 			"displayText": "no_religion_penalty",
-			"description": "Removes the penalties associated with negative religious tolerance."
+			"description": "Removes the penalties associated with negative religious tolerance. [Constant]"
 		},
 		{
 			"text": "reduced_stab_impacts",
 			"displayText": "reduced_stab_impacts",
-			"description": "Reduces the stability hits when taking diplomatic actions that cause them (i.e. Break Marriage)."
+			"description": "Reduces the stability hits when taking diplomatic actions that cause them (i.e. Break Marriage). [Constant]"
 		},
 		{
 			"text": "sea_repair",
 			"displayText": "sea_repair",
-			"description": "Allows ships to repair in coastal sea zones adjacent to owned provinces."
+			"description": "Allows ships to repair in coastal sea zones adjacent to owned provinces. [Constant]"
 		},
 		{
 			"text": "may_establish_frontier",
 			"displayText": "may_establish_frontier",
-			"description": "Allows the usage of the Siberean Frontier mechanic."
+			"description": "Allows the usage of the Siberean Frontier mechanic. [Constant]"
 		},
 		{
 			"text": "extra_manpower_at_religious_war",
 			"displayText": "extra_manpower_at_religious_war",
-			"description": "Grants an increase in manpower recovery by a factor of 3 during religious wars."
+			"description": "Grants an increase in manpower recovery by a factor of 3 during religious wars. [Constant]"
 		},
 		{
 			"text": "auto_explore_adjacent_to_colony",
 			"displayText": "auto_explore_adjacent_to_colony",
-			"description": "Grants the abiliy to automatically discover undiscovered provinces adjacent to colonies."
+			"description": "Grants the abiliy to automatically discover undiscovered provinces adjacent to colonies. [Constant]"
 		},
 		{
 			"text": "has_banners",
 			"displayText": "has_banners",
-			"description": "Allows the usage of Manchu banner units. Country scope."
+			"description": "Allows the usage of Manchu banner units. Country scope. [Constant]"
 		},
 		{
 			"text": "local_has_banners",
 			"displayText": "local_has_banners",
-			"description": "Allows Manchu banner units to be raised in owned provinces. Province scope."
+			"description": "Allows Manchu banner units to be raised in owned provinces. Province scope. [Constant]"
 		}
 	],
 	"bracket": [

@@ -4,9 +4,9 @@
   "version": "0.2.0",
   "description": "Autocomplete Plus provider for Europa Universalis IV",
   "keywords": [
-    "Autocomplete Plus",
-    "Paradox Interactive",
-    "Europa Universalis IV"
+    "Autocomplete",
+    "Paradox",
+    "EU4"
   ],
   "repository": "https://github.com/oooFUNooo/autocomplete-eu4",
   "license": "MIT",

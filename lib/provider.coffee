@@ -4,6 +4,7 @@ CONDITION = require('../dictionary/condition.json')
 MODIFIER  = require('../dictionary/modifier.json')
 SCOPE     = require('../dictionary/scope.json')
 COUNTRY   = require('../dictionary/country.json')
+PROVINCE  = require('../dictionary/province.json')
 WIKIURL   = 'https://eu4.paradoxwikis.com/'
 
 
@@ -36,7 +37,8 @@ module.exports =
 
     if atom.config.get('autocomplete-eu4.includeloc') < 2
 
-      completions = @searchText(1, prefix, completions, COUNTRY  , 'country'  , 'Countries')
+      completions = @searchText(1, prefix, completions, COUNTRY , 'country' , 'Countries')
+      completions = @searchText(1, prefix, completions, PROVINCE, 'province', 'Lists_of_provinces')
 
     if atom.config.get('autocomplete-eu4.includedesc')
 
@@ -48,7 +50,7 @@ module.exports =
 
       if atom.config.get('autocomplete-eu4.includeloc') < 2
 
-        completions = @searchText(3, prefix, completions, COUNTRY  , 'country'  , 'Countries')
+        completions = @searchText(3, prefix, completions, COUNTRY  , 'country' , 'Countries')
 
     completions.sort(@compareCompletions)
 

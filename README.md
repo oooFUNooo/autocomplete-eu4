@@ -4,7 +4,7 @@ This package autocompletes Europa Universalis IV specific keywords.
 
 You need also [language-eu4](https://github.com/oooFUNooo/language-eu4) package to use it.
 
-![Fig 1. Sample screenshot](https://neo-event-horizon.com/wp-content/uploads/2019/03/autocomplete-eu4.png)
+![Fig 1. Sample screenshot](https://neo-event-horizon.com/wp-content/uploads/2019/03/autocomplete-eu4-0-2-0.png)
 
 ## Features
 

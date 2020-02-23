@@ -77,7 +77,7 @@ module.exports =
     needle  = prefix.toLowerCase().replace('_', '').replace(' ', '')
 
     # Optimize request for unique Char string prefix
-    if needle.length = 1
+    if needle.length == 1
       # Only search from 1st Char
       regex = new RegExp('^' + needle)
     else

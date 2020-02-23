@@ -75,7 +75,13 @@ module.exports =
 
     bracket = atom.config.get('autocomplete-eu4.bracket')
     needle  = prefix.toLowerCase().replace('_', '').replace(' ', '')
-    regex   = new RegExp(needle)
+
+    # Optimize request for unique Char string prefix
+    if needle.length == 1
+      # Only search from 1st Char
+      regex = new RegExp('^' + needle)
+    else
+      regex = new RegExp(needle)
 
     for index, entry of dictionary
 
